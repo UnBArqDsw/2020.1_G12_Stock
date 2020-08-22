@@ -6,7 +6,7 @@ Esse repositório é para ser utilizado pelos grupos como um template inicial.
  
  (Apague essa seção)
 
-# NomedoProjeto
+# Stock
 
 **Número da Lista**: X<br>
 **Conteúdo da Disciplina**: XXXXXXXXXX<br>
@@ -14,8 +14,11 @@ Esse repositório é para ser utilizado pelos grupos como um template inicial.
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 15/0009917  |  Gabriel Alves Soares de Souza |
+| 17/0010341  |  Gabriel Davi Silva Pereira |
+| 17/0111288  |  Micaella Lorraine Gouveia de Lima |
+| 17/0114333  |  Sofia Costa Patrocínio |
+| 17/0062635  |  Pedro Igor Oliveira Silva |
 
 ## Sobre 
 Descreva o seu projeto em linhas gerais. 
