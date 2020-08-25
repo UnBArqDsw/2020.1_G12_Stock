@@ -1,7 +1,7 @@
 # Stock
 
 **Número da Lista**: 12<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Código da Disciplina**: FGA0208-T01<br>
 
 ## Alunos
 
