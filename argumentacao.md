@@ -34,3 +34,11 @@ O processo de escolha da aplicação se iniciou na primeira tentativa de início
 **i(p15)** Pedro Igor: A aplicação parece ser simples. Envolverá modelagem de banco de dados e alguns informações úteis para os usuários. O bom é que poderemos investir bastante nos artefatos.
 **i(p16)** Sofia: Podemos construir um dashboard com todas as informações relevantes sobre o fluxo de estoque para que o usuário consiga visualizar como tem ido o seu negócio.
 **i(p17)** Gabriel Davi: Podemos criar uma hierarquia em que somente alguns usuários de um grupo tem permissão para registrar produtos e outros tem permissão apenas para remover um produto ao efetuar uma venda.
+
+## Referências
+
+- JURETA, Ivan; MYLOPOULOS, John; FAULKNER, Stéphane. **Analysis of Multi-Party Agreement in Requirements Validation**, Proceedings of the 17th IEEE International Requirements Engineering Conference IEEE Computer Society, pp. 57-66, 2009.
+
+- CAVALCANTE, André C. A. **ACE-CAST**: Uma Ferramenta de Apoio à Argumentação Colaborativa. Orientador: Dr. Maurício Serrano. 2014. Trabalho de Conclusão de Curso (Bacharelado em Engenharia de Software) - Universidade de Brasília / Faculdade do Gama, Brasília, 2014.
+
+- Wiki PAX App - Grupo de Desenho de Software do semestre 2019/2 - <https://pax-app.github.io/Wiki/#/> Último acesso em 25/08/2020
