@@ -20,9 +20,11 @@
       <img src="./assets/img/members/Sofia.jpg" alt="member name">
       <p>Sofia Patrocínio<p>
     </div>
+    </div>
+    <div class="member line2">
     <div class="member">
       <img src="./assets/img/members/Micaella.jpg" alt="member name">
-      <p>Micaela Gouveia<p>
+      <p>Micaella Gouveia<p>
     </div>
     <div class="member">
       <img src="./assets/img/members/Pedro.jpg"alt="member name">
@@ -61,6 +63,8 @@
    display: flex;
    justify-content: center;
   }
+ 
+ 
  
 
  .member p{

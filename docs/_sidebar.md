@@ -1,6 +1,6 @@
 - [Home](/)
 - [Base](/)
-  - [- Pré-rastriabilidade](/)
+  - [Pré-rastriabilidade](/)
     - [- rich picture](/)
     - [- 5w2h](/)
   - [Elicitação](/)
