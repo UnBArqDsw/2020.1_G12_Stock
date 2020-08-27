@@ -1,10 +1,15 @@
 
 # Argumentação
+A argumentação tem por significado literal o ato ou efeito de argumentar, que por sua vez significa apresentar fatos, ideias, razões lógicas, provas etc. que comprovem uma afirmação. Segundo [Rahwan (2005)](#Referências), a argumentação tem como um dos pricipais objetivos levar os diversos pontos de vistas controversos a uma resolução consistente e racional.
+
+Com isso, abaixo mostramos os argumetos, que levaram o grupo a escolha do tema deste projeto.
+
 ## Histórico de Revisões
 
 |    Data    | Versão |         Descrição         |           Autor(es)            |
 | :--------: | :----: | :-----------------------: | :----------------------------: |
 | 25/08/2020 |  1.0   |  Criação do documento e adição da argumentação realizada antes da divisão do grupo. | Pedro Igor | 
+| 27/08/2020 |  1.1   |  Adicionando definição de Argumentação | Gabriel Alves |
 
 # Argumentação em torno da escolha da aplicação
 O processo de escolha da aplicação se iniciou na primeira tentativa de início do semestre, no mês de Março de 2020 que logo foi interrompido pela pandemia. No segundo "início de semestre" foram feitas outras reuniões de mudança de aplicação já que o grupo seria dvidido. Segue abaixo a argumentação desde o primeiro "início de semestre".
