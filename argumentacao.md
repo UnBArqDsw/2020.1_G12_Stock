@@ -10,6 +10,7 @@ Com isso, abaixo mostramos os argumetos, que levaram o grupo a escolha do tema d
 | :--------: | :----: | :-----------------------: | :----------------------------: |
 | 25/08/2020 |  1.0   |  Criação do documento e adição da argumentação realizada antes da divisão do grupo. | Pedro Igor | 
 | 27/08/2020 |  1.1   |  Adicionando definição de Argumentação | Gabriel Alves |
+| 27/08/2020 |  1.2   |  Adicionando diagrama ACE em aplicação de controle de estoque e atualizando Referências | Gabriel Alves |
 
 # Argumentação em torno da escolha da aplicação
 O processo de escolha da aplicação se iniciou na primeira tentativa de início do semestre, no mês de Março de 2020 que logo foi interrompido pela pandemia. No segundo "início de semestre" foram feitas outras reuniões de mudança de aplicação já que o grupo seria dvidido. Segue abaixo a argumentação desde o primeiro "início de semestre".
@@ -40,6 +41,8 @@ O processo de escolha da aplicação se iniciou na primeira tentativa de início
 **i(p16)** Sofia: Podemos construir um dashboard com todas as informações relevantes sobre o fluxo de estoque para que o usuário consiga visualizar como tem ido o seu negócio.
 **i(p17)** Gabriel Davi: Podemos criar uma hierarquia em que somente alguns usuários de um grupo tem permissão para registrar produtos e outros tem permissão apenas para remover um produto ao efetuar uma venda.
 
+![ACE, Aplicação de controle de estoque](https://user-images.githubusercontent.com/26935152/91451041-5db08300-e853-11ea-90e0-a4842769ad8c.png)
+
 ## Referências
 
 - JURETA, Ivan; MYLOPOULOS, John; FAULKNER, Stéphane. **Analysis of Multi-Party Agreement in Requirements Validation**, Proceedings of the 17th IEEE International Requirements Engineering Conference IEEE Computer Society, pp. 57-66, 2009.
@@ -47,3 +50,6 @@ O processo de escolha da aplicação se iniciou na primeira tentativa de início
 - CAVALCANTE, André C. A. **ACE-CAST**: Uma Ferramenta de Apoio à Argumentação Colaborativa. Orientador: Dr. Maurício Serrano. 2014. Trabalho de Conclusão de Curso (Bacharelado em Engenharia de Software) - Universidade de Brasília / Faculdade do Gama, Brasília, 2014.
 
 - Wiki PAX App - Grupo de Desenho de Software do semestre 2019/2 - <https://pax-app.github.io/Wiki/#/> Último acesso em 25/08/2020
+
+- RAHWAN, I. Guest editorial: Argumentation in multi-agent systems. Autonomous
+Agents and Multi-Agent Systems, Kluwer Academic Publishers, v. 11, n. 2, p. 115–125,2005. ISSN 1387-2532. Disponível em: <http://dx.doi.org/10.1007/s10458-005-3079-0>.
