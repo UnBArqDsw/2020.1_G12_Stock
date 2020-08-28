@@ -41,6 +41,10 @@ O processo de escolha da aplicação se iniciou na primeira tentativa de início
 **i(p16)** Sofia: Podemos construir um dashboard com todas as informações relevantes sobre o fluxo de estoque para que o usuário consiga visualizar como tem ido o seu negócio.
 **i(p17)** Gabriel Davi: Podemos criar uma hierarquia em que somente alguns usuários de um grupo tem permissão para registrar produtos e outros tem permissão apenas para remover um produto ao efetuar uma venda.
 
+### Votação:
+Dentre as opções: aplicativo de pagamentos, rede social de livros, aplicativo de agendamento de academias e aplicação de controle de estoque, a aplicação de controle de estoque foi escolhida para este subgrupo. Esta foi a forma de divisão do grande grupo formado no início da disciplina de forma presencial. Os integrantes que gostariam de fazer a aplicação escolhida formaram um grupo e os demais formaram o outro.
+![]()
+
 ![ACE, Aplicação de controle de estoque](https://user-images.githubusercontent.com/26935152/91451041-5db08300-e853-11ea-90e0-a4842769ad8c.png)
 
 ## Referências
