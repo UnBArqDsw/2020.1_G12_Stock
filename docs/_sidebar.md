@@ -3,6 +3,7 @@
   - Pré-Rastreabilidade
     - [Rich Picture](preTraceability/RichPicture.md)
     - [5W2H](preTraceability/5W2H.md)
+    - [Argumentação](preTraceability/Argumentacao.md)
   - Elicitação
     - [StoryBoard](Elicitation/StoryBoard.md)
     - [Mapa Mental](Elicitation/MapaMental.md)
