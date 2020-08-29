@@ -1,4 +1,12 @@
 <div class="home-container">
+<div class="index-container">
+    <a href="#/Index/sprintsIndex.md"><div class="index-item ">Sprints</div></a>
+    <a href="#/Index/baseIndex.md"><div class="index-item">Base</div></a>
+    <a href="#/Index/modelingIndex.md"><div class="index-item">Modelagem</div></a>
+    <a href="#/Index/architectureIndex.md"><div class="index-item">Padrões de projeto</div></a>
+    <a href="#/Index/projectPatternsIndex.md"><div class="index-item">Arquitetura e reutilização</div></a>
+   
+</div>
   <h2>Arquitetura e desenho de software</h2>
   <h3>Sobre o projeto</h3>
 
@@ -63,9 +71,6 @@
    display: flex;
    justify-content: center;
   }
- 
- 
- 
 
  .member p{
     position: absolute;
@@ -77,5 +82,29 @@
 
   h3 {
     font-weight: bold;
+  }
+  
+  .index-container  a {
+    color: #fff;
+    text-decoration: none;
+  }
+  .index-container a:hover {
+    text-decoration: none;
+    color: #fff;
+  }
+
+  .index-container {
+    display: flex; 
+    flex-direction: row;
+  }
+  .index-item {
+    cursor: pointer;
+    margin-right: 10px;
+    background-color: #0b7178;
+    padding: 7px;
+    transition: background-color .5s;
+  }
+  .index-item:hover {
+    background-color: #48b1b9;
   }
 </style>
