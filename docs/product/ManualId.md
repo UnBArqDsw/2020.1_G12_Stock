@@ -11,9 +11,3 @@
 ## Referências
 
 How to create a visual style guide for your brand - https://bit.ly/3lyAq42
-
-<style>
-    th, td {
-        font-family: Montserrat;
-    }
-</style>
