@@ -36,3 +36,7 @@ Dentro da discussão foi levantada a possibilidade de determinar a acesso a func
 
 </div>
 Obs: A hierarquia é incremental de forma que um papel superior tem todas as permissões inerentes ao seu papel e aos papeis inferiores.
+
+## Referências
+- WOEBCKEN, Cayo. O que é brainstorming e as 7 melhores técnicas para a tomada de decisões inteligentes. [S. l.], 10 jul. 2019. Disponível em:  <https://rockcontent.com/blog/brainstorming/>. Último acesso em: 31/08/2020.
+- Wiki PAX App - Grupo de Desenho de Software do semestre 2019/2 - Disponível em: <https://pax-app.github.io/Wiki/#/>. Último acesso em: 31/08/2020
