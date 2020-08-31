@@ -27,7 +27,6 @@
 |Número | Issue | Pontuação | Participantes|
 | - | - | - | - |
 | #5 | Brainstorming | Sem | Pedro |
-| #6 | Questionário | Sem | Pedro e Gabriel Alves |
 
 ## Observações
-1. Durante o desenvolvimento da Sprint 0, o time decidiu utilizar a técnica de  Design Sprint para a produção de alguns artefatos que já tinham sido definidos, como o Documento de Visão, Causa-Efeito e Plano de Análise de Risco/Custo/Tempo. Sendo assim, essas issues não se tornaram dívidas técnicas.
+1. Durante o desenvolvimento da Sprint 0, o time decidiu utilizar a técnica de  Design Sprint para a produção de alguns artefatos que já tinham sido definidos, como o Documento de Visão, Causa-Efeito, Questionário e Plano de Análise de Risco/Custo/Tempo. Sendo assim, essas issues não se tornaram dívidas técnicas.
