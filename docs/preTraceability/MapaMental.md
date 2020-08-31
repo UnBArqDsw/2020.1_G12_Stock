@@ -14,6 +14,7 @@ Para o projeto, cada membro do time fez seu mapa mental de tema livre.
 ## Mapas Mentais
 
 ### Gabriel Alves
+![Gabriel Alves](../assets/mapaMental/mapaMentalGabrielAlves.png)
 
 ### Gabriel Davi
 ![Gabriel Davi](../assets/mapaMental/mapaMentalGabrielDavi.png)
