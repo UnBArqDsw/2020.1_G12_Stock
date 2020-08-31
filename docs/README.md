@@ -64,18 +64,22 @@
    justify-content: center;
   }
  
- 
- 
-
  .member p{
     position: absolute;
     transform: translate(0, 70px);
     z-index: 2;
     color: #fff;
     font-weight: bold;
+    font-family: Montserrat;
+  }
+
+  h2, p {
+    font-family: Montserrat !important;
+    font-weight: 500;
   }
 
   h3 {
+    font-family: Montserrat !important;
     font-weight: bold;
   }
 </style>
