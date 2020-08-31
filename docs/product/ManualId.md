@@ -8,6 +8,10 @@
 
 <embed src="../assets/Manual_Id.pdf" width="800px" height="500px" />
 
+## Referências
+
+How to create a visual style guide for your brand - https://bit.ly/3lyAq42
+
 <style>
     th, td {
         font-family: Montserrat;
