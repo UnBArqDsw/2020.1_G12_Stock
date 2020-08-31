@@ -13,6 +13,7 @@
     - [StoryBoard](Elicitation/StoryBoard.md)
     - [Mapa Mental](Elicitation/MapaMental.md)
     - [Entrevista](Elicitation/Entrevista.md)
+    - [Brainstorming](Elicitation/Brainstorming.md)
 - **Modelagem**
   - [Análise](Modeling/Analise.md)
   - [Metodologias](Modeling/Metodologias.md)

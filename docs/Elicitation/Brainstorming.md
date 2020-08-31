@@ -1,6 +1,6 @@
 # Brainstorming
 
-Brainstorming é uma técnica que se aproveita de um grande fluxo de ideias sendo discutidas para que se encontre soluções criativas. A técnica, quando aplicada em grupo, permite que, no momento em que um componente do grupo expõe uma ideia, esta possa ser complementada ou até mesmo substituída por outra que seja mais viável. É utilizado o princípio de que duas cabeças pensam melhor do que uma.
+Brainstorming é uma técnica que se aproveita de um grande fluxo de ideias sendo discutidas para que se encontre soluções criativas. A técnica, quando aplicada em grupo, permite que no momento em que um componente do grupo expõe uma ideia, esta possa ser complementada ou até mesmo substituída por outra que seja mais viável. É utilizado o princípio de que duas cabeças pensam melhor do que uma.
 
 ## Histórico de Revisões
 |    Data    | Versão |         Descrição         |           Autor(es)            |
@@ -12,11 +12,11 @@ A técnica de brainstorming foi aplicada na primeira reunião em grupo. O foco d
 ### Elicitação de ideias
 |Funcionalidade|Observação|
 |:------------:|:--------:|  
-| Gerar planilha | Permitir que o usuário possa analisar o estoque exportando um docuemnto no formato de uma planilha excel. |
+| Gerar planilha | Permitir que o usuário possa analisar o estoque exportando um documento no formato de uma planilha excel. |
 | Cadastrar produtos por planilhas | Permitir que usuários possam realizar cadastro em lote importando uma planilha excel.|
 | Consulta de estoque | Visualizar a quantidade disponível de determinado produto. |
 | Adição de itens ao estoque | Cadastrar um novo item com suas informações (descrição, nome, preço). |
-| Remoção de itens ao estoque. | Dar baixa em produto que foi vendido ou não se encontra mais disponível. |
+| Remoção de itens ao estoque. | Dar baixa em um produto que foi vendido ou não se encontra mais disponível. |
 | Adicionar hierarquias(níveis) de acesso | Dar diferentes permissões para diferentes tipos de usuário dentro de um mesmo negócio (admin, owner, seller). |
 | Login | Um usuário logar com sua conta independentemente da hierarquia. |
 | Histórico de vendas | Gerar um histórico do que foi removido do estoque, quem removeu e quando, etc.. |
@@ -25,7 +25,7 @@ A técnica de brainstorming foi aplicada na primeira reunião em grupo. O foco d
 | Filtro por categoria | Usuários podem procurar por um produto por meio de sua categoria. |
 
 ### Funcionalidades por hierarquia
-Dentro da discussão foi levantada a possibilidade de determinar a acesso a funcionalidades diferentes a depender do nível dentro da hierarquia.
+Dentro da discussão foi levantada a possibilidade de determinar o acesso a funcionalidades diferentes a depender do nível dentro da hierarquia.
 <div>
 
 | Papel | Permissões |
