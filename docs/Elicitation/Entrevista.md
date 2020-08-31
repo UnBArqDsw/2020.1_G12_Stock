@@ -18,7 +18,7 @@ A entrevista foi realizada com Ivante Bezerra de 49 anos, que atualmente possui 
 
 ### 2. Qual o nome de seu negócio e como ele funciona?
 
-“O nome da minha empresa é bonavita, é uma empresa de produtos naturais. Nós somos atacado e varejo, vendemos ‘saúde’ (slogan da empresa) . A gente capta cliente nas redes de relacionamento e por vista presencial em estabelecimentos que vendem nossos produtos.
+“O nome da minha empresa é bonavita, é uma empresa de produtos naturais. Nós somos atacado e varejo, vendemos ‘saúde’ (slogan da empresa) . A gente capta cliente nas redes de relacionamento e por visita presencial em estabelecimentos que vendem nossos produtos.
 
 ### 3. Você possui quantos funcionários ou pessoas envolvidas nesse negócio?
 
