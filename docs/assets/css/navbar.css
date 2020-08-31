@@ -1,0 +1,27 @@
+.app-nav {
+    color: #BDBDBD;
+}
+
+.github-corner {
+    display: none;
+}
+
+.app-nav ul li a {
+    padding: .4rem .8rem;
+    letter-spacing: .5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    transition: all .25s;
+    /* background-color: #ac1c1c; */
+    border: 1.2px solid #BDBDBD;
+    border-radius: .2rem;
+    font-family: Montserrat;
+    font-weight: 600;
+}
+
+.app-nav ul li a:hover,
+.app-nav ul li a.active {
+    background-color: rgba(230, 44, 56, 0.8);
+    color: white;
+}
