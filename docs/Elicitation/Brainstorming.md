@@ -2,6 +2,11 @@
 
 Brainstorming é uma técnica que se aproveita de um grande fluxo de ideias sendo discutidas para que se encontre soluções criativas. A técnica, quando aplicada em grupo, permite que, no momento em que um componente do grupo expõe uma ideia, esta possa ser complementada ou até mesmo substituída por outra que seja mais viável. É utilizado o princípio de que duas cabeças pensam melhor do que uma.
 
+## Histórico de Revisões
+|    Data    | Versão |         Descrição         |           Autor(es)            |
+| :--------: | :----: | :-----------------------: | :----------------------------: |
+| 31/08/2020 |  1.0   |  Criação do documento baseado na gravação da reunião. | Pedro Igor | 
+
 ## Metodologia
 A técnica de brainstorming foi aplicada na primeira reunião em grupo. O foco da discussão foi determinar o escopo do projeto. A reunião foi gravada e posteriormente acompanhada anotando o fluxo de ideias discutido. Algumas ideias semelhantes ou complementares foram diluídas em uma única ideia.
 ### Elicitação de ideias
