@@ -1,4 +1,3 @@
-<div class="home-container">
   <h2>Arquitetura e desenho de software</h2>
   <h3>Sobre o projeto</h3>
 
@@ -64,18 +63,22 @@
    justify-content: center;
   }
  
- 
- 
-
  .member p{
     position: absolute;
     transform: translate(0, 70px);
     z-index: 2;
     color: #fff;
     font-weight: bold;
+    font-family: Montserrat;
+  }
+
+  h2, p {
+    font-family: Montserrat !important;
+    font-weight: 500;
   }
 
   h3 {
+    font-family: Montserrat !important;
     font-weight: bold;
   }
 </style>
