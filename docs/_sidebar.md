@@ -1,12 +1,15 @@
 - [Home](/)
+- Projeto
+  - [Metodologias](Project/Metodologias.md)
+  - [Sprints](Index/sprintsIndex.md)
 - Base
   - **Pré-Rastreabilidade**
     - [Rich Picture](preTraceability/RichPicture.md)
     - [5W2H](preTraceability/5W2H.md)
     - [Mapa Mental](preTraceability/MapaMental.md)
+    - [Argumentação](preTraceability/Argumentacao.md)
   - **Elicitação**
     - [StoryBoard](Elicitation/StoryBoard.md)
     - [Entrevista](Elicitation/Entrevista.md)
   - **Modelagem**
     - [Análise](Modeling/Analise.md)
-    - [Metodologias](Modeling/Metodologias.md)
