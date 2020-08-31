@@ -4,9 +4,9 @@ O storyboard é uma sequência de desenhos quadro a quadro com o esboço das div
 
 ## Histórico de Revisões
 
-|    Data    | Versão |                       Descrição                        |  Autor(es)   |
-| :--------: | :----: | :----------------------------------------------------: | :----------: |
-| 30/08/2020 |  1.0   | Criação do documento e adição dos stroyboards criandos | Gabriel Davi |
+|    Data    | Versão |                       Descrição                       |  Autor(es)   |
+| :--------: | :----: | :---------------------------------------------------: | :----------: |
+| 30/08/2020 |  1.0   | Criação do documento e adição dos stroyboards criados | Gabriel Davi |
 
 ### Atualizar o estoque em qualquer lugar
 
