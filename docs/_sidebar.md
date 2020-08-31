@@ -1,4 +1,7 @@
 - [Home](/)
+- Projeto
+  - [Metodologias](Project/Metodologias.md)
+  - [Sprints](Index/sprintsIndex.md)
 - Base
   - **Pré-Rastreabilidade**
     - [Rich Picture](preTraceability/RichPicture.md)
@@ -9,4 +12,3 @@
     - [Entrevista](Elicitation/Entrevista.md)
   - **Modelagem**
     - [Análise](Modeling/Analise.md)
-    - [Metodologias](Modeling/Metodologias.md)

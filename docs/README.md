@@ -1,4 +1,3 @@
-<div class="home-container">
   <h2>Arquitetura e desenho de software</h2>
   <h3>Sobre o projeto</h3>
 
@@ -63,9 +62,6 @@
    display: flex;
    justify-content: center;
   }
- 
- 
- 
 
  .member p{
     position: absolute;
