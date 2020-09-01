@@ -1,1 +1,0 @@
-# Resultado Sprint 1
