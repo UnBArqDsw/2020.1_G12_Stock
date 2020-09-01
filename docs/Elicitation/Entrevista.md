@@ -14,11 +14,11 @@ A entrevista foi realizada com Ivanete Bezerra de 49 anos, que atualmente possui
 
 ### 1. Há quanto tempo você está nesse mundo dos negócios?
 
-“Aproximadamente 3 meses”.
+“Aproximadamente 3 meses."
 
 ### 2. Qual o nome de seu negócio e como ele funciona?
 
-“O nome da minha empresa é bonavita, é uma empresa de produtos naturais. Nós somos atacado e varejo, vendemos ‘saúde’ (slogan da empresa) . A gente capta cliente nas redes de relacionamento e por visita presencial em estabelecimentos que vendem nossos produtos.
+“O nome da minha empresa é bonavita, é uma empresa de produtos naturais. Nós somos atacado e varejo, vendemos ‘saúde’ (slogan da empresa) . A gente capta cliente nas redes de relacionamento e por visita presencial em estabelecimentos que vendem nossos produtos."
 
 ### 3. Você possui quantos funcionários ou pessoas envolvidas nesse negócio?
 
@@ -70,7 +70,7 @@ A entrevista foi realizada com Ivanete Bezerra de 49 anos, que atualmente possui
 
 ### 15. Em quais processos hoje em sua empresa você acha que daria para envolver tecnologia?
 
-“Nossa, praticamente tudo. Controle de estoque, controle de venda, cálculo matemático de lucro, cotação de mercadoria, emissão de pedido para cliente.”
+“Nossa, praticamente tudo. Controle de estoque, controle de venda, cálculo da minha margem de lucro, cotação de mercadoria, emissão de pedido para cliente.”
 
 ## Gravação
 
