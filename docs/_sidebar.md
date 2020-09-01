@@ -13,6 +13,7 @@
   - **Elicitação**
     - [StoryBoard](Elicitation/StoryBoard.md)
     - [Entrevista](Elicitation/Entrevista.md)
+    - [Brainstorming](Elicitation/Brainstorming.md)
 - **Modelagem**
   - [Análise](Modeling/Analise.md)
 
