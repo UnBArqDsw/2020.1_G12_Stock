@@ -34,8 +34,9 @@ Dentro da discussão foi levantada a possibilidade de determinar o acesso a func
 | Admin  | * Adicionar produtos ao estoque.<br> * Gerar planilhas.<br> * Criar acesso Seller.|
 | Seller | * Dar baixa no estoque.|
 
-</div>
 Obs: A hierarquia é incremental de forma que um papel superior tem todas as permissões inerentes ao seu papel e aos papeis inferiores.
+</div>
+
 
 ## Referências
 - WOEBCKEN, Cayo. O que é brainstorming e as 7 melhores técnicas para a tomada de decisões inteligentes. [S. l.], 10 jul. 2019. Disponível em:  <https://rockcontent.com/blog/brainstorming/>. Último acesso em: 31/08/2020.
