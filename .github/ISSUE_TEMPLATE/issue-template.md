@@ -1,3 +1,12 @@
+---
+name: Issue template
+about: Template a ser seguido para criação de issues no projeto
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ## Descrição
 Descrever a issue de forma objetiva.
 
