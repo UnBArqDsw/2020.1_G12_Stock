@@ -16,5 +16,4 @@
     - [Brainstorming](Elicitation/Brainstorming.md)
 - **Modelagem**
   - [Análise](Modeling/Analise.md)
-  - [Metodologias](Modeling/Metodologias.md)
 
