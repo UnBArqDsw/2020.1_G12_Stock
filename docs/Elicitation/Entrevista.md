@@ -75,5 +75,5 @@ A entrevista foi realizada com Ivanete Bezerra de 49 anos, que atualmente possui
 ## Gravação
 
 <audio controls>
-  <source src="../assets/audios/interview/entrevistaIvanete.m4a" type="audio/mpeg">
+  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/interview/entrevistaIvanete.m4a" type="audio/mpeg">
 </audio>
