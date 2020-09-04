@@ -8,4 +8,5 @@
     - [Mapa Mental](../Elicitation/MapaMental.md)
     - [Entrevista](../Elicitation/Entrevista.md)
     - [Brainstorming](../Elicitation/Brainstorming.md)
+    - [Questionário](../Elicitation/Questionario.md)
 
