@@ -15,6 +15,7 @@
 ## Relato da Mediadora
 Na fase de Entender, foi definido como seriam feitas todas as fases com mais detalhamento. Todos os membros iriam elicitaram os principais riscos do projeto por meio de um bate papo. A fase de Esboçar foi destinada para cada membro escrever os riscos e avaliar sua probabilidade e impacto no projeto e produto. A fase de Decidir foi destinada a escolha dos riscos, tendo como base todos os riscos levantados por todos os membros na fase anterior, além da definição de sua probabilidade e impacto. A fase de Prototipar ficou destinada para a documentação desses riscos escolhidos feito pela mediadora, além da definição das ações que deveriam ser tomadas para cada risco. No final, eu fiquei responsável em criar o documento e colocar todos os riscos elicitados com todos os tabelamentos preenchidos.
 
+### Documentação produzida: [Plano de Análise de Riscos](preTraceability/planAnaliseRiscos.md)
 ## Gravações
 
 ## Documentos Produzidos
