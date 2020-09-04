@@ -2,17 +2,30 @@
 O questionário é um método de elicitação de requisitos onde, por meio de perguntas estratégicas, é possível compreender melhor como o público de interesse reage a determinado assunto. Além disso, o questionário permite retirar características chave sobre um domínio quantificando o percentual de pessoas, do público, que se aplicam a determinada característica.<br><br>
 As perguntas a seguir foram elaboradas em um dos dias de Design Sprint realizado pelo grupo. As perguntas foram escritas a princípio, individualmente por cada um dos membros do grupo, e discutidas em conjunto logo em seguida, planejando a melhor estratégia. Após o entendimento da finalidade do questionário para o projeto, foi feita a etapa de desenho, em que membro sugeriu perguntas relevantes. Em seguida, discussão em grupo onde foram decididas as melhores perguntas e traçado um objetivo, protototipação, gerando a presente documentação, e teste, enviando o Formulário em grupos específicos.
 
+<<<<<<< HEAD
 ## Histórico de Revisões
 |    Data    | Versão |         Descrição         |           Autor(es)            |
 | :--------: | :----: | :-----------------------: | :----------------------------: |
 | 04/09/2020 |  1.0   | Adicionado questionário definido em grupo. | Gabriel Alves, Gabriel Davi, Micaella, Pedro Igor e Sofia |
 | 04/09/2020 |  1.1   | Formatação do questionário, tabela de versões, referências, criação do formulário e explicação breve da metodologia. | Pedro Igor | 
+=======
+
+## Histórico de Revisões
+|    Data    | Versão |         Descrição         |           Autor(es)            |
+| :--------: | :----: | :-----------------------: | :----------------------------: |
+| 04/09/2020 |  1.0   | Adicionado questionário definido em grupo. | Todos |
+| 04/09/2020 |  1.1   | Formatação do questionário, tabela de versões e explicação breve da metodologia. | Pedro Igor | 
+>>>>>>> 6a72bbd... #6 Add versions table
 ## Protótipo
 
 **1** - Você trabalha com vendas ou negócios?<br>
 (&nbsp;&nbsp;)Sim&nbsp;&nbsp;&nbsp;(&nbsp;&nbsp;)Não<br><br>
 
+<<<<<<< HEAD
 **2** - A empresa a qual trabalha envolve estoque de produtos?<br>
+=======
+**2** - Seu negócio envolve estoque de produtos?<br>
+>>>>>>> 6a72bbd... #6 Add versions table
 (&nbsp;&nbsp;)Sim&nbsp;&nbsp;&nbsp;(&nbsp;&nbsp;)Não<br><br>
 
 **Caso Não:** Finaliza o questionário.<br>
@@ -27,12 +40,20 @@ As perguntas a seguir foram elaboradas em um dos dias de Design Sprint realizado
 (&nbsp;&nbsp;) entre 51 e 60<br>
 (&nbsp;&nbsp;) 61 ou mais<br><br>
 
+<<<<<<< HEAD
 **4** - Qual a sua afinidade com a tecnologia? Sendo 10 = Tenho muita afinidade com tecnologia e 1 = Não consigo utilizar tecnologia alguma.<br>
+=======
+**4** - Qual a sua afinidade com a tecnologia? Sendo 10 = Tenho muita afinidade com tecnologia e 1 = Não consigo utilizar tecnologia no meu dia a dia.<br>
+>>>>>>> 6a72bbd... #6 Add versions table
 Range de 1 a 10<br><br>
 
 *Perfil da empresa:*<br><br>
 
+<<<<<<< HEAD
 **5** - Qual é o ramo de negócio da empresa a qual trabalha?<br>
+=======
+**5** - Qual o ramo de trabalho da empresa que trabalha?<br>
+>>>>>>> 6a72bbd... #6 Add versions table
 (&nbsp;&nbsp;) Alimentício<br>
 (&nbsp;&nbsp;) Vestimenta<br>
 (&nbsp;&nbsp;) Farmácia<br>
