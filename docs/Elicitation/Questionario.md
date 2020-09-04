@@ -1,67 +1,67 @@
 # Questionário
 
 ## Protótipo
-Questionário final:
 
-Você trabalha com vendas ou negócios? Sim, Não
-Seu negócio envolve estoque de produto? Sim, Não
-
-Caso Não: Finaliza
-Caso Sim:
-    Perfil pessoal:
-    Qual a sua faixa etária?
-    - 20, 30
-    - 30, 40
-    - 40, 50
-    - 50, 60
-    - 60 ou mais
-    Qual a sua afinidade com a tecnologia? 1 a 10
-    Perfil da empresa:
-    Qual o Ramo?
-    Alimenticio
-    Vestimenta
-    Farmácia
-    Eletrônica
-    Outros
-    Quantos funcionários?
-    - só eu
-    - 2 a 5
-    - 6 a 10
-    - 11 a 30
-    - 31 ou mais
-
-    Quais os outros cargos dessa empresa?
-    Administrador(gerente)
-    Tesoureiro
-    Vendedor
-    Outros
-
-    Definições do estoque:
-
-    Qual a frequência de reposição de estoque?
-    Diariamente
-    Semanalmente
-    Mensalmente
-    Indefinido
-
-    Qual a quantidade de produtos que saem (um palpite)?
-    - 1 a 50
-    - 51 a 100
-    - 101 a 200
-    - 201 ou mais
-    - Não tenho essa informação
-
-    É possível categorizar os produtos da sua empresa?
-    Sim ou Não
-
-    Aplicação:
-    Você trabalha com produtos perecíveis? Sim ou Não
-    Você já teve prejuízo por não controlar o estoque corretamente? (Produto passar da data de validade, produto não encontrado no estoque)
-
-    Você utiliza ou já utilizou alguma ferramenta de controle de estoque?
-    Planilhas Online
-    Controle manual(planilha offline)
-    Programa/Aplicativo
-    Não utilizo.
-
-    Quais problemas você já encontrou ao fazer controle de estoque? (opcional)
+1 - Você trabalha com vendas ou negócios?<br>
+(&nbsp;&nbsp;)Sim&nbsp;&nbsp;&nbsp;(&nbsp;&nbsp;)Não<br><br>
+2 - Seu negócio envolve estoque de produtos?<br>
+(&nbsp;&nbsp;)Sim&nbsp;&nbsp;&nbsp;(&nbsp;&nbsp;)Não<br><br>
+**Caso Não:** Finaliza o questionário.<br>
+**Caso Sim:**<br><br>
+*Perfil pessoal:*<br><br>
+3 - Qual a sua faixa etária?<br>
+(&nbsp;&nbsp;) entre 20 e 30<br>
+(&nbsp;&nbsp;) entre 31 e 40<br>
+(&nbsp;&nbsp;) entre 41, 50<br>
+(&nbsp;&nbsp;) entre 51, 60<br>
+(&nbsp;&nbsp;) 61 ou mais<br><br>
+4 - Qual a sua afinidade com a tecnologia? Sendo 10 = Tenho muita afinidade com tecnologia e 1 = Não consigo utilizar tecnologia no meu dia a dia<br>
+Range de 1 a 10<br><br>
+*Perfil da empresa:*<br><br>
+5 - Qual o Ramo de trabalho da empresa que trabalha?<br>
+(&nbsp;&nbsp;) Alimentício<br>
+(&nbsp;&nbsp;) Vestimenta<br>
+(&nbsp;&nbsp;) Farmácia<br>
+(&nbsp;&nbsp;) Eletrônica<br>
+(&nbsp;&nbsp;) Outros<br><br>
+6 - Quantos pessoas trabalham nesta empresa (contando com donos e sócios)?<br>
+(&nbsp;&nbsp;) só eu<br>
+(&nbsp;&nbsp;) 2 a 5<br>
+(&nbsp;&nbsp;) 6 a 10<br>
+(&nbsp;&nbsp;) 11 a 30<br>
+(&nbsp;&nbsp;) 31 ou mais<br><br>
+7 - Quais os outros cargos dessa empresa?(Marque todos os aplicáveis)<br>
+(&nbsp;&nbsp;) Administrador(gerente)<br>
+(&nbsp;&nbsp;) Tesoureiro<br>
+(&nbsp;&nbsp;) Vendedor<br>
+(&nbsp;&nbsp;) Outros<br>
+(&nbsp;&nbsp;) Nenhuma das anteriores<br><br>
+*Definições do estoque:*<br><br>
+8 - Qual a frequência de reposição de estoque?<br>
+(&nbsp;&nbsp;) Diariamente<br>
+(&nbsp;&nbsp;) Semanalmente<br>
+(&nbsp;&nbsp;) Mensalmente<br>
+(&nbsp;&nbsp;) Indefinido<br><br>
+9 - Qual a quantidade de produtos que saem do estoque diariamente (aproximadamente)?<br>
+(&nbsp;&nbsp;) 1 a 50<br>
+(&nbsp;&nbsp;) )51 a 100<br>
+(&nbsp;&nbsp;) 101 a 200<br>
+(&nbsp;&nbsp;) 201 ou mais<br>
+(&nbsp;&nbsp;) Não tenho essa informação<br><br>
+10 - É possível categorizar cada produto da sua empresa?<br>
+(&nbsp;&nbsp;) Sim<br> 
+(&nbsp;&nbsp;) Não<br><br>
+*Aplicação:*<br><br>
+11 - Você trabalha com produtos perecíveis? <br>
+(&nbsp;&nbsp;) Sim<br>
+(&nbsp;&nbsp;) Não<br><br>
+12 - Você já teve prejuízo por não controlar o estoque corretamente? (Produto passar da data de validade, produto não encontrado no estoque)<br>
+(&nbsp;&nbsp;) Sim<br>
+(&nbsp;&nbsp;) Não<br><br>
+13 - Você utiliza ou já utilizou alguma ferramenta de controle de estoque (marque todas as aplicáveis)?<br>
+(&nbsp;&nbsp;) Planilhas Online<br>
+(&nbsp;&nbsp;) Controle manual(planilha excel no computador)<br>
+(&nbsp;&nbsp;) Programa/Aplicativo<br>
+(&nbsp;&nbsp;) Nunca utilizei.<br><br>
+14 - Quais problemas você já encontrou ao fazer controle de estoque? (opcional)<br>
+[Caixa de Texto]<br>
