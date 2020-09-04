@@ -1,4 +1,5 @@
-# CONTROLE DE RISCOS
+# Plano de Análise de Riscos
+**Este artefato foi produzido durante a Design Sprint, para saber mais sobre a metodologia e como ela foi feita, clique aqui: *[Design Sprint](preTraceability/DesignSprint.md)***
 
 ## Histórico de Revisão
 | Data | Versão | Descrição | Autor(es) |
@@ -6,6 +7,7 @@
 | 03/09/2020| 1.0|Criação do documento e elicitação dos riscos, probabilidades, impactos e ações| Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio
 | 03/09/2020| 1.1| Adição da estrutura analítica de riscos| Sofia Patrocínio|
 | 03/09/2020| 1.2 | Adição das tabelas por tópicos, criação da tabela de análise | Micaella Gouveia |
+| 04/09/2020| 1.3 | Adição de hyperlink para página de design sprint | Micaella Gouveia |
 
 ## Introdução
 
