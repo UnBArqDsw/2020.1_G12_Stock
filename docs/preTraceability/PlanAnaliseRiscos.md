@@ -23,7 +23,7 @@ O objetivo deste documento é explicitar como aconteceu o plano de análise de r
 #### Gerência de projeto
 - **Planejamento**: São riscos relacionados a erros de planejamento, como tarefas grandes em períodos curtos.
 - **Estimativa**: São erros que dizem respeito a erros de estimativa, como por exemplo erros de pontuação de histórias de usuário.
-- **Controle**: São riscos referentes a falta de ação sobre riscos identificados.
+- **Controle**: São riscos referentes à falta de ação sobre riscos identificados.
 
 #### Organizacional
 - **Recursos Humanos**: Corresponde aos riscos relacionados aos recursos humanos, bem como o comprometimento da equipe de desenvolvimento e falta de comunicação entre as partes envolvidas.
@@ -169,7 +169,7 @@ Sendo que:
         <tr class="risco baixo" style="background:#FFFF66">
             <th>2</th>
             <td>38</td>
-            <td>Atualizações drásticas das tecnologias escolhidasS</td>
+            <td>Atualizações drásticas das tecnologias escolhidas</td>
             <td>Aceitar</td>
             <td>Se necessário, adaptar-se à nova atualização</td>
         </tr>
@@ -423,7 +423,7 @@ Sendo que:
 
 ## Análise
 
-* Com a definição de todos os riscos, percebemos que esse semestre é muito atípico, e questões que não temos controle podem acontecer, gerando a interrupçãoo do projeto. 
+* Com a definição de todos os riscos, percebemos que esse semestre é muito atípico, e questões que não temos controle podem acontecer, gerando a interrupção do projeto. 
 * Riscos gerenciais e de infraestrutura são muito relevantes, devido à falta de experiência do time.
 * Riscos de entrosamento e motivação da equipe aparenta ser o menor dos problemas, pois todos se vêem motivados e capacitados de fazer a matéria da melhor forma possível.
 
