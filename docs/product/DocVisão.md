@@ -6,6 +6,7 @@
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
 |02/09/2020| 1.0 | Criação do documento. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor e Sofia Patrocínio | 
+|03/09/2020| 1.1 | Adição do documento na wiki. | Sofia Patrocínio | 
 
 
 ## 1. Introdução
@@ -29,6 +30,7 @@ Em relação ao planejamento de produto, mas não como escopo do projeto temos f
 | Abreviação | Definição |
 |--|--|
 | MIT | Licença de software livre criada pelo Massachusetts Institute of Technology |
+| PWA | Progressive Web App |
 
 ### 1.4 Referências
 
@@ -48,30 +50,30 @@ Com isso, o Stock busca a viabilização de uso tecnológico para esses negócio
 ### 2.2 Declaração do Problema
 | O problema da | afeta | cujo impacto é | uma boa solução seria | 
 | ------------- | ----- | -------------- | --------------------- | 
-| Dificuldade de pequenos empreendedores em controlar seus próprios estoques e também de mensurar analiticamente o crescimento/recessão de seu negócio de forma manual. | Pequenos empreendedores. | Prejuízos consideráveis ao desenvolvimento do empreendimento além de prejuízos monetários  | Uma aplicação que forneça o controle de estoque de forma eficiente e consistente, acessível, prática e confiável.
+| Dificuldade de pequenos empreendedores em controlar seus próprios estoques e também de mensurar analiticamente o crescimento/recessão de seu negócio de forma manual | Pequenos empreendedores | Prejuízos consideráveis ao desenvolvimento do empreendimento além de prejuízos monetários  | Uma aplicação que forneça o controle de estoque de forma eficiente e consistente, acessível, prática e confiável
 
 
 ### 2.3 Declaração da Posição do Produto
 | Para | Que | O Stock | Que | Diferente de | Nosso produto | 
 | ---- | --- | ------ | --- | ------------ | ------------- |
-| Administradores de estoque de pequenas empresas  | Que possuem dificuldade em realizar controle de estoque. | É uma aplicação | Faz controle e gerenciamento de estoque e venda | Planilhas complexas que não apresentam funções necessárias e aplicações com preços exorbitantes | Possui preço e interface acessíveis
+| Administradores de estoque de pequenas empresas  | Que possuem dificuldade em realizar controle de estoque | É uma aplicação | Faz controle e gerenciamento de estoque e venda | Planilhas complexas que não apresentam funções necessárias e aplicações com preços exorbitantes | Possui preço e interface acessíveis
 
 
 ## 3. Descrições da Parte Interessada e do Usuário
 ### 3.1 Resumo da parte interessada
 | Nome | Descrição | Responsabilidade |
 | ---- | --------- | ---------------- |
-|    Equipe de desenvolvimento e engenharia do produto   | Graduandos em Engenharia de Software, cursando a disciplina Arquitetura e Desenho de Software, pela Universidade de Brasília.          |  Desenvolver o software no período estipulado, bem como testá-lo e implementá-lo e garantir a aplicação do ágil e viabilidade do projeto       |
+|    Equipe de desenvolvimento e engenharia do produto   | Graduandos em Engenharia de Software, cursando a disciplina Arquitetura e Desenho de Software, pela Universidade de Brasília   |  Desenvolver o software no período estipulado, bem como testá-lo e implementá-lo e garantir a aplicação do ágil e viabilidade do projeto       |
 | Milene Serrano | Professora da Universidade de Brasília, do curso de Engenharia de Software. | Orientar, acompanhar e avaliar o projeto |
 
 ### 3.2 Resumo do Usuário
 | Nome | Descrição | Responsabilidades |
 |----- | --------- | ----------------- |
-| Pequenos Comerciantes | Que possuem dificuldade em realizar controle de estoque. | Utilizar a aplicação Stock através do acesso pelo navegador ou pwa. |
+| Pequenos Comerciantes | Que possuem dificuldade em realizar controle de estoque. | Utilizar a aplicação Stock através do acesso pelo navegador ou PWA |
 
 
 ### 3.3 Ambiente do Usuário
-
+O Stock poderá ser acessado através de um navegador ou PWA e é necessário conexão com internet.
 
 ### 3.4 Perfis das partes interessadas
 #### 3.4.1 Equipe de Desenvolvimento
@@ -81,15 +83,15 @@ Com isso, o Stock busca a viabilização de uso tecnológico para esses negócio
 
 
 #### 3.4.2 Professora
-| Representantes | Descrição | Tipo | Responsabilidade | Critério de sucesso | Envolvimento |
+| Representante | Descrição | Tipo | Responsabilidade | Critério de sucesso | Envolvimento |
 | -------------- | --------- | ---- | ---------------- | ------------------- | ------------ |
-| |  |  |  | |  |
+| Milene Serrano | Professora da Universidade de Brasília, do curso de Engenharia de Software | Professora | Orientar, acompanhar e avaliar o processo de desenvolvimento | Avaliar o produto em sua completude | Médio |
 
 
 ### 3.5 Perfis de Usuário
 | Representantes | Descrição | Tipo | Responsabilidade | Critério de sucesso | Envolvimento |
 | -------------- | --------- | ---- | ---------------- | ------------------- | ------------ |
-|  |  |  |   |  |
+| Pequenos Comerciantes | Pessoa interessada realizar controle de estoque | Usuário | Utilizar o Stock nas plataformas disponíveis  | Controlar de forma prática o estoque e vendas |  Alto
 
 
 ### 3.6 Necessidades Principais do Investidor ou Usuário
@@ -116,30 +118,28 @@ O software será um aplicação web e mobile, com informações sobre estoque e 
 
 
 ## 5. Recursos do Produto
-### 5.1 Plataforma de comunicação em linguagem natural.
-### 5.2 Permitir o usuário escolher/cadastrar um local e data para obter informações sobre o tempo.
-### 5.3 Enviar notificações com informações do tempo para o usuário nos dias cadastrados.
-### 5.4 Fornecer informações sobre o tempo e localização, tais como:
-
-
-### 5.5 Sugerir ao usuário esportes viáveis para se praticar no local desejado levando em consideração sua situação climática.
+### 5.1 Criar, atualizar, listar por categorias e remover estoque.
+### 5.2 Geração, Importação e Exportação de planilhas de consulta de estoque.
+### 5.3 Geração de gráficos de estoque e vendas.
+### 5.4 Notificação de prazo de validade dos produtos
+### 5.5 Personalização de acesso baseado em papéis do negócio
 
 ## 6. Restrições do Produto
 ### 6.1 Restrições de implementação
-
+As tecnologias utilizadas serão definidas de acordo com a arquitetura.
 
 ### 6.2 Restrições externas
-
+A falta de contato com as tecnologia, imprevistos com infraestrutura no home office e o agravamento da pandemia podem se tornar grandes riscos para o desenvolvimento do produto.
 
 ### 6.3 Restrições de Design
-
+O sistema deve ser feito em uma interface de fácil usabilidade, tornando-o intuitivo e fácil de usar para o usuário.
 
 ### 6.4  Restrições de Uso
-
+Para utilizar o Stock, o usuário deverá ter uma conexão com a internet.
 
 ### 6.5  Restrições de Confiabilidade
-
+O sistema terá cobertura de testes de usabilidade e testes unitários.
 
 ## 7. Faixas de Qualidade
-
+A interação do usuário com o software deve ocorrer de forma fácil, com pouca ou nenhuma necessidade de tutorial. Deve ser fácil entender como usar todos os recursos do Stock apenas interagindo com ele. O software oferecerá consistência e confiabilidade.
 
