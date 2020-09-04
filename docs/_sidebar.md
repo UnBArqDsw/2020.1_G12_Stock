@@ -5,7 +5,9 @@
   - [Metodologias](Project/Metodologias.md)
   - [Sprints](Index/sprintsIndex.md)
 - **Base**
-- [**Design Sprint**](DesignSprint/DesignSprint.md)
+
+  - **Design Sprint**
+    - [Metodologia](DesignSprint/DesignSprint.md)
     - [Dia 1](DesignSprint/dia1.md)
     - [Dia 2](DesignSprint/dia2.md)
     - [Dia 3](DesignSprint/dia3.md)

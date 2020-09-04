@@ -7,6 +7,7 @@ O Design Sprint é um processo de cinco dias para responder a questões crítica
 |    Data    | Versão |         Descrição         |           Autor(es)            |
 | :--------: | :----: | :-----------------------: | :----------------------------: |
 | 04/09/2020 |  1.0   |  Criação do documento e adição da introdução e adaptação | Micaella Gouveia | 
+| 04/09/2020 |  1.1   |  Adição do dia 3 | Micaella Gouveia | 
 
 ## Metodologia do Processo
 
@@ -37,40 +38,15 @@ O processo foi realizado durante a Sprint 1, nos dias 01/09/2020 a 05/09/2020.
 
 Os artefatos produzidos foram:
 
-### *(01/09)* Dia 1 - Questionário
-| Horário | Duração | Mediador(a) | Participantes |
-| - | - | - | - |
-| 22:00 | 02:30 | Pedro Igor | Todos os membros
+### [*(01/09)* Dia 1 - Questionário](DesignSprint/dia1.md)
+### [*(02/09)* Dia 2 - Documento de Visão](DesignSprint/dia2.md)
+### [*(03/09)* Dia 3 - Plano de Análise de Riscos](DesignSprint/dia3.md)
+### [*(04/09)* Dia 4 - Causa-Efeito](DesignSprint/dia4.md)
+### [*(05/09)* Dia 5 - Estimativas](DesignSprint/dia5.md)
 
-* [**Gravações e documentos produzidos no Dia 1**]()
 
-### *(02/09)* Dia 2 - Documento de Visão
-| Horário | Duração | Mediador(a) | Participantes |
-| - | - | - | - |
-| 16:00 | 03:00 | Sofia Patrocínio | Todos os membros
-
-* **Gravações**:
-
-### *(03/09)* Dia 3 - Plano de Análise de Riscos
-| Horário | Duração | Mediador(a) | Participantes |
-| - | - | - | - |
-| 10:00 | 03:00 | Micaella Gouveia | Todos os membros
-
-* **Gravações**:
-
-### *(04/09)* Dia 4 - Causa-Efeito
-| Horário | Duração | Mediador | Participantes |
-| - | - | - | - |
-| 08:00 | 02:00 | Gabriel Alves | Todos os membros|
-| 15:30 |  - | Gabriel Alves | Todos os membros|
-
-* **Gravações**:
-
-### *(05/09)* Dia 5 - Estimativas
-| Horário  | Duração | Mediador | Participantes |
-| - | - | - | - |
-| - | - | Gabriel Davi | Todos os membros
-
-* **Gravações**:
-
+## Referências
+* Google Design Sprint <https://brasil.uxdesign.cc/google-design-sprint-como-funciona-e-como-aplicar-no-seu-projeto-27910736365> último acesso em 04/09/2020.
+* Google Venture <https://www.gv.com/sprint/> último acesso em 04/09/2020.
+* Vídeo-aula da professora Milene (acesso restrito para alunos da matéria, pois se encontra no aprender3)
 
