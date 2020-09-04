@@ -8,6 +8,7 @@ O Design Sprint é um processo de cinco dias para responder a questões crítica
 | :--------: | :----: | :-----------------------: | :----------------------------: |
 | 04/09/2020 |  1.0   |  Criação do documento e adição da introdução e adaptação | Micaella Gouveia | 
 | 04/09/2020 |  1.1   |  Adição do dia 3 | Micaella Gouveia | 
+| 04/09/2020 |  1.2   |  Adição do dia 2 e justificativa Design Sprint | Sofia Patrocínio | 
 
 ## Metodologia do Processo
 
@@ -19,7 +20,7 @@ O principal objetivo é ter conhecimento se a ideia proposta irá funcionar ante
 5. **TEST**: Testar os protótipos para os potenciais usuários do produto, em sessões individuais.
 
 ## Adaptação do Processo para o Contexto do Time
-Para o projeto, seguir a risca o modelo proporcionado pela [Google Venture](https://www.gv.com/) não seria viável devido aos horários conflitantes entre os membros, ao momento em que o projeto se encontrava, entre outros. Foi necessário fazer uma adaptação do processo, seguindo e modificando a adaptação já feita pela professora Milene.
+Para o projeto, seguir a risca o modelo proporcionado pela [Google Venture](https://www.gv.com/) não seria viável devido ao momento em que o projeto se encontrava. Foi necessário fazer uma adaptação do processo, seguindo e modificando a adaptação já feita pela professora Milene.
 
 * A primeira adaptação foi que, ao invés de as fases serem destinadas para cada dia, todo dia todas as fases seriam realizadas para um artefato escolhido. Essas fases possuem um tempo de duração reduzido em comparação com o modelo original, levando em torno de 20 a 50 minutos para a realização de cada fase. Ao final da reunião, o tempo total de duração ficará em torno de 2 horas a 3 horas.
 * Outra decisão tomada foi que a cada dia de reunião, haveria um mediador, responsável em conduzir a reunião, fazer as anotações mais relevantes, documentar o que for decidido e finalizar o documento.
@@ -32,6 +33,10 @@ Nossas fases ficaram assim definidas:
 3. **Decidir(30min)**: Discussão entre os membros, em qua cada um levanta o que ele produziu, e há decisão do que será documentado ou não.
 4. **Prototipar(40min)**: Todos acompanham o mediador do dia na pré produção do artefato, em que os pontos decididos serão expostos.
 5. **Finalizar**: O mediador do dia fica responsável em terminar a documentação e abrir o Pull Rquest.
+
+## Justificativa
+
+Decidimos adaptar o Design Sprint com o intuito de todos os membros do grupo ficarem alinhados em relação a documentação, parte muito importante do desenvolvimento do nosso produto. Além disso, acreditamos que com todos os 5 membros participando do processo de criação, os documentos possuem uma qualidade muito superior, pois "**Cinco cabeças pensam melhor que uma**" :)
 
 ## Realização
 O processo foi realizado durante a Sprint 1, nos dias 01/09/2020 a 05/09/2020.
