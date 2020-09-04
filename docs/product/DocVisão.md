@@ -115,7 +115,7 @@ O software será um aplicação web e mobile, com informações sobre estoque e 
 | Fácil visualização do estoque | A aplicação mostrará o estoque de forma simples e intuitiva |
 
 ### 4.3 Licenciamento
-
+O Stock será distribuído sob a licença MIT para softwares livres, que dá liberdade para todos que o adquirirem de modificar, distribuir, sublicenciar, vender e contribuir para o software.
 
 ## 5. Recursos do Produto
 ### 5.1 Criar, atualizar, listar por categorias e remover estoque.
