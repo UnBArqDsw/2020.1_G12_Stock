@@ -33,11 +33,14 @@
 *  **Code Reviews**: A revisão de código é feita pelos membros não participantes da issue entregue. A segunda parte é feita na reunião da Sprint onde o time avalia e repassa os conhecimento adquiridos, as dificuldades enfrentadas e então o que deve ser melhorado vem à tona.
 
 
-## Tecnologias
-### Telegram
-### GitHub
-### Google Drive
-### 
+## Ferramentas
+* **Telegram**: Utilizado para realização das dailies e comunicação entre os membros da equipe, monitores e professora.
+* **GitHub**: Utilizado para armazenamento de documentos e código, versionamento e gerência e comunicação das issues.
+* **Google Drive**: Utilizado para armazenamento de documentos diversos.
+* **Google Calendar**: Utilizado para organização das entregas e reuniões.
+* **Microsoft Teams**: Utilizado para realização e gravação das reuniões e pareamentos.
+* **Zenhub**: Utilizado como KanBan do projeto.
+
 # Plano de Métricas
 # Plano de Métricas do Projeto
 
@@ -64,4 +67,5 @@ O quadro de conhecimento tem como objetivo servir de monitoramento do conhecimen
 * Agile Project Management Best Practices & Guides: <https://blog.zenhub.com/how-the-zenhub-team-uses-zenhub-boards-on-github/> último acesso em 05/09/2020.
 * Desenvolvimento Ágil Srum: <http://www.desenvolvimentoagil.com.br/scrum/> último acesso em 05/09/2020.
 * Desenvolvimento Ágil XP: <http://www.desenvolvimentoagil.com.br/xp/> último acesso em 05/09/2020.
+* Cultura Ágil: <https://www.culturaagil.com.br/kanban-do-inicio-ao-fim/> último acesso em 05/09/2020.
 
