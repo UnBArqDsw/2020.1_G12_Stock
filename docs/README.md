@@ -43,6 +43,7 @@
   }
   .member img{
     position: relative;
+    height: 200px;
     width: 200px;
     opacity: 1;
     border-style: solid;
