@@ -4,11 +4,11 @@
 
 |Número | Issue | Pontuação | Participantes|
 | - | - | - | - |
-| #5 | Brainstorming | 3 | Pedro Igor |
-| #6 | Questionário | 2 | Todos |
-| #7 | Causa-Efeito, Plano de Análise de Risco/Custo/Tempo | 8 | Todos |
-| #8 | Documento de Visão | 5 | Todos |
-| #16| Estimativas | 8 | Todos |
+| [**#5**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/5) | Brainstorming | 3 | Pedro Igor |
+| [**#6**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/6) | Questionário | 2 | Todos |
+| [**#7**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/7) | Causa-Efeito, Plano de Análise de Risco/Custo/Tempo | 8 | Todos |
+| [**#8**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/8) | Documento de Visão | 5 | Todos |
+| [**#16**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/16)| Estimativas | 8 | Todos |
 
 ## Pontuação: 26
 
