@@ -1,6 +1,7 @@
 - [Home](/)
 - **Produto**
   - [Manual de Identidade<br> Visual](product/ManualId.md)
+  - [Documento de Visão](product/DocVisão.md)
 - **Projeto**
   - [Metodologias](Project/Metodologias.md)
   - [Sprints](Index/sprintsIndex.md)
