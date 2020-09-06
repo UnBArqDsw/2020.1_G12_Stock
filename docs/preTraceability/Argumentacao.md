@@ -11,7 +11,7 @@ Com isso, abaixo mostramos os argumentos, que levaram o grupo a escolha do tema 
 | 25/08/2020 |  1.0   |  Criação do documento e adição da argumentação realizada antes da divisão do grupo. | Pedro Igor | 
 | 27/08/2020 |  1.1   |  Adição da definição de Argumentação | Gabriel Alves |
 | 27/08/2020 |  1.2   |  Adição do diagrama ACE em aplicação de controle de estoque e atualizando Referências | Gabriel Alves |
-| 28/08/2020 |  1.3   |  Adição do resultado da votação e formatando conteúdo da página. | Pedro Igor |
+| 28/08/2020 |  1.3   |  Adição do resultado da votação e formatação do conteúdo da página. | Pedro Igor |
 
 # Argumentação em torno da escolha da aplicação
 O processo de escolha da aplicação se iniciou na primeira tentativa de início do semestre, no mês de Março de 2020 que logo foi interrompido pela pandemia. No segundo "início de semestre" foram feitas outras reuniões de mudança de aplicação já que o grupo seria dvidido. Segue abaixo a argumentação desde o primeiro "início de semestre".

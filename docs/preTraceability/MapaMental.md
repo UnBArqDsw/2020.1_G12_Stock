@@ -8,8 +8,13 @@ Para o projeto, cada membro do time fez seu mapa mental de tema livre.
 
 |    Data    | Versão |         Descrição         |           Autor(es)            |
 | :--------: | :----: | :-----------------------: | :----------------------------: |
-| 22/08/2020 |  1.0   |  Criação dos mapas mentais individuais. | Gabriel Alves<br> Gabriel Davi<br> Micaella Gouveia<br> Pedro Igor<br> Sofia Patrocínio | 
-| 31/08/2020 |  1.1   |  Criação do documento e adição dos mapas mentais produzidos. | Micaella Gouveia |
+| 22/08/2020 |  1.0   |  Criação de mapa mental geral | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor e Sofia Patrocínio | 
+| 24/08/2020 |  1.1   |  Criação de mapa mental individual | Sofia Patrocínio | 
+| 25/08/2020 |  1.2   |  Criação de mapa mental individual | Pedro Igor | 
+| 27/08/2020 |  1.3   |  Criação de mapa mental individual | Gabriel Davi | 
+| 31/08/2020 |  1.4   |  Criação de mapa mental individual | Micaella Gouveia |
+| 31/08/2020 |  1.5   |  Criação de mapa mental individual | Gabriel Alves | 
+| 31/08/2020 |  1.6   |  Criação do documento e adição dos mapas mentais produzidos. | Micaella Gouveia |
 
 ## Mapas Mentais
 

@@ -5,11 +5,16 @@ Rich picture é uma técnica que tem como objetivo entender o funcionamento e o 
 ## Históricos de Revisões
 |    Data    | Versão |         Descrição         |           Autor(es)            |
 | :--------: | :----: | :-----------------------: | :----------------------------: |
-| 28/08/2020 |  1.0   |  Criação do documento e adição dos Rich Pictures. | Micaella Gouveia | 
-| 29/08/2020 |  1.1   |  Adição dos nomes dos rich pictures. | Micaella Gouveia, Gabriel Davi, Sofia Patrocínio | 
+| 21/08/2020 |  1.0   |  Criação dos Rich Pictures gerais. | Gabriel Davi | 
+| 22/08/2020 |  1.1   |  Criação de Rich Picture individual. | Pedro Igor | 
+| 24/08/2020 |  1.2   |  Criação do Rich Picture individual. | Micaella Gouveia |
+| 24/08/2020 |  1.3   |  Criação do Rich Picture individual. | Gabriel Alves |
+| 28/08/2020 |  1.4   |  Criação dos Rich Picture individual. | Sofia Patrocínio | 
+| 28/08/2020 |  1.5   |  Criação do documento e adição dos Rich Pictures. | Micaella Gouveia | 
+| 29/08/2020 |  1.6   |  Adição dos nomes dos Rich Pictures. | Micaella Gouveia, Gabriel Davi, Sofia Patrocínio | 
 ## Realização
 
-Para o projeto, decidimos que cada membro faria inicialmente o seu rich picture, com nível de abstração livre, afim de ser discutido na reunião semanal da Sprint 1.
+Para o projeto, decidimos que cada membro faria inicialmente o seu Rich Picture, com nível de abstração livre, afim de ser discutido na reunião semanal da Sprint 1.
 
 ## Rich Pictures
 
