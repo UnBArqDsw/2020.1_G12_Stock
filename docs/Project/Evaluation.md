@@ -3,7 +3,7 @@
 **Este artefato foi produzido durante a Design Sprint, para saber mais sobre a metodologia e como ela foi feita, clique aqui: _[Design Sprint](preTraceability/DesignSprint.md)_**
 
 Estimativa de custos tem como objetivo mensurar analiticamente o escopo de um projeto.
-Para a estimativa do custo, será levado em consideração apenas o ciclo de produção do software e não o ciclo de vida por completo, que poderia envolver questões como distribuição, atendimento ao cliente, garantia, propaganda, retirada de mercado etc. Geralmente os custos são subdivididos em **Custos de Matéria-Prima**, **Custos de Mão-de-Obra Direta** e **Custos Indiretos de Fabricação**. Para a estimativa de nosso projeto será utilizado o modelo de custo construtivo também conhecido como **COCOMO**.
+Para a estimativa do custo, será levado em consideração apenas o ciclo de produção do software e não o ciclo de vida por completo. Também, o modelo que será utilizado é o de custo construtivo, também conhecido como **COCOMO**.
 
 ## Histórico de Revisão
 
