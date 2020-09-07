@@ -14,6 +14,7 @@
     - [Argumentação](preTraceability/Argumentacao.md)
     - [Plano de Análise de Riscos](preTraceability/PlanAnaliseRiscos.md)
   - **Elicitação**
+    - [Requisitos Elicitados](Elicitation/RequisitosElicitados.md)
     - [StoryBoard](Elicitation/StoryBoard.md)
     - [Entrevista](Elicitation/Entrevista.md)
     - [Brainstorming](Elicitation/Brainstorming.md)
