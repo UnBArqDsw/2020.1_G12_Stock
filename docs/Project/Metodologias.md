@@ -3,13 +3,19 @@
 ## Históricos de Revisões
 |    Data    | Versão |         Descrição         |           Autor(es)            |
 | :--------: | :----: | :-----------------------: | :----------------------------: |
-| 05/09/2020 |  1.0   |  Criação do documento e adição das práticas ágeis, ferramentas e plano de métricas | Micaella e Sofia |
+| 05/09/2020 |  1.0   |  Criação do documento e adição das práticas ágeis, ferramentas e plano de métricas | Micaella Gouveia e Sofia Patrocínio |
 | 05/09/2020 |  1.1   |  Adição da imagem de ferramentas e ajustes no texto | Sofia |
+| 07/09/2020 | 1.2 | Adição do texto explicativo das metodologias | Micaella Gouveia e Sofia Patrocínio
 
 
 # Práticas Ágeis 
 
-<p> Para o planejamento, análise e desenvolvimento foram selecionadas práticas ágeis que devem ser seguidas ao longo do projeto.  </p>
+Para este projeto, decidimos utilizar diferentes metodologias de forma híbrida, usando a combinação das ferramentas que mais se aplicam ao contexto do time e do projeto. Nossa base é a metodologia Scrum, com algumas práticas do XP e do Kanban. 
+
+* O **Scrum** adota uma abordagem iterativa e incremental voltada para o produto, ou seja, a cada iteração, é adicionado algo relevante para o produto. 
+* O **XP** *(Extreme Programming)* já é mais voltado para qualidade de código, produtividade do time e lida bem com requisitos vagos que mudam frequentemente, times pequenos e mais disciplina dos desenvolvedores ao invés de processos formais, enfatizando o trabalho em equipe.
+* O **Kanban** visa a gestão de fluxo de tarefas, com o intuito de aumentar a eficiência da produção e realizações de tarefas, otimizar sistemas de movimentaçao e produção.   
+
 
 ## Scrum
 
@@ -19,6 +25,7 @@
 * **Sprint Review**: Durante a reunião semanal, o time debate sobre o desenvolvimento da Sprint, verificando  tudo o que foi feito e entregue.
 * **Retrospectiva**: Também é realizada durante a reunião semanal e seu objetivo é fazer uma análise de como foi a Sprint, o que funcionou bem, o que pode ser melhorado e que ações serão tomadas para melhorar.
 *  **Product Backlog**: Um conjunto de funcionalidades pensadas e desejadas para o produto. Com o tempo, o Product Backlog cresce e muda à medida que se aprende mais sobre o produto e seus usuários. 
+*  **Histórias de Usuário**: Uma forma de definir e organizar os requisitos do sistema, centrando a visão no usuário. 
 * **Backlog de Melhoria**: Onde estarão todas as atividades, features e artefatos que deverão ser evoluídos e/ou modificados.
 *  **Controle de Versão**: O controle de versão é feito com relação à documentação na Wiki e ao código no Github. De forma objetiva, os artefatos são evoluídos constantemente e para manter o rastro disso, é feito o controle de versão.
 * **Testes de Aceitação**: Os testes de aceitação visam alinhar as expectativas quanto ao que foi definido no início da Sprint e o que está sendo entregue. 
@@ -31,15 +38,14 @@
 * **Collective Ownership**: Encorajamento de todos os membros a contribuírem em todos os seguimentos do projeto. Consiste em revezamento de pares, total autorizaçao para edição de código por qualquer membro. Isso torna o código coletivo e responsabilizado por todos os envolvidos. 
 
 ## KanBan
-*  **Histórias de Usuário**: Uma forma de definir e organizar os requisitos do sistema, centrando a visão no usuário. 
 * **ZenHub**: ZenHub é um produto beta que nos permite desenvolver mais rápido, comunicar melhor e lançar sem sobrecarga, integrando tudo dentro do GitHub, o lugar em que todo o nosso código reside.
 
 ## Outros
 *  **Code Reviews**: A revisão de código é feita pelos membros não participantes da issue entregue. A segunda parte é feita na reunião da Sprint onde o time avalia e repassa os conhecimento adquiridos, as dificuldades enfrentadas e então o que deve ser melhorado vem à tona.
 
+# Ferramentas
 <img src='./assets/img/metodologia/ferramentas.png' style='margin-top:50px;'>
 
-# Ferramentas
 * **GitHub**: Utilizado para armazenamento de documentos e código, versionamento e gerência e comunicação das issues.
 * **Microsoft Teams**: Utilizado para realização e gravação das reuniões e pareamentos.
 * **Google Drive**: Utilizado para armazenamento de documentos diversos.
@@ -54,21 +60,21 @@
 
 ## Burndown
 
-O Burndown é uma ferramenta visual que permite que o time visualize as tarefas completadas por dia, mostrando ao final um gráfico em que é possível ver a produtividade da equipe na sprint. O Burndown nos permite, como time, ter uma boa noção de como está o projeto ao longo da sprint e consequentemente tomar decisões para que a equipe alcance o seu nível ótimo de produtividade. 
-O Burndown é gerado todo final de sprint, e está presentes nos documentos de resultados da sprint.
+O Burndown é uma ferramenta que permite a visualização das tarefas completadas por dia, mostrando ao final um gráfico em que é possível ver a produtividade da equipe na Sprint. O Burndown nos permite, como time, ter uma boa noção de como está o projeto ao longo da Sprint e consequentemente tomar decisões para que a equipe alcance o seu nível ótimo de produtividade. 
 
 ## Velocity
 
-O Velocity é um indicador utilizado para definir a quantidade média entre os pontos do Backlog do Produto e o incremento do produto durante a sprint, ou seja, o Velocity indica o uma média entre o planejado e o entregue. 
+O Velocity é um indicador utilizado para definir a quantidade média entre os pontos do Backlog do Produto e o incremento do produto durante a sprint, ou seja, o Velocity indica uma média entre o planejado e o entregue. 
 
 
 ## Quadro de conhecimento
 
-O quadro de conhecimento tem como objetivo servir de monitoramento do conhecimento da equipe e ele deve ser modificado toda sprint para que seja possível ver o progresso do time.
+O quadro de conhecimento tem como objetivo servir de monitoramento do conhecimento da equipe e ele deve ser modificado toda Sprint para que seja possível ver o progresso do time.
 
 ## Referências
 * Agile Project Management Best Practices & Guides: <https://blog.zenhub.com/how-the-zenhub-team-uses-zenhub-boards-on-github/>. Último acesso em 05/09/2020.
 * Desenvolvimento Ágil Srum: <http://www.desenvolvimentoagil.com.br/scrum/>. Último acesso em 05/09/2020.
 * Desenvolvimento Ágil XP: <http://www.desenvolvimentoagil.com.br/xp/>. Último acesso em 05/09/2020.
 * Cultura Ágil: <https://www.culturaagil.com.br/kanban-do-inicio-ao-fim/>. Último acesso em 05/09/2020.
+* Kanban: O que é, como funciona e como implantar esse método: <https://blog.egestor.com.br/kanban/>. Último acesso em 07/09/2020.
 
