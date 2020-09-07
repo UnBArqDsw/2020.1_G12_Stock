@@ -11,10 +11,12 @@
 ## Introdução
 
 <p>
-O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha de peixe é uma forma de levantar os fatores/causas que levam á um determinado efeito, seja ele positivo ou negativo, afim de se obter as informações necessárias para auxiliar na tomada de decisão de possíveis erros ou melhorias no projeto.
+O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha de peixe, é uma forma de levantar os fatores/causas que levam a um determinado efeito, seja ele positivo ou negativo, a fim de se obter as informações necessárias para auxiliar na tomada de decisão de possíveis erros ou melhorias no projeto.
 </p>
 
-## Não Entrega da aplicação
+## Efeitos Negativos
+
+### Não Entrega da aplicação
 
 |  Pessoal  |  Processo  |  Equipamento  |  Materiais  |  Ambiente  |  Gestão  |
 |  :-----:  |  :------:  |  :---------:  |  :-------:  |  :------:  |  :----:  |
@@ -29,7 +31,7 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 
 ![Não Entrega da Aplicação](../assets/img/causaEfeito/Não_Entrega_da_Aplicação.png)
 
-## Baixa Adesão da Aplicação
+### Baixa Adesão da Aplicação
 
 |  Propaganda  |  Usabilidade  |  Funcionalidade  |  Cliente  |
 |  :--------:  |  :---------:  |  :------------:  |  :-----:  |
@@ -42,7 +44,7 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 
 ![Baixa Adesão da Aplicação](../assets/img/causaEfeito/Baixa_Adesão_da_Aplicação.png)
 
-## Desistência de Membro
+### Desistência de Membro
 
 |  Problema de Saúde  |  Dificuldades Individuais  |  Grupo  |  Gestão  |
 |  :---------------:  |  :----------------------:  |  :---:  |  :----:  |
@@ -56,7 +58,7 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 
 ![Desistência de Membro](../assets/img/causaEfeito/Desistência_de_Membro.png)
 
-## Produto com Defeito
+### Produto com Defeito
 
 |  Usabilidade  |  Código  |  Gerência  |  Documentação  |
 |  :---------:  |  :-----  |  :------:  |  :----------:  |
@@ -69,7 +71,9 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 
 ![Produto com Defeito](../assets/img/causaEfeito/Produto_com_defeito.png)
 
-## Produto Viável Tecnicamente e para uso
+## Efeitos Positivos
+
+### Produto Viável Tecnicamente e para uso
 
 |  Requisitos  |  Código  |  Usabilidade  |  Infraestrutura  |
 |  :---------:  |  :-----  |  :------:  |  :----------:  |
@@ -81,7 +85,7 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 
 ![Produto Viável Tecnicamente e para uso](../assets/img/causaEfeito/Produto_viável_tecnicamente_e_para_uso.png)
 
-## Alta produtividade
+### Alta produtividade
 
 |  Gerência  |  Documentação  |  Eficência  |  Grupo  |  Infraestrutura  |  Pessoal  |
 |  :---------:  |  :-----  |  :------:  |  :----------:  |  :----------:  |  :----------:  |
