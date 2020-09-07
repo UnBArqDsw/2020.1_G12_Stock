@@ -6,7 +6,8 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 ## Histórico de Revisões
 |    Data    | Versão |         Descrição         |           Autor(es)            |
 | :--------: | :----: | :-----------------------: | :----------------------------: |
-| 07/08/2020 |  1.0   | Adição de requisitos funcionais elicitados na técnica de Brainstorming | Pedro Igor |
+| 07/08/2020 |  1.0   | Adição de requisitos funcionais baseados na técnica de Brainstorming | Pedro Igor |
+| 07/08/2020 |  1.1   | Adição de requisitos funcionais e não funcionais baseados na técnica de StoryBoard | Pedro Igor | 
 
 ## Requisitos Funcionais
 |    Nome   |  ID | Descrição |          Pré-Condições       |
@@ -22,3 +23,14 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 | Gerar planilha | **RF09** | O sistema deve permitir que sejam exportados documentos de planilha com informações sobre o estoque. | **RF04** |
 | Histórico de vendas | **RF10** | O sistema deve gerar um log de registro de remoções e adição de itens ao estoque. | **RF03** e **RF07** |
 | Histórico temporais | **RF11** | O sistema deve permitir consultar registros demarcados por períodos temporais. (diário, semanal, mensal, anual) | **RF10**|
+| Filtro por nome e preço | **RF12** | O sistema dever permitir filtrar produtos pelo nome e por preço. | **RF04** |
+| Filtro por data | **RF13** | O sistema deve permitir filtrar itens pela data. | **RF04** |
+| Plotagem de gráficos | **RF14** | O sistema deve gerar gráficos baseados no fluxo do estoque. | **RF04** |
+| Atualização instantânea de estoque | **RF15** | O sistema deve ser capaz de atualizar a base de dados no momento em que uma operação é realizada. | **RF03** e **RF07** |
+
+
+## Requisitos Não Funcionais
+|    Nome   |  ID | Descrição |          Pré-Condições       |
+| :-------: | :--:| :-------: | :--------------------------: |
+| Rapidez na consulta | **RNF01** | O sistema deve retornar o resultado de uma consulta quase que instantaneamente. | **RF04** |
+| Gráficos didáticos | **RNF02** | O sistema deve garantir que os gráficos plotados são abrangentes em detalhes porém de fácil entendimento. | **RF14** |
