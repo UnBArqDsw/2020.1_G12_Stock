@@ -8,6 +8,7 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 | :--------: | :----: | :-----------------------: | :----------------------------: |
 | 07/08/2020 |  1.0   | Adição de requisitos funcionais baseados na técnica de Brainstorming | Pedro Igor |
 | 07/08/2020 |  1.1   | Adição de requisitos funcionais e não funcionais baseados na técnica de StoryBoard | Pedro Igor | 
+| 07/08/2020 |  1.2   | Adição de requisitos não funcionais baseados na técnica de Entrevista. | Pedro Igor |
 
 ## Requisitos Funcionais
 |    Nome   |  ID | Descrição |          Pré-Condições       |
@@ -34,3 +35,4 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 | :-------: | :--:| :-------: | :--------------------------: |
 | Rapidez na consulta | **RNF01** | O sistema deve retornar o resultado de uma consulta quase que instantaneamente. | **RF04** |
 | Gráficos didáticos | **RNF02** | O sistema deve garantir que os gráficos plotados são abrangentes em detalhes porém de fácil entendimento. | **RF14** |
+| Consultas remotas | **RNF03** | O sistema deve ser capaz de ser consultado remotamente. (longe do local físico de armazenamento do estoque) | **RF04** |
