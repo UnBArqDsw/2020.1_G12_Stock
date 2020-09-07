@@ -13,6 +13,7 @@
     - [Mapa Mental](preTraceability/MapaMental.md)
     - [Argumentação](preTraceability/Argumentacao.md)
     - [Plano de Análise de Riscos](preTraceability/PlanAnaliseRiscos.md)
+    - [Diagrama Causa e Efeito](preTraceability/causaEfeito.md)
   - **Elicitação**
     - [StoryBoard](Elicitation/StoryBoard.md)
     - [Entrevista](Elicitation/Entrevista.md)
