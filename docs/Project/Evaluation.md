@@ -2,6 +2,7 @@
 
 **Este artefato foi produzido durante a Design Sprint, para saber mais sobre a metodologia e como ela foi feita, clique aqui: _[Design Sprint](preTraceability/DesignSprint.md)_**
 
+<<<<<<< HEAD
 Estimativa de custos tem como objetivo mensurar analiticamente o escopo de um projeto.
 Para a estimativa do custo, será levado em consideração apenas o ciclo de produção do software e não o ciclo de vida por completo. Também, o modelo que será utilizado é o de custo construtivo, também conhecido como **COCOMO**.
 
@@ -559,3 +560,10 @@ SILVA FILHO, Antonio Mendes da. **Custo de Software: Planejamento e Gestão**. D
         color: #fff
     }
 </style>
+=======
+## Histórico de Revisão
+
+|    Data    | Versão |              Descrição               |  Autor(es)   |
+| :--------: | :----: | :----------------------------------: | :----------: |
+| 05/09/2020 |  1.0   | Abertura do documento de estimativas | Gabriel Davi |
+>>>>>>> b77ebae... Add evalutation documentation
