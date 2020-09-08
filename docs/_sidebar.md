@@ -7,7 +7,7 @@
   - [Estimativas](Project/Evaluation.md)
   - [Sprints](Index/sprintsIndex.md)
 - **Base**
-  - [Design Sprint](preTraceability/DesignSprint.md)
+- [Design Sprint](preTraceability/DesignSprint.md) 
   - **Pré-Rastreabilidade**
     - [Rich Picture](preTraceability/RichPicture.md)
     - [5W2H](preTraceability/5W2H.md)
@@ -18,5 +18,6 @@
     - [StoryBoard](Elicitation/StoryBoard.md)
     - [Entrevista](Elicitation/Entrevista.md)
     - [Brainstorming](Elicitation/Brainstorming.md)
+    - [Questionário](Elicitation/Questionario.md)
 - **Modelagem**
   - [Análise](Modeling/Analise.md)
