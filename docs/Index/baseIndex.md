@@ -8,6 +8,7 @@
     - [Mapa Mental](preTraceability/MapaMental.md)
     - [Argumentação](preTraceability/Argumentacao.md)
     - [Plano de Análise de Riscos](preTraceability/PlanAnaliseRiscos.md)
+    - [Causa e Efeito](preTraceability/causaEfeito.md)
 - **Elicitação**
     - [StoryBoard](Elicitation/StoryBoard.md)
     - [Mapa Mental](Elicitation/MapaMental.md)
