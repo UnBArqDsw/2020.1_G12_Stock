@@ -15,3 +15,5 @@
     - [Entrevista](Elicitation/Entrevista.md)
     - [Brainstorming](Elicitation/Brainstorming.md)
     - [Questionário](Elicitation/Questionario.md)
+    - [Personas](Elicitation/Personas.md)
+    - [Introspecção](Elicitation/Introspeccao.md)
