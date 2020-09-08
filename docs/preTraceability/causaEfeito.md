@@ -5,8 +5,8 @@
 
 |    Data    | Versão |         Descrição         |           Autor(es)            |
 | :--------: | :----: | :-----------------------: | :----------------------------: |
-| 04/09/20   |  1.0   | Criação do documento e levantamento de seis efeitos e suas respectivas causas | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
-| 06/09/20   |  1.1   | Elaboração das tabelas e diagramas dos seis efeitos e suas respectivas causas | Gabriel Alves |
+| 04/09/20   |  1.0   | Criação do documento e levantamento de seus efeitos e suas respectivas causas | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 06/09/20   |  1.1   | Elaboração das tabelas e diagramas dos seus efeitos e suas respectivas causas | Gabriel Alves |
 
 ## Introdução
 
