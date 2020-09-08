@@ -12,10 +12,10 @@ A entrevista foi realizada com Dinamara Carvalho de 44 anos, que atualmente poss
 "Nós fazemos parte do nicho de móveis planejados e estamos neste mercado há 5 anos".
 
 ### 2. Qual o nome de seu negócio e como ele funciona?
-"O nome do nosso negócio é ED Design de Móveis. O primeiro passo é a área de vendas onde é vendido o ambiente, depois esse ambiente é transformado em um projeto executivo, e desse projeto desce para o almoxorifado um listagem dos produtos que devem ser separados para ir para a fabricação."
+"O nome do nosso negócio é ED Design de Móveis. O primeiro passo é a área de vendas onde é vendido o ambiente, depois esse ambiente é transformado em um projeto executivo, e desse projeto desce para o almoxarifado um listagem dos produtos que devem ser separados para ir para a fabricação."
 
 ### 3. Você possui quantos funcionários ou pessoas envolvidas nesse negócio?
-"Hoje nós estamos com 24 pessoas. Temos um grupo de 4 pessoas na área de vendas, no projeto nós temos 3 pessoas, nas máquinas 3, na área de fabricação de porta e alumínio 1, no almoxorifado 1, no administrativo 2, e na área de fabricação e montagem 6 pessoas.".
+"Hoje nós estamos com 24 pessoas. Temos um grupo de 4 pessoas na área de vendas, no projeto nós temos 3 pessoas, nas máquinas 3, na área de fabricação de porta e alumínio 1, no almoxarifado 1, no administrativo 2, e na área de fabricação e montagem 6 pessoas.".
 
 ### *4. Qual a arrecadação bruta do negócio mensalmente?*
 Esta pergunta não foi respondida nesta entrevista.
