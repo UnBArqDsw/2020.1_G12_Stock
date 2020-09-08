@@ -35,7 +35,10 @@ Nesta Sprint, alguns documentos são pré-requisitos de outros, sendo necessári
 | [**#40**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/40) | Elicitação dos artefatos já produzidos|  Quarta-feira (09/09/2020)|
 
 
-## Relato Planejamento
+## Gravações Disponíveis
+* Reunião Semanal (Sprint Planning): *<https://youtu.be/pZZrLSgsaT4>*
+* Plan It Poker (Pontuação das Issues): **<https://www.youtube.com/watch?v=rwoqwJKP_AU>**
+## Relato 
 
 
 ### 1. Léxicos
@@ -61,7 +64,7 @@ Nesta Sprint, alguns documentos são pré-requisitos de outros, sendo necessári
 | StoryBoard, Entrevista 1 e Brainstorming | Pedro e Gabriel Davi
 
 
-### 4. Restante da design  (estimativas e causa-efeito) - Prazo para o fim da Sprint 1 (Domingo)
+### 4. Restante da design  (estimativas e causa-efeito) - Prazo para o fim da Sprint 1
 
 | Tarefa | Responsável
 | - | - |

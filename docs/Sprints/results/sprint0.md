@@ -1,5 +1,6 @@
 # Resultado Sprint 0
-
+**Período: 23/08/2020 a 29/08/2020**<br>
+**Data da Reunião: 29/08/2020**
 ## Issues Entregues
 
 |Número | Issue | Pontuação | Participantes|
@@ -27,5 +28,14 @@
 | - | - | - | - |
 | [**#5**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/5) | Brainstorming | Sem | Pedro |
 
-## Observações
-1. Durante o desenvolvimento da Sprint 0, o time decidiu utilizar a técnica de  Design Sprint para a produção de alguns artefatos que já tinham sido definidos, como o Documento de Visão, Causa-Efeito, Questionário e Plano de Análise de Risco/Custo/Tempo. Sendo assim, essas issues não se tornaram dívidas técnicas.
+## Quadro de Conhecimento
+*Métrica ainda não tinha sido definida nesta Sprint.*
+
+## Burndown
+*Métrica ainda não tinha sido definida nesta Sprint.*
+
+## Velocity
+*Métrica ainda não tinha sido definida nesta Sprint.*
+
+### Observações
+* Durante o desenvolvimento da Sprint 0, o time decidiu utilizar a técnica de  Design Sprint para a produção de alguns artefatos que já tinham sido definidos, como o Documento de Visão, Causa-Efeito, Questionário e Plano de Análise de Risco/Custo/Tempo. Sendo assim, essas issues não se tornaram dívidas técnicas.
