@@ -2,16 +2,16 @@
 
 **Este artefato foi produzido durante a Design Sprint, para saber mais sobre a metodologia e como ela foi feita, clique aqui: _[Design Sprint](preTraceability/DesignSprint.md)_**
 
-<<<<<<< HEAD
 Estimativa de custos tem como objetivo mensurar analiticamente o escopo de um projeto.
 Para a estimativa do custo, será levado em consideração apenas o ciclo de produção do software e não o ciclo de vida por completo. Também, o modelo que será utilizado é o de custo construtivo, também conhecido como **COCOMO**.
 
 ## Histórico de Revisão
 
-|    Data    | Versão |                     Descrição                     |  Autor(es)   |
-| :--------: | :----: | :-----------------------------------------------: | :----------: |
-| 05/09/2020 |  1.0   |       Abertura do documento de estimativas        | Gabriel Davi |
-| 05/09/2020 |  1.1   | Realização dos cálculos de esforço, tempo e custo | Gabriel Davi |
+|    Data    | Versão |                         Descrição                         |                                  Autor(es)                                  |
+| :--------: | :----: | :-------------------------------------------------------: | :-------------------------------------------------------------------------: |
+| 05/09/2020 |  1.0   | Estimativa em equipe para o número de linhas da aplicação | Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio, Gabriel Alves |
+| 05/09/2020 |  1.1   |           Abertura do documento de estimativas            |                                Gabriel Davi                                 |
+| 06/09/2020 |  1.2   |     Realização dos cálculos de esforço, tempo e custo     |                                Gabriel Davi                                 |
 
 ## MODELO DE CUSTO CONSTRUTIVO (CONSTRUCTIVE COST MODEL - COCOMO)
 
@@ -30,7 +30,7 @@ O COCOMO pode ser divido em três implementações, a depender do tipo de softwa
 - **Modo Semidestacado:** projetos intermediários (em tamanho e complexidade), com alguns requisitos rígidos e outros não tão rígidos, com níveis mistos de experiência nas equipes.
 - **Modo Embutido:** projetos com conjunto rígido de restrições operacionais, tanto de hardware, quanto de software.
 
-Devido as particularidades do projeto a equipe o classificou como **Semidestacado**, pois as funções básicas que o software irá realizar será a listagem de produtos por categoria no estoque, adição de um produto no estoque e assim por diante. Não havendo assim requisítos tão rígidos ou outras peculiaridades de implementação.
+Devido as particularidades do projeto a equipe o classificou como **Semidestacado**, pois as funções básicas que o software irá realizar será a listagem de produtos por categoria no estoque, adição de um produto no estoque e assim por diante, não havendo assim requisítos tão rígidos ou outras peculiaridades de implementação.
 
 ### COCOMO Intermediário
 
@@ -560,10 +560,3 @@ SILVA FILHO, Antonio Mendes da. **Custo de Software: Planejamento e Gestão**. D
         color: #fff
     }
 </style>
-=======
-## Histórico de Revisão
-
-|    Data    | Versão |              Descrição               |  Autor(es)   |
-| :--------: | :----: | :----------------------------------: | :----------: |
-| 05/09/2020 |  1.0   | Abertura do documento de estimativas | Gabriel Davi |
->>>>>>> b77ebae... Add evalutation documentation
