@@ -14,6 +14,12 @@
 
 ## Pontuação: 26
 
+
+## Quadro de Distribuição de Pontos
+Este quadro divide a pontuação das issues com a quantidade de participantes, para ter a noção da distribuição de pontos por pessoa, evitando a sobrecarga de tarefas para algum membro.
+
+*Como nesta Sprint foi realizado o Design Sprint, todos os membros participaram de todas as issues, e cada um ficou responsável em finalizar um documento, não sendo necessário fazer a distribuição de pontos.*
+
 ## Relato
 ### Metodologia de Design Sprint
 
@@ -27,11 +33,8 @@ Nessa Sprint os artefatos serão desenvolvidos com a metodologia de Design Sprin
 | 4 | Causa-Efeito | Gabriel Alves
 | 5 | Estimativas | Gabriel Davi
 
-## Quadro de Distribuição de Pontos
-Este quadro divide a pontuação das issues com a quantidade de participantes, para ter a noção da distribuição de pontos por pessoa, evitando a sobrecarga de tarefas para algum membro.
-
-*Como nesta Sprint foi realizado o Design Sprint, todos os membros participaram de todas as issues, e cada um ficou responsável em finalizar um documento, não sendo necessário fazer a distribuição de pontos.*
-
+## Gravações Disponíveis
+*Nenhuma disponível*
 
 
 

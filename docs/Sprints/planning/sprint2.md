@@ -34,23 +34,14 @@ Nesta Sprint, alguns documentos são pré-requisitos de outros, sendo necessári
 | [**#36**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/36) | Metodologia - Definição e Documentação | Segunda-feira (07/09/2020) |
 | [**#40**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/40) | Elicitação dos artefatos já produzidos|  Quarta-feira (09/09/2020)|
 
-
-## Gravações Disponíveis
-* Reunião Semanal (Sprint Planning): *<https://youtu.be/pZZrLSgsaT4>*
-* Plan It Poker (Pontuação das Issues): **<https://www.youtube.com/watch?v=rwoqwJKP_AU>**
 ## Relato 
-
-
 ### 1. Léxicos
-
 | Tarefa | Responsável
 | - | - |
 | Elicitar pelo menos 5 léxicos | Todos |
 | Linkar todos os documentos já feitos com esses léxicos| Gabriel Alves| 
- 
 
 ### 2. Metodologia (BPMN)
-
 | Tarefa | Responsável
 | - | - |
 | Definição da metodologia - ferramentas e métricas | Micaella e Sofia
@@ -63,9 +54,7 @@ Nesta Sprint, alguns documentos são pré-requisitos de outros, sendo necessári
 | Introspecçoẽs/personas |Gabriel Davi e Micaella 
 | StoryBoard, Entrevista 1 e Brainstorming | Pedro e Gabriel Davi
 
-
 ### 4. Restante da design  (estimativas e causa-efeito) - Prazo para o fim da Sprint 1
-
 | Tarefa | Responsável
 | - | - |
 | Estimativas | Gabriel Davi
@@ -79,4 +68,6 @@ Nesta Sprint, alguns documentos são pré-requisitos de outros, sendo necessári
 | Adicionar as métricas escolhidas nos documentos antigos | Micaella 
 | Adicionar pequeno relato das reuniões já feitas |Micaella
 
-
+## Gravações Disponíveis
+* Reunião Semanal (Sprint Planning): **<https://youtu.be/pZZrLSgsaT4>**
+* Plan It Poker (Pontuação das Issues): **<https://www.youtube.com/watch?v=rwoqwJKP_AU>**

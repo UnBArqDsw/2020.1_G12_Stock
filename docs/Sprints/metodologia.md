@@ -12,23 +12,23 @@ Para a organização do projeto, algumas metodologias ágeis foram adotadas, sen
 ## Organização do Projeto
 A cada Sprint, será produzido um documento de review da Sprint e um de planning da próxima Sprint.
 
+No documento de planejamento, será mostrado:
+* Issues que serão desenvolvidas, sua pontuação e responsáveis
+* Relato sobre a reunião realizada, contendo as principais decisões tomadas
+* Quadro de distribuição de pontos por participante
+* Datas de entregas de certas issues, caso necessário 
+* Qualquer tipo de observação pertinente para documentação da Sprint
+* Link para a gravações realizadas, se houver
+
 No documento de review, será mostrado:
 * Issues entregues
-* Dívidas técnicas caso existam
+* Dívidas técnicas, caso existam
 * Observações gerais sobre o resultado alcançado
 * Quadro de conhecimento
 * Burndown 
 * Velocity 
 * Link para a gravações realizadas, se houver
 
-No documento de planejamento, será mostrado:
-* Issues que serão desenvolvidas, sua pontuação responsáveis
-* Relato sobre a reunião realizada, contendo as principais decisões tomadas
-* Quadro de distribuição de pontos por participante, para equilibrar as tarefas entre os membros
-* Datas de entregas de certas issues, caso necessário 
-* Qualquer tipo de oberservação pertinente para documentação da Sprint
-* Link para a gravações realizadas, se houver
-
-Vale ressaltar que as metodologias adotadas foram definidas durante a Sprint 2, então documentos produzidos antes dessa Sprint podem não conter informações quanto à pontuação, burndown, velocity.
+Vale ressaltar que as metodologias adotadas foram definidas durante a Sprint 2, então documentos produzidos antes dessa Sprint podem não conter informações quanto à pontuação, burndown, velocity, entre outros.
 
 Para ter acesso aos documentos produzidos, basta acessar a parte de [**Sprints**](Index/sprintsIndex.md).
