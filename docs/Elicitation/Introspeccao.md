@@ -17,3 +17,6 @@ Para o uso da técnica, utilizamos as personas criadas como base do nosso usuár
 Para visualizar as personas criadas, acesse: [**Personas**](Elicitation/Personas.md)
 
 ## Requisitos Levantados
+
+## Referências
+* Elicitação de Requisitos: <http://www2.dbd.puc-rio.br/pergamum/tesesabertas/0521479_08_cap_02.pdf>. Último acesso em 08/09/2020.
