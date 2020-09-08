@@ -2,7 +2,7 @@
 
 | Data de Realização | Entrevistada | Entrevistadora
 | - | - | - |
-|  08/09/2020 | Dinamara Carvalho | Micaella Gouveia |
+|  07/09/2020 | Dinamara Carvalho | Micaella Gouveia |
 
 A entrevista foi realizada com Dinamara Carvalho de 44 anos, que atualmente possui uma pequena empresa chamada ED Design de Móveis. O tipo de entrevista realizada foi fechada. A gravação para entrevista está disponível abaixo bem como a transcrição da mesma.
 
