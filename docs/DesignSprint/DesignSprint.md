@@ -26,7 +26,7 @@ O principal objetivo é ter conhecimento se a ideia proposta irá funcionar ante
 Para o projeto, seguir a risca o modelo proporcionado pela [Google Venture](https://www.gv.com/) não seria viável devido ao momento em que o projeto se encontrava. Foi necessário fazer uma adaptação do processo, seguindo e modificando a adaptação já feita pela professora Milene.
 
 * A primeira adaptação foi que, ao invés de as fases serem destinadas para cada dia, todo dia todas as fases seriam realizadas para um artefato escolhido. Essas fases possuem um tempo de duração reduzido em comparação com o modelo original, levando em torno de 20 a 50 minutos para a realização de cada fase. Ao final da reunião, o tempo total de duração ficará em torno de 2 horas a 3 horas.
-* Outra decisão tomada foi que a cada dia de reunião, haveria um mediador, responsável em conduzir a reunião, fazer as anotações mais relevantes, documentar o que for decidido e finalizar o documento.
+* Outra decisão tomada foi que a cada dia de reunião, haveria um mediador, responsável em conduzir a reunião, fazer as anotações mais relevantes, documentar o que for decidido e formatar o documento.
 * O time decidiu usar esse processo para a produção de artefatos de documentação e elicitação, e nosso objetivo era sair com o documento pronto para ser disponibilizado. Por isso, a fase de testes não se enquadra no nosso contexto, sendo adaptada para a fase de finalização do artefato.
 
 Nossas fases ficaram assim definidas:
@@ -42,7 +42,7 @@ Nossas fases ficaram assim definidas:
 Decidimos adaptar o Design Sprint com o intuito de todos os membros do grupo ficarem alinhados em relação a documentação, parte muito importante do desenvolvimento do nosso produto. Além disso, acreditamos que com todos os 5 membros participando do processo de criação, os documentos possuem uma qualidade muito superior, pois "**Cinco cabeças pensam melhor que uma**" :)
 
 ## Realização
-O processo foi realizado durante a Sprint 1, nos dias 01/09/2020 a 05/09/2020.
+O processo foi realizado durante a Sprint 1, dos dias 01/09/2020 a 05/09/2020.
 
 Os artefatos produzidos foram:
 
