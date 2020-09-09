@@ -4,6 +4,7 @@
   - [Documento de Visão](product/DocVisão.md)
 - **Projeto**
   - [Metodologias](Project/Metodologias.md)
+  - [Estimativas](Project/Evaluation.md)
   - [Sprints](Index/sprintsIndex.md)
 - **Base**
 - [Design Sprint](preTraceability/DesignSprint.md) 
@@ -15,6 +16,7 @@
     - [Plano de Análise de Riscos](preTraceability/PlanAnaliseRiscos.md)
     - [Diagrama Causa e Efeito](preTraceability/causaEfeito.md)
   - **Elicitação**
+    - [Requisitos Elicitados](Elicitation/RequisitosElicitados.md)
     - [StoryBoard](Elicitation/StoryBoard.md)
     - [Entrevista](Elicitation/Entrevista.md)
     - [Brainstorming](Elicitation/Brainstorming.md)
