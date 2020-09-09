@@ -5,12 +5,12 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 
 ## Histórico de Revisões
 
-|    Data    | Versão |                                     Descrição                                      | Autor(es)  |
-| :--------: | :----: | :--------------------------------------------------------------------------------: | :--------: |
-| 07/08/2020 |  1.0   |        Adição de requisitos funcionais baseados na técnica de Brainstorming        | Pedro Igor |
-| 07/08/2020 |  1.1   | Adição de requisitos funcionais e não funcionais baseados na técnica de StoryBoard | Pedro Igor |
-| 07/08/2020 |  1.2   |       Adição de requisitos não funcionais baseados na técnica de Entrevista.       | Pedro Igor |
-| 07/08/2020 |  1.3   |                         Adição de requisitos RF17 E RF18.                          | Pedro Igor |
+|    Data    | Versão |                                     Descrição                                      |  Autor(es)   |
+| :--------: | :----: | :--------------------------------------------------------------------------------: | :----------: |
+| 07/08/2020 |  1.0   |        Adição de requisitos funcionais baseados na técnica de Brainstorming        |  Pedro Igor  |
+| 07/08/2020 |  1.1   | Adição de requisitos funcionais e não funcionais baseados na técnica de StoryBoard |  Pedro Igor  |
+| 07/08/2020 |  1.2   |       Adição de requisitos não funcionais baseados na técnica de Entrevista.       |  Pedro Igor  |
+| 07/08/2020 |  1.3   |                         Adição de requisitos RF17 E RF18.                          | Gabriel Davi |
 
 ## Requisitos Funcionais
 
