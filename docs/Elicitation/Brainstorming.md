@@ -7,6 +7,8 @@ Brainstorming é uma técnica que se aproveita de um grande fluxo de ideias send
 |    Data    | Versão |                      Descrição                       | Autor(es)  |
 | :--------: | :----: | :--------------------------------------------------: | :--------: |
 | 31/08/2020 |  1.0   | Criação do documento baseado na gravação da reunião. | Pedro Igor |
+| 09/09/2020 |  1.1   | Adição dos requisitos. | Gabriel Davi |
+
 
 ## Metodologia
 

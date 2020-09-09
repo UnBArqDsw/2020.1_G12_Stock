@@ -7,6 +7,7 @@ O storyboard é uma sequência de desenhos quadro a quadro com o esboço das div
 |    Data    | Versão |                       Descrição                       |  Autor(es)   |
 | :--------: | :----: | :---------------------------------------------------: | :----------: |
 | 30/08/2020 |  1.0   | Criação do documento e adição dos stroyboards criados | Gabriel Davi |
+| 09/09/2020 |  1.1   |                Adição dos requisitos.                 | Gabriel Davi |
 
 ### Atualizar o estoque em qualquer lugar
 
@@ -40,16 +41,19 @@ O storyboard é uma sequência de desenhos quadro a quadro com o esboço das div
 
 ## Requisitos levantados
 
-|                                   Id                                   |                Nome                 |
-| :--------------------------------------------------------------------: | :---------------------------------: |
-| [#RF03](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |     Adição de itens ao estoque      |
-| [#RF04](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |         Consulta de estoque         |
-| [#RF05](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |        Filtro por categoria         |
-| [#RF012](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) |       Filtro por nome e preço       |
-| [#RF014](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) |        Plotagem de gráficos         |
-| [#RF015](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) | Atualização instantânea de estoque  |
-| [#RF017](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) | App para consulta fácil de produtos |
-| [#RF018](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) |  App para baixa fácil de produtos   |
+|                                     Id                                      |                Nome                 |
+| :-------------------------------------------------------------------------: | :---------------------------------: |
+|    [#RF03](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     Adição de itens ao estoque      |
+|    [#RF04](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         Consulta de estoque         |
+|    [#RF05](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        Filtro por categoria         |
+|   [#RF012](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |       Filtro por nome e preço       |
+|   [#RF014](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        Plotagem de gráficos         |
+|   [#RF015](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | Atualização instantânea de estoque  |
+|   [#RF017](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | App para consulta fácil de produtos |
+|   [#RF018](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |  App para baixa fácil de produtos   |
+| [#RNF01](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionaiss) |         Rapidez na consulta         |
+| [#RNF02](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionaiss) |         Gráficos didáticos          |
+| [#RNF03](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionaiss) |          Consultas remotas          |
 
 ## Referências
 
