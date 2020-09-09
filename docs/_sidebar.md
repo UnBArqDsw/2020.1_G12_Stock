@@ -4,6 +4,7 @@
   - [Documento de Visão](product/DocVisão.md)
 - **Projeto**
   - [Metodologias](Project/Metodologias.md)
+  - [Estimativas](Project/Evaluation.md)
   - [Sprints](Index/sprintsIndex.md)
 - **Base**
 - [Design Sprint](preTraceability/DesignSprint.md) 
