@@ -7,6 +7,7 @@ A entrevista é uma técnica de elicitação de requisitos que se baseia em ques
 |    Data    | Versão |                          Descrição                           |  Autor(es)   |
 | :--------: | :----: | :----------------------------------------------------------: | :----------: |
 | 31/08/2020 |  1.0   | Criação do documento de entrevista e adição da entrevista 1. | Gabriel Davi |
+| 09/09/2020 |  1.1   |                    Adição dos requisitos.                    | Gabriel Davi |
 
 A entrevista foi realizada com Ivanete Bezerra de 49 anos, que atualmente possui um empreendimento de pequeno porte chamado Bonnavita. O tipo de entrevista realizada foi fechada. A gravação para entrevista está disponível abaixo bem como a transcrição da mesma.
 
@@ -71,6 +72,24 @@ A entrevista foi realizada com Ivanete Bezerra de 49 anos, que atualmente possui
 ### 15. Em quais processos hoje em sua empresa você acha que daria para envolver tecnologia?
 
 “Nossa, praticamente tudo. Controle de estoque, controle de venda, cálculo da minha margem de lucro, cotação de mercadoria, emissão de pedido para cliente.”
+
+## Requisitos levantados
+
+|                                     Id                                      |                Nome                 |
+| :-------------------------------------------------------------------------: | :---------------------------------: |
+|    [#RF03](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     Adição de itens ao estoque      |
+|    [#RF04](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         Consulta de estoque         |
+|    [#RF05](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        Filtro por categoria         |
+|    [#RF07](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     Remoção de itens do estoque     |
+|    [#RF09](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |           Gerar planilha            |
+|    [#RF10](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         Histórico de vendas         |
+|   [#RF012](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |       Filtro por nome e preço       |
+|   [#RF014](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        Plotagem de gráficos         |
+|   [#RF015](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | Atualização instantânea de estoque  |
+|   [#RF017](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | App para consulta fácil de produtos |
+| [#RNF01](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionaiss) |         Rapidez na consulta         |
+| [#RNF02](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionaiss) |         Gráficos didáticos          |
+| [#RNF03](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionaiss) |          Consultas remotas          |
 
 ## Gravação
 
