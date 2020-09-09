@@ -8,6 +8,7 @@ Brainstorming é uma técnica que se aproveita de um grande fluxo de ideias send
 | :--------: | :----: | :--------------------------------------------------: | :--------: |
 | 31/08/2020 |  1.0   | Criação do documento baseado na gravação da reunião. | Pedro Igor |
 | 09/09/2020 |  1.1   | Adição dos requisitos. | Gabriel Davi |
+| 09/09/2020 | 1.1.1 | Adição do requisito RF08. | Pedro Igor |
 
 
 ## Metodologia
@@ -57,6 +58,7 @@ Obs: A hierarquia é incremental de forma que um papel superior tem todas as per
 | [#RF05](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |            Filtro por categoria             |
 | [#RF06](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |              Tags em produtos               |
 | [#RF07](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |         Remoção de itens do estoque         |
+| [#RF08](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |               Cadastrar produtos por planilhas               |
 | [#RF09](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |               Gerar planilha                |
 | [#RF10](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |             Histórico de vendas             |
 | [#RF11](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |             Histórico temporais             |
