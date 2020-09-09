@@ -72,6 +72,21 @@ A entrevista foi realizada com Ivanete Bezerra de 49 anos, que atualmente possui
 
 “Nossa, praticamente tudo. Controle de estoque, controle de venda, cálculo da minha margem de lucro, cotação de mercadoria, emissão de pedido para cliente.”
 
+## Requisitos levantados
+
+|                                   Id                                   |                Nome                 |
+| :--------------------------------------------------------------------: | :---------------------------------: |
+| [#RF03](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |     Adição de itens ao estoque      |
+| [#RF04](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |         Consulta de estoque         |
+| [#RF05](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |        Filtro por categoria         |
+| [#RF07](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |     Remoção de itens do estoque     |
+| [#RF09](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |           Gerar planilha            |
+| [#RF10](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |         Histórico de vendas         |
+| [#RF012](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) |       Filtro por nome e preço       |
+| [#RF014](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) |        Plotagem de gráficos         |
+| [#RF015](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) | Atualização instantânea de estoque  |
+| [#RF017](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) | App para consulta fácil de produtos |
+
 ## Gravação
 
 <audio controls>

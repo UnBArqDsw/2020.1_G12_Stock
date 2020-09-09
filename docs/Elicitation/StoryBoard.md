@@ -38,6 +38,19 @@ O storyboard é uma sequência de desenhos quadro a quadro com o esboço das div
 
 ![SB5](../assets/img/storyboards/SB5_GabrielDavi.jpg)
 
+## Requisitos levantados
+
+|                                   Id                                   |                Nome                 |
+| :--------------------------------------------------------------------: | :---------------------------------: |
+| [#RF03](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |     Adição de itens ao estoque      |
+| [#RF04](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |         Consulta de estoque         |
+| [#RF05](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |        Filtro por categoria         |
+| [#RF012](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) |       Filtro por nome e preço       |
+| [#RF014](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) |        Plotagem de gráficos         |
+| [#RF015](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) | Atualização instantânea de estoque  |
+| [#RF017](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) | App para consulta fácil de produtos |
+| [#RF018](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) |  App para baixa fácil de produtos   |
+
 ## Referências
 
 - Storyboard That - <https://www.storyboardthat.com/>. Último acesso em 28/08/2020
