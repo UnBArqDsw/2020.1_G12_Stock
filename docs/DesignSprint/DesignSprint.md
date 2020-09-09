@@ -8,8 +8,10 @@ O Design Sprint é um processo de cinco dias para responder a questões crítica
 | :--------: | :----: | :-----------------------: | :----------------------------: |
 | 04/09/2020 |  1.0   |  Criação do documento e adição da introdução e adaptação | Micaella Gouveia | 
 | 04/09/2020 |  1.1   |  Adição do dia 3 | Micaella Gouveia | 
-| 04/09/2020 |  1.2   |  Adição do dia 2 e justificativa Design Sprint | Sofia Patrocínio | 
-| 06/09/2020 |  1.2   |  Adição do dia 1 e justificativa Design Sprint | Pedro Igor | 
+| 04/09/2020 |  1.2   |  Adição do dia 2 e justificativa | Sofia Patrocínio | 
+| 06/09/2020 |  1.3   |  Adição do dia 1  | Pedro Igor | 
+| 08/09/2020 |  1.4   |  Adição do dia 5  | Gabriel Davi | 
+| 08/09/2020 |  1.5   |  Adição do dia 4  | Gabriel Alves | 
 
 ## Metodologia do Processo
 
