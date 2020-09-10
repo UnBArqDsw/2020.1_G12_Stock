@@ -24,7 +24,7 @@
 *Métrica ainda não tinha sido definida nesta Sprint.*
 
 ## Burndown
-*Métrica ainda não tinha sido definida nesta Sprint.*
+![burndown 1](../../assets/img/Sprints/metricas/burndownS1.png)
 
 ## Velocity
 *Métrica ainda não tinha sido definida nesta Sprint.*
