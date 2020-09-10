@@ -87,9 +87,9 @@ A entrevista foi realizada com Ivanete Bezerra de 49 anos, que atualmente possui
 |   [#RF014](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        Plotagem de gráficos         |
 |   [#RF015](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | Atualização instantânea de estoque  |
 |   [#RF017](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | App para consulta fácil de produtos |
-| [#RNF01](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionaiss) |         Rapidez na consulta         |
-| [#RNF02](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionaiss) |         Gráficos didáticos          |
-| [#RNF03](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionaiss) |          Consultas remotas          |
+| [#RNF01](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |         Rapidez na consulta         |
+| [#RNF02](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |         Gráficos didáticos          |
+| [#RNF03](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |          Consultas remotas          |
 
 ## Gravação
 
