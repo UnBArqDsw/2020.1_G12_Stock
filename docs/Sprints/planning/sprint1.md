@@ -21,9 +21,9 @@ Este quadro divide a pontuação das issues com a quantidade de participantes, p
 *Como nesta Sprint foi realizado o Design Sprint, todos os membros participaram de todas as issues, e cada um ficou responsável em finalizar um documento, não sendo necessário fazer a distribuição de pontos.*
 
 ## Relato
-### Metodologia de Design Sprint
+* Durante o desenvolvimento da Sprint 0, os membros do time assistiram as aulas da professora Milene sobre Design Sprint, e uma dúvida sobre a aplicação da técnica no contexto do time surgiu. Muitos artefatos iniciais já haviam sido produzidos, então recorremos à professora para saber se era válido utilizar a técnica em outros documentos, e a professora autorizou a adaptação da técnica.
 
-Nessa Sprint os artefatos serão desenvolvidos com a metodologia de Design Sprint, em que a cada dia, um artefato será produzido, e cada membro ficará responsável em documentar um dos artefatos. Eles serão produzidos nos dias 01/09/2020 a 06/09/2020 (de terça-feira a sábado), com horários a definir.
+* **Metodologia de Design Sprint**: Nessa Sprint os artefatos serão desenvolvidos com a metodologia de Design Sprint, em que a cada dia, um artefato será produzido, e cada membro ficará responsável em documentar um dos artefatos. Eles serão produzidos nos dias 01/09/2020 a 06/09/2020 (de terça-feira a sábado), com horários a definir.
 
 |Dias | Artefato | Responsável |
 | - | - | - |
@@ -34,7 +34,7 @@ Nessa Sprint os artefatos serão desenvolvidos com a metodologia de Design Sprin
 | 5 | Estimativas | Gabriel Davi
 
 ## Gravações Disponíveis
-*Nenhuma disponível*
+*Nenhuma disponível. Durante a reunião o time decidiu que utilizaria o Design Sprint para a próxima Sprint. Durante a reunião houve imprevistos familiares e de falta de energia na casa de membros, tornando a reunião mais rápida, e apenas com a confirmação do que seria feito a seguir.*
 
 
 

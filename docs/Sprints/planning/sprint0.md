@@ -26,6 +26,11 @@ Este quadro divide a pontuação das issues com a quantidade de participantes, p
 *Como nesta Sprint as metodologias não tinham sido definidas, não foi feita a pontuação das issues.*
 
 ## Relato
+* Na semana anterior à Sprint 0, o grupo já havia sido formado e a ideia geral do projeto também. Antes da reunião, as alunas Micaella Gouveia e Sofia Patrocínio fizeram um levantamento dos artefatos que poderiam ser produzidos durante a Sprint 0, tendo como base as diretrizes propostas pela professora Milene. Elas criaram um Google Calendar com as datas das entregas e datas de avaliações em pares, contendo tudo o que foi solicitado pela professora para cada entrega.
+
+![google calendar exemplo](../../assets/img/Sprints/googlecalendar.png)
+*Exemplo da organização feita pelo Google Calendar*
+
 * O  que foi discutido que poderia ser feito e as pessoas responsáveis:
 
 | Tarefa | Resposável
@@ -43,9 +48,9 @@ Este quadro divide a pontuação das issues com a quantidade de participantes, p
 | Stoyboards | Gabriel Davi
 | Argumentação | Pedro Igor e Gabriel Alves
 
-* Definição do Nome: Stock.
+* Como a ideia geral ja havia sido decidida, o aluno Gabriel Davi apresentou dois rich pictures que tinha feito e mostrou durante a reunião.
+* Durante a reunião, o time decidiu escolher o nome da aplicação, para já ser feito o manual de identidade visual. Definição do Nome: Stock.
 * Foi realizado o Brainstormig inicial do projeto.
-* Foi apresentado os rich pictures produzidos pelo Gabriel Davi.
 
 ## Gravações Disponíveis
 * Decisão do Nome:
