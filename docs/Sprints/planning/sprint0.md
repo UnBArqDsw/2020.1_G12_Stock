@@ -1,4 +1,6 @@
 # Planejamento Sprint 0
+**Período: 23/08/2020 a 29/08/2020**<br>
+**Data da Reunião: 22/08/2020**
 
 ## Issues
 |Número | Issue | Pontuação | Participantes|
@@ -17,3 +19,37 @@
 | [**#12**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/12) | Docsify e ZenHub | Sem | Gabriel Davi e Micaella |
 
 ## Pontuação : Sem pontuação
+
+## Quadro de Distribuição de Pontos
+Este quadro divide a pontuação das issues com a quantidade de participantes, para ter a noção da distribuição de pontos por pessoa, evitando a sobrecarga de tarefas para algum membro.
+
+*Como nesta Sprint as metodologias não tinham sido definidas, não foi feita a pontuação das issues.*
+
+## Relato
+* O  que foi discutido que poderia ser feito e as pessoas responsáveis:
+
+| Tarefa | Resposável
+| - | - |
+| Rich picture | Todos
+| Mapa Mental | Todos
+| 5W2H (documentar) | Gabriel Alves
+| Identidade visual | Sofia
+| Brainstorming (documentar) | Pedro Igor
+| Causa-Efeito (estudo) | Micaella 
+| Plano de Análise de Riscos/Custos/Tempo (estudo) | Micaella 
+| Questionário | Pedro Igor e Gabriel
+| Documento de Visão | Sofia
+| Entrevista | Gabriel Davi
+| Stoyboards | Gabriel Davi
+| Argumentação | Pedro Igor e Gabriel Alves
+
+* Definição do Nome: Stock.
+* Foi realizado o Brainstormig inicial do projeto.
+* Foi apresentado os rich pictures produzidos pelo Gabriel Davi.
+
+## Gravações Disponíveis
+* Decisão do Nome: **<https://youtu.be/LIIm4z8s4JU>**
+* Apresentação dos Rich Pictures (Gabriel Davi): **<https://youtu.be/iwk9n6-1Aw4>**
+* Brainstorming: **<https://youtu.be/AQ_4sSgTy5c>**
+
+
