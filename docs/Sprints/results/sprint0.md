@@ -4,14 +4,14 @@
 
 |Número | Issue | Pontuação | Participantes|
 | - | - | - | - |
-| [**#1**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/1) | Rich Picture   | Sem  | Todos  |
-| [**#2**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/2) | Mapa Mental | Sem | Todos |
-| [**#3**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/3) | 5W2H | Sem | Todos |
-| [**#4**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/4) | Identidade Visual | Sem | Sofia |
-| [**#9**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/9) | Entrevista | Sem | Gabriel Davi |
-| [**#10**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/10) | StoryBoards | Sem | Gabriel Davi|
-| [**#11**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/11) | Argumentação | Sem | Pedro e Gabriel Alves |
-| [**#12**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/12) | Docsify e ZenHub | Sem | Gabriel Davi e Micaella |
+| [**#1**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/1) | [Rich Picture](preTraceability/RichPicture.md)   | Sem  | Todos  |
+| [**#2**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/2) | [Mapa Mental](preTraceability/MapaMental.md) | Sem | Todos |
+| [**#3**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/3) | [5W2H](preTraceability/5W2H.md) | Sem | Todos |
+| [**#4**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/4) | [Identidade Visual](Product/ManualId.md) | Sem | Sofia |
+| [**#9**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/9) | [Entrevista](Elicitation/Entrevista.md) | Sem | Gabriel Davi |
+| [**#10**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/10) | [StoryBoards](Elicitation/StoryBoard.md) | Sem | Gabriel Davi|
+| [**#11**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/11) | [Argumentação](preTraceability/Argumentacao.md) | Sem | Pedro e Gabriel Alves |
+| [**#12**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/12) | Docsify e [ZenHub](https://github.com/UnBArqDsw/2020.1_G12_Stock/tree/master#workspaces/stock-5f46b149cedde3001802fff1/board?repos=289488039) | Sem | Gabriel Davi e Micaella |
 
 ## Issues Não Entregues
 
