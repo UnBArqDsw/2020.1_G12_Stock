@@ -1,5 +1,5 @@
 # Causa e Efeito
-**Este artefato foi produzido durante a Design Sprint, para saber mais sobre a metodologia e como ela foi feita, clique aqui: *[Design Sprint](preTraceability/DesignSprint.md)***
+**Este artefato foi produzido durante o dia 4 da Design Sprint, para saber mais sobre a metodologia e como ela foi feita, clique aqui: *[Design Sprint](DesignSprint/DesignSprint.md)***
 
 ## Histórico de Revisão
 
@@ -7,6 +7,7 @@
 | :--------: | :----: | :-----------------------: | :----------------------------: |
 | 04/09/20   |  1.0   | Criação do documento e levantamento de seus efeitos e suas respectivas causas | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 | 06/09/20   |  1.1   | Elaboração das tabelas e diagramas dos seus efeitos e suas respectivas causas | Gabriel Alves |
+| 09/09/2020 |  1.2   | Correção da rota de hyperlink para página de Design Sprint | Sofia Patrocínio |
 
 ## Introdução
 
