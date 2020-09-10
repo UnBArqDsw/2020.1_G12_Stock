@@ -33,8 +33,8 @@ Nossas fases ficaram assim definidas:
 
 1. **Entender(20min)**: Discussão entre os membros sobre o documento a ser feito, podendo utilizar técnincas como brainstorming, mapa metal, entre outros.
 2. **Esboçar(30min)**: Cada membro faz seu modelo do documento, ou apenas elicita aquilo que precisa ser discutido para o documento final.
-3. **Decidir(30min)**: Discussão entre os membros, em qua cada um levanta o que ele produziu, e há decisão do que será documentado ou não.
-4. **Prototipar(40min)**: Todos acompanham o mediador do dia na pré produção do artefato, em que os pontos decididos serão expostos.
+3. **Decidir(50min)**: Discussão entre os membros, em qua cada um levanta o que ele produziu, e há a decisão do que será documentado ou não.
+4. **Prototipar(20min)**: O mediador do dia fica responsável pela pré produção do artefato.
 5. **Finalizar**: O mediador do dia fica responsável em terminar a documentação e abrir o Pull Rquest.
 
 ## Justificativa
