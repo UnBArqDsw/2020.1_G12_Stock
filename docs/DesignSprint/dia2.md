@@ -28,16 +28,16 @@ Para isso, escolhemos os tópicos 1.2, 2.1, 2.2, 2.3, 3.6, 4.1, 4.2, 5, 6 e 7 pa
 
 ## Documentos Produzidos
 * Gabriel Alves
-![gabriel alves](../assets/designSprint/doc_visão/Gabriel.jpg)
+![Gabriel Alves](../assets/designSprint/doc_visão/Gabriel.jpg)
 
 * Gabriel Davi
-![gabriel davi](../assets/designSprint/doc_visão/Davi.jpg)
+![Gabriel Davi](../assets/designSprint/doc_visão/Davi.jpg)
 
 * Micaella Gouveia
-![](../assets/designSprint/doc_visão/Micaella.jpg)
+![Micaella Gouveia](../assets/designSprint/doc_visão/Micaella.jpg)
 
 * Pedro Igor
-![pedro](../assets/designSprint/doc_visão/Pedro_Igor.png)
+![Pedro Igor](../assets/designSprint/doc_visão/Pedro_Igor.png)
 
 * Sofia Patrocínio
-![sofia](../assets/designSprint/doc_visão/Sofia.jpg)
+![Sofia Patrocínio](../assets/designSprint/doc_visão/Sofia.jpg)

@@ -25,24 +25,24 @@ No final, eu fiquei responsável por realizar todos os cálculos de estimativas 
 
 - Gabriel Alves
 
-  ![gabriel alves](../assets/designSprint/estimativas/estimativasGabrielAlves.png)
+  ![Gabriel Alves](../assets/designSprint/estimativas/estimativasGabrielAlves.png)
 
 - Gabriel Davi
 
-  ![gabriel davi](../assets/designSprint/estimativas/estimativasGabrielDavi.png)
+  ![Gabriel Davi](../assets/designSprint/estimativas/estimativasGabrielDavi.png)
 
 - Micaella Gouveia
 
-  ![micaella gouveia](../assets/designSprint/estimativas/estimativasMicaella.png)
+  ![Micaella Gouveia](../assets/designSprint/estimativas/estimativasMicaella.png)
 
 - Pedro Igor
 
-  ![pedro](../assets/designSprint/estimativas/estimativasIgor.png)
+  ![Pedro Igor](../assets/designSprint/estimativas/estimativasIgor.png)
 
 - Sofia Patrocínio
 
-  ![sofia](../assets/designSprint/estimativas/evaluationSofia.png)
+  ![Sofia Patrocínio](../assets/designSprint/estimativas/evaluationSofia.png)
 
 - Levantamento final
 
-  ![final](../assets/designSprint/estimativas/levantamentoFinal.png)
+  ![Final](../assets/designSprint/estimativas/levantamentoFinal.png)

@@ -17,7 +17,7 @@
 Na etapa **Entender (Unpack)**, primeiramente, os integrantes do grupo discorreram a respeito do artefato em si, com o objetivo de que todos tivessem total entendimento do que precisariam fazer a posteriori. Após as considerações individuais a respeito do documento os mesmos decidiram dividir os diagramas em duas categorias, efeitos positivos e efeitos negativos. Com isso, foram definidos todos os efeitos, que seriam diagramados.Já na etapa **Esboçar (Sketch)** tendo todos os efeitos já estipulados na fase anterior, cada membro seria responsável por identificar as possíveis causas para cada efeito. Na fase **Decidir (Decide)**, cada membro disponibilizou ao restante do time, aquilo que identificou como sendo cada uma das causas que resultaram em seus respectivos efeitos. Os pontos em que houveram convergência de pensamento, foram marcados para serem acrescidos no documento final pelo mediador. Já os pontos que divergiam, cada um tinha a possibilidade de explicar os seus motivos e em seguida todo o time debatia e então aceitavam, recusavam ou alteravam o ponto em questão. Já a **Prototipar (Prototype)** foi elaborada pelo mediador, com base no que foi decido na etapa anterior. Isso inclui a construção dos diagramas e a formatação textual para facilitar futuros hyperlinks de informações provenientes dos diagramas.
 </p>
 
-### Documentação produzida: [Diagrama Causa e Efeito](../preTraceability/causaEfeito.md)
+### Documentação produzida: [Diagrama Causa e Efeito](preTraceability/causaEfeito.md)
 
 ## Documentos Produzidos
 

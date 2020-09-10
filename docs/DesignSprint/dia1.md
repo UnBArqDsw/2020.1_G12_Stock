@@ -19,7 +19,7 @@ Na etapa de **Entender (Unpack)**, que durou 20 minutos, definimos o objetivo da
 Na etapa **Esboçar (Sketch)**, que levou 30 minutos, cada um construiu o seu próprio questionário levando em consideração a etapa anterior traçando um fluxo de conhecimento sobre o usuário participante. Em seguida, na etapa **Decidir (Decide)**, em 30 minutos cada um dos membros compartilhou suas sugestões de perguntas e posicionamentos dentro do questionário como um todo. Foram escolhidas as perguntas mais adequadas para o grupo, sempre optando por questões o mais objetivas possível e filtrando o usuário que realmente faz parte do público alvo da aplicação. Criamos um protótipo com as perguntas escolhidas na etapa anterior, caracterizando a etapa **Prototipar (Prototype)**. Esta etapa levou cerca de 1 hora. O protótipo foi o único a ir para a etapa **Teste (Test)**, onde criamos um formulário no Google Forms e compartilhamos com populações que atenderiam características do nosso público alvo.
 
 
-### Documentação produzida: [Questionário](../Elicitation/Questionario)
+### Documentação produzida: [Questionário](Elicitation/Questionario.md)
 ## Gravações
 
 ## Documentos Individuais Produzidos

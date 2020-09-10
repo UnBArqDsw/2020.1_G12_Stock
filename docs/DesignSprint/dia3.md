@@ -21,16 +21,16 @@ Na fase de **Entender (Unpack)**, foi definido como seriam feitas todas as fases
 
 ## Documentos Produzidos
 * Gabriel Alves
-![gabriel alves](../assets/designSprint/riscos/riscosGabrielAlves.png)
+![Gabriel Alves](../assets/designSprint/riscos/riscosGabrielAlves.png)
 
 * Gabriel Davi
-![gabriel davi](../assets/designSprint/riscos/riscosGabrielDavi.png)
+![Gabriel Davi](../assets/designSprint/riscos/riscosGabrielDavi.png)
 
 * Micaella Gouveia
-![](../assets/designSprint/riscos/riscosMicaella.png)
+![Micaella Gouveia](../assets/designSprint/riscos/riscosMicaella.png)
 
 * Pedro Igor
-![pedro](../assets/designSprint/riscos/riscosPedro.png)
+![Pedro Igor](../assets/designSprint/riscos/riscosPedro.png)
 
 * Sofia Patrocínio
-![sofia](../assets/designSprint/riscos/riscosSofia.png)
+![Sofia Patrocínio](../assets/designSprint/riscos/riscosSofia.png)
