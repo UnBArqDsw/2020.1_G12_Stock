@@ -4,10 +4,10 @@
 ## Histórico de Revisão
 | Data | Versão | Descrição | Autor(es) |
 | :--: | :----: | :-------: | :-------: |
-| 03/09/2020| 1.0|Criação do documento e elicitação dos riscos, probabilidades, impactos e ações| Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio
-| 03/09/2020| 1.1| Adição da estrutura analítica de riscos| Sofia Patrocínio|
-| 03/09/2020| 1.2 | Adição das tabelas por tópicos, criação da tabela de análise | Micaella Gouveia |
-| 04/09/2020| 1.3 | Adição de hyperlink para página de Design Sprint | Micaella Gouveia |
+| 03/09/2020| 1.0|Criação do documento e elicitação dos riscos, probabilidades, impactos e ações.| Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio
+| 03/09/2020| 1.1| Adição da estrutura analítica de riscos.| Sofia Patrocínio|
+| 03/09/2020| 1.2 | Adição das tabelas por tópicos, criação da tabela de análise. | Micaella Gouveia |
+| 04/09/2020| 1.3 | Adição de hyperlink para página de Design Sprint. | Micaella Gouveia |
 
 ## Introdução
 
@@ -429,6 +429,6 @@ Sendo que:
 
 
 ## Referências
-* Wiki Gaia <https://fga-eps-mds.github.io/2019.1-Gaia/#/projeto/planoRisco> último acesso em 03/09/2020.
-* Wiki A Monitoria <https://2019-2-arquitetura-desenho.github.io/wiki/dinamica_seminario_II/controle_riscos> último acesso em 03/09/2020.
-* Vídeo <https://youtu.be/HDMS7ftQJb0> último acesso em 01/09/2020. (Disponibilizado pela professora Milene).
+* Wiki Gaia <https://fga-eps-mds.github.io/2019.1-Gaia/#/projeto/planoRisco>. Último acesso em 03/09/2020.
+* Wiki A Monitoria <https://2019-2-arquitetura-desenho.github.io/wiki/dinamica_seminario_II/controle_riscos>. Último acesso em 03/09/2020.
+* Vídeo <https://youtu.be/HDMS7ftQJb0>. Último acesso em 01/09/2020. (Disponibilizado pela professora Milene).

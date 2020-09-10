@@ -9,9 +9,9 @@ Para a estimativa do custo, será levado em consideração apenas o ciclo de pro
 
 |    Data    | Versão |                         Descrição                         |                                  Autor(es)                                  |
 | :--------: | :----: | :-------------------------------------------------------: | :-------------------------------------------------------------------------: |
-| 05/09/2020 |  1.0   | Estimativa em equipe para o número de linhas da aplicação | Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio, Gabriel Alves |
-| 05/09/2020 |  1.1   |           Abertura do documento de estimativas            |                                Gabriel Davi                                 |
-| 06/09/2020 |  1.2   |     Realização dos cálculos de esforço, tempo e custo     |                                Gabriel Davi                                 |
+| 05/09/2020 |  1.0   | Estimativa em equipe para o número de linhas da aplicação. | Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio, Gabriel Alves |
+| 05/09/2020 |  1.1   |           Abertura do documento de estimativas.            |                                Gabriel Davi                                 |
+| 06/09/2020 |  1.2   |     Realização dos cálculos de esforço, tempo e custo.     |                                Gabriel Davi                                 |
 
 ## MODELO DE CUSTO CONSTRUTIVO (CONSTRUCTIVE COST MODEL - COCOMO)
 
@@ -545,15 +545,15 @@ Com isso, estipula-se que o valor total do projeto seja estimado em **R\$ 81,405
 
 ## Referências
 
-SILVA FILHO, Antonio Mendes da. **Custo de Software: Planejamento e Gestão**. Disponível em: <http://www.periodicos.uem.br/ojs/index.php/EspacoAcademico/article/view/22604/12254> - ultimo acesso 04/09/2020
+SILVA FILHO, Antonio Mendes da. **Custo de Software: Planejamento e Gestão**. Disponível em: <http://www.periodicos.uem.br/ojs/index.php/EspacoAcademico/article/view/22604/12254>. Último acesso 04/09/2020
 
-**A monitoria**. Disponível em: <https://github.com/2019-2-arquitetura-desenho/wiki> - ultimo acesso 05/09/2020
+**A monitoria**. Disponível em: <https://github.com/2019-2-arquitetura-desenho/wiki>. Último acesso 05/09/2020
 
-**COCOMO** Disponível em: <http://vivenciandoti.blogspot.com/2016/07/o-que-e-cocomo-ii.html#:~:text=COCOMO%20(COnstructive%20COst%20MOdel)%20%C3%A9,equipe%20em%20projetos%20de%20software.&text=Este%20n%C3%BAmero%20pode%20ser%20derivado,fun%C3%A7%C3%A3o%20n%C3%A3o%20ajustados%20do%20projeto.> - ultimo acesso 05/09/2020
+**COCOMO** Disponível em: <http://vivenciandoti.blogspot.com/2016/07/o-que-e-cocomo-ii.html#:~:text=COCOMO%20(COnstructive%20COst%20MOdel)%20%C3%A9,equipe%20em%20projetos%20de%20software.&text=Este%20n%C3%BAmero%20pode%20ser%20derivado,fun%C3%A7%C3%A3o%20n%C3%A3o%20ajustados%20do%20projeto.>. Último acesso 05/09/2020
 
-**Internet Claro** Disponível em: <https://www.claro.com.br/internet/banda-larga> - ultimo acesso 06/09/2020
+**Internet Claro** Disponível em: <https://www.claro.com.br/internet/banda-larga>. Último acesso 06/09/2020
 
-**CEB ENERGIA** Disponível em: <http://www.aneel.gov.br/home?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_returnToFullPageURL=http%3A%2F%2Fwww.aneel.gov.br%2Fhome%3Fp_auth%3DjMK88uBU%26p_p_id%3D3%26p_p_lifecycle%3D1%26p_p_state%3Dnormal%26p_p_state_rcv%3D1&_101_assetEntryId=14837763&_101_type=content&_101_groupId=656877&_101_urlTitle=aneel-estabelece-novo-valor-para-encargo-de-capacidade-emergencial-da-cb-1&inheritRedirect=true> - ultimo acesso 06/09/2020
+**CEB ENERGIA** Disponível em: <http://www.aneel.gov.br/home?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_returnToFullPageURL=http%3A%2F%2Fwww.aneel.gov.br%2Fhome%3Fp_auth%3DjMK88uBU%26p_p_id%3D3%26p_p_lifecycle%3D1%26p_p_state%3Dnormal%26p_p_state_rcv%3D1&_101_assetEntryId=14837763&_101_type=content&_101_groupId=656877&_101_urlTitle=aneel-estabelece-novo-valor-para-encargo-de-capacidade-emergencial-da-cb-1&inheritRedirect=true>. Último acesso 06/09/2020
 
 <style>
     .selected {

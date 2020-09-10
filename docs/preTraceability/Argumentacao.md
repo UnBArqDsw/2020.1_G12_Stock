@@ -9,8 +9,8 @@ Com isso, abaixo mostramos os argumentos, que levaram o grupo a escolha do tema 
 |    Data    | Versão |         Descrição         |           Autor(es)            |
 | :--------: | :----: | :-----------------------: | :----------------------------: |
 | 25/08/2020 |  1.0   |  Criação do documento e adição da argumentação realizada antes da divisão do grupo. | Pedro Igor | 
-| 27/08/2020 |  1.1   |  Adição da definição de Argumentação | Gabriel Alves |
-| 27/08/2020 |  1.2   |  Adição do diagrama ACE em aplicação de controle de estoque e atualizando Referências | Gabriel Alves |
+| 27/08/2020 |  1.1   |  Adição da definição de Argumentação. | Gabriel Alves |
+| 27/08/2020 |  1.2   |  Adição do diagrama ACE em aplicação de controle de estoque e atualização das Referências. | Gabriel Alves |
 | 28/08/2020 |  1.3   |  Adição do resultado da votação e formatação do conteúdo da página. | Pedro Igor |
 
 # Argumentação em torno da escolha da aplicação

@@ -52,4 +52,4 @@ Para o projeto, decidimos que cada membro faria inicialmente o seu Rich Picture,
 
 ## Referências
 
-- Rich Pictures - <http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html>. Último acesso em 28/08/2020
+- Rich Pictures: <http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html>. Último acesso em 28/08/2020.
