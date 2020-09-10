@@ -69,5 +69,10 @@ Nesta Sprint, alguns documentos são pré-requisitos de outros, sendo necessári
 | Adicionar pequeno relato das reuniões já feitas |Micaella
 
 ## Gravações Disponíveis
-* Reunião Semanal (Sprint Planning): **<https://youtu.be/pZZrLSgsaT4>**
-* Plan It Poker (Pontuação das Issues): **<https://www.youtube.com/watch?v=rwoqwJKP_AU>**
+* Reunião Semanal (Sprint Planning):
+
+[![Reunião Semanal 3 - Sprint Planning](http://img.youtube.com/vi/pZZrLSgsaT4/0.jpg)](http://www.youtube.com/watch?v=pZZrLSgsaT4 "Reunião Semanal 3 - Sprint Planning")
+
+* Planning Poker (Pontuação das Issues):
+
+[![Reunião Semanal 3 - Planning Poker](http://img.youtube.com/vi/rwoqwJKP_AU/0.jpg)](http://www.youtube.com/watch?v=rwoqwJKP_AU "Reunião Semanal 3 - Planning Poker")

@@ -48,8 +48,16 @@ Este quadro divide a pontuação das issues com a quantidade de participantes, p
 * Foi apresentado os rich pictures produzidos pelo Gabriel Davi.
 
 ## Gravações Disponíveis
-* Decisão do Nome: **<https://youtu.be/LIIm4z8s4JU>**
-* Apresentação dos Rich Pictures (Gabriel Davi): **<https://youtu.be/iwk9n6-1Aw4>**
-* Brainstorming: **<https://youtu.be/AQ_4sSgTy5c>**
+* Decisão do Nome:
+
+[![Reunião Semanal 1 - Decisão Nome](http://img.youtube.com/vi/LIIm4z8s4JU/0.jpg)](http://www.youtube.com/watch?v=LIIm4z8s4JU "Reunião Semanal 1 - Decisão Nome")
+
+* Apresentação dos Rich Pictures (Gabriel Davi):
+
+[![Reunião Semanal 1 - Apresentação Rich Pictures](http://img.youtube.com/vi/iwk9n6-1Aw4/0.jpg)](http://www.youtube.com/watch?v=iwk9n6-1Aw4 "Reunião Semanal 1 - Apresentação Rich Pictures")
+
+* Brainstorming:
+
+[![Reunião Semanal 1 - Brainstorming](http://img.youtube.com/vi/AQ_4sSgTy5c/0.jpg)](http://www.youtube.com/watch?v=AQ_4sSgTy5c "Reunião Semanal 1 - Brainstorming")
 
 
