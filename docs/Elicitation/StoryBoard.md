@@ -70,9 +70,9 @@ O storyboard é uma sequência de desenhos quadro a quadro com o esboço das div
 |   [#RF017](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | App para consulta fácil de produtos |
 |   [#RF018](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |  App para baixa fácil de produtos   |
 |   [#RF019](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |  Notificação de prazo de vencimento   |
-|   [#RNF01](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionaiss) |         Rapidez na consulta         |
-|   [#RNF02](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionaiss) |         Gráficos didáticos          |
-|   [#RNF03](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionaiss) |          Consultas remotas          |
+|   [#RNF01](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |         Rapidez na consulta         |
+|   [#RNF02](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |         Gráficos didáticos          |
+|   [#RNF03](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |          Consultas remotas          |
 
 
 ## Referências
