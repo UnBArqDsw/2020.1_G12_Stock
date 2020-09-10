@@ -1,6 +1,6 @@
 # Introspecção
 
-A introspecção é uma é uma técnica muito utilizada na etapa de elicitação de requisitos. Ela tem como objetivo entender as funcionalidades importantes de um sistema. Apesar de muito usada, nem sempre a introspecção traz uma visão próxima da realidade, pois em muitos casos, a pessoa que aplica a introspecção não tem uma visão voltada para a experiência e expectativas do usuário.
+A introspecção é uma técnica muito utilizada na etapa de elicitação de requisitos. Ela tem como objetivo entender as funcionalidades importantes de um sistema. Apesar de muito usada, nem sempre a introspecção traz uma visão próxima da realidade, pois em muitos casos, a pessoa que aplica a introspecção não tem uma visão voltada para a experiência e expectativas do usuário.
 
 ## Históricos de Revisões
 
