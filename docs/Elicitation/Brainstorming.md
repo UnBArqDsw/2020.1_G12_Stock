@@ -26,7 +26,7 @@ A técnica de brainstorming foi aplicada na primeira reunião em grupo. O foco d
 |      Remoção de itens ao estoque.       |                  Dar baixa em um produto que foi vendido ou não se encontra mais disponível.                  |
 | Adicionar hierarquias(níveis) de acesso | Dar diferentes permissões para diferentes tipos de usuário dentro de um mesmo negócio (admin, owner, seller). |
 |                  Login                  |                        Um usuário logar com sua conta independentemente da hierarquia.                        |
-|           Histórico de vendas           |                Gerar um histórico do que foi removido do estoque, quem removeu e quando, etc..                |
+|           Histórico de vendas           |                Gerar um histórico do que foi removido do estoque, quem removeu e quando, etc.                |
 |          Históricos temporais           |                     Escolher um período temporal para análise (diário, semanal, mensal).                      |
 |            Tags nos produtos            |                       Adicionar tags aos produtos que permitem fazer uma busca por tag.                       |
 |          Filtro por categoria           |                       Usuários podem procurar por um produto por meio de sua categoria.                       |
@@ -70,4 +70,4 @@ Obs: A hierarquia é incremental de forma que um papel superior tem todas as per
 ## Referências
 
 - WOEBCKEN, Cayo. O que é brainstorming e as 7 melhores técnicas para a tomada de decisões inteligentes. [S. l.], 10 jul. 2019. Disponível em: <https://rockcontent.com/blog/brainstorming/>. Último acesso em: 31/08/2020.
-- Wiki PAX App - Grupo de Desenho de Software do semestre 2019/2 - Disponível em: <https://pax-app.github.io/Wiki/#/>. Último acesso em: 31/08/2020
+- Wiki PAX App: <https://pax-app.github.io/Wiki/#/>. Último acesso em: 31/08/2020.

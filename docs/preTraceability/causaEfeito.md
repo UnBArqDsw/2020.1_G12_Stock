@@ -5,8 +5,8 @@
 
 |    Data    | Versão |         Descrição         |           Autor(es)            |
 | :--------: | :----: | :-----------------------: | :----------------------------: |
-| 04/09/20   |  1.0   | Criação do documento e levantamento de seus efeitos e suas respectivas causas | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
-| 06/09/20   |  1.1   | Elaboração das tabelas e diagramas dos seus efeitos e suas respectivas causas | Gabriel Alves |
+| 04/09/20   |  1.0   | Criação do documento e levantamento de seus efeitos e suas respectivas causas. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 06/09/20   |  1.1   | Elaboração das tabelas e diagramas dos seus efeitos e suas respectivas causas.| Gabriel Alves |
 
 ## Introdução
 
@@ -101,6 +101,6 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 
 ## Referências
 
-- MARTINS, Rosemary. Diagrama de Ishikawa. Disponível em: https://blogdaqualidade.com.br/diagrama-de-ishikawa/. Acesso em: 06 set. 2020.
+- MARTINS, Rosemary. Diagrama de Ishikawa. Disponível em: https://blogdaqualidade.com.br/diagrama-de-ishikawa/. Último acesso em 06/09/2020.
 
-- ANDRADE, Luiza. DIAGRAMA DE ISHIKAWA: O QUE É E COMO FAZER. Disponível em: https://www.siteware.com.br/metodologias/diagrama-de-ishikawa/. Acesso em: 06 set. 2020.
+- ANDRADE, Luiza. DIAGRAMA DE ISHIKAWA: O QUE É E COMO FAZER. Disponível em: https://www.siteware.com.br/metodologias/diagrama-de-ishikawa/. último acesso em 06/09/2020.

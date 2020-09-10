@@ -6,7 +6,7 @@ O storyboard é uma sequência de desenhos quadro a quadro com o esboço das div
 
 |    Data    | Versão |                       Descrição                       |  Autor(es)   |
 | :--------: | :----: | :---------------------------------------------------: | :----------: |
-| 30/08/2020 |  1.0   | Criação do documento e adição dos stroyboards criados | Gabriel Davi |
+| 30/08/2020 |  1.0   | Criação do documento e adição dos stroyboards criados. | Gabriel Davi |
 | 09/09/2020 |  1.1   |                Adição dos requisitos.                 | Gabriel Davi |
 
 ### Atualizar o estoque em qualquer lugar
@@ -57,5 +57,5 @@ O storyboard é uma sequência de desenhos quadro a quadro com o esboço das div
 
 ## Referências
 
-- Storyboard That - <https://www.storyboardthat.com/>. Último acesso em 28/08/2020
-- RocketChat- Repositório de requisitos de software - <https://marcosnbj.github.io/2019.1-RocketChat/>. Último acesso em 30/08/2020
+- Storyboard That: <https://www.storyboardthat.com/>. Último acesso em 28/08/2020.
+- RocketChat- Repositório de requisitos de software: <https://marcosnbj.github.io/2019.1-RocketChat/>. Último acesso em 30/08/2020.
