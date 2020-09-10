@@ -7,10 +7,11 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 
 |    Data    | Versão |                                     Descrição                                      |  Autor(es)   |
 | :--------: | :----: | :--------------------------------------------------------------------------------: | :----------: |
-| 07/08/2020 |  1.0   |        Adição de requisitos funcionais baseados na técnica de Brainstorming        |  Pedro Igor  |
-| 07/08/2020 |  1.1   | Adição de requisitos funcionais e não funcionais baseados na técnica de StoryBoard |  Pedro Igor  |
-| 07/08/2020 |  1.2   |       Adição de requisitos não funcionais baseados na técnica de Entrevista.       |  Pedro Igor  |
-| 07/08/2020 |  1.3   |                         Adição de requisitos RF17 E RF18.                          | Gabriel Davi |
+| 07/09/2020 |  1.0   |        Adição de requisitos funcionais baseados na técnica de Brainstorming        |  Pedro Igor  |
+| 07/09/2020 |  1.1   | Adição de requisitos funcionais e não funcionais baseados na técnica de StoryBoard |  Pedro Igor  |
+| 07/09/2020 |  1.2   |       Adição de requisitos não funcionais baseados na técnica de Entrevista.       |  Pedro Igor  |
+| 07/09/2020 |  1.3   |                         Adição de requisitos RF17 E RF18.                          | Gabriel Davi |
+| 09/09/2020 |  1.4   |                         Edição do requisito RF9 e adição de requisito RF21.                                  | Sofia Patrocínio |
 
 ## Requisitos Funcionais
 
@@ -24,7 +25,7 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 |              Tags nos produtos              | **RF06** |                     O sistema deve permitir sejam adicionadas tags ao cadastrar um produto.                     |      **RF03**       | Brainstorming |
 |         Remoção de itens do estoque         | **RF07** |                                O sistema deve permitir remover itens do estoque.                                |      **RF03**       | Brainstorming, Entrevista |
 |      Cadastrar produtos por planilhas       | **RF08** |           O sistema deve permitir que cadastros em lote sejam feitos enviando documentos de planilhas.           |      **RF03**       | Brainstorming |
-|               Gerar planilha                | **RF09** |      O sistema deve permitir que sejam exportados documentos de planilha com informações sobre o estoque.       |      **RF04**       | Brainstorming, Entrevista |
+|               Gerar planilha                | **RF09** |      O sistema deve permitir que sejam exportados documentos de planilha com informações sobre o estoque.       |      **RF04**       | Brainstorming, Entrevista e StoryBoard |
 |             Histórico de vendas             | **RF10** |                O sistema deve gerar um log de registro de remoção e adição de itens ao estoque.                | **RF03** e **RF07** | Brainstorming, Entrevista |
 |             Histórico temporais             | **RF11** | O sistema deve permitir consultar registros demarcados por períodos temporais. (diário, semanal, mensal, anual) |      **RF10**       | Brainstorming |
 |           Filtro por nome e preço           | **RF12** |                        O sistema dever permitir filtrar produtos pelo nome e por preço.                         |      **RF04**       | Brainstorming, StoryBoard, Entrevista |
@@ -34,6 +35,7 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 | Importação de planilha para load de estoque | **RF16** |    O sistema deve ser capaz de importar uma planilha que irá carregar o estoque com os produtos da planilha     |          N/A          | Brainstorming, Entrevista |
 |     App para consulta fácil de produtos     | **RF17** |       Possuir uma aplicação PWA que funcione somente com acesso a internet para busca rápida de produtos        |          N/A          | StoryBoard, Entrevista |
 |      App para baixa fácil de produtos       | **RF18** |      Possuir uma aplicação PWA que funcione somente com acesso a internet para remoção rápida de produtos       |          N/A          | StoryBoard |
+|      Notificação de prazo de vencimento      | **RF21** |      O sistema deve notificar o usuário na data próxima ao prazo de vencimento do produto       |         **RF03**          | StoryBoard |
 
 ## Requisitos Não Funcionais
 
