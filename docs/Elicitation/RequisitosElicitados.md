@@ -35,7 +35,13 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 | Importação de planilha para load de estoque | **RF16** |    O sistema deve ser capaz de importar uma planilha que irá carregar o estoque com os produtos da planilha     |          N/A          | Brainstorming, Entrevista |
 |     App para consulta fácil de produtos     | **RF17** |       Possuir uma aplicação PWA que funcione somente com acesso a internet para busca rápida de produtos        |          N/A          | StoryBoard, Entrevista |
 |      App para baixa fácil de produtos       | **RF18** |      Possuir uma aplicação PWA que funcione somente com acesso a internet para remoção rápida de produtos       |          N/A          | StoryBoard |
+<<<<<<< HEAD
 |      Notificação de prazo de vencimento      | **RF21** |      O sistema deve notificar o usuário na data próxima ao prazo de vencimento do produto       |         **RF03**          | StoryBoard |
+=======
+|      Delimitar quantidade mínima de um produto       | **RF19** |      O usuário deve ser capaz de  delimitar uma quantidade mínima de um produto.      |          **RF03**          | Entrevista |
+|      Alertar sobre quantidade mínima atingida      | **RF20** |      O sistema deve ser capaz de alertar o usuário quando um produto ultrapassar o limite mínimo de quantidade.      |          **RF03** e **RF19**         | Entrevista |
+
+>>>>>>> aa159edff3b64060e63f6af7322d386a7824a8fd
 
 ## Requisitos Não Funcionais
 
