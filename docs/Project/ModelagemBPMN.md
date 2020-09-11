@@ -11,3 +11,24 @@ Como o grupo a princípio não utiliza papéis da metodologia Scrum, Project Own
 |    Data    | Versão |                                     Descrição                                      |    Autor(es)     |
 | :--------: | :----: | :--------------------------------------------------------------------------------: | :--------------: |
 | 11/09/2020 | 1.0 | Criação do documento e breve introdução da técnica aplicada. | Pedro Igor |
+| 11/09/2020 | 1.1 | Inserção de 6 Diagramas. | Gabriel Davi, Pedro Igor, Micaella |
+
+## Sprint Planning
+
+![Sprint Planning](../assets/img/bpmn/Sprint_Planning.png)
+
+## Desenvolvimento
+
+![Desenvolvimento](../assets/img/bpmn/Desenvolvimento.png)
+
+## Sprint Review
+![Sprint Review](../assets/img/bpmn/Sprint_Review.png)
+
+## Planning Poker
+![Planning Poker](../assets/img/bpmn/Planning_Poker.png)
+
+## Daily
+![Daily](../assets/img/bpmn/Daily.png)
+
+## Design Sprint
+![Design Sprint](../assets/img/bpmn/Design_Sprint.png)
