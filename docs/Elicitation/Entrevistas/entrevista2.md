@@ -46,7 +46,7 @@ Esta pergunta não foi respondida nesta entrevista.
 
 ### 10. Já aconteceu de você não possuir um produto e ele ser extremamente requerido pelos seus clientes?
 
-"Já, demais. Como a gente mexe com MDF, nós não conseguimos mensurar quantos projetos vão entrar com aquele determinado MDF, e ás vezes a gente se surpreende pois um determinado MDF foi vendido demais e falta em estoque."
+"Já, demais. Como a gente mexe com MDF, nós não conseguimos mensurar quantos projetos vão entrar com aquele determinado MDF, e às vezes a gente se surpreende pois um determinado MDF foi vendido demais e falta em estoque."
 
 ### 11. Já aconteceu de você comprar um estoque de certo produto de forma exagerada e ele não ser vendido com facilidade?
 
