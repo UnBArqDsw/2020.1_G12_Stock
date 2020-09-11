@@ -15,10 +15,19 @@ Como o grupo a princípio não utiliza papéis da metodologia Scrum, Project Own
 | 11/09/2020 |  1.2   |                       Adição de referências.                        |             Pedro Igor             |
 | 11/09/2020 |  1.3   | Adição dos áudios explicativos do Desenvolvimento e Planning Poker. |          Micaella Gouveia          |
 | 11/09/2020 |  1.4   |  Adição dos áudios explicativos do Sprint Review e Design Sprint.   |            Gabriel Davi            |
+| 11/09/2020 |  1.5   |  Adição dos áudios explicativos do Sprint Planning e Daily.   |            Gabriel Davi            |
 
 ## Sprint Planning
 
 ![Sprint Planning](../assets/img/bpmn/Sprint_Planning.png)
+
+### Áudio explicativo sobre Sprint Planning
+
+- Autor: Pedro Igor
+
+<audio controls>
+  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/bpmn/bpmnSprintPlanning.wav" type="audio/mpeg">
+</audio>
 
 ## Desenvolvimento
 
@@ -59,6 +68,14 @@ Como o grupo a princípio não utiliza papéis da metodologia Scrum, Project Own
 ## Daily
 
 ![Daily](../assets/img/bpmn/Daily.png)
+
+### Áudio explicativo sobre Daily
+
+- Autor: Pedro Igor
+
+<audio controls>
+  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/bpmn/bpmnDaily.wav" type="audio/mpeg">
+</audio>
 
 ## Design Sprint(Adaptação)
 
