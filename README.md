@@ -1,5 +1,5 @@
 # Stock
-![logo](docs/assets/Logo3.png)
+![logo](docs/assets/Logo03.jpg)
 
 **Número da Lista**: 12<br>
 **Código da Disciplina**: FGA0208-T01<br>
@@ -33,7 +33,13 @@ Insira um manual ou um script para auxiliar ainda mais.
 
 Estamos utilizando o [Docsify](https://docsify.js.org/#/) para a criação e manutenção da Wiki.
 
-Para subir a Wiki localmente, acesse a raiz do projeto e execute o seguinte comando:
+Para subir a Wiki localmente, primeiramente você deve ter o [Docsify](https://docsify.js.org/#/) instalado.
+
+Você pode instalar usando o seguinte comando:
+
+```$ npm i docsify-cli -g```
+
+Logo depois, acesse a raiz do projeto e execute o seguinte comando:
 
 ```$ docsify serve docs```
 
