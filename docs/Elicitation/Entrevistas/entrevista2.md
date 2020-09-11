@@ -71,7 +71,7 @@ Esta pergunta não foi respondida nesta entrevista.
 ## Gravação
 
 <audio controls>
-  <source src="assets/audios/interview/entrevistaDinamara.m4a" type="audio/mpeg">
+  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/interview/entrevistaDinamara.m4a" type="audio/mpeg">
 </audio>
 
 ## Observação

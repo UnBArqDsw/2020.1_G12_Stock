@@ -11,7 +11,8 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 | 07/09/2020 |  1.1   | Adição de requisitos funcionais e não funcionais baseados na técnica de StoryBoard |  Pedro Igor  |
 | 07/09/2020 |  1.2   |       Adição de requisitos não funcionais baseados na técnica de Entrevista.       |  Pedro Igor  |
 | 07/09/2020 |  1.3   |                         Adição de requisitos RF17 E RF18.                          | Gabriel Davi |
-| 09/09/2020 |  1.4   |                         Edição do requisito RF9 e adição de requisito RF21.                                  | Sofia Patrocínio |
+| 09/09/2020 |  1.4   |                         Edição do requisito RF9 e adição de requisito RF21.        | Sofia Patrocínio |
+| 10/09/2020 |  1.5   |                         Adição de requisito RF21.                                   | Sofia Patrocínio |
 
 ## Requisitos Funcionais
 
@@ -34,14 +35,12 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 |     Atualização instantânea de estoque      | **RF15** |        O sistema deve ser capaz de atualizar a base de dados no momento em que uma operação é realizada.        | **RF03** e **RF07** |  StoryBoard, Entrevista |
 | Importação de planilha para load de estoque | **RF16** |    O sistema deve ser capaz de importar uma planilha que irá carregar o estoque com os produtos da planilha     |          N/A          | Brainstorming, Entrevista |
 |     App para consulta fácil de produtos     | **RF17** |       Possuir uma aplicação PWA que funcione somente com acesso a internet para busca rápida de produtos        |          N/A          | StoryBoard, Entrevista |
-|      App para baixa fácil de produtos       | **RF18** |      Possuir uma aplicação PWA que funcione somente com acesso a internet para remoção rápida de produtos       |          N/A          | StoryBoard |
-<<<<<<< HEAD
-|      Notificação de prazo de vencimento      | **RF21** |      O sistema deve notificar o usuário na data próxima ao prazo de vencimento do produto       |         **RF03**          | StoryBoard |
-=======
+|      App para baixa fácil de produtos       | **RF18** |      Possuir uma aplicação PWA que funcione somente com acesso a internet para remoção rápida de produtos       |          N/A          | StoryBoard, Entrevista |
 |      Delimitar quantidade mínima de um produto       | **RF19** |      O usuário deve ser capaz de  delimitar uma quantidade mínima de um produto.      |          **RF03**          | Entrevista |
 |      Alertar sobre quantidade mínima atingida      | **RF20** |      O sistema deve ser capaz de alertar o usuário quando um produto ultrapassar o limite mínimo de quantidade.      |          **RF03** e **RF19**         | Entrevista |
+|      Notificação de prazo de vencimento      | **RF21** |      O sistema deve notificar o usuário na data próxima ao prazo de vencimento do produto       |         **RF03**          | StoryBoard |
+|      Lista de Compra      | **RF22** |      O sistema deve ter uma lista de compras de produtos pedidos por clientes que não têm em estoque       |         **RF04**         | Entrevista |
 
->>>>>>> aa159edff3b64060e63f6af7322d386a7824a8fd
 
 ## Requisitos Não Funcionais
 
