@@ -1,21 +1,22 @@
 # Stock
+![logo](docs/assets/Logo-03.png)
 
 **Número da Lista**: 12<br>
 **Código da Disciplina**: FGA0208-T01<br>
 
 ## Alunos
 
-| Matrícula  | Aluno                             |
-| ---------- | --------------------------------- |
-| 15/0009917 | Gabriel Alves Soares de Souza     |
-| 17/0010341 | Gabriel Davi Silva Pereira        |
-| 17/0111288 | Micaella Lorraine Gouveia de Lima |
-| 17/0114333 | Sofia Costa Patrocínio            |
-| 17/0062635 | Pedro Igor Oliveira Silva         |
+| Matrícula  | Aluno    |GitHub                         |
+| ---------- | --------------------------------- | - |
+| 15/0009917 | Gabriel Alves Soares de Souza     | [@gitgabiru](https://github.com/gitgabiru)
+| 17/0010341 | Gabriel Davi Silva Pereira        | [GabrielDVpereira](https://github.com/GabrielDVpereira)
+| 17/0111288 | Micaella Lorraine Gouveia de Lima | [@micaellagouveia](https://github.com/micaellagouveia)
+| 17/0114333 | Sofia Costa Patrocínio            | [@sofiapatrocinio](https://github.com/sofiapatrocinio)
+| 17/0062635 | Pedro Igor Oliveira Silva         | [@pedroeagle](https://github.com/pedroeagle)
 
 ## Sobre
 
-Descreva o seu projeto em linhas gerais.
+Sistema para cadastro e consulta de estoque. Possui plataforma web para cadastro e listagem de produtos, bem como geração de planilhas com resumos e gráficos que mostra sua evolução. Também possui uma versão mobile para consulta rápida de produtos e para atualização mais ágil de estoque.
 
 ## Screenshots
 
@@ -30,7 +31,12 @@ Insira um manual ou um script para auxiliar ainda mais.
 
 ## Uso
 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Estamos utilizando o [Docsify](https://docsify.js.org/#/) para a criação e manutenção da Wiki.
+
+Para subir a Wiki localmente, acesse a raiz do projeto e execute o seguinte comando:
+
+```$ docsify serve docs```
+
 
 ## Vídeo
 
