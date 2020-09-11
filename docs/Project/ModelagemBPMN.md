@@ -12,6 +12,7 @@ Como o grupo a princípio não utiliza papéis da metodologia Scrum, Project Own
 | :--------: | :----: | :--------------------------------------------------------------------------------: | :--------------: |
 | 11/09/2020 | 1.0 | Criação do documento e breve introdução da técnica aplicada. | Pedro Igor |
 | 11/09/2020 | 1.1 | Inserção de 6 Diagramas. | Gabriel Davi, Pedro Igor, Micaella |
+| 11/09/2020 | 1.2 | Adição de referências. | Pedro Igor |
 
 ## Sprint Planning
 
@@ -32,3 +33,7 @@ Como o grupo a princípio não utiliza papéis da metodologia Scrum, Project Own
 
 ## Design Sprint
 ![Design Sprint](../assets/img/bpmn/Design_Sprint.png)
+
+## Referências
+HEFLO: Business Process Model and Notation - <https://www.heflo.com/pt-br/definicoes/o-que-e-business-process-model-notation/> Acesso em 11/09/2020<br><br>
+HEFLO: Ferramenta para criação de diagramas BPMN - <https://www.heflo.com/pt-br/tour-heflo-bpm/> Acesso em 11/09/2020
