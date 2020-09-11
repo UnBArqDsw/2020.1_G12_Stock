@@ -1,5 +1,6 @@
 # Planejamento Sprint 2
-
+**Período: 06/09/2020 a 11/09/2020**<br>
+**Data da Reunião: 05/09/2020**
 ## Issues
 
 |Número | Issue | Pontuação | Participantes|
