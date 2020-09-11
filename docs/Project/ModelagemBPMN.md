@@ -13,6 +13,7 @@ Como o grupo a princípio não utiliza papéis da metodologia Scrum, Project Own
 | 11/09/2020 | 1.0 | Criação do documento e breve introdução da técnica aplicada. | Pedro Igor |
 | 11/09/2020 | 1.1 | Inserção de 6 Diagramas. | Gabriel Davi, Pedro Igor, Micaella |
 | 11/09/2020 | 1.2 | Adição de referências. | Pedro Igor |
+| 11/09/2020 | 1.3 | Adição dos áudios explicativos do Desenvolvimento e Planning Poker. | Micaella Gouveia |
 
 ## Sprint Planning
 
@@ -21,12 +22,25 @@ Como o grupo a princípio não utiliza papéis da metodologia Scrum, Project Own
 ## Desenvolvimento
 
 ![Desenvolvimento](../assets/img/bpmn/Desenvolvimento.png)
+### Áudio explicativo sobre o Desenvolvimento
+* Autora: Micaella Gouveia
+
+<audio controls>
+  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/bpmn/bpmnDesenvolvimento.m4a" type="audio/mpeg">
+</audio>
 
 ## Sprint Review
 ![Sprint Review](../assets/img/bpmn/Sprint_Review.png)
 
 ## Planning Poker
 ![Planning Poker](../assets/img/bpmn/Planning_Poker.png)
+
+### Áudio explicativo sobre o Planning Poker
+* Autora: Micaella Gouveia
+
+<audio controls>
+  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/bpmn/bpmnPlanningPoker.m4a" type="audio/mpeg">
+</audio>
 
 ## Daily
 ![Daily](../assets/img/bpmn/Daily.png)
