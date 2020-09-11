@@ -3,6 +3,7 @@ td,
 p,
 li,
 lu,
-span {
+span,
+a {
     font-family: Montserrat;
 }

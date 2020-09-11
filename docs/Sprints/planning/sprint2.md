@@ -34,34 +34,33 @@ Nesta Sprint, alguns documentos são pré-requisitos de outros, sendo necessári
 | [**#36**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/36) | Metodologia - Definição e Documentação | Segunda-feira (07/09/2020) |
 | [**#40**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/40) | Elicitação dos artefatos já produzidos|  Quarta-feira (09/09/2020)|
 
+## Relato 
+* Antes da reunião foi feito o último artefato da Design Sprint. O grupo analisou o que estava faltando para a entrega do dia 11/09/2020 e decidiu as tarefas com base nisso.
+* Nesta reunião o grupo concordadou em utilizar o [Plan it Poker](https://www.planitpoker.com/) para a pontuação das issues.
 
-## Relato Planejamento
-
-
-### 1. Léxicos
+**1. Léxicos**:
 
 | Tarefa | Responsável
 | - | - |
 | Elicitar pelo menos 5 léxicos | Todos |
 | Linkar todos os documentos já feitos com esses léxicos| Gabriel Alves| 
- 
 
-### 2. Metodologia (BPMN)
+**2. Metodologia (BPMN)**:
 
 | Tarefa | Responsável
 | - | - |
 | Definição da metodologia - ferramentas e métricas | Micaella e Sofia
 | Modelagem em BPMN | Pedro, Gabriel Davi e Gabriel Alves
 
-### 3. Elicitação 
+**3. Elicitação**:
+
 | Tarefa | Responsável
 | - | - |
 | Entrevistas | Sofia, Gabriel Alves e Pedro
 | Introspecçoẽs/personas |Gabriel Davi e Micaella 
 | StoryBoard, Entrevista 1 e Brainstorming | Pedro e Gabriel Davi
 
-
-### 4. Restante da design  (estimativas e causa-efeito) - Prazo para o fim da Sprint 1 (Domingo)
+**4. Restante da design  (estimativas e causa-efeito) - Prazo para o fim da Sprint 1**:
 
 | Tarefa | Responsável
 | - | - |
@@ -69,11 +68,19 @@ Nesta Sprint, alguns documentos são pré-requisitos de outros, sendo necessári
 | Causa-efeito |Gabriel Alves
 | Documentação do dia de Design Sprint| Gabriel Alves, Pedro Igor e Gabriel Davi
 
-### 5. Vídeos e relatos das reuniões e sprints
+**5. Vídeos e relatos das reuniões e sprints**:
+
 | Tarefa | Responsável
 | - | - |
 | Edição dos vídeos | Sofia 
 | Adicionar as métricas escolhidas nos documentos antigos | Micaella 
 | Adicionar pequeno relato das reuniões já feitas |Micaella
 
+## Gravações Disponíveis
+* Reunião Semanal (Sprint Planning):
 
+[![Reunião Semanal 3 - Sprint Planning](http://img.youtube.com/vi/pZZrLSgsaT4/0.jpg)](http://www.youtube.com/watch?v=pZZrLSgsaT4 "Reunião Semanal 3 - Sprint Planning")
+
+* Planning Poker (Pontuação das Issues):
+
+[![Reunião Semanal 3 - Planning Poker](http://img.youtube.com/vi/rwoqwJKP_AU/0.jpg)](http://www.youtube.com/watch?v=rwoqwJKP_AU "Reunião Semanal 3 - Planning Poker")

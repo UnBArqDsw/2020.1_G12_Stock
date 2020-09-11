@@ -1,6 +1,6 @@
 # Resultado Sprint 1
-**Período: 02/09/2020 a 06/09/2020**
-
+**Período: 30/08/2020 a 05/08/2020**<br>
+**Data da Reunião: 05/08/2020**
 ## Issues Entregues
 
 |Número | Issue | Pontuação | Participantes|
@@ -19,7 +19,22 @@
 | [**#29**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/29)|Design Sprint| Sem | Todos
 | [**#31**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/31) | Causa-Efeito | Sem | Todos |
 
+
+## Quadro de Conhecimento
+*Métrica ainda não tinha sido definida nesta Sprint.*
+
+## Burndown
+![burndown 1](../../assets/img/Sprints/metricas/burndownS1.png)
+
+## Velocity
+*Métrica ainda não tinha sido definida nesta Sprint.*
+
 ## Observações
-1. A issue [#29](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/29) foi definida durante a Sprint 1 com o objetivo de documentar a técnica e os dias de produção.
-2. Com o processo da [Design Sprint](DesignSprint/designSprint.md), os artefatos que foram realizados por último necessitaram de mais tempo para a finalização do documento, tornando as issues dívidas técnicas.
+* A issue [#29](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/29) foi definida durante a Sprint 1 com o objetivo de documentar a técnica e os dias de produção.
+* Com o processo da [Design Sprint](DesignSprint/designSprint.md), os artefatos que foram realizados por último necessitaram de mais tempo para a finalização do documento, tornando as issues dívidas técnicas.
+* Para decisão dos horários das reuniões foi necessário fazer um heatmap com os horários disponíveis de cada membro na semana específica.
+
+![reuniao](../../assets/img/Sprints/reuniaoDesignSprint.png)
+
+*Heatmap para decisão dos horários das reuniões da Design Sprint*
 
