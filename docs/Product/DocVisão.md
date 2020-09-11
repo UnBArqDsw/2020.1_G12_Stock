@@ -1,9 +1,5 @@
 # Stock
-<<<<<<< HEAD:docs/Product/DocVisão.md
-**Este artefato foi produzido durante o dia 2 da Design Sprint, para saber mais sobre a metodologia e como ela foi feita, clique aqui: *[Design Sprint](preTraceability/DesignSprint.md)***
-=======
 **Este artefato foi produzido durante o dia 2 da Design Sprint, para saber mais sobre a metodologia e como ela foi feita, clique aqui: *[Design Sprint](DesignSprint/DesignSprint.md)***
->>>>>>> master:docs/product/DocVisão.md
 
 ## Histórico de Revisão
 
@@ -11,11 +7,7 @@
 | ---- | ------ | --------- | ----- |
 |02/09/2020| 1.0 | Criação do documento. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor e Sofia Patrocínio | 
 |03/09/2020| 1.1 | Adição do documento na wiki. | Sofia Patrocínio | 
-<<<<<<< HEAD:docs/Product/DocVisão.md
-|06/09/2020| 1.2 | Adição de hyperlink para página de Design Sprint | Sofia Patrocínio |
-=======
 | 09/09/2020 |  1.2   | Adição de hyperlink para página de Design Sprint | Sofia Patrocínio |
->>>>>>> master:docs/product/DocVisão.md
 
 
 ## 1. Introdução

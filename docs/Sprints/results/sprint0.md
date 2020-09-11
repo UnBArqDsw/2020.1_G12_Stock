@@ -38,4 +38,4 @@
 *Métrica ainda não tinha sido definida nesta Sprint.*
 
 ## Observações
-* Durante o desenvolvimento da Sprint 0, o time decidiu utilizar a técnica de  Design Sprint para a produção de alguns artefatos que já tinham sido definidos, como o Documento de Visão, Causa-Efeito, Questionário e Plano de Análise de Risco/Custo/Tempo. Sendo assim, essas issues não se tornaram dívidas técnicas.
+* Durante o desenvolvimento da Sprint 0, o time decidiu utilizar a técnica de  [Design Sprint](DesignSprint/DesignSprint.md) para a produção de alguns artefatos que já tinham sido definidos, como o Documento de Visão, Causa-Efeito, Questionário e Plano de Análise de Risco/Custo/Tempo. Sendo assim, essas issues não se tornaram dívidas técnicas.
