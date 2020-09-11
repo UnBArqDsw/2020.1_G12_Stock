@@ -12,6 +12,7 @@ O Design Sprint é um processo de cinco dias para responder a questões crítica
 | 06/09/2020 |  1.3   |  Adição do dia 1  | Pedro Igor | 
 | 08/09/2020 |  1.4   |  Adição do dia 5  | Gabriel Davi | 
 | 08/09/2020 |  1.5   |  Adição do dia 4  | Gabriel Alves | 
+| 11/09/2020 |  1.6   |  Adição das gravações  | Sofia Patrocínio | 
 
 ## Metodologia do Processo
 
@@ -52,6 +53,9 @@ Os artefatos produzidos foram:
 ### [*(04/09)* Dia 4 - Causa-Efeito](DesignSprint/dia4.md)
 ### [*(05/09)* Dia 5 - Estimativas](DesignSprint/dia5.md)
 
+## Gravações Disponíveis
+
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/l2f_RzGg6iM?ecver=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="RXWVoIsA" href="https://www.rockpamperscissors.co.uk/a-new-one-on-me/">Emma hybrid</a></div><div><a  id="RXWVoIsA" href="https://www.rockpamperscissors.co.uk/a-new-one-on-me/">https://www.rockpamperscissors.co.uk/a-new-one-on-me/</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
 
 ## Referências
 * Google Design Sprint <https://brasil.uxdesign.cc/google-design-sprint-como-funciona-e-como-aplicar-no-seu-projeto-27910736365> último acesso em 04/09/2020.
