@@ -15,7 +15,7 @@ Como o grupo a princípio não utiliza papéis da metodologia Scrum, Project Own
 | 11/09/2020 |  1.2   |                       Adição de referências.                        |             Pedro Igor             |
 | 11/09/2020 |  1.3   | Adição dos áudios explicativos do Desenvolvimento e Planning Poker. |          Micaella Gouveia          |
 | 11/09/2020 |  1.4   |  Adição dos áudios explicativos do Sprint Review e Design Sprint.   |            Gabriel Davi            |
-| 11/09/2020 |  1.5   |  Adição dos áudios explicativos do Sprint Planning e Daily.   |            Gabriel Davi            |
+| 11/09/2020 |  1.5   |  Adição dos áudios explicativos do Sprint Planning e Daily.   |            Pedro Igor            |
 
 ## Sprint Planning
 
