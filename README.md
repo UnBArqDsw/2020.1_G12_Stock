@@ -1,5 +1,3 @@
-# Stock
-
 <p align="center">
 <img src=docs/assets/Logo03.jpg />
 </p>
