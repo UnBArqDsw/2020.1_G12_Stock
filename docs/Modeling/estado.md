@@ -12,34 +12,34 @@
 ### Deploy
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- Deploy é um estado que descreve quando uma aplicação está saindo da fase de desenvolvimento para produção|- A aplicação está em deploy <br> - A aplicação sofreu deploy|-|
+| Deploy é um estado que descreve quando uma aplicação está saindo da fase de desenvolvimento para produção. | A aplicação está em deploy <br><br> A aplicação sofreu deploy. | - |
 
 ### Prazo de Validade
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- tempo que os produtos podem ser armazenados mantendo sua qualidade aceitável.|- a validade do produto está acabando.|- serventia do produto, vida útil do produto, validade do produto.|
+| Tempo que os produtos podem ser armazenados mantendo sua qualidade aceitável.| A validade do produto está acabando. | Serventia do produto, vida útil do produto, validade do produto.|
 
 ### Estoque baixo
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- O estoque é dito como estoque baixo quando há um número relativamente pequeno de produtos em suas dependências|- O vendedor tem que repor o estoque baixo <br> - A loja está com poucos produtos no estoque|- Estoque escasso <br> - Estoque com poucos produtos|
+| O estoque é dito como estoque baixo quando há um número relativamente pequeno de produtos em suas dependências. | O vendedor tem que repor o estoque baixo. <br><br> A loja está com poucos produtos no estoque. | Estoque escasso. <br><br> Estoque com poucos produtos. |
 
-### Estoque cheio
+### Estoque Cheio
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- Quando a quantidade de produtos disponíveis preenche todo o estoque.|- A loja está com muitos produtos no estoque <br>- Todos os produtos chegaram.|- Estoque lotado <br>- Estoque com muitos produtos|
+| Quando a quantidade de produtos disponíveis preenche todo o estoque.|A loja está com muitos produtos no estoque. <br><br> Todos os produtos chegaram.| Estoque lotado. <br><br> Estoque com muitos produtos. |
 
 ### Estoque Vazio
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- Quando não há produtos disponíveis no estoque|- A loja está com o estoque esgotado <br>- Não há registro de estoque na aplicação|- Estoque esgotado <br>- Estoque sem produtos <br>- Estoque em falta|
+| Quando não há produtos disponíveis no estoque. | A loja está com o estoque esgotado. <br><br> Não há registro de estoque na aplicação. |Estoque esgotado. <br><br> Estoque sem produtos. <br><br> Estoque em falta. |
 
 ### Em produção
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- Uma aplicação está em produção quando está no ar em pronto para uso |- O site entra em produção <br>- O site deu problema em produção <br>- O programador consertou o bug em produção|- Aplicação no ar <br>- aplicação que sofreu deploy|
+| Uma aplicação está em produção quando está no ar em pronto para uso. | O site entra em produção. <br><br> O site deu problema em produção. <br><br> O programador consertou o bug em produção. | Aplicação no ar. <br><br> Aplicação que sofreu [deploy](Modeling/estado?id=Deploy)|
 
 ### Em desenvolvimento
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- Uma aplicação está em desenvolvimento quando desenvolvedores estão trabalhando na criação das funcionalidades do projeto.|- A aplicação está em desenvolvimento <br>- Acabou a fase de desenvolvimento, agora os desenvolvedores vão fazer o deploy|- em progresso|
+| Uma aplicação está em desenvolvimento quando desenvolvedores estão trabalhando na criação das funcionalidades do projeto.| A aplicação está em desenvolvimento <br><br> Acabou a fase de desenvolvimento, agora os desenvolvedores vão fazer o [deploy](Modeling/estado?id=Deploy)| Em progresso|

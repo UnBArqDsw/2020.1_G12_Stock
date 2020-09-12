@@ -65,7 +65,7 @@ Obs: A hierarquia é incremental de forma que um papel superior tem todas as per
 | [#RF012](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) |           Filtro por nome e preço           |
 | [#RF014](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) |            Plotagem de gráficos             |
 | [#RF015](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) |     Atualização instantânea de estoque      |
-| [#RF016](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) | Importação de planilha para load de estoque |
+| [#RF016](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) | [Importação](Modeling/verbo?id=Importação) de planilha para load de estoque |
 
 ## Referências
 

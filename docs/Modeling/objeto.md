@@ -12,99 +12,99 @@
 ### PWA
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- Progressive web app <br> - termo usado para denotar [aplicativos da web](objetos?id=Web-App) que usam as últimas tecnologias da web.|- Realizar consultas <br> - Usuário, cadastrar produto|- [Web app](objetos?id=Web-App)|
+| Progressive Web App. <br><br> Termo usado para denotar [Aplicativos da Web](Modeling/objeto?id=Web-App) que usam as últimas tecnologias da web.| Realizar consultas <br><br> Usuário, cadastrar produto. | [Web App](Modeling/objeto?id=Web-App).|
 
 ### Web App
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- designa sistemas de informática projetados para utilização através de um navegador, através da internet ou aplicativos desenvolvidos utilizando tecnologias web|- Realizar consultas <br> - Usuário, cadastrar produto|- PWA|
+| Designa sistemas de informática projetados para utilização através de um navegador, através da internet ou aplicativos desenvolvidos utilizando tecnologias Web. | Realizar consultas. <br><br> Usuário cadastrar produto. | PWA. |
 
 ### Tag
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- termo associado com uma informação.|- Produto identificado com uma tag <br> - Issue, marcado com uma tag|- Identificador|
+| Termo associado com uma informação.| Produto identificado com uma Tag. <br><br> Issue marcado com uma Tag. | Identificador |
 
 ### Papéis dos colaboradores
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- Papéis desempenhados pelos membros da micro empresa. <br> - Hierarquia de trabalho <br> - Grau de permissão no Web App |- Admin, supervisiona os sellers. <br> - Seller, não consegue excluir produtos do sistema. |- Função <br> - Cargo|
+| Papéis desempenhados pelos membros da micro empresa. <br><br> Hierarquia de trabalho. <br><br> Grau de permissão no Web App. | Admin supervisiona os Sellers. <br><br> Seller não consegue excluir produtos do sistema. |Função. <br><br> Cargo. |
 
 ### Micro Empresa
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- microempresa, é o pequeno negócio que tem como característica: o rendimento bruto anual de até R$360 mil|- Micro empresas realizam controle de estoque. <br> - Contrata fornecedores |- Pequeno negócio |
+| Microempresa é o pequeno negócio que tem como característica: o rendimento bruto anual de até R$360 mil. | Micro empresas realizam controle de estoque. <br><br> Contrata fornecedores. | Pequeno negócio. |
 
 ### Owner
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- Proprietário ou proprietária <br> - Dono da micro empresa |- Define papel dos colaboradores|- Dono(a) <br> - Proprietário(a) <br> Gestor(a)|
+|Proprietário ou proprietária. <br><br> Dono(a) da micro empresa. |Define papel dos colaboradores. | Dono(a). <br><br> Proprietário(a). <br><br> Gestor(a). |
 
 ### Admin
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- Administrador(a) <br> - Pessoa responsável pela administração do Web App e/ou da Micro Empresa|- Realiza tarefas: dar baixa em produto, filtrar produtos, cadastrar produtos|- Administrador(a)|
+| Administrador(a) <br><br> Pessoa responsável pela administração do Web App e/ou da Micro Empresa | Realiza tarefas: dar baixa em produto, filtrar produtos, cadastrar produtos. | Administrador(a). |
 
 ### Seller
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- Vendedor ou vendedora <br> - Pessoa que faz uma venda|- Responsável por dar saída de produto <br> - Filtra Produtos <br> - Cadastrar produtos|- Vendedor(a)|
+| Vendedor ou vendedora. <br><br> Pessoa que efetua vendas. | Responsável por dar saída de produtos. <br><br> Filtra produtos. <br><br> Cadastrar produtos. | Vendedor(a). |
 
 ### Bug
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- Bug é um jargão da informática que se refere às temidas falhas inesperadas que ocorrem ao executar algum software ou usar um hardware <br> - Erro que ocorre no Web App|- Trazer informações erradas ao dashboard <br> - interromper nesperadamente a aplicação|- Erro <br> - Falha de sistema|
+| Bug é um jargão da informática que se refere às temidas falhas inesperadas que ocorrem ao executar algum software ou usar um hardware. <br><br> Erro que ocorre no Web App. | Trazer informações erradas ao Dashboard. <br><br> Interromper inesperadamente a aplicação. | Erro. <br><br> Falha de sistema. |
 
 ### Issue
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- Do inglês: questão|- Questão levantada pelo Stakeholder|- Questão|
+| Do inglês: questão | Questão levantada pelo Stakeholder. | Questão. |
 
 ### Log
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- Do inglês: registro|- Registro de ações do usuário|- histórico|
+| Do inglês: registro | Registro de ações do usuário. | Histórico. |
 
 ### Produto
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- aquilo que é produzido <br> - resultado da produção.|- Admin Cadastra produto, Consultar produto|- item|
+| Aquilo que é produzido. <br><br> Resultado da produção. | Admin cadastra produto, consultar produto. | Item. |
 
 ### Estoque
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- refere-se às mercadorias, produtos (finais ou inacabados) ou outros elementos na posse de um agente económico|- vendedor, armazena produtos no estoque|- Armazém|
+| Refere-se às mercadorias, produtos (finais ou inacabados) ou outros elementos na posse de um agente econômico. | Vendedor armazena produtos no estoque. | Armazém. |
 
 ### Fornecedor
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- Fornecedor é toda pessoa física ou jurídica, pública ou privada, nacional ou estrangeira, bem como os entes despersonalizados, que desenvolvem atividade de produção, montagem, criação, construção, transformação, importação, exportação, distribuição ou comercialização de produtos ou prestação de serviços.|- Realiza a tarefa de: fornecer produtos|- distribuidor|
+| Fornecedor é toda pessoa física ou jurídica, pública ou privada, nacional ou estrangeira, bem como os entes despersonalizados, que desenvolvem atividade de produção, montagem, criação, construção, transformação, importação, exportação, distribuição ou comercialização de produtos ou prestação de serviços. | Realiza a tarefa de: fornecer produtos. | Distribuidor. |
 
 ### Dashboard
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- painel visual que apresenta, de maneira centralizada, um conjunto informações: indicadores e suas métricas|- Dashboard utilizada pelo Owner, Admin, Seller para facilitar sua tomada de decisão| - painel|
+| Painel visual que apresenta, de maneira centralizada, um conjunto informações: indicadores e suas métricas. | Dashboard utilizada pelo Owner, Admin, Seller para facilitar sua tomada de decisão. | Painel. |
 
 ### Vendedor
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- Pessoa responsável em vender os produtos|- Realiza as tarefas: cadastrar produto, consultar produto, baixa em produto|-|
+| Pessoa responsável em vender os produtos. | Realiza as tarefas: cadastrar produto, consultar produto, baixa em produto. |-|
 
 ### Usuário
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- aquele que, por direito de uso, serve-se de algo ou desfruta de suas utilidades.|- Realiza tarefas de: filtrar produtos, cadastrar produtos, dar baixa em produto|- utilizador|
+| Aquele que, por direito de uso, serve-se de algo ou desfruta de suas utilidades. | Realiza tarefas de: filtrar produtos, cadastrar produtos, dar baixa em produto. | Utilizador. |
 
 ### Navegador
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- programa que permite a usuário da internet consultar páginas de hipertexto e navegar, passando de um ponto a outro da mesma página ou de página diferente, usando os links de hipertexto, além de desfrutar de outros recursos dessa rede de computadores|- usuário acessa o web app através do navegador|- browser|
+| Programa que permite ao usuário da internet consultar páginas de hipertexto e navegar, passando de um ponto a outro da mesma página ou de página diferente, usando os links de hipertexto, além de desfrutar de outros recursos dessa rede de computadores. | Usuário acessa o Web App através do navegador| Browser |
 
 ### Stakeholder
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- Diz respeito às partes interessadas pela solução de software.|- Os stakeholders estão satisfeitos com o resultado do desenvolvimento <br> - Investidores são potenciais stakeholders.|- Parte interessada|
+| Diz respeito às partes interessadas pela solução de software. | Os stakeholders estão satisfeitos com o resultado do desenvolvimento <br><br> Investidores são potenciais stakeholders.| Parte interessada. |
 
 ### Desenvolvedor
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|O desenvolvedor é a pessoa responsável por criar a solução de software.|- Desenvolvedor resolveu um bug da aplicação <br>- Desenvolvedor conversa com Stakeholder. <br>- Desenvolvedor colocou a aplicação no ar|- Dev <br>- Programador<br>- Engenheiro de software|
+| O desenvolvedor é a pessoa responsável por criar a solução de software. | Desenvolvedor resolveu um bug da aplicação. <br><br> Desenvolvedor conversa com Stakeholder. <br><br> Desenvolvedor colocou a aplicação no ar. | Dev. <br><br> Programador. <br><br> Engenheiro de software. |

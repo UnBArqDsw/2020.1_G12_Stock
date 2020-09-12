@@ -87,7 +87,7 @@ Range de 1 a 10<br><br>
 (&nbsp;&nbsp;) Sim<br>
 (&nbsp;&nbsp;) Não<br><br>
 
-**12** - Esta empresa já teve prejuízo por não controlar o estoque corretamente? (Produto passar da data de validade, produto não encontrado no estoque)<br>
+**12** - Esta empresa já teve prejuízo por não controlar o estoque corretamente? (Produto passar da [data de validade](Modeling/estado?id=Prazo-de-Validade), produto não encontrado no estoque)<br>
 (&nbsp;&nbsp;) Sim<br>
 (&nbsp;&nbsp;) Não<br><br>
 

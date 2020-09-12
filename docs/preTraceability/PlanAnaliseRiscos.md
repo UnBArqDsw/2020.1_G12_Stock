@@ -98,7 +98,7 @@ Sendo que:
 |11 | Má escolha das tecnologias         | 2 | 4 |  **8** |
 |12 | Dificuldade de ambientação         | 3 | 3 |  **9** | 
 |13 | Arquitetura mal definida           | 3 | 4 | **12** | 
-|14 | Dificuldade de deploy da aplicação | 2 | 5 | **10** | 
+|14 | Dificuldade de [deploy](Modeling/estado?id=Deploy) da aplicação | 2 | 5 | **10** | 
 |15 | Dificuldade em hospedar a aplicação| 3 | 4 | **12** |
 |16 | Documentação que induz ao erro     | 2 | 4 | **8**  | 
 
@@ -310,7 +310,7 @@ Sendo que:
         <tr class="risco médio" style="background:#FFB366">
             <th>10</th>
             <td>14</td>
-            <td>Dificuldade de deploy da aplicação</td>
+            <td>Dificuldade de [deploy](Modeling/estado?id=Deploy) da aplicação</td>
             <td>Mitigar</td>
             <td>Estudar sobre as tecnologias utilizadas</td>
         </tr>

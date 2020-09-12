@@ -19,17 +19,17 @@
 ### Baixa em Produto
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|Realizar a venda de um produto. <br><br>Realizar distribuição de um produto. | É preciso dar baixa nos itens que foram vendidos ou foram para outro setor.| Vender produto, dar saída de produto.|
+| Realizar a venda de um produto. <br><br>Realizar distribuição de um produto. | É preciso dar baixa nos itens que foram vendidos ou foram para outro setor.| Vender produto, dar saída de produto.|
 
 ### Importação
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|Aquisição de um bem de um lugar externo para um lugar interno.| Precisa importar a planilha para o computador. <br><br>Precisa importar o produto do fornecedor para o estoque.|Entrada, aquisição.|
+| Aquisição de um bem de um lugar externo para um lugar interno.| Precisa importar a planilha para o computador. <br><br>Precisa importar o produto do fornecedor para o estoque.|Entrada, aquisição.|
 
-### Exportação
+### [Exportação](Modeling/verbo?id=Exportação)
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|Saída de um bem de um lugar interno para um lugar externo. |Precisa exportar a planilha do computador. <br><br>Precisa exportar o produto da loja.|Saída.|
+| Saída de um bem de um lugar interno para um lugar externo. |Precisa exportar a planilha do computador. <br><br>Precisa exportar o produto da loja.|Saída.|
 
 ### Cadastrar Produto
 |   Noção   |   Impacto   |   Sinônimos    |

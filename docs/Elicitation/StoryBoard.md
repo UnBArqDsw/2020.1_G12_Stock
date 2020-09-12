@@ -7,7 +7,7 @@ O storyboard é uma sequência de desenhos quadro a quadro com o esboço das div
 |    Data    | Versão |                       Descrição                       |    Autor(es)     |
 | :--------: | :----: | :---------------------------------------------------: | :--------------: |
 | 30/08/2020 |  1.0   | Criação do documento e adição dos stroyboards criados |   Gabriel Davi   |
-| 08/09/2020 |  1.1   |    Adição do storyboard de exportação de planilha.    | Micaella Gouveia |
+| 08/09/2020 |  1.1   |    Adição do storyboard de [Exportação](Modeling/verbo?id=Exportação) de planilha.    | Micaella Gouveia |
 | 09/09/2020 |  1.2   |                Adição dos requisitos.                 |   Gabriel Davi   |
 | 09/09/2020 |  1.3   |          Adição do storyboard de vencimento.          | Sofia Patrocínio |
 | 09/09/2020 |  1.4   |           Adição do requisitos RF9 e RF21.            | Sofia Patrocínio |
@@ -44,7 +44,7 @@ O storyboard é uma sequência de desenhos quadro a quadro com o esboço das div
 
 ![SB5](../assets/img/storyboards/SB5_GabrielDavi.jpg)
 
-### Exportação de planilhas de análise
+### [Exportação](Modeling/verbo?id=Exportação) de planilhas de análise
 
 #### Autora: Micaella Gouveia
 

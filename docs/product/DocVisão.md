@@ -17,9 +17,9 @@ Esse documento visa especificar de maneira geral as características do desenvol
 ### 1.2 Escopo
 A aplicação Stock possuirá cinco funcionalidades chave: 
 - Crud de estoque: Nesta funcionalidade, o usuário poderá criar, atualizar, listar por categorias e remover. A aplicação ficará responsável por apresentar de forma clara a lista dos produtos separados por tags. 
-- Geração, Importação e Exportação de planilhas de consulta de estoque: Essa funcionalidade constituirá na geração de planilhas com dados do estoque, bem como importar e exportar arquivos de planilha.
+- Geração, Importação e [Exportação](Modeling/verbo?id=Exportação) de planilhas de consulta de estoque: Essa funcionalidade constituirá na geração de planilhas com dados do estoque, bem como importar e exportar arquivos de planilha.
 - Geração de gráficos: Baseado em dados do estoque, será possível plotar gráficos que irão simplificar visualização dos dados de estoque e vendas. Além de poder filtrar por período, funcionários e categorias. 
-- Notificação de prazo de validade dos produtos: Para produtos perecíveis, será possível receber alertas para avisar quando o vencimento do produto está próximo.
+- Notificação de [prazo de validade](Modeling/estado?id=Prazo-de-Validade) dos produtos: Para produtos perecíveis, será possível receber alertas para avisar quando o vencimento do produto está próximo.
 - Personalização de acesso baseado em papéis: A aplicação permite limitar funcionalidades e acesso à informações baseado nos papéis dos colaboradores. 
 
 Em relação ao planejamento de produto, mas não como escopo do projeto temos funcionalidades que também farão parte, como:
@@ -101,7 +101,7 @@ O Stock poderá ser acessado através de um navegador ou PWA e é necessário co
 | Controlar fluxo de estoque | Alta | Não ter dados inconsistentes  | Planilhas ou Sistemas Caros | Controlar fluxo em tempo real
 | Consultar facilmente produtos no estoque | Alta | Facilitar consulta | Conferência de Estoque | Tela de produtos em estoque em poucos cliques
 | Mitigar prejuízos por vencimento de produtos | Alta | Avisos com antecedência | Conferência de Estoque Periodicamente | Avisos programados sempre que produto estiver prestes a vencer
-| Gerenciar vendas | Alta | Dados mais intuitivos | Planilhas | Gráficos ilustrativos e exportação de planilhas
+| Gerenciar vendas | Alta | Dados mais intuitivos | Planilhas | Gráficos ilustrativos e [Exportação](Modeling/verbo?id=Exportação) de planilhas
 
 ## 4. Visão Geral do Produto
 ### 4.1 Perspectiva do Produto
@@ -120,9 +120,9 @@ O Stock será distribuído sob a licença MIT para softwares livres, que dá lib
 
 ## 5. Recursos do Produto
 ### 5.1 Criar, atualizar, listar por categorias e remover estoque.
-### 5.2 Geração, Importação e Exportação de planilhas de consulta de estoque.
+### 5.2 Geração, [Importação](Modeling/verbo?id=Importação) e [Exportação](Modeling/verbo?id=Exportação) de planilhas de consulta de estoque.
 ### 5.3 Geração de gráficos de estoque e vendas.
-### 5.4 Notificação de prazo de validade dos produtos
+### 5.4 Notificação de [prazo de validade]((Modeling/estado?id=Prazo-de-Validade)) dos produtos
 ### 5.5 Personalização de acesso baseado em papéis do negócio
 
 ## 6. Restrições do Produto

@@ -91,7 +91,7 @@ Esta pergunta não foi respondida nesta entrevista.
 |    [#RF10](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         Histórico de vendas         |
 |   [#RF12](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |       Filtro por nome e preço       |
 |   [#RF15](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | Atualização instantânea de estoque  |
-|   [#RF16](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | Importação de planilha para load de estoque  |
+|   [#RF16](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | [Importação](Modeling/verbo?id=Importação) de planilha para load de estoque  |
 |   [#RF17](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | App para consulta fácil de produtos |
 |   [#RF018](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | App para baixa fácil de produtos |
 |    [#RF19](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     Delimitar quantidade mínima de um produto            |
