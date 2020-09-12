@@ -34,11 +34,11 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 
 ### Baixa Adesão da Aplicação
 
-|  Propaganda  |  Usabilidade  |  Funcionalidade  |  Cliente  |
+|  Propaganda  |  Usabilidade  |  Funcionalidade  |  [Cliente](Modeling/objeto?id=usuário)  |
 |  :--------:  |  :---------:  |  :------------:  |  :-----:  |
-|Divulgação deficiente|Dificuldade de uso da aplicação pelo usuário|Funcionalidades mal feitas, confusas e complexas|Cliente sem entendimentos técnico para utilização do produto|
-|Público alvo não definido|Produto final não agregar valor ao público alvo|Não cumprimento dos requisitos elicitados|Não existe mercado para o produto|
-|Barreira de entrada alta|Não uso de heurísticas|Má escolha da plataforma da aplicação|Falta de validação com Stakeholder|
+|Divulgação deficiente|Dificuldade de uso da aplicação pelo usuário|Funcionalidades mal feitas, confusas e complexas|Cliente sem entendimentos técnico para utilização do [produto](Modeling/objeto?id=Produto)|
+|Público alvo não definido|[produto](Modeling/objeto?id=Produto) final não agregar valor ao público alvo|Não cumprimento dos requisitos elicitados|Não existe mercado para o [produto](Modeling/objeto?id=Produto)|
+|Barreira de entrada alta|Não uso de heurísticas|Má escolha da plataforma da aplicação|Falta de validação com [stakeholder](Modeling/objeto?id=Stakeholder)|
 |Não conseguir mostrar o diferencial da aplicação em relação aos concorrentes|Não fazer testes de usabilidade|  -  |Não atender expectativa do cliente|
 
 <br>
@@ -59,7 +59,7 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 
 ![Desistência de Membro](../assets/img/causaEfeito/Desistência_de_Membro.png)
 
-### Produto com Defeito
+### [produto](Modeling/objeto?id=Produto) com Defeito
 
 |  Usabilidade  |  Código  |  Gerência  |  Documentação  |
 |  :---------:  |  :-----  |  :------:  |  :----------:  |
@@ -74,11 +74,11 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 
 ## Efeitos Positivos
 
-### Produto Viável Tecnicamente e para uso
+### [Produto](Modeling/objeto?id=Produto) Viável Tecnicamente e para uso
 
 |  Requisitos  |  Código  |  Usabilidade  |  Infraestrutura  |
 |  :---------:  |  :-----  |  :------:  |  :----------:  |
-| Requisitos validados com os Stakeholders | Código testado | Facilidade de uso pelo cliente | Conexão com a Internet |
+| Requisitos validados com os [stakeholders](Modeling/objeto?id=Stakeholder) | Código testado | Facilidade de uso pelo [cliente](Modeling/objeto?id=usuário) | Conexão com a Internet |
 | Documentação bem definida e atualizada | Código Revisado | Cumprir expectativas do usuário | Smartphone |
 | - | "Clean Code" | - | Computador com configurações recentes |
 
@@ -91,7 +91,7 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 |  Gerência  |  Documentação  |  Eficência  |  Grupo  |  Infraestrutura  |  Pessoal  |
 |  :---------:  |  :-----  |  :------:  |  :----------:  |  :----------:  |  :----------:  |
 | Cumprimento das metodologias e métricas adotadas | Evolução da documentação conforme o andamento do projeto | Entregas respeitando os critérios de aceitação |Boa dinâmica de pareamento|Conexão com a Internet|Boa gerência do tempo pessoal|
-| Alinhamento do produto com a sua documentação | Documentação bem definida | Validação de entrega de no mínimo 2 (duas) pessoas | Compartilhamento de conhecimento |Computador com bom desempenho|Comprometimento com o projeto|
+| Alinhamento do [produto](Modeling/objeto?id=Produto) com a sua documentação | Documentação bem definida | Validação de entrega de no mínimo 2 (duas) pessoas | Compartilhamento de conhecimento |Computador com bom desempenho|Comprometimento com o projeto|
 | Boa organização das entregas sem sobrecarga de tarefas | Rastreabilidade | - | Boa comunicação entre os membros do grupo |Ambiente propício para home office|Estudo constante das tecnologias e das técnicas|
 | - | Grupo alinhado com a documentação | - | Boa aceitação do grupo ao tema do projeto | - |Aberto a sugestões|
 | - | - | - | - | - | Auto motivação |
@@ -102,6 +102,6 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 
 ## Referências
 
-- MARTINS, Rosemary. Diagrama de Ishikawa. Disponível em: https://blogdaqualidade.com.br/diagrama-de-ishikawa/. Acesso em: 06 set. 2020.
+- MARTINS, Rosemary. Diagrama de Ishikawa. Disponível em: https://blogdaqualidade.com.br/diagrama-de-ishikawa/. Último acesso em 06/09/2020.
 
-- ANDRADE, Luiza. DIAGRAMA DE ISHIKAWA: O QUE É E COMO FAZER. Disponível em: https://www.siteware.com.br/metodologias/diagrama-de-ishikawa/. Acesso em: 06 set. 2020.
+- ANDRADE, Luiza. DIAGRAMA DE ISHIKAWA: O QUE É E COMO FAZER. Disponível em: https://www.siteware.com.br/metodologias/diagrama-de-ishikawa/. último acesso em 06/09/2020.

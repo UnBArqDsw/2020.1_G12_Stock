@@ -7,26 +7,26 @@ O storyboard é uma sequência de desenhos quadro a quadro com o esboço das div
 |    Data    | Versão |                       Descrição                       |    Autor(es)     |
 | :--------: | :----: | :---------------------------------------------------: | :--------------: |
 | 30/08/2020 |  1.0   | Criação do documento e adição dos stroyboards criados |   Gabriel Davi   |
-| 08/09/2020 |  1.1   |    Adição do storyboard de exportação de planilha.    | Micaella Gouveia |
+| 08/09/2020 |  1.1   |    Adição do storyboard de [Exportação](Modeling/verbo?id=Exportação) de planilha.    | Micaella Gouveia |
 | 09/09/2020 |  1.2   |                Adição dos requisitos.                 |   Gabriel Davi   |
 | 09/09/2020 |  1.3   |          Adição do storyboard de vencimento.          | Sofia Patrocínio |
 | 09/09/2020 |  1.4   |           Adição do requisitos RF9 e RF21.            | Sofia Patrocínio |
 
 ## StoryBoards
 
-### Atualizar o estoque em qualquer lugar
+### Atualizar o [estoque](Modeling/objeto?id=Estoque) em qualquer lugar
 
 #### Autor: Gabriel Davi
 
 ![SB1](../assets/img/storyboards/SB1_GabrielDavi.png)
 
-### Ivanete e seu estoque
+### Ivanete e seu [estoque](Modeling/objeto?id=Estoque)
 
 #### Autor: Gabriel Davi
 
 ![SB2](../assets/img/storyboards/SB2_GabrielDavi.png)
 
-### Estoque em seu bolso
+### [Estoque](Modeling/objeto?id=Estoque) em seu bolso
 
 #### Autor: Gabriel Davi
 
@@ -44,13 +44,13 @@ O storyboard é uma sequência de desenhos quadro a quadro com o esboço das div
 
 ![SB5](../assets/img/storyboards/SB5_GabrielDavi.jpg)
 
-### Exportação de planilhas de análise
+### [Exportação](Modeling/verbo?id=Exportação) de planilhas de análise
 
 #### Autora: Micaella Gouveia
 
 ![SB6](../assets/img/storyboards/SB6_Micaella.png)
 
-### Notificação de vencimento de produto
+### Notificação de vencimento de [produto](Modeling/objeto?id=Produto)
 
 #### Autora: Sofia Patrocinio
 
@@ -60,21 +60,21 @@ O storyboard é uma sequência de desenhos quadro a quadro com o esboço das div
 
 |                                     Id                                     |                Nome                 |
 | :------------------------------------------------------------------------: | :---------------------------------: |
-|   [#RF03](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     Adição de itens ao estoque      |
-|   [#RF04](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         Consulta de estoque         |
+|   [#RF03](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     [Adição de itens](Modeling/verbo?id=Cadastrar-Produto) ao estoque      |
+|   [#RF04](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         [Consulta de estoque](Modeling/verbo?id=Consultar-Produto)         |
 |   [#RF05](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        Filtro por categoria         |
 |   [#RF09](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |           Gerar planilha            |
 |   [#RF012](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   |       Filtro por nome e preço       |
 |   [#RF014](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   |        Plotagem de gráficos         |
-|   [#RF015](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   | Atualização instantânea de estoque  |
-|   [#RF017](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   | App para consulta fácil de produtos |
-|   [#RF018](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   |  App para baixa fácil de produtos   |
-|   [#RF021](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   | Notificação de prazo de vencimento  |
+|   [#RF015](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   | Atualização instantânea de [estoque](Modeling/objeto?id=Estoque)  |
+|   [#RF017](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   | App para consulta fácil de [produtos](Modeling/objeto?id=Produto) |
+|   [#RF018](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   |  App para baixa fácil de [produtos](Modeling/objeto?id=Produto)   |
+|   [#RF021](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   | Notificação de [prazo de vencimento](Modeling/estado?id=Prazo-de-Validade)  |
 | [#RNF01](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |         Rapidez na consulta         |
 | [#RNF02](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |         Gráficos didáticos          |
 | [#RNF03](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |          Consultas remotas          |
 
 ## Referências
 
-- Storyboard That - <https://www.storyboardthat.com/>. Último acesso em 28/08/2020
-- RocketChat- Repositório de requisitos de software - <https://marcosnbj.github.io/2019.1-RocketChat/>. Último acesso em 30/08/2020
+- Storyboard That: <https://www.storyboardthat.com/>. Último acesso em 28/08/2020.
+- RocketChat- Repositório de requisitos de software: <https://marcosnbj.github.io/2019.1-RocketChat/>. Último acesso em 30/08/2020.

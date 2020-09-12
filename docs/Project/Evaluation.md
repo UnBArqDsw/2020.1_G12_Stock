@@ -1,18 +1,19 @@
 # Estimativa de custos e tempo
 
-**Este artefato foi produzido durante o dia 5 da Design Sprint, para saber mais sobre a metodologia e como ela foi feita, clique aqui: *[Design Sprint](DesignSprint/DesignSprint.md)***
+**Este artefato foi produzido durante o dia 5 da Design Sprint, para saber mais sobre a metodologia e como ela foi feita, clique aqui: _[Design Sprint](DesignSprint/DesignSprint.md)_**
 
 Estimativa de custos tem como objetivo mensurar analiticamente o escopo de um projeto.
-Para a estimativa do custo, será levado em consideração apenas o ciclo de produção do software e não o ciclo de vida por completo. Também, o modelo que será utilizado é o de custo construtivo, também conhecido como **COCOMO**.
+Para a estimativa do custo, será levado em consideração apenas o ciclo de produção do software e não o ciclo de vida por completo. Também, o modelo que será utilizado é o de custo construtivo, também conhecido como **COCOMO**. _Para produção deste artefato, foi usado o documento do grupo A Monitoria como base cujo a wiki se encontra nas referências desse documento._
 
 ## Histórico de Revisão
 
-|    Data    | Versão |                         Descrição                         |                                  Autor(es)                                  |
-| :--------: | :----: | :-------------------------------------------------------: | :-------------------------------------------------------------------------: |
-| 05/09/2020 |  1.0   | Estimativa em equipe para o número de linhas da aplicação | Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio, Gabriel Alves |
-| 05/09/2020 |  1.1   |           Abertura do documento de estimativas            |                                Gabriel Davi                                 |
-| 06/09/2020 |  1.2   |     Realização dos cálculos de esforço, tempo e custo     |                                Gabriel Davi                                 |
-| 09/09/2020 |  1.3   | Correção da rota de hyperlink para página de Design Sprint | Sofia Patrocínio |
+|    Data    | Versão |                                       Descrição                                        |                                  Autor(es)                                  |
+| :--------: | :----: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
+| 05/09/2020 |  1.0   |               Estimativa em equipe para o número de linhas da aplicação                | Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio, Gabriel Alves |
+| 05/09/2020 |  1.1   |                          Abertura do documento de estimativas                          |                                Gabriel Davi                                 |
+| 06/09/2020 |  1.2   |                   Realização dos cálculos de esforço, tempo e custo                    |                                Gabriel Davi                                 |
+| 09/09/2020 |  1.3   |               Correção da rota de hyperlink para página de Design Sprint               |                              Sofia Patrocínio                               |
+| 11/09/2020 |  1.4   | Adição de informações adicionais sobre as referências usadas para criação do documento |                                Gabriel Davi                                 |
 
 ## MODELO DE CUSTO CONSTRUTIVO (CONSTRUCTIVE COST MODEL - COCOMO)
 
@@ -21,7 +22,7 @@ O COCOMO pode ser divido em três implementações, a depender do tipo de softwa
 
 - **COCOMO Básico:** É um modelo estático que calcula o esforço de desenvolvimento de software e seu tempo de desenvolvimento, em função do tamanho de linhas de códigos desenvolvidas.
 
-- **COCOMO Intermediário:** Calcula o esforço de desenvolvimento de software em função do tamanho do programa, que inclui custo, avaliação subjetiva do produto, hardware, pessoal e atributos de projeto.
+- **COCOMO Intermediário:** Calcula o esforço de desenvolvimento de software em função do tamanho do programa, que inclui custo, avaliação subjetiva do [produto](Modeling/objeto?id=Produto), hardware, pessoal e atributos de projeto.
 
 - **COCOMO Detalhado:** São incorporadas características da versão intermediária com uma avaliação de impacto de custo em cada passo de todo o projeto.
 
@@ -31,7 +32,7 @@ O COCOMO pode ser divido em três implementações, a depender do tipo de softwa
 - **Modo Semidestacado:** projetos intermediários (em tamanho e complexidade), com alguns requisitos rígidos e outros não tão rígidos, com níveis mistos de experiência nas equipes.
 - **Modo Embutido:** projetos com conjunto rígido de restrições operacionais, tanto de hardware, quanto de software.
 
-Devido as particularidades do projeto a equipe o classificou como **Semidestacado**, pois as funções básicas que o software irá realizar será a listagem de produtos por categoria no estoque, adição de um produto no estoque e assim por diante, não havendo assim requisítos tão rígidos ou outras peculiaridades de implementação.
+Devido as particularidades do projeto a equipe o classificou como **Semidestacado**, pois as funções básicas que o software irá realizar será a listagem de [produtos](Modeling/objeto?id=Produto) por categoria no [estoque](Modeling/objeto?id=Estoque), adição de um [produto](Modeling/objeto?id=Produto) no [estoque](Modeling/objeto?id=Estoque) e assim por diante, não havendo assim requisítos tão rígidos ou outras peculiaridades de implementação.
 
 ### COCOMO Intermediário
 
@@ -39,11 +40,11 @@ A escolha do tipo de estimativa foi o **COCOMO intermediário**, já que será n
 
 Neste modelo, o COCOMO Básico é ampliado com a finalidade de levar em consideração um conjunto de atributos direcionadores do custo que são agrupados em quatro categorias:
 
-- **Atributos do produto:**
+- **Atributos do [produto](Modeling/objeto?id=Produto):**
 
   - confiabilidade exigida do software;
   - tamanho do banco de dados;
-  - complexidade do produto.
+  - complexidade do [produto](Modeling/objeto?id=Produto).
 
 - **Atributos do hardware:**
 
@@ -442,26 +443,26 @@ Com isso, o resultado do peso que será utilizado equivale a multiplicação dos
 
 ## Estimativa de Quantidade de Linhas de Códigos
 
-Foi feito uma reunião com a equipe de desenvolvimento para estimar a quantidade de linhas de código que a aplicação pode tomar separado por telas e funcionalidades principais.
+Foi feito uma reunião com a equipe de desenvolvimento para estimar a quantidade de linhas de código que a aplicação pode tomar separado por telas e funcionalidades principais. Cada participante fez seu próprio levantamento para cada funcionalidade e por fim foi discutido os valores finais para um dos requisitos iniciais.
 
 ### Backend
 
 Total: 950 linhas
 
-- Crud de estoque
+- Crud de [estoque](Modeling/objeto?id=Estoque)
 
-  - Listagem de produtos - 150 linhas
+  - Listagem de [produtos](Modeling/objeto?id=Produto) - 150 linhas
   - Cadastro de estoque - 200 linhas
-  - Adição de produto no estoque - 100 linhas
-  - Remoção de produto no estoque - 100 linhas
+  - Adição de [produto](Modeling/objeto?id=Produto) no estoque - 100 linhas
+  - Remoção de [produto](Modeling/objeto?id=Produto) no estoque - 100 linhas
   - Atualizar estoque - 120 linhas
 
-- Crud de usuários
+- Crud de [usuário](Modeling/objeto?id=usuário) 
 
-  - Registro de usuário - 100 linhas
+  - Registro de [usuário](Modeling/objeto?id=usuário) - 100 linhas
   - Atualização de dados cadastrais - 65 linhas
-  - Remoção de usuário - 25 linhas
-  - Autenticação do usuário - 65 linhas
+  - Remoção de [usuário](Modeling/objeto?id=usuário) - 25 linhas
+  - Autenticação do [usuário](Modeling/objeto?id=usuário) - 65 linhas
 
 - Middleware
   - Verificação de token - 20 linhas
@@ -472,12 +473,12 @@ Total: 1820 linhas
 
 - Tela de login - 150 linhas
 - Tela de cadastro -170 linhas
-- Tela de perfil do usuário - 200 linhas
-- Tela inical da aplicação (Dashboard) - 400 linhas
-- Tela de lista de estoque - 300 linhas (socket e responsividade)
-- Tela de cadastro de estoque - 150 linhas
-- Tela de atualização dos produtos no estoque - 200 linhas
-- Tela de admnistração (Listagem de usuário, alterar um usuário ,cadastrar um funcionario) - 250 linhas
+- Tela de perfil do [usuário](Modeling/objeto?id=usuário) - 200 linhas
+- Tela inical da aplicação ([Dashboard](Modeling/objeto?id=Dashboard)) - 400 linhas
+- Tela de lista de [estoque](Modeling/objeto?id=Estoque) - 300 linhas (socket e responsividade)
+- Tela de cadastro de [estoque](Modeling/objeto?id=Estoque) - 150 linhas
+- Tela de atualização dos [produtos](Modeling/objeto?id=Produto) no [estoque](Modeling/objeto?id=Estoque) - 200 linhas
+- Tela de admnistração (Listagem de [usuário](Modeling/objeto?id=usuário), alterar um [usuário](Modeling/objeto?id=usuário), cadastrar um funcionario) - 250 linhas
 
 Com isso, o total de linhas estimados para a aplicação foi de 2770 linhas de código. Como é possível uma falha na estimativa, os cálculos irão considerar um intervalo entre 2270 e 2770 linhas de código.
 
@@ -519,7 +520,7 @@ Para 2270 linhas de código (2.27 Kloc)
 
 ## Estimativa de preço
 
-Os valores alcançados pelas estimativas foram bastantes rasoáveis de acordo com a realidade do projeto, que possui 5 desenvolvedores e um semestre de aproximadamente 6 meses para desenvolver a aplicação. Por isso, serão levados em conta para esse cálculo 5 quantidade de pessoas e 5 meses de desenvolvimento, o que está dentro da margem estipulada.
+Os valores alcançados pelas estimativas foram bastantes rasoáveis de acordo com a realidade do projeto, que possui 5 [desenvolvedores](Modeling/objeto?id=Desenvolvedor) e um semestre de aproximadamente 6 meses para desenvolver a aplicação. Por isso, serão levados em conta para esse cálculo 5 quantidade de pessoas e 5 meses de desenvolvimento, o que está dentro da margem estipulada.
 
 ### Infra estrutura
 
@@ -534,7 +535,7 @@ Todos os valores usados para os cálculos foram pesquisados e podem ser conferid
 
 ### Desenvolvedores
 
-Consideramos que os desenvolvedores irão trabalhar 4 horas por dia, 5 dias por semana.
+Consideramos que os [desenvolvedores](Modeling/objeto?id=Desenvolvedor) irão trabalhar 4 horas por dia, 5 dias por semana.
 
 | Quantidate | Preço da hora | Tempo de projeto |     Total     |
 | :--------: | :-----------: | :--------------: | :-----------: |
@@ -546,15 +547,15 @@ Com isso, estipula-se que o valor total do projeto seja estimado em **R\$ 81,405
 
 ## Referências
 
-SILVA FILHO, Antonio Mendes da. **Custo de Software: Planejamento e Gestão**. Disponível em: <http://www.periodicos.uem.br/ojs/index.php/EspacoAcademico/article/view/22604/12254> - ultimo acesso 04/09/2020
+SILVA FILHO, Antonio Mendes da. **Custo de Software: Planejamento e Gestão**. Disponível em: <http://www.periodicos.uem.br/ojs/index.php/EspacoAcademico/article/view/22604/12254>. Último acesso 04/09/2020
 
-**A monitoria**. Disponível em: <https://github.com/2019-2-arquitetura-desenho/wiki> - ultimo acesso 05/09/2020
+**A monitoria**. Disponível em: <https://github.com/2019-2-arquitetura-desenho/wiki>. Último acesso 05/09/2020
 
-**COCOMO** Disponível em: <http://vivenciandoti.blogspot.com/2016/07/o-que-e-cocomo-ii.html#:~:text=COCOMO%20(COnstructive%20COst%20MOdel)%20%C3%A9,equipe%20em%20projetos%20de%20software.&text=Este%20n%C3%BAmero%20pode%20ser%20derivado,fun%C3%A7%C3%A3o%20n%C3%A3o%20ajustados%20do%20projeto.> - ultimo acesso 05/09/2020
+**COCOMO** Disponível em: <http://vivenciandoti.blogspot.com/2016/07/o-que-e-cocomo-ii.html#:~:text=COCOMO%20(COnstructive%20COst%20MOdel)%20%C3%A9,equipe%20em%20projetos%20de%20software.&text=Este%20n%C3%BAmero%20pode%20ser%20derivado,fun%C3%A7%C3%A3o%20n%C3%A3o%20ajustados%20do%20projeto.>. Último acesso 05/09/2020
 
-**Internet Claro** Disponível em: <https://www.claro.com.br/internet/banda-larga> - ultimo acesso 06/09/2020
+**Internet Claro** Disponível em: <https://www.claro.com.br/internet/banda-larga>. Último acesso 06/09/2020
 
-**CEB ENERGIA** Disponível em: <http://www.aneel.gov.br/home?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_returnToFullPageURL=http%3A%2F%2Fwww.aneel.gov.br%2Fhome%3Fp_auth%3DjMK88uBU%26p_p_id%3D3%26p_p_lifecycle%3D1%26p_p_state%3Dnormal%26p_p_state_rcv%3D1&_101_assetEntryId=14837763&_101_type=content&_101_groupId=656877&_101_urlTitle=aneel-estabelece-novo-valor-para-encargo-de-capacidade-emergencial-da-cb-1&inheritRedirect=true> - ultimo acesso 06/09/2020
+**CEB ENERGIA** Disponível em: <http://www.aneel.gov.br/home?p_p_id=101&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_101_struts_action=%2Fasset_publisher%2Fview_content&_101_returnToFullPageURL=http%3A%2F%2Fwww.aneel.gov.br%2Fhome%3Fp_auth%3DjMK88uBU%26p_p_id%3D3%26p_p_lifecycle%3D1%26p_p_state%3Dnormal%26p_p_state_rcv%3D1&_101_assetEntryId=14837763&_101_type=content&_101_groupId=656877&_101_urlTitle=aneel-estabelece-novo-valor-para-encargo-de-capacidade-emergencial-da-cb-1&inheritRedirect=true>. Último acesso 06/09/2020
 
 <style>
     .selected {

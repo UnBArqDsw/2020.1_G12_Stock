@@ -1,10 +1,11 @@
 - [Home](/)
 - **Produto**
-  - [Manual de Identidade<br> Visual](product/ManualId.md)
-  - [Documento de Visão](product/DocVisão.md)
+  - [Manual de Identidade<br> Visual](Product/ManualId.md)
+  - [Documento de Visão](Product/DocVisão.md)
 - **Projeto**
   - [Metodologias](Project/Metodologias.md)
   - [Estimativas](Project/Evaluation.md)
+  - [Modelagem BPMN](Project/ModelagemBPMN.md)
   - [Sprints](Index/sprintsIndex.md)
 - **Base**
   - **Design Sprint**
@@ -30,4 +31,4 @@
     - [Personas](Elicitation/Personas.md)
     - [Introspecção](Elicitation/Introspeccao.md)
 - **Modelagem**
-  - [Análise](Modeling/Analise.md)
+  - [Léxicos](Modeling/Lexico.md)

@@ -1,6 +1,6 @@
 # Personas
 
-Persona é um personagem fictício, baseado em dados de clientes reais, como comportamento, dados demográficos, problemas e objetivos, que representa o cliente ideal para uma aplicação. O uso de personas tem como objetivo criar um perfil que sintetize as principais características dos clientes para que se consiga criar estratégias alinhadas ao público alvo e capazes de atender suas demandas.
+Persona é um personagem fictício, baseado em dados de [clientes](Modeling/objeto?id=usuário) reais, como comportamento, dados demográficos, problemas e objetivos, que representa o [cliente](Modeling/objeto?id=usuário) ideal para uma aplicação. O uso de personas tem como objetivo criar um perfil que sintetize as principais características dos [clientes](Modeling/objeto?id=usuário) para que se consiga criar estratégias alinhadas ao público alvo e capazes de atender suas demandas.
 
 ## Históricos de Revisões
 
