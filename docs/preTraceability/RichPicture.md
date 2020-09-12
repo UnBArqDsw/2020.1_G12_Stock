@@ -26,18 +26,18 @@ Para o projeto, decidimos que cada membro faria inicialmente o seu rich picture,
 * Autenticação
 ![Gabriel Davi](../assets/richPictures/RP2_GabrielDavi.png)
 
-* Cadastro de Estoque
+* Cadastro de [Estoque](../Modeling/objeto?id=Estoque)
 ![Gabriel Davi](../assets/richPictures/RP3_GabrielDavi.png)
 
 ### Micaella Gouveia
 
-* Hierarquia de Usuários
+* Hierarquia de [usuários](../Modeling/objeto?id=usuário)
 ![Micaella](../assets/richPictures/RP_Hierarquia_Micaella.png)
 
 ### Pedro Igor
 
 
-* Hierarquia de Usuários
+* Hierarquia de [usuários](../Modeling/objeto?id=usuário)
 ![Pedro Igor](../assets/richPictures/RP_Hierarquia_PedroIgor.png)
 
 ### Sofia Patrocínio

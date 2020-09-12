@@ -7,6 +7,6 @@ Cada léxico pode ser classificado por um e somente um tipo, que são eles: Obje
 
 ## Tipos de Léxicos
 
- - [Objetos](objeto.md)
- - [Verbos](verbo.md)
- - [Estados](estado.md)
+ - [Objetos](../Modeling/objeto.md)
+ - [Verbos](../Modeling/verbo.md)
+ - [Estados](../Modeling/estado.md)

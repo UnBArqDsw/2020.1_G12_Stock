@@ -1,6 +1,6 @@
 # Entrevista
 
-A entrevista é uma técnica de elicitação de requisitos que se baseia em questionar os stakeholders sobre processos e sistemas atuais e sobre o que é desejado para o que vai ser desenvolvido. Entrevistas podem ser fechadas ou abertas, enquanto as fechadas são baseadas em um conjunto pré-existente de perguntas as abertas são sem script pré-definido, se adptando de acordo com o conhecimento do stakeholder.
+A entrevista é uma técnica de elicitação de requisitos que se baseia em questionar os [stakeholder](../Modeling/objeto?id=stakeholder) sobre processos e sistemas atuais e sobre o que é desejado para o que vai ser desenvolvido. Entrevistas podem ser fechadas ou abertas, enquanto as fechadas são baseadas em um conjunto pré-existente de perguntas as abertas são sem script pré-definido, se adptando de acordo com o conhecimento do [stakeholder](../Modeling/objeto?id=stakeholder).
 
 ## Históricos de Revisões
 
@@ -19,7 +19,7 @@ A entrevista foi realizada com Ivanete Bezerra de 49 anos, que atualmente possui
 
 ### 2. Qual o nome de seu negócio e como ele funciona?
 
-“O nome da minha empresa é bonavita, é uma empresa de produtos naturais. Nós somos atacado e varejo, vendemos ‘saúde’ (slogan da empresa) . A gente capta cliente nas redes de relacionamento e por visita presencial em estabelecimentos que vendem nossos produtos."
+“O nome da minha empresa é bonavita, é uma empresa de [produto](../Modeling/objeto?id=produto) naturais. Nós somos atacado e varejo, vendemos ‘saúde’ (slogan da empresa) . A gente capta cliente nas redes de relacionamento e por visita presencial em estabelecimentos que vendem nossos [produtos](../Modeling/objeto?id=produto)."
 
 ### 3. Você possui quantos funcionários ou pessoas envolvidas nesse negócio?
 
@@ -31,7 +31,7 @@ A entrevista foi realizada com Ivanete Bezerra de 49 anos, que atualmente possui
 
 ### 5. Como você costuma mensurar quanto o seu negócio obteve de crescimento? E de prejuízo?
 
-“O meu termômetro é meu estoque. Atualmente, por exemplo, a gente fez uma compra grande. Também é pela demanda e pela carteira de cliente que a gente tem.”
+“O meu termômetro é meu [estoque](../Modeling/objeto?id=Estoque). Atualmente, por exemplo, a gente fez uma compra grande. Também é pela demanda e pela carteira de cliente que a gente tem.”
 
 ### 6. Você costuma registrar em algum lugar os produtos que são vendidos? Se sim, como funciona esse processo?
 
@@ -39,19 +39,19 @@ A entrevista foi realizada com Ivanete Bezerra de 49 anos, que atualmente possui
 
 ### 7. Você mantém o registro de seu estoque? Se sim, como ele é feito hoje?
 
-“O estoque eu tabulei o saldo das minhas mercadorias e na medida que eu vou vendendo eu visito essa planilha e vou dando baixa lá. (não é a mesma planilha usada para a venda).”
+“O [estoque](../Modeling/objeto?id=Estoque) eu tabulei o saldo das minhas mercadorias e na medida que eu vou vendendo eu visito essa planilha e vou dando baixa lá. (não é a mesma planilha usada para a venda).”
 
 ### 8. Imagine que você precisa saber se tem um certo produto em estoque e rápido, mas você não está em sua loja. Como você procederia?
 
-“Eu teria que ir na loja para saber se tenho o produto.”
+“Eu teria que ir na loja para saber se tenho o [produto](../Modeling/objeto?id=produto).”
 
 ### 9. Já aconteceu de você se enganar quanto ao número de produtos que possui em estoque?
 
-“Ixe, várias vezes. Inclusive com saldo errado, eu olho na minha planilha e eu tenho lá 10kg de uma erva, por exemplo, ou de um chá ou de um produto sendo que na prateleira não tem isso. Isso ocorre por que eu esqueci de dar baixa no produto ou alguém vendeu e não deu baixa.”
+“Ixe, várias vezes. Inclusive com saldo errado, eu olho na minha planilha e eu tenho lá 10kg de uma erva, por exemplo, ou de um chá ou de um [produto](../Modeling/objeto?id=produto) sendo que na prateleira não tem isso. Isso ocorre por que eu esqueci de dar baixa no [produto](../Modeling/objeto?id=produto) ou alguém vendeu e não deu baixa.”
 
 ### 10. Já aconteceu de você não possuir um produto e ele ser extremamente requerido pelos seus clientes?
 
-“A princípio não, a gente tem mantido o estoque adequado.”
+“A princípio não, a gente tem mantido o [estoque](../Modeling/objeto?id=Estoque) adequado.”
 
 ### 11. Já aconteceu de você comprar um estoque de certo produto de forma exagerada e ele não ser vendido com facilidade?
 
@@ -59,7 +59,7 @@ A entrevista foi realizada com Ivanete Bezerra de 49 anos, que atualmente possui
 
 ### 12. Qual a maior dificuldade que você enfrenta na parte administrativa de seu negócio?
 
-“Com certeza o controle do estoque. Coisas como não haver produtos no estoque e eu achar que tinha e vice e versa por que não está registrado na planilha. E eu deixei de vender por que eu pensei que não tinha.”
+“Com certeza o controle do [estoque](../Modeling/objeto?id=Estoque). Coisas como não haver [produtos](../Modeling/objeto?id=produto) no [estoque](../Modeling/objeto?id=Estoque) e eu achar que tinha e vice e versa por que não está registrado na planilha. E eu deixei de vender por que eu pensei que não tinha.”
 
 ### 13. De 1 a 10, qual a sua afinidade com aparelhos celulares e computadores? Costuma depender de alguém para realizar certas ações?
 
@@ -67,26 +67,26 @@ A entrevista foi realizada com Ivanete Bezerra de 49 anos, que atualmente possui
 
 ### 14. De 1 a 10, quanto a tecnologia faz parte do seu dia a dia nessa parte dos negócios?
 
-“5. Faz parte do controle de estoque que é feito via excel, no controle de venda , no controle de cotação de mercadoria.”
+“5. Faz parte do [controle de estoque](../Modeling/verbo?id=controle-de-estoque) que é feito via excel, no controle de venda , no controle de cotação de mercadoria.”
 
 ### 15. Em quais processos hoje em sua empresa você acha que daria para envolver tecnologia?
 
-“Nossa, praticamente tudo. Controle de estoque, controle de venda, cálculo da minha margem de lucro, cotação de mercadoria, emissão de pedido para cliente.”
+“Nossa, praticamente tudo. [controle de estoque](../Modeling/verbo?id=controle-de-estoque), controle de venda, cálculo da minha margem de lucro, cotação de mercadoria, emissão de pedido para cliente.”
 
 ## Requisitos levantados
 
 |                                     Id                                      |                Nome                 |
 | :-------------------------------------------------------------------------: | :---------------------------------: |
-|    [#RF03](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     Adição de itens ao estoque      |
-|    [#RF04](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         Consulta de estoque         |
+|    [#RF03](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     Adição de itens ao [estoque](../Modeling/objeto?id=Estoque)      |
+|    [#RF04](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         Consulta de [estoque](../Modeling/objeto?id=Estoque)         |
 |    [#RF05](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        Filtro por categoria         |
-|    [#RF07](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     Remoção de itens do estoque     |
+|    [#RF07](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     Remoção de itens do [estoque](../Modeling/objeto?id=Estoque)     |
 |    [#RF09](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |           Gerar planilha            |
 |    [#RF10](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         Histórico de vendas         |
 |   [#RF012](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |       Filtro por nome e preço       |
 |   [#RF014](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        Plotagem de gráficos         |
-|   [#RF015](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | Atualização instantânea de estoque  |
-|   [#RF017](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | App para consulta fácil de produtos |
+|   [#RF015](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | Atualização instantânea de [estoque](../Modeling/objeto?id=Estoque)  |
+|   [#RF017](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | App para consulta fácil de [produtos](../Modeling/objeto?id=produto) |
 | [#RNF01](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |         Rapidez na consulta         |
 | [#RNF02](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |         Gráficos didáticos          |
 | [#RNF03](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |          Consultas remotas          |

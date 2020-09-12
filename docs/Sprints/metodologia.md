@@ -13,15 +13,15 @@ Para a organização do projeto, algumas metodologias ágeis foram adotadas, sen
 A cada Sprint, será produzido um documento de review da Sprint e um de planning da próxima Sprint.
 
 No documento de planejamento, será mostrado:
-* Issues que serão desenvolvidas, sua pontuação e responsáveis
+* [Issues](../Modeling/objeto?id=Issue) que serão desenvolvidas, sua pontuação e responsáveis
 * Relato sobre a reunião realizada, contendo as principais decisões tomadas
 * Quadro de distribuição de pontos por participante
-* Datas de entregas de certas issues, caso necessário 
+* Datas de entregas de certas [issues](../Modeling/objeto?id=Issue), caso necessário 
 * Qualquer tipo de observação pertinente para documentação da Sprint
 * Link para a gravações realizadas, se houver
 
 No documento de review, será mostrado:
-* Issues entregues
+* [Issues](../Modeling/objeto?id=Issue) entregues
 * Dívidas técnicas, caso existam
 * Observações gerais sobre o resultado alcançado
 * Quadro de conhecimento

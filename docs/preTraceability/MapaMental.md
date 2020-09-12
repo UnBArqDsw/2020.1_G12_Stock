@@ -1,6 +1,6 @@
 # Mapa Mental
 
-Mapa mental é uma técnica utilizada no início do projeto e tem como objetivo colocar as ideias no papel, em forma de desenhos e setas, facilitando associações entre as informações mais relevantes. Essa técnica ajuda a memorizar os pontos mais importantes do produto, e ajuda a trazer novas ideias ao projeto. Diferentemente do Rich Picture, mapa mental possui um tom mais livre de associação, dando autonomia para o membro em desenhar da forma que quiser.
+Mapa mental é uma técnica utilizada no início do projeto e tem como objetivo colocar as ideias no papel, em forma de desenhos e setas, facilitando associações entre as informações mais relevantes. Essa técnica ajuda a memorizar os pontos mais importantes do [produto](../Modeling/objeto?id=produto), e ajuda a trazer novas ideias ao projeto. Diferentemente do Rich Picture, mapa mental possui um tom mais livre de associação, dando autonomia para o membro em desenhar da forma que quiser.
 
 Para o projeto, cada membro do time fez seu mapa mental de tema livre.
 

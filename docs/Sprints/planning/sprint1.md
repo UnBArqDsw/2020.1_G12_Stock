@@ -16,7 +16,7 @@
 
 
 ## Quadro de Distribuição de Pontos
-Este quadro divide a pontuação das issues com a quantidade de participantes, para ter a noção da distribuição de pontos por pessoa, evitando a sobrecarga de tarefas para algum membro.
+Este quadro divide a pontuação das [issues](../../Modeling/objeto?id=Issue) com a quantidade de participantes, para ter a noção da distribuição de pontos por pessoa, evitando a sobrecarga de tarefas para algum membro.
 
 *Como nesta Sprint foi realizado o Design Sprint, todos os membros participaram de todas as issues, e cada um ficou responsável em finalizar um documento, não sendo necessário fazer a distribuição de pontos.*
 

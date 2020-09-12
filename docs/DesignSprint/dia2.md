@@ -17,9 +17,9 @@
 
 No começo da reunião, começamos com a etapa **Entender (Unpack)** e decimos o que já tinhamos claro em mente com base em outros artefatos que já tinhamos produzido e o que seria necessário aplicar as dinâmicas. Nosso foco se tornou responder algumas questões e evoluir algumas ideas, como:
 - O problema que desejamos atacar com o Stock
-- O posicionamento do nosso produto em relação ao mercado
+- O posicionamento do nosso [produto](../Modeling/objeto?id=produto) em relação ao mercado
 - Público alvo
-- Perspectiva geral do nosso produto
+- Perspectiva geral do nosso [produto](../Modeling/objeto?id=produto)
 
 Para isso, escolhemos os tópicos 1.2, 2.1, 2.2, 2.3, 3.6, 4.1, 4.2, 5, 6 e 7 para a fase de **Esboçar (Sketch)**, na qual cada membro escreveu um texto relativo a esses tópicos. Para essa fase, separamos 30 minutos. Ao final dessa fase, fomos para a fase de **Decidir (Decide)** para alinharmos tópico a tópico. Com base nos documentos feitos por cada membro, decidimos o que faria mais sentido no contexto da nossa aplicação. Essa fase estava programa pra durar 30 minutos, porém ela se estendeu mais que isso, pois tinhamos muitas decisões importantes a tomar. Logo, como mediadora, comecei a fase **Prototipar (Prototype)**, com o uso de um arquivo em Markdown como template. As duas etapas levaram cerca de 1h30 para serem concluidas. Ao final da etapa, eu fiquei responsável por finalizar e criar o documento, assim como documentá-lo na wiki.
 

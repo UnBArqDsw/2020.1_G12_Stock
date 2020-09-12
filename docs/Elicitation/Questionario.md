@@ -17,7 +17,7 @@ As perguntas a seguir foram elaboradas em um dos dias de Design Sprint realizado
 **1** - Você trabalha com vendas ou negócios?<br>
 (&nbsp;&nbsp;)Sim&nbsp;&nbsp;&nbsp;(&nbsp;&nbsp;)Não<br><br>
 
-**2** - A empresa a qual trabalha envolve estoque de produtos?<br>
+**2** - A empresa a qual trabalha envolve [estoque](../Modeling/objeto?id=Estoque) de [produtos](../Modeling/objeto?id=produto)?<br>
 
 (&nbsp;&nbsp;)Sim&nbsp;&nbsp;&nbsp;(&nbsp;&nbsp;)Não<br><br>
 
@@ -59,46 +59,46 @@ Range de 1 a 10<br><br>
 (&nbsp;&nbsp;) Dono ou Sócio<br>
 (&nbsp;&nbsp;) Administrador(gerente)<br>
 (&nbsp;&nbsp;) Tesoureiro<br>
-(&nbsp;&nbsp;) Vendedor<br>
+(&nbsp;&nbsp;) [Vendedor](../Modeling/objeto?id=vendedor)<br>
 (&nbsp;&nbsp;) Outros<br><br>
 
 *Definições do estoque:*<br><br>
 
-**8** - Qual a frequência de reposição de estoque?<br>
+**8** - Qual a frequência de reposição de [estoque](../Modeling/objeto?id=Estoque)?<br>
 (&nbsp;&nbsp;) Diariamente<br>
 (&nbsp;&nbsp;) Semanalmente<br>
 (&nbsp;&nbsp;) Mensalmente<br>
 (&nbsp;&nbsp;) Indefinido<br><br>
 
-**9** - Qual a quantidade de produtos que saem do estoque diariamente (aproximadamente)?<br>
+**9** - Qual a quantidade de [produtos](../Modeling/objeto?id=produto) que saem do [estoque](../Modeling/objeto?id=Estoque) diariamente (aproximadamente)?<br>
 (&nbsp;&nbsp;) 1 a 50<br>
 (&nbsp;&nbsp;) )51 a 100<br>
 (&nbsp;&nbsp;) 101 a 200<br>
 (&nbsp;&nbsp;) 201 ou mais<br>
 (&nbsp;&nbsp;) Não tenho essa informação<br><br>
 
-**10** - É possível categorizar cada produto desta empresa?<br>
+**10** - É possível categorizar cada [produtos](../Modeling/objeto?id=produto) desta empresa?<br>
 (&nbsp;&nbsp;) Sim<br> 
 (&nbsp;&nbsp;) Não<br><br>
 
 *Aplicação:*<br><br>
 
-**11** - Está empresa trabalha com produtos perecíveis? <br>
+**11** - Está empresa trabalha com [produtos](../Modeling/objeto?id=produto) perecíveis? <br>
 (&nbsp;&nbsp;) Sim<br>
 (&nbsp;&nbsp;) Não<br><br>
 
-**12** - Esta empresa já teve prejuízo por não controlar o estoque corretamente? (Produto passar da data de validade, produto não encontrado no estoque)<br>
+**12** - Esta empresa já teve prejuízo por não controlar o [estoque](../Modeling/objeto?id=Estoque) corretamente? ([produto](../Modeling/objeto?id=produto) passar da data de validade, [produto](../Modeling/objeto?id=produto) não encontrado no [estoque](../Modeling/objeto?id=Estoque))<br>
 (&nbsp;&nbsp;) Sim<br>
 (&nbsp;&nbsp;) Não<br><br>
 
-**13** - Quais ferramentas de controle de estoque são utilizadas ou já foram utilizadas nesta empresa? (marque todas as aplicáveis)?<br>
+**13** - Quais ferramentas de [controle de estoque](../Modeling/verbo?id=controle-de-estoque) são utilizadas ou já foram utilizadas nesta empresa? (marque todas as aplicáveis)?<br>
 (&nbsp;&nbsp;) Planilhas Online<br>
 (&nbsp;&nbsp;) Controle manual(planilha excel no computador)<br>
 (&nbsp;&nbsp;) Programa/Aplicativo<br>
 (&nbsp;&nbsp;) Nunca utilizei<br>
 (&nbsp;&nbsp;) Outros<br><br>
 
-**14** - Quais problemas você já encontrou ao fazer controle de estoque? (opcional)<br>
+**14** - Quais problemas você já encontrou ao fazer [controle de estoque](../Modeling/verbo?id=controle-de-estoque)? (opcional)<br>
 [Caixa de Texto]<br>
 
 ## Referências

@@ -20,7 +20,7 @@ O principal objetivo é ter conhecimento se a ideia proposta irá funcionar ante
 2. **SKETCH**:  As pessoas vão trabalhar individualmente colocando as soluções para aquele problema/ideia no papel. A ideia é conseguir colocar o máximo possível no papel, sem muita discussão em grupo no começo.
 3. **DECIDE**: Filtrar as ideias, refiná-las, e no fim do dia escolher uma única ideia que vocês irão prototipar
 4. **PROTOTYPE**: A ideia é montar um protótipo daquela ideia até o fim do dia.
-5. **TEST**: Testar os protótipos para os potenciais usuários do produto, em sessões individuais.
+5. **TEST**: Testar os protótipos para os potenciais [usuário](../Modeling/objeto?id=usuário) do [produto](../Modeling/objeto?id=produto), em sessões individuais.
 
 ## Adaptação do Processo para o Contexto do Time
 Para o projeto, seguir a risca o modelo proporcionado pela [Google Venture](https://www.gv.com/) não seria viável devido ao momento em que o projeto se encontrava. Foi necessário fazer uma adaptação do processo, seguindo e modificando a adaptação já feita pela professora Milene.
@@ -39,7 +39,7 @@ Nossas fases ficaram assim definidas:
 
 ## Justificativa
 
-Decidimos adaptar o Design Sprint com o intuito de todos os membros do grupo ficarem alinhados em relação a documentação, parte muito importante do desenvolvimento do nosso produto. Além disso, acreditamos que com todos os 5 membros participando do processo de criação, os documentos possuem uma qualidade muito superior, pois "**Cinco cabeças pensam melhor que uma**" :)
+Decidimos adaptar o Design Sprint com o intuito de todos os membros do grupo ficarem alinhados em relação a documentação, parte muito importante do desenvolvimento do nosso [produto](../Modeling/objeto?id=produto). Além disso, acreditamos que com todos os 5 membros participando do processo de criação, os documentos possuem uma qualidade muito superior, pois "**Cinco cabeças pensam melhor que uma**" :)
 
 ## Realização
 O processo foi realizado durante a Sprint 1, dos dias 01/09/2020 a 05/09/2020.

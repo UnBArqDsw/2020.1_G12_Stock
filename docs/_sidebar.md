@@ -31,3 +31,4 @@
     - [Introspecção](Elicitation/Introspeccao.md)
 - **Modelagem**
   - [Análise](Modeling/Analise.md)
+  - [Léxicos](Modeling/Lexico.md)

@@ -4,7 +4,7 @@ Descrição concisa do que foi feito
 
 ## Resolve (Issues)
 
-Issues que foram resolvidas com o PR
+[Issues](../docs/Modeling/objeto?id=Issue) que foram resolvidas com o PR
 
 ## PRs relacionados, se houver
 

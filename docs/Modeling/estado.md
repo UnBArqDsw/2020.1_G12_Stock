@@ -17,29 +17,29 @@
 ### Prazo de Validade
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- tempo que os produtos podem ser armazenados mantendo sua qualidade aceitável.|- a validade do produto está acabando.|- serventia do produto, vida útil do produto, validade do produto.|
+|- tempo que os [produto](../Modeling/objeto?id=produto) podem ser armazenados mantendo sua qualidade aceitável.|- a validade do [produto](../Modeling/objeto?id=produto) está acabando.|- serventia do [produto](../Modeling/objeto?id=produto), vida útil do [produto](../Modeling/objeto?id=produto), validade do [produto](../Modeling/objeto?id=produto).|
 
 ### Estoque baixo
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- O estoque é dito como estoque baixo quando há um número relativamente pequeno de produtos em suas dependências|- O vendedor tem que repor o estoque baixo <br> - A loja está com poucos produtos no estoque|- Estoque escasso <br> - Estoque com poucos produtos|
+|- O [estoque](../Modeling/objeto?id=Estoque) é dito como [estoque](../Modeling/objeto?id=Estoque) baixo quando há um número relativamente pequeno de [produto](../Modeling/objeto?id=produto) em suas dependências|- O [Vendedor](../Modeling/objeto?id=vendedor) tem que repor o [estoque](../Modeling/objeto?id=Estoque) baixo <br> - A loja está com poucos [produto](../Modeling/objeto?id=produto) no [estoque](../Modeling/objeto?id=Estoque)|- [estoque](../Modeling/objeto?id=Estoque) escasso <br> - [estoque](../Modeling/objeto?id=Estoque) com poucos [produto](../Modeling/objeto?id=produto)|
 
 ### Estoque cheio
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- Quando a quantidade de produtos disponíveis preenche todo o estoque.|- A loja está com muitos produtos no estoque <br>- Todos os produtos chegaram.|- Estoque lotado <br>- Estoque com muitos produtos|
+|- Quando a quantidade de [produtos](../Modeling/objeto?id=produto) disponíveis preenche todo o [estoque](../Modeling/objeto?id=Estoque).|- A loja está com muitos [produto](../Modeling/objeto?id=produto) no [estoque](../Modeling/objeto?id=Estoque) <br>- Todos os [produto](../Modeling/objeto?id=produto) chegaram.|- Estoque lotado <br>- Estoque com muitos [produtos](../Modeling/objeto?id=produto)|
 
 ### Estoque Vazio
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- Quando não há produtos disponíveis no estoque|- A loja está com o estoque esgotado <br>- Não há registro de estoque na aplicação|- Estoque esgotado <br>- Estoque sem produtos <br>- Estoque em falta|
+|- Quando não há [produtos](../Modeling/objeto?id=produto) disponíveis no estoque|- A loja está com o estoque esgotado <br>- Não há registro de estoque na aplicação|- Estoque esgotado <br>- [estoque](../Modeling/objeto?id=Estoque) sem [produtos](../Modeling/objeto?id=produto) <br>- [estoque](../Modeling/objeto?id=Estoque) em falta|
 
 ### Em produção
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- Uma aplicação está em produção quando está no ar em pronto para uso |- O site entra em produção <br>- O site deu problema em produção <br>- O programador consertou o bug em produção|- Aplicação no ar <br>- aplicação que sofreu deploy|
+|- Uma aplicação está em produção quando está no ar em pronto para uso |- O site entra em produção <br>- O site deu problema em produção <br>- O programador consertou o [bug](../Modeling/objeto?id=Bug) em produção|- Aplicação no ar <br>- aplicação que sofreu [deploy](../Modeling/estado?id=deploy)|
 
 ### Em desenvolvimento
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- Uma aplicação está em desenvolvimento quando desenvolvedores estão trabalhando na criação das funcionalidades do projeto.|- A aplicação está em desenvolvimento <br>- Acabou a fase de desenvolvimento, agora os desenvolvedores vão fazer o deploy|- em progresso|
+|- Uma aplicação está em desenvolvimento quando [desenvolvedores](../Modeling/objeto?id=desenvolvedor) estão trabalhando na criação das funcionalidades do projeto.|- A aplicação está em desenvolvimento <br>- Acabou a fase de desenvolvimento, agora os [desenvolvedores](../Modeling/objeto?id=desenvolvedor) vão fazer o [deploy](../Modeling/estado?id=deploy)|- em progresso|

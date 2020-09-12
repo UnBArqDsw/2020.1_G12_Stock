@@ -21,7 +21,7 @@ O COCOMO pode ser divido em três implementações, a depender do tipo de softwa
 
 - **COCOMO Básico:** É um modelo estático que calcula o esforço de desenvolvimento de software e seu tempo de desenvolvimento, em função do tamanho de linhas de códigos desenvolvidas.
 
-- **COCOMO Intermediário:** Calcula o esforço de desenvolvimento de software em função do tamanho do programa, que inclui custo, avaliação subjetiva do produto, hardware, pessoal e atributos de projeto.
+- **COCOMO Intermediário:** Calcula o esforço de desenvolvimento de software em função do tamanho do programa, que inclui custo, avaliação subjetiva do [produto](../Modeling/objeto?id=produto), hardware, pessoal e atributos de projeto.
 
 - **COCOMO Detalhado:** São incorporadas características da versão intermediária com uma avaliação de impacto de custo em cada passo de todo o projeto.
 
@@ -31,7 +31,7 @@ O COCOMO pode ser divido em três implementações, a depender do tipo de softwa
 - **Modo Semidestacado:** projetos intermediários (em tamanho e complexidade), com alguns requisitos rígidos e outros não tão rígidos, com níveis mistos de experiência nas equipes.
 - **Modo Embutido:** projetos com conjunto rígido de restrições operacionais, tanto de hardware, quanto de software.
 
-Devido as particularidades do projeto a equipe o classificou como **Semidestacado**, pois as funções básicas que o software irá realizar será a listagem de produtos por categoria no estoque, adição de um produto no estoque e assim por diante, não havendo assim requisítos tão rígidos ou outras peculiaridades de implementação.
+Devido as particularidades do projeto a equipe o classificou como **Semidestacado**, pois as funções básicas que o software irá realizar será a listagem de [produtos](../Modeling/objeto?id=produto) por categoria no estoque, adição de um [produto](../Modeling/objeto?id=produto) no estoque e assim por diante, não havendo assim requisítos tão rígidos ou outras peculiaridades de implementação.
 
 ### COCOMO Intermediário
 
@@ -43,7 +43,7 @@ Neste modelo, o COCOMO Básico é ampliado com a finalidade de levar em consider
 
   - confiabilidade exigida do software;
   - tamanho do banco de dados;
-  - complexidade do produto.
+  - complexidade do [produto](../Modeling/objeto?id=produto).
 
 - **Atributos do hardware:**
 
@@ -65,7 +65,7 @@ Neste modelo, o COCOMO Básico é ampliado com a finalidade de levar em consider
   - uso de ferramentas de software;
   - cronograma exigido de desenvolvimento.
 
-Cada um desses atributos deve ser classificado de acordo com uma escala que varia de “muito baixo” a “extremamente elevado” (em importância e valor). A partir desta classificação determina-se o Multiplicador de Esforço (considerando a Tabela publicada por Boehm (1981)). O produto de todos os resultados de Multiplicadores de Esforços é chamado de Fator de Ajustamento de Esforço.
+Cada um desses atributos deve ser classificado de acordo com uma escala que varia de “muito baixo” a “extremamente elevado” (em importância e valor). A partir desta classificação determina-se o Multiplicador de Esforço (considerando a Tabela publicada por Boehm (1981)). O [produto](../Modeling/objeto?id=produto) de todos os resultados de Multiplicadores de Esforços é chamado de Fator de Ajustamento de Esforço.
 
 <table>
     <thead>
@@ -450,18 +450,18 @@ Total: 950 linhas
 
 - Crud de estoque
 
-  - Listagem de produtos - 150 linhas
+  - Listagem de [produtos](../Modeling/objeto?id=produto) - 150 linhas
   - Cadastro de estoque - 200 linhas
-  - Adição de produto no estoque - 100 linhas
-  - Remoção de produto no estoque - 100 linhas
+  - Adição de [produto](../Modeling/objeto?id=produto) no estoque - 100 linhas
+  - Remoção de [produto](../Modeling/objeto?id=produto) no estoque - 100 linhas
   - Atualizar estoque - 120 linhas
 
-- Crud de usuários
+- Crud de [usuários](../Modeling/objeto?id=usuário)
 
-  - Registro de usuário - 100 linhas
+  - Registro de [usuário](../Modeling/objeto?id=usuário) - 100 linhas
   - Atualização de dados cadastrais - 65 linhas
-  - Remoção de usuário - 25 linhas
-  - Autenticação do usuário - 65 linhas
+  - Remoção de [usuário](../Modeling/objeto?id=usuário) - 25 linhas
+  - Autenticação do [usuário](../Modeling/objeto?id=usuário) - 65 linhas
 
 - Middleware
   - Verificação de token - 20 linhas
@@ -472,12 +472,12 @@ Total: 1820 linhas
 
 - Tela de login - 150 linhas
 - Tela de cadastro -170 linhas
-- Tela de perfil do usuário - 200 linhas
-- Tela inical da aplicação (Dashboard) - 400 linhas
+- Tela de perfil do [usuário](../Modeling/objeto?id=usuário) - 200 linhas
+- Tela inical da aplicação ([dashboard](../Modeling/objeto?id=dashboard)) - 400 linhas
 - Tela de lista de estoque - 300 linhas (socket e responsividade)
 - Tela de cadastro de estoque - 150 linhas
-- Tela de atualização dos produtos no estoque - 200 linhas
-- Tela de admnistração (Listagem de usuário, alterar um usuário ,cadastrar um funcionario) - 250 linhas
+- Tela de atualização dos [produtos](../Modeling/objeto?id=produto) no estoque - 200 linhas
+- Tela de admnistração (Listagem de [usuário](../Modeling/objeto?id=usuário), alterar um [usuário](../Modeling/objeto?id=usuário) ,cadastrar um funcionario) - 250 linhas
 
 Com isso, o total de linhas estimados para a aplicação foi de 2770 linhas de código. Como é possível uma falha na estimativa, os cálculos irão considerar um intervalo entre 2270 e 2770 linhas de código.
 
@@ -519,7 +519,7 @@ Para 2270 linhas de código (2.27 Kloc)
 
 ## Estimativa de preço
 
-Os valores alcançados pelas estimativas foram bastantes rasoáveis de acordo com a realidade do projeto, que possui 5 desenvolvedores e um semestre de aproximadamente 6 meses para desenvolver a aplicação. Por isso, serão levados em conta para esse cálculo 5 quantidade de pessoas e 5 meses de desenvolvimento, o que está dentro da margem estipulada.
+Os valores alcançados pelas estimativas foram bastantes rasoáveis de acordo com a realidade do projeto, que possui 5 [desenvolvedores](../Modeling/objeto?id=desenvolvedor) e um semestre de aproximadamente 6 meses para desenvolver a aplicação. Por isso, serão levados em conta para esse cálculo 5 quantidade de pessoas e 5 meses de desenvolvimento, o que está dentro da margem estipulada.
 
 ### Infra estrutura
 
@@ -534,7 +534,7 @@ Todos os valores usados para os cálculos foram pesquisados e podem ser conferid
 
 ### Desenvolvedores
 
-Consideramos que os desenvolvedores irão trabalhar 4 horas por dia, 5 dias por semana.
+Consideramos que os [desenvolvedores](../Modeling/objeto?id=desenvolvedor) irão trabalhar 4 horas por dia, 5 dias por semana.
 
 | Quantidate | Preço da hora | Tempo de projeto |     Total     |
 | :--------: | :-----------: | :--------------: | :-----------: |

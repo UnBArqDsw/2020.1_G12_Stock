@@ -30,7 +30,7 @@
 *Métrica ainda não tinha sido definida nesta Sprint.*
 
 ## Observações
-* A issue [#29](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/29) foi definida durante a Sprint 1 com o objetivo de documentar a técnica e os dias de produção.
+* A [issues](../../Modeling/objeto?id=Issue) [#29](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/29) foi definida durante a Sprint 1 com o objetivo de documentar a técnica e os dias de produção.
 * Com o processo da [Design Sprint](DesignSprint/designSprint.md), os artefatos que foram realizados por último necessitaram de mais tempo para a finalização do documento, tornando as issues dívidas técnicas.
 * Para decisão dos horários das reuniões foi necessário fazer um heatmap com os horários disponíveis de cada membro na semana específica.
 

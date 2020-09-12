@@ -19,17 +19,17 @@ A técnica de brainstorming foi aplicada na primeira reunião em grupo. O foco d
 
 |             Funcionalidade              |                                                  Observação                                                   |
 | :-------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
-|             Gerar planilha              |   Permitir que o usuário possa analisar o estoque exportando um documento no formato de uma planilha excel.   |
-|    Cadastrar produtos por planilhas     |             Permitir que usuários possam realizar cadastro em lote importando uma planilha excel.             |
-|           Consulta de estoque           |                          Visualizar a quantidade disponível de determinado produto.                           |
-|       Adição de itens ao estoque        |                     Cadastrar um novo item com suas informações (descrição, nome, preço).                     |
-|      Remoção de itens ao estoque.       |                  Dar baixa em um produto que foi vendido ou não se encontra mais disponível.                  |
-| Adicionar hierarquias(níveis) de acesso | Dar diferentes permissões para diferentes tipos de usuário dentro de um mesmo negócio (admin, owner, seller). |
-|                  Login                  |                        Um usuário logar com sua conta independentemente da hierarquia.                        |
-|           Histórico de vendas           |                Gerar um histórico do que foi removido do estoque, quem removeu e quando, etc..                |
+|             Gerar planilha              |   Permitir que o [usuário](../Modeling/objeto?id=usuário) possa analisar o [estoque](../Modeling/objeto?id=Estoque) exportando um documento no formato de uma planilha excel.   |
+|    [cadastrar produto](../Modeling/verbo?id=cadastrar-produto) por planilhas     |             Permitir que [usuário](../Modeling/objeto?id=usuário) possam realizar cadastro em lote importando uma planilha excel.             |
+|           Consulta de [estoque](../Modeling/objeto?id=Estoque)           |                          Visualizar a quantidade disponível de determinado [produto](../Modeling/objeto?id=produto).                           |
+|       Adição de itens ao [estoque](../Modeling/objeto?id=Estoque)        |                     Cadastrar um novo item com suas informações (descrição, nome, preço).                     |
+|      Remoção de itens ao [estoque](../Modeling/objeto?id=Estoque).       |                  Dar [baixa em produto](../Modeling/verbo?id=baixa-em-produto) que foi vendido ou não se encontra mais disponível.                  |
+| Adicionar hierarquias(níveis) de acesso | Dar diferentes permissões para diferentes tipos de [usuário](../Modeling/objeto?id=usuário) dentro de um mesmo negócio ([admin](../Modeling/objeto?id=Admin), [owner](../Modeling/objeto?id=Owner), [seller](../Modeling/objeto?id=Seller)). |
+|                  Login                  |                        Um [usuário](../Modeling/objeto?id=usuário) logar com sua conta independentemente da hierarquia.                        |
+|           Histórico de vendas           |                Gerar um histórico do que foi removido do [estoque](../Modeling/objeto?id=Estoque), quem removeu e quando, etc..                |
 |          Históricos temporais           |                     Escolher um período temporal para análise (diário, semanal, mensal).                      |
-|            Tags nos produtos            |                       Adicionar tags aos produtos que permitem fazer uma busca por tag.                       |
-|          Filtro por categoria           |                       Usuários podem procurar por um produto por meio de sua categoria.                       |
+|            Tags nos [produtos](../Modeling/objeto?id=produto)            |                       Adicionar tags aos [produtos](../Modeling/objeto?id=produto) que permitem fazer uma busca por tag.                       |
+|          Filtro por categoria           |                       [usuário](../Modeling/objeto?id=usuário) podem procurar por um [produtos](../Modeling/objeto?id=produto) por meio de sua categoria.                       |
 
 ### Funcionalidades por hierarquia
 
@@ -39,9 +39,9 @@ Dentro da discussão foi levantada a possibilidade de determinar o acesso a func
 
 | Papel  |                                     Permissões                                      |
 | :----: | :---------------------------------------------------------------------------------: |
-| Owner  |                     _ Excluir contas.<br> _ Criar conta Admin.                      |
-| Admin  | _ Adicionar produtos ao estoque.<br> _ Gerar planilhas.<br> \* Criar acesso Seller. |
-| Seller |                              \* Dar baixa no estoque.                               |
+| [Owner](../Modeling/objeto?id=Owner)  |                     _ Excluir contas.<br> _ Criar conta [Admin](../Modeling/objeto?id=Admin).                      |
+| Admin  | _ Adicionar [produtos](../Modeling/objeto?id=produto) ao estoque.<br> _ Gerar planilhas.<br> \* Criar acesso [Seller](../Modeling/objeto?id=Seller). |
+| [Seller](../Modeling/objeto?id=Seller) |                              \* Dar baixa no [estoque](../Modeling/objeto?id=Estoque).                               |
 
 Obs: A hierarquia é incremental de forma que um papel superior tem todas as permissões inerentes ao seu papel e aos papeis inferiores.
 
@@ -53,19 +53,19 @@ Obs: A hierarquia é incremental de forma que um papel superior tem todas as per
 | :--------------------------------------------------------------------: | :-----------------------------------------: |
 | [#RF01](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |                    Login                    |
 | [#RF02](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |                 Hierarquia                  |
-| [#RF03](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |         Adição de itens ao estoque          |
-| [#RF04](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |             Consulta de estoque             |
+| [#RF03](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |         Adição de itens ao [estoque](../Modeling/objeto?id=Estoque)          |
+| [#RF04](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |             Consulta de [estoque](../Modeling/objeto?id=Estoque)             |
 | [#RF05](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |            Filtro por categoria             |
-| [#RF06](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |              Tags em produtos               |
-| [#RF07](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |         Remoção de itens do estoque         |
-| [#RF08](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |               Cadastrar produtos por planilhas               |
+| [#RF06](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |              Tags em [produtos](../Modeling/objeto?id=produto)               |
+| [#RF07](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |         Remoção de itens do [estoque](../Modeling/objeto?id=Estoque)         |
+| [#RF08](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |               [cadastrar produto](../Modeling/verbo?id=cadastrar-produto) por planilhas               |
 | [#RF09](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |               Gerar planilha                |
 | [#RF10](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |             Histórico de vendas             |
 | [#RF11](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  |             Histórico temporais             |
 | [#RF012](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) |           Filtro por nome e preço           |
 | [#RF014](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) |            Plotagem de gráficos             |
-| [#RF015](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) |     Atualização instantânea de estoque      |
-| [#RF016](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) | Importação de planilha para load de estoque |
+| [#RF015](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) |     Atualização instantânea de [estoque](../Modeling/objeto?id=Estoque)      |
+| [#RF016](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) | [importação](../Modeling/verbo?id=importação) de planilha para load de [estoque](../Modeling/objeto?id=Estoque) |
 
 ## Referências
 

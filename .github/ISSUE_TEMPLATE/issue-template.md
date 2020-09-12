@@ -1,5 +1,5 @@
 ---
-name: Issue template
+name: [Issues](../docs/Modeling/objeto?id=Issue) template
 about: Template a ser seguido para criação de issues no projeto
 title: ''
 labels: ''
@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## Descrição
-Descrever a issue de forma objetiva.
+Descrever a [Issue](../docs/Modeling/objeto?id=Issue) de forma objetiva.
 
 ### Tasks: 
 - [ ] Task 1

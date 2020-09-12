@@ -81,6 +81,6 @@ Nesta Sprint, alguns documentos são pré-requisitos de outros, sendo necessári
 
 [![Reunião Semanal 3 - Sprint Planning](http://img.youtube.com/vi/pZZrLSgsaT4/0.jpg)](http://www.youtube.com/watch?v=pZZrLSgsaT4 "Reunião Semanal 3 - Sprint Planning")
 
-* Planning Poker (Pontuação das Issues):
+* Planning Poker (Pontuação das [issues](../../Modeling/objeto?id=Issue)):
 
 [![Reunião Semanal 3 - Planning Poker](http://img.youtube.com/vi/rwoqwJKP_AU/0.jpg)](http://www.youtube.com/watch?v=rwoqwJKP_AU "Reunião Semanal 3 - Planning Poker")

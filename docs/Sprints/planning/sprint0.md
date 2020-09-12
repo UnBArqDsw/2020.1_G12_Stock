@@ -21,7 +21,7 @@
 ## Pontuação : Sem pontuação
 
 ## Quadro de Distribuição de Pontos
-Este quadro divide a pontuação das issues com a quantidade de participantes, para ter a noção da distribuição de pontos por pessoa, evitando a sobrecarga de tarefas para algum membro.
+Este quadro divide a pontuação das [issues](../../Modeling/objeto?id=Issue) com a quantidade de participantes, para ter a noção da distribuição de pontos por pessoa, evitando a sobrecarga de tarefas para algum membro.
 
 *Como nesta Sprint as metodologias não tinham sido definidas, não foi feita a pontuação das issues.*
 

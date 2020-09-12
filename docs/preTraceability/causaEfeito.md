@@ -36,9 +36,9 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 
 |  Propaganda  |  Usabilidade  |  Funcionalidade  |  Cliente  |
 |  :--------:  |  :---------:  |  :------------:  |  :-----:  |
-|Divulgação deficiente|Dificuldade de uso da aplicação pelo usuário|Funcionalidades mal feitas, confusas e complexas|Cliente sem entendimentos técnico para utilização do produto|
-|Público alvo não definido|Produto final não agregar valor ao público alvo|Não cumprimento dos requisitos elicitados|Não existe mercado para o produto|
-|Barreira de entrada alta|Não uso de heurísticas|Má escolha da plataforma da aplicação|Falta de validação com Stakeholder|
+|Divulgação deficiente|Dificuldade de uso da aplicação pelo [usuário](../Modeling/objeto?id=usuário)|Funcionalidades mal feitas, confusas e complexas|Cliente sem entendimentos técnico para utilização do [produto](../Modeling/objeto?id=produto)|
+|Público alvo não definido|[produto](../Modeling/objeto?id=produto) final não agregar valor ao público alvo|Não cumprimento dos requisitos elicitados|Não existe mercado para o [produto](../Modeling/objeto?id=produto)|
+|Barreira de entrada alta|Não uso de heurísticas|Má escolha da plataforma da aplicação|Falta de validação com [stakeholder](../Modeling/objeto?id=stakeholder)|
 |Não conseguir mostrar o diferencial da aplicação em relação aos concorrentes|Não fazer testes de usabilidade|  -  |Não atender expectativa do cliente|
 
 <br>
@@ -63,7 +63,7 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 
 |  Usabilidade  |  Código  |  Gerência  |  Documentação  |
 |  :---------:  |  :-----  |  :------:  |  :----------:  |
-|Não uso de heurísticas| Inserção de bugs | Sprint mal elaboradas | Documentação equivocada |
+|Não uso de heurísticas| Inserção de [bug](../Modeling/objeto?id=Bug) | Sprint mal elaboradas | Documentação equivocada |
 |Não fazer testes de usabilidade| Funcionalidades defeituosas | Backlog mal definido | Requisitos que influênciam negativamente outros requisitos |
 |Não refatoração dos problemas encontrados nos testes| Não uso de boas práticas | Inexperiência na tomada de decisão | Falta de documentação complementar |
 | - | Falta de testes | Planejamento mal definido ou não seguido | - |
@@ -78,8 +78,8 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 
 |  Requisitos  |  Código  |  Usabilidade  |  Infraestrutura  |
 |  :---------:  |  :-----  |  :------:  |  :----------:  |
-| Requisitos validados com os Stakeholders | Código testado | Facilidade de uso pelo cliente | Conexão com a Internet |
-| Documentação bem definida e atualizada | Código Revisado | Cumprir expectativas do usuário | Smartphone |
+| Requisitos validados com os [stakeholders](../Modeling/objeto?id=stakeholder) | Código testado | Facilidade de uso pelo cliente | Conexão com a Internet |
+| Documentação bem definida e atualizada | Código Revisado | Cumprir expectativas do [usuário](../Modeling/objeto?id=usuário) | Smartphone |
 | - | "Clean Code" | - | Computador com configurações recentes |
 
 <br>
@@ -91,7 +91,7 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 |  Gerência  |  Documentação  |  Eficência  |  Grupo  |  Infraestrutura  |  Pessoal  |
 |  :---------:  |  :-----  |  :------:  |  :----------:  |  :----------:  |  :----------:  |
 | Cumprimento das metodologias e métricas adotadas | Evolução da documentação conforme o andamento do projeto | Entregas respeitando os critérios de aceitação |Boa dinâmica de pareamento|Conexão com a Internet|Boa gerência do tempo pessoal|
-| Alinhamento do produto com a sua documentação | Documentação bem definida | Validação de entrega de no mínimo 2 (duas) pessoas | Compartilhamento de conhecimento |Computador com bom desempenho|Comprometimento com o projeto|
+| Alinhamento do [produto](../Modeling/objeto?id=produto) com a sua documentação | Documentação bem definida | Validação de entrega de no mínimo 2 (duas) pessoas | Compartilhamento de conhecimento |Computador com bom desempenho|Comprometimento com o projeto|
 | Boa organização das entregas sem sobrecarga de tarefas | Rastreabilidade | - | Boa comunicação entre os membros do grupo |Ambiente propício para home office|Estudo constante das tecnologias e das técnicas|
 | - | Grupo alinhado com a documentação | - | Boa aceitação do grupo ao tema do projeto | - |Aberto a sugestões|
 | - | - | - | - | - | Auto motivação |

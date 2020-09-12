@@ -23,7 +23,7 @@ O objetivo deste documento é explicitar como aconteceu o plano de análise de r
 
 #### Gerência de projeto
 - **Planejamento**: São riscos relacionados a erros de planejamento, como tarefas grandes em períodos curtos.
-- **Estimativa**: São erros que dizem respeito a erros de estimativa, como por exemplo erros de pontuação de histórias de usuário.
+- **Estimativa**: São erros que dizem respeito a erros de estimativa, como por exemplo erros de pontuação de histórias de [usuário](../Modeling/objeto?id=usuário).
 - **Controle**: São riscos referentes à falta de ação sobre riscos identificados.
 
 #### Organizacional
@@ -37,13 +37,13 @@ O objetivo deste documento é explicitar como aconteceu o plano de análise de r
 
 #### Gerência de projeto
 - **Planejamento**: São riscos relacionados a erros de planejamento, como tarefas grandes em períodos curtos.
-- **Estimativa**: São erros que dizem respeito a erros de estimativa, como por exemplo erros de pontuação de histórias de usuário.
+- **Estimativa**: São erros que dizem respeito a erros de estimativa, como por exemplo erros de pontuação de histórias de [usuário](../Modeling/objeto?id=usuário).
 - **Controle**: São riscos referentes à falta de ação sobre riscos identificados.
 
 #### Qualidade
 - **Funcionalidade**: Contempla tudo relacionado à funcionalidade do software.
-- **Usabilidade**: A usabilidade engloba todos os aspectos referentes à interface com o usuário, facilidade e acessibilidade.
-- **Eficiência**: Garantir que o usuário consiga ter as respostas da aplicação de forma rápida e coesa.
+- **Usabilidade**: A usabilidade engloba todos os aspectos referentes à interface com o [usuário](../Modeling/objeto?id=usuário), facilidade e acessibilidade.
+- **Eficiência**: Garantir que o [usuário](../Modeling/objeto?id=usuário) consiga ter as respostas da aplicação de forma rápida e coesa.
 - **Portabilidade**: Se refere a que plataformas/sistemas operacionais o software irá rodar e como será feita a compatibilidade.
 
 ## Probabilidade 
@@ -98,7 +98,7 @@ Sendo que:
 |11 | Má escolha das tecnologias         | 2 | 4 |  **8** |
 |12 | Dificuldade de ambientação         | 3 | 3 |  **9** | 
 |13 | Arquitetura mal definida           | 3 | 4 | **12** | 
-|14 | Dificuldade de deploy da aplicação | 2 | 5 | **10** | 
+|14 | Dificuldade de [deploy](../Modeling/estado?id=deploy) da aplicação | 2 | 5 | **10** | 
 |15 | Dificuldade em hospedar a aplicação| 3 | 4 | **12** |
 |16 | Documentação que induz ao erro     | 2 | 4 | **8**  | 
 
@@ -107,13 +107,13 @@ Sendo que:
 |ID | Risco | Probabilidade | Impacto | Grau de Risco |
 | - | -  -  |       -       |  -      |    -          |
 |17 | Ausência de testes	                        | 3 | 3 | **9** | 
-|18 | Falhas e bugs                                 | 4 | 4 | **16** | 
+|18 | Falhas e [bug](../Modeling/objeto?id=Bug)                                 | 4 | 4 | **16** | 
 |19 | Má implementação de UX                        | 3 | 3 | **9** | 
 |20 | Má implementação de UI                        | 2 | 3 | **6** | 
 |21 | Má prática do processo de desenvolvimento     | 4 | 3 | **12** | 
-|22 | Aplicação não atender expectativas do usuário | 3 | 4 | **12** | 
+|22 | Aplicação não atender expectativas do [usuário](../Modeling/objeto?id=usuário) | 3 | 4 | **12** | 
 |23 | Não cumprimento dos requisitos elicitados     | 3 | 4 | **12** |  
-|24 | Falta de validação com o stakeholder          | 3 | 4 | **12** |
+|24 | Falta de validação com o [stakeholder](../Modeling/objeto?id=stakeholder)          | 3 | 4 | **12** |
 
 
 ## Riscos de Gerência de projeto
@@ -193,7 +193,7 @@ Sendo que:
             <td>20</td>
             <td>Má implementação de UI</td>
             <td>Prevenir</td>
-            <td>Estudar sobre UI e testar todas as fases com usuário</td>
+            <td>Estudar sobre UI e testar todas as fases com [usuário](../Modeling/objeto?id=usuário)</td>
         </tr>
         <tr class="risco médio" style="background:#FFB366">
             <th>6</th>
@@ -284,7 +284,7 @@ Sendo que:
             <td>19</td>
             <td>Má implementação de UX</td>
             <td>Prevenir</td>
-            <td>Testar todas as fases com usuário</td>
+            <td>Testar todas as fases com [usuário](../Modeling/objeto?id=usuário)</td>
         </tr>
         <tr class="risco médio" style="background:#FFB366">
             <th>9</th>
@@ -359,9 +359,9 @@ Sendo que:
         <tr class="risco médio" style="background:#FFB366">
             <th>12</th>
             <td>22</td>
-            <td>Aplicação não atender expectativas do usuário</td>
+            <td>Aplicação não atender expectativas do [usuário](../Modeling/objeto?id=usuário)</td>
             <td>Prevenir</td>
-            <td>Testar todas as fases com usuário, recebendo feedbacks e respondendo-os</td>
+            <td>Testar todas as fases com [usuário](../Modeling/objeto?id=usuário), recebendo feedbacks e respondendo-os</td>
         </tr>
         <tr class="risco médio" style="background:#FFB366">
             <th>12</th>
@@ -415,9 +415,9 @@ Sendo que:
         <tr class="risco médio" style="background:#FF6666">
             <th>16</th>
             <td>18</td>
-            <td>Falhas e bugs</td>
+            <td>Falhas e [bugs](../Modeling/objeto?id=Bug)</td>
             <td>Mitigar</td>
-            <td>Dedicar issues de bugs e refatoração</td>
+            <td>Dedicar [issue](../Modeling/objeto?id=Issue) de [bugs](../Modeling/objeto?id=Bug) e refatoração</td>
         </tr>
     </tbody>
 </table>
