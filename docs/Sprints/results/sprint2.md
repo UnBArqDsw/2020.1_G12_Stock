@@ -27,17 +27,12 @@
 *Métrica ainda não usada nesta Sprint.*
 
 ## Burndown
-preencher
+![burndown 2](../../assets/img/Sprints/metricas/burndownS2.png)
 
 ## Velocity
-preencher
+![velocity 1](../../assets/img/Sprints/metricas/velocityS2.png)
 
 ## Observações
 * Essa Sprint foi menor pois foi a Sprint antes da Primeira Entrega, que aconteceu no dia 11/09/2020 (sexta-feira).
 * Essa Sprint foi voltada para a produção de documentos necessários para esta entrega, e para evolução de alguns documentos já feitos.
 * Algumas issues possuíam uma data de entrega para não prejudicar o desenvolvimento de outras issues, sendo estas entregues em tempo ábil para o desenvolvimento das issues dependentes.
-
-* Ao final do desenvolvimento desta Sprint, o time fez uma confraternização remota :)
-
-![fotinha do hamburguer]()
-*Agradecimento ao [Gamaparô](https://www.instagram.com/gamaparoburger/) pelos hambúrgueres artesanais mais deliciosos de Brasília :)*
