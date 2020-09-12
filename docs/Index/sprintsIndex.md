@@ -11,3 +11,6 @@
 - Sprint 2
     - [Planejamento Sprint 2](Sprints/planning/sprint2.md)
     - [Resultado Sprint 2](Sprints/results/sprint2.md)
+- Sprint 3
+    - [Planejamento Sprint 3](Sprints/planning/sprint3.md)
+    - [Resultado Sprint 3](Sprints/results/sprint3.md)
