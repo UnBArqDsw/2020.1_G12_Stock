@@ -2,9 +2,9 @@
 **Período: 30/08/2020 a 05/08/2020**<br>
 **Data da Reunião: 29/08/2020**
 
-## Issues
+## [Issues](Modeling/objeto?id=Issue) 
 
-|Número | Issue | Pontuação | Participantes|
+|Número | [Issue](Modeling/objeto?id=Issue)  | Pontuação | Participantes|
 | - | - | - | - |
 | [**#5**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/5) | [Brainstorming](Elicitation/Brainstorming.md) | 3 | Pedro Igor |
 | [**#6**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/6) | [Questionário](Elicitation/Questionario.md) | 2 | Todos |
