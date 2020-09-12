@@ -1,5 +1,8 @@
 # Stock
-![logo](docs/assets/Logo03.jpg)
+
+<p align="center">
+<img src=docs/assets/Logo03.jpg />
+</p>
 
 **Número da Lista**: 12<br>
 **Código da Disciplina**: FGA0208-T01<br>
