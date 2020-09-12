@@ -11,6 +11,7 @@ O storyboard é uma sequência de desenhos quadro a quadro com o esboço das div
 | 09/09/2020 |  1.2   |                Adição dos requisitos.                 |   Gabriel Davi   |
 | 09/09/2020 |  1.3   |          Adição do storyboard de vencimento.          | Sofia Patrocínio |
 | 09/09/2020 |  1.4   |           Adição do requisitos RF9 e RF21.            | Sofia Patrocínio |
+| 11/09/2020 |  1.5   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 
 ## StoryBoards
 
@@ -50,7 +51,7 @@ O storyboard é uma sequência de desenhos quadro a quadro com o esboço das div
 
 ![SB6](../assets/img/storyboards/SB6_Micaella.png)
 
-### Notificação de vencimento de [produto](Modeling/objeto?id=Produto)
+### Notificação de [vencimento](Modeling/estado?id=Prazo-de-Validade) de [produto](Modeling/objeto?id=Produto)
 
 #### Autora: Sofia Patrocinio
 

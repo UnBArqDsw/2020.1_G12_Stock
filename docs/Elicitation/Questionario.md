@@ -1,16 +1,18 @@
 # Questionário
 
-**Este artefato foi produzido durante o dia 1 da Design Sprint, para saber mais sobre a metodologia e como ela foi feita, clique aqui: *[Design Sprint](DesignSprint/DesignSprint.md)***
+**Este artefato foi produzido durante o dia 1 da Design Sprint, para saber mais sobre a metodologia e como ela foi feita, clique aqui: _[Design Sprint](DesignSprint/DesignSprint.md)_**
 
 O questionário é um método de elicitação de requisitos onde, por meio de perguntas estratégicas, é possível compreender melhor como o público de interesse reage a determinado assunto. Além disso, o questionário permite retirar características chave sobre um domínio quantificando o percentual de pessoas, do público, que se aplicam a determinada característica.<br><br>
 As perguntas a seguir foram elaboradas em um dos dias de [Design Sprint](DesignSprint/DesignSprint.md) realizado pelo grupo. As perguntas foram escritas a princípio, individualmente por cada um dos membros do grupo, e discutidas em conjunto logo em seguida, planejando a melhor estratégia. Após o entendimento da finalidade do questionário para o projeto, foi feita a etapa de desenho, em que membro sugeriu perguntas relevantes. Em seguida, discussão em grupo onde foram decididas as melhores perguntas e traçado um objetivo, protototipação, gerando a presente documentação, e teste, enviando o Formulário em grupos específicos.
 
 ## Histórico de Revisões
-|    Data    | Versão |         Descrição         |           Autor(es)            |
-| :--------: | :----: | :-----------------------: | :----------------------------: |
-| 04/09/2020 |  1.0   | Adicionado questionário definido em grupo. | Gabriel Alves, Gabriel Davi, Micaella, Pedro Igor e Sofia |
-| 04/09/2020 |  1.1   | Formatação do questionário, tabela de versões, referências, criação do formulário e explicação breve da metodologia. | Pedro Igor |
-| 09/09/2020 |  1.2   | Adição de hyperlink para página de Design Sprint | Sofia Patrocínio |
+
+|    Data    | Versão |                                                      Descrição                                                       |                         Autor(es)                         |
+| :--------: | :----: | :------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------: |
+| 04/09/2020 |  1.0   |                                      Adicionado questionário definido em grupo.                                      | Gabriel Alves, Gabriel Davi, Micaella, Pedro Igor e Sofia |
+| 04/09/2020 |  1.1   | Formatação do questionário, tabela de versões, referências, criação do formulário e explicação breve da metodologia. |                        Pedro Igor                         |
+| 09/09/2020 |  1.2   |                                   Adição de hyperlink para página de Design Sprint                                   |                     Sofia Patrocínio                      |
+| 11/09/2020 |  1.3   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 
 ## Protótipo
 
@@ -24,7 +26,7 @@ As perguntas a seguir foram elaboradas em um dos dias de [Design Sprint](DesignS
 **Caso Não:** Finaliza o questionário.<br>
 **Caso Sim:**<br><br>
 
-*Perfil pessoal:*<br><br>
+_Perfil pessoal:_<br><br>
 
 **3** - Qual a sua faixa etária?<br>
 (&nbsp;&nbsp;) Menos de 20 anos<br>
@@ -38,8 +40,7 @@ As perguntas a seguir foram elaboradas em um dos dias de [Design Sprint](DesignS
 
 Range de 1 a 10<br><br>
 
-*Perfil da empresa:*<br><br>
-
+_Perfil da empresa:_<br><br>
 
 **5** - Qual é o ramo de negócio da empresa a qual trabalha?<br>
 (&nbsp;&nbsp;) Alimentício<br>
@@ -48,7 +49,7 @@ Range de 1 a 10<br><br>
 (&nbsp;&nbsp;) Eletrônica<br>
 (&nbsp;&nbsp;) Outros<br><br>
 
-**6** - Quantas pessoas trabalham nesta empresa (contando com [donos](Modeling/objeto?id=Owner)  e sócios)?<br>
+**6** - Quantas pessoas trabalham nesta empresa (contando com [donos](Modeling/objeto?id=Owner) e sócios)?<br>
 (&nbsp;&nbsp;) Só eu<br>
 (&nbsp;&nbsp;) 2 a 5<br>
 (&nbsp;&nbsp;) 6 a 10<br>
@@ -62,7 +63,7 @@ Range de 1 a 10<br><br>
 (&nbsp;&nbsp;) [Vendedor](Modeling/objeto?id=Seller)<br>
 (&nbsp;&nbsp;) Outros<br><br>
 
-*Definições do [estoque](Modeling/objeto?id=Estoque):*<br><br>
+_Definições do [estoque](Modeling/objeto?id=Estoque):_<br><br>
 
 **8** - Qual a frequência de reposição de [estoque](Modeling/objeto?id=Estoque)?<br>
 (&nbsp;&nbsp;) Diariamente<br>
@@ -78,10 +79,10 @@ Range de 1 a 10<br><br>
 (&nbsp;&nbsp;) Não tenho essa informação<br><br>
 
 **10** - É possível categorizar cada [produto](Modeling/objeto?id=Produto) desta empresa?<br>
-(&nbsp;&nbsp;) Sim<br> 
+(&nbsp;&nbsp;) Sim<br>
 (&nbsp;&nbsp;) Não<br><br>
 
-*Aplicação:*<br><br>
+_Aplicação:_<br><br>
 
 **11** - Está empresa trabalha com [produtos](Modeling/objeto?id=Produto) perecíveis? <br>
 (&nbsp;&nbsp;) Sim<br>
@@ -98,8 +99,9 @@ Range de 1 a 10<br><br>
 (&nbsp;&nbsp;) Nunca utilizei<br>
 (&nbsp;&nbsp;) Outros<br><br>
 
-**14** - Quais problemas você já encontrou ao fazer [controle de estoque](Modeling/verbo?id=Controle-de-Estoque) (opcional)<br>
+**14** - Quais problemas você já encontrou ao fazer [controle de estoque](Modeling/verbo?id=Controle-de-Estoque)? (opcional)<br>
 [Caixa de Texto]<br>
 
 ## Referências
- - Google Forms enviado aos participantes: <https://docs.google.com/forms/d/e/1FAIpQLScm1jD2vjcqu5CZ3nuQBD3bgh19VgtuL2rltMG5WlqtbM0qcA/viewform?usp=sf_link> Último acesso em 04/09/2020.
+
+- Google Forms enviado aos participantes: <https://docs.google.com/forms/d/e/1FAIpQLScm1jD2vjcqu5CZ3nuQBD3bgh19VgtuL2rltMG5WlqtbM0qcA/viewform?usp=sf_link> Último acesso em 04/09/2020.

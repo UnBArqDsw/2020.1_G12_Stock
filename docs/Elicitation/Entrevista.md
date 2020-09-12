@@ -10,6 +10,7 @@ A entrevista é uma técnica de elicitação de requisitos que se baseia em ques
 | 08/09/2020 |  1.1   |  Adição da entrevista 2 e adição do roteiro da entrevista.   | Micaella Gouveia |
 | 09/09/2020 |  1.2   |             Adição dos requisitos da entrevista 1.           |   Gabriel Davi   |
 | 09/09/2020 |  1.3   |             Adição da entrevista 3 e requisitos.           |   Sofia Patrocínio   |
+| 11/09/2020 |  1.4   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 
 ## Roteiro de Perguntas
 

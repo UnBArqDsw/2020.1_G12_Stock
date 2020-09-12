@@ -1,13 +1,15 @@
 # Causa e Efeito
-**Este artefato foi produzido durante o dia 4 da Design Sprint, para saber mais sobre a metodologia e como ela foi feita, clique aqui: *[Design Sprint](DesignSprint/DesignSprint.md)***
+
+**Este artefato foi produzido durante o dia 4 da Design Sprint, para saber mais sobre a metodologia e como ela foi feita, clique aqui: _[Design Sprint](DesignSprint/DesignSprint.md)_**
 
 ## Histórico de Revisão
 
-|    Data    | Versão |         Descrição         |           Autor(es)            |
-| :--------: | :----: | :-----------------------: | :----------------------------: |
-| 04/09/20   |  1.0   | Criação do documento e levantamento de seus efeitos e suas respectivas causas | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
-| 06/09/20   |  1.1   | Elaboração das tabelas e diagramas dos seus efeitos e suas respectivas causas | Gabriel Alves |
-| 09/09/2020 |  1.2   | Correção da rota de hyperlink para página de Design Sprint | Sofia Patrocínio |
+|    Data    | Versão |                                   Descrição                                   |                                  Autor(es)                                  |
+| :--------: | :----: | :---------------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
+|  04/09/20  |  1.0   | Criação do documento e levantamento de seus efeitos e suas respectivas causas | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+|  06/09/20  |  1.1   | Elaboração das tabelas e diagramas dos seus efeitos e suas respectivas causas |                                Gabriel Alves                                |
+| 09/09/2020 |  1.2   |          Correção da rota de hyperlink para página de Design Sprint           |                              Sofia Patrocínio                               |
+| 11/09/2020 |  1.3   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 
 ## Introdução
 
@@ -19,14 +21,14 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 
 ### Não Entrega da aplicação
 
-|  Pessoal  |  Processo  |  Equipamento  |  Materiais  |  Ambiente  |  Gestão  |
-|  :-----:  |  :------:  |  :---------:  |  :-------:  |  :------:  |  :----:  |
-|Descomprometimento do time|Má prática do processo de desenvolvimento|Imprevistos com infraestrutura (internet, energia, computador)|Complexidade do Framework|Ambiente de trabalho desorganizado|Não cumprimento das datas|
-|Desmotivação da equipe|Cronograma inviável|-|Difulcadade de ambientação|Falta de ambiente propício para trabalho|Prolongamento de dívidas técnicas|
-|Afastamento de membros|Suspensão das aulas|-|Mudança de tecnologias|-|Má escolha das metodologias e métricas|
-|Falha de Comunicação|-|-|-|-|Sobrecarga de tarefas|
-|Dificuldade na Matéria|-|-|-|-|Falta de planejamento para as entregas|
-|-|-|-|-|-|Escopo mal definido|
+|          Pessoal           |                 Processo                  |                          Equipamento                           |         Materiais          |                 Ambiente                 |                 Gestão                 |
+| :------------------------: | :---------------------------------------: | :------------------------------------------------------------: | :------------------------: | :--------------------------------------: | :------------------------------------: |
+| Descomprometimento do time | Má prática do processo de desenvolvimento | Imprevistos com infraestrutura (internet, energia, computador) | Complexidade do Framework  |    Ambiente de trabalho desorganizado    |       Não cumprimento das datas        |
+|   Desmotivação da equipe   |            Cronograma inviável            |                               -                                | Difulcadade de ambientação | Falta de ambiente propício para trabalho |   Prolongamento de dívidas técnicas    |
+|   Afastamento de membros   |            Suspensão das aulas            |                               -                                |   Mudança de tecnologias   |                    -                     | Má escolha das metodologias e métricas |
+|    Falha de Comunicação    |                     -                     |                               -                                |             -              |                    -                     |         Sobrecarga de tarefas          |
+|   Dificuldade na Matéria   |                     -                     |                               -                                |             -              |                    -                     | Falta de planejamento para as entregas |
+|             -              |                     -                     |                               -                                |             -              |                    -                     |          Escopo mal definido           |
 
 <br>
 
@@ -34,12 +36,12 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 
 ### Baixa Adesão da Aplicação
 
-|  Propaganda  |  Usabilidade  |  Funcionalidade  |  [Cliente](Modeling/objeto?id=usuário)  |
-|  :--------:  |  :---------:  |  :------------:  |  :-----:  |
-|Divulgação deficiente|Dificuldade de uso da aplicação pelo usuário|Funcionalidades mal feitas, confusas e complexas|Cliente sem entendimentos técnico para utilização do [produto](Modeling/objeto?id=Produto)|
-|Público alvo não definido|[produto](Modeling/objeto?id=Produto) final não agregar valor ao público alvo|Não cumprimento dos requisitos elicitados|Não existe mercado para o [produto](Modeling/objeto?id=Produto)|
-|Barreira de entrada alta|Não uso de heurísticas|Má escolha da plataforma da aplicação|Falta de validação com [stakeholder](Modeling/objeto?id=Stakeholder)|
-|Não conseguir mostrar o diferencial da aplicação em relação aos concorrentes|Não fazer testes de usabilidade|  -  |Não atender expectativa do cliente|
+|                                  Propaganda                                  |                                  Usabilidade                                  |                  Funcionalidade                  |                           [Cliente](Modeling/objeto?id=usuário)                            |
+| :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :----------------------------------------------: | :----------------------------------------------------------------------------------------: |
+|                            Divulgação deficiente                             |                 Dificuldade de uso da aplicação pelo usuário                  | Funcionalidades mal feitas, confusas e complexas | Cliente sem entendimentos técnico para utilização do [produto](Modeling/objeto?id=Produto) |
+|                          Público alvo não definido                           | [Produto](Modeling/objeto?id=Produto) final não agregar valor ao público alvo |    Não cumprimento dos requisitos elicitados     |              Não existe mercado para o [produto](Modeling/objeto?id=Produto)               |
+|                           Barreira de entrada alta                           |                            Não uso de heurísticas                             |      Má escolha da plataforma da aplicação       |            Falta de validação com [stakeholder](Modeling/objeto?id=Stakeholder)            |
+| Não conseguir mostrar o diferencial da aplicação em relação aos concorrentes |                        Não fazer testes de usabilidade                        |                        -                         |                             Não atender expectativa do cliente                             |
 
 <br>
 
@@ -47,13 +49,13 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 
 ### Desistência de Membro
 
-|  Problema de Saúde  |  Dificuldades Individuais  |  Grupo  |  Gestão  |
-|  :---------------:  |  :----------------------:  |  :---:  |  :----:  |
-|Acomentimento por doenças (ex: COVID-19) |Desmotivação|Brigas internas|Não priorização de tarefas|
-|Morte |Imprevistos relacionados ao home office|Desinteresse geral do grupo|Má divisão das tarefas|
-|Acomentimento por doenças de parentes que necessitam cuidados |Adaptação as tecnologias|-|-|
-|- |Sobrecarga de responsabilidades (ex: trabalho e faculdade)|-|-|
-|- |Desinteresse pelo projeto|-|-|
+|                       Problema de Saúde                       |                  Dificuldades Individuais                  |            Grupo            |           Gestão           |
+| :-----------------------------------------------------------: | :--------------------------------------------------------: | :-------------------------: | :------------------------: |
+|           Acomentimento por doenças (ex: COVID-19)            |                        Desmotivação                        |       Brigas internas       | Não priorização de tarefas |
+|                             Morte                             |          Imprevistos relacionados ao home office           | Desinteresse geral do grupo |   Má divisão das tarefas   |
+| Acomentimento por doenças de parentes que necessitam cuidados |                  Adaptação as tecnologias                  |              -              |             -              |
+|                               -                               | Sobrecarga de responsabilidades (ex: trabalho e faculdade) |              -              |             -              |
+|                               -                               |                 Desinteresse pelo projeto                  |              -              |             -              |
 
 <br>
 
@@ -61,12 +63,12 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 
 ### [Produto](Modeling/objeto?id=Produto) com Defeito
 
-|  Usabilidade  |  Código  |  Gerência  |  Documentação  |
-|  :---------:  |  :-----  |  :------:  |  :----------:  |
-|Não uso de heurísticas| Inserção de bugs | Sprint mal elaboradas | Documentação equivocada |
-|Não fazer testes de usabilidade| Funcionalidades defeituosas | Backlog mal definido | Requisitos que influênciam negativamente outros requisitos |
-|Não refatoração dos problemas encontrados nos testes| Não uso de boas práticas | Inexperiência na tomada de decisão | Falta de documentação complementar |
-| - | Falta de testes | Planejamento mal definido ou não seguido | - |
+|                     Usabilidade                      | Código                      |                 Gerência                 |                        Documentação                        |
+| :--------------------------------------------------: | :-------------------------- | :--------------------------------------: | :--------------------------------------------------------: |
+|                Não uso de heurísticas                | Inserção de [bugs](Modeling/objeto?id=Bug)            |          Sprint mal elaboradas           |                  Documentação equivocada                   |
+|           Não fazer testes de usabilidade            | Funcionalidades defeituosas |           Backlog mal definido           | Requisitos que influênciam negativamente outros requisitos |
+| Não refatoração dos problemas encontrados nos testes | Não uso de boas práticas    |    Inexperiência na tomada de decisão    |             Falta de documentação complementar             |
+|                          -                           | Falta de testes             | Planejamento mal definido ou não seguido |                             -                              |
 
 <br>
 
@@ -76,11 +78,11 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 
 ### [Produto](Modeling/objeto?id=Produto) Viável Tecnicamente e para uso
 
-|  Requisitos  |  Código  |  Usabilidade  |  Infraestrutura  |
-|  :---------:  |  :-----  |  :------:  |  :----------:  |
-| Requisitos validados com os [stakeholders](Modeling/objeto?id=Stakeholder) | Código testado | Facilidade de uso pelo [cliente](Modeling/objeto?id=usuário) | Conexão com a Internet |
-| Documentação bem definida e atualizada | Código Revisado | Cumprir expectativas do usuário | Smartphone |
-| - | "Clean Code" | - | Computador com configurações recentes |
+|                                 Requisitos                                 | Código          |                         Usabilidade                          |            Infraestrutura             |
+| :------------------------------------------------------------------------: | :-------------- | :----------------------------------------------------------: | :-----------------------------------: |
+| Requisitos validados com os [stakeholders](Modeling/objeto?id=Stakeholder) | Código testado  | Facilidade de uso pelo [cliente](Modeling/objeto?id=usuário) |        Conexão com a Internet         |
+|                   Documentação bem definida e atualizada                   | Código Revisado |               Cumprir expectativas do usuário                |              Smartphone               |
+|                                     -                                      | "Clean Code"    |                              -                               | Computador com configurações recentes |
 
 <br>
 
@@ -88,13 +90,13 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 
 ### Alta produtividade
 
-|  Gerência  |  Documentação  |  Eficência  |  Grupo  |  Infraestrutura  |  Pessoal  |
-|  :---------:  |  :-----  |  :------:  |  :----------:  |  :----------:  |  :----------:  |
-| Cumprimento das metodologias e métricas adotadas | Evolução da documentação conforme o andamento do projeto | Entregas respeitando os critérios de aceitação |Boa dinâmica de pareamento|Conexão com a Internet|Boa gerência do tempo pessoal|
-| Alinhamento do [produto](Modeling/objeto?id=Produto) com a sua documentação | Documentação bem definida | Validação de entrega de no mínimo 2 (duas) pessoas | Compartilhamento de conhecimento |Computador com bom desempenho|Comprometimento com o projeto|
-| Boa organização das entregas sem sobrecarga de tarefas | Rastreabilidade | - | Boa comunicação entre os membros do grupo |Ambiente propício para home office|Estudo constante das tecnologias e das técnicas|
-| - | Grupo alinhado com a documentação | - | Boa aceitação do grupo ao tema do projeto | - |Aberto a sugestões|
-| - | - | - | - | - | Auto motivação |
+|                                  Gerência                                   | Documentação                                             |                     Eficência                      |                   Grupo                   |           Infraestrutura           |                     Pessoal                     |
+| :-------------------------------------------------------------------------: | :------------------------------------------------------- | :------------------------------------------------: | :---------------------------------------: | :--------------------------------: | :---------------------------------------------: |
+|              Cumprimento das metodologias e métricas adotadas               | Evolução da documentação conforme o andamento do projeto |   Entregas respeitando os critérios de aceitação   |        Boa dinâmica de pareamento         |       Conexão com a Internet       |          Boa gerência do tempo pessoal          |
+| Alinhamento do [produto](Modeling/objeto?id=Produto) com a sua documentação | Documentação bem definida                                | Validação de entrega de no mínimo 2 (duas) pessoas |     Compartilhamento de conhecimento      |   Computador com bom desempenho    |          Comprometimento com o projeto          |
+|           Boa organização das entregas sem sobrecarga de tarefas            | Rastreabilidade                                          |                         -                          | Boa comunicação entre os membros do grupo | Ambiente propício para home office | Estudo constante das tecnologias e das técnicas |
+|                                      -                                      | Grupo alinhado com a documentação                        |                         -                          | Boa aceitação do grupo ao tema do projeto |                 -                  |               Aberto a sugestões                |
+|                                      -                                      | -                                                        |                         -                          |                     -                     |                 -                  |                 Auto motivação                  |
 
 <br>
 

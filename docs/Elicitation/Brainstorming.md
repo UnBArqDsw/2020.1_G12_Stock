@@ -4,12 +4,13 @@ Brainstorming é uma técnica que se aproveita de um grande fluxo de ideias send
 
 ## Histórico de Revisões
 
-|    Data    | Versão |                      Descrição                       |                                  Autor(es)                                   |
-| :--------: | :----: | :--------------------------------------------------: | :--------------------------------------------------------------------------: |
+|    Data    | Versão | Descrição | Autor(es) |
+| :--------: | :----: | :-------: | :-------: |
 | 22/08/2020 |  1.0   |             Realização do Brainstorming.             | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor e Sofia Patrocínio |
-| 31/08/2020 |  1.1   | Criação do documento baseado na gravação da reunião. |                                  Pedro Igor                                  |
-| 09/09/2020 |  1.2   |                Adição dos requisitos.                |                                 Gabriel Davi                                 |
-| 09/09/2020 |  1.3   |              Adição do requisito RF08.               |                                  Pedro Igor                                  |
+| 31/08/2020 |  1.1   | Criação do documento baseado na gravação da reunião. |  Pedro Igor |
+| 09/09/2020 |  1.2   |  Adição dos requisitos.  |  Gabriel Davi |
+| 09/09/2020 |  1.3   | Adição do requisito RF08. |   Pedro Igor    |
+| 11/09/2020 |  1.4   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 
 ## Metodologia
 
@@ -23,10 +24,10 @@ A técnica de brainstorming foi aplicada na primeira reunião em grupo. O foco d
 |  [Cadastrar produtos](Modeling/verbo?id=Cadastrar-Produto) por planilhas  |                          Permitir que [usuários](Modeling/objeto?id=usuário) possam realizar [cadastro](Modeling/verbo?id=Cadastrar-Produto) em lote [importando](Modeling/verbo?id=Importação) uma planilha excel.                          |
 |        [Consulta de estoque](Modeling/verbo?id=Consultar-Produto)         |                                       Visualizar a quantidade disponível de determinado [produto](Modeling/objeto?id=Produto).                                        |
 |     [Adição de itens](Modeling/verbo?id=Cadastrar-Produto) ao estoque     |                                                 [Cadastrar](Modeling/verbo?id=Cadastrar-Produto) um novo [item](Modeling/objeto?id=Produto) com suas informações (descrição, nome, preço).                                                 |
-|                       [Remoção de itens](Modeling/verbo?id=Baixa-em-Produto) ao estoque.                        |            [Dar baixa](Modeling/verbo?id=Baixa-em-Produto) em um [produto](Modeling/objeto?id=Produto) que foi vendido ou não se encontra mais disponível.            |
-|                  Adicionar [hierarquias(níveis) de acesso]((Modeling/objeto?id=Papéis-dos-colaboradores))                  |              Dar diferentes permissões para diferentes tipos de [usuário](Modeling/objeto?id=usuário) dentro de um mesmo negócio ([admin](Modeling/objeto?id=admin), [owner](Modeling/objeto?id=Owner), [seller](Modeling/objeto?id=Seller)).              |
+|                       [Remoção de itens](Modeling/verbo?id=Baixa-em-Produto) ao [estoque](Modeling/objeto?id=Estoque).                        |            [Dar baixa](Modeling/verbo?id=Baixa-em-Produto) em um [produto](Modeling/objeto?id=Produto) que foi vendido ou não se encontra mais disponível.            |
+|                  Adicionar [hierarquias(níveis) de acesso](Modeling/objeto?id=Papéis-dos-colaboradores)                  |              Dar diferentes permissões para diferentes tipos de [usuário](Modeling/objeto?id=usuário) dentro de um mesmo negócio ([admin](Modeling/objeto?id=admin), [owner](Modeling/objeto?id=Owner), [seller](Modeling/objeto?id=Seller)).              |
 |                                   Login                                   |                                     Um [usuário](Modeling/objeto?id=usuário) logar com sua conta independentemente da [hierarquia](Modeling/objeto?id=Papéis-dos-colaboradores).                                     |
-|                            Histórico de vendas                            |                             Gerar um histórico do que foi removido do [estoque](Modeling/objeto?id=Estoque), quem removeu e quando, etc..                             |
+|                            Histórico de vendas                            |                             Gerar um histórico do que foi [removido](Modeling/verbo?id=Baixa-em-Produto) do [estoque](Modeling/objeto?id=Estoque), quem [removeu](Modeling/verbo?id=Baixa-em-Produto) e quando, etc..                             |
 |                           Históricos temporais                            |                                                 Escolher um período temporal para análise (diário, semanal, mensal).                                                  |
 | [Tags](Modeling/objeto?id=Tag) nos [produtos](Modeling/objeto?id=Produto) |                         Adicionar [tags](Modeling/objeto?id=Tag) aos [produtos](Modeling/objeto?id=Produto) que permitem fazer uma [busca](Modeling/verbo?id=Consultar-Produto) por [tag](Modeling/objeto?id=Tag).                         |
 |                           [Filtro por categoria](Modeling/verbo?id=Filtrar-Produtos)                            |                     [Usuários](Modeling/objeto?id=usuário) podem procurar por um [produto](Modeling/objeto?id=Produto) por meio de sua categoria.                     |

@@ -8,6 +8,7 @@ A introspecção é uma técnica muito utilizada na etapa de elicitação de req
 | :--------: | :----: | :----------------------------------------------------------: | :----------: |
 | 08/09/2020 |  1.0   | Criação do documento e adição da metodologia. | Micaella Gouveia |
 | 10/09/2020 |  1.1   | Adição dos requisitos elicitados com base nas personas. | Micaella Gouveia |
+| 11/09/2020 |  1.2   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 
 
 ## Metodologia
@@ -20,11 +21,11 @@ Para visualizar as personas criadas, acesse: [**Personas**](Elicitation/Personas
 ## Requisitos Levantados
 |                                     Id                                      |                Nome                 |
 | :-------------------------------------------------------------------------: | :---------------------------------: |
-|    [#RF03](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     [Adição de itens](Modeling/verbo?id=Cadastrar-Produto) ao estoque      |
+|    [#RF03](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     [Adição de itens](Modeling/verbo?id=Cadastrar-Produto) ao [estoque](Modeling/objeto?id=Estoque)      |
 |    [#RF04](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     [Consulta de estoque](Modeling/verbo?id=Consultar-Produto)      |
 |    [#RF05](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        [Filtro por categoria]((Modeling/verbo?id=Filtrar-Produtos))         |
 |    [#RF06](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         [Tags](Modeling/objeto?id=Tag) nos [produtos](Modeling/objeto?id=Produto)         |
-|    [#RF07](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     [Remoção de itens](Modeling/verbo?id=Baixa-em-Produto) do estoque     |
+|    [#RF07](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     [Remoção de itens](Modeling/verbo?id=Baixa-em-Produto) do [estoque](Modeling/objeto?id=Estoque)     |
 |    [#RF08](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        [Cadastrar produtos](Modeling/verbo?id=Cadastrar-Produto) por planilhas         |
 |    [#RF09](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |           Gerar planilha            |
 |    [#RF10](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         Histórico de vendas         |

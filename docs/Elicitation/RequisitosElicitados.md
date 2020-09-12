@@ -15,6 +15,7 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 | 09/08/2020 |  1.5   |                              Adição do requisito R21.                              | Sofia Patrocínio |
 | 10/08/2020 |  1.6   |              Link dos artefatos de backward from para seus artefatos               |   Gabriel Davi   |
 | 10/09/2020 |  1.7   |                         Adição de requisito RF22.                                   | Sofia Patrocínio |
+| 11/09/2020 |  1.8   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 
 ## Requisitos Funcionais
 

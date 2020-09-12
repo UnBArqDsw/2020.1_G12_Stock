@@ -1,8 +1,8 @@
 # Entrevista 1
 
-| Data de Realização | Entrevistada | Entrevistadora
-| - | - | - |
-|  31/08/2020 | Ivanete Bezerra | Gabriel Davi |
+| Data de Realização | Entrevistada    | Entrevistadora |
+| ------------------ | --------------- | -------------- |
+| 31/08/2020         | Ivanete Bezerra | Gabriel Davi   |
 
 A entrevista foi realizada com Ivanete Bezerra de 49 anos, que atualmente possui um empreendimento de pequeno porte chamado Bonnavita. O tipo de entrevista realizada foi fechada. A gravação para entrevista está disponível abaixo bem como a transcrição da mesma.
 
@@ -42,7 +42,7 @@ A entrevista foi realizada com Ivanete Bezerra de 49 anos, que atualmente possui
 
 ### 9. Já aconteceu de você se enganar quanto ao número de [produtos](Modeling/objeto?id=Produto) que possui em [estoque](Modeling/objeto?id=Estoque)?
 
-“Ixe, várias vezes. Inclusive com saldo errado, eu olho na minha planilha e eu tenho lá 10kg de uma erva, por exemplo, ou de um chá ou de um produto sendo que na prateleira não tem isso. Isso ocorre por que eu esqueci de dar [baixa no produto](Modeling/verbo?id=Baixa-em-Produto)  ou alguém vendeu e não deu baixa.”
+“Ixe, várias vezes. Inclusive com saldo errado, eu olho na minha planilha e eu tenho lá 10kg de uma erva, por exemplo, ou de um chá ou de um produto sendo que na prateleira não tem isso. Isso ocorre por que eu esqueci de dar [baixa no produto](Modeling/verbo?id=Baixa-em-Produto) ou alguém vendeu e não deu baixa.”
 
 ### 10. Já aconteceu de você não possuir um [produto](Modeling/objeto?id=Produto) e ele ser extremamente requerido pelos seus [clientes](Modeling/objeto?id=usuário)?
 
