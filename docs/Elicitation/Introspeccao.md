@@ -22,7 +22,7 @@ Para visualizar as personas criadas, acesse: [**Personas**](Elicitation/Personas
 | :-------------------------------------------------------------------------: | :---------------------------------: |
 |    [#RF03](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     [Adição de itens](Modeling/verbo?id=Cadastrar-Produto) ao estoque      |
 |    [#RF04](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     [Consulta de estoque](Modeling/verbo?id=Consultar-Produto)      |
-|    [#RF05](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        Filtro por categoria         |
+|    [#RF05](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        [Filtro por categoria]((Modeling/verbo?id=Filtrar-Produtos))         |
 |    [#RF06](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         [Tags](Modeling/objeto?id=Tag) nos [produtos](Modeling/objeto?id=Produto)         |
 |    [#RF07](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     Remoção de itens do estoque     |
 |    [#RF08](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        [Cadastrar produtos](Modeling/verbo?id=Cadastrar-Produto) por planilhas         |
@@ -32,7 +32,7 @@ Para visualizar as personas criadas, acesse: [**Personas**](Elicitation/Personas
 |   [#RF015](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | Atualização instantânea de [estoque](Modeling/objeto?id=Estoque)  |
 |   [#RF017](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | App para [consulta](Modeling/verbo?id=Consultar-Produto) fácil de [produtos](Modeling/objeto?id=Produto) |
 |    [#RF19](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        Delimitar quantidade mínima de um [produto](Modeling/objeto?id=Produto)          |
-|    [#RF20](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        Alertar sobre quantidade mínima atingida         |
+|    [#RF20](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        [Alertar](Modeling/verbo?id=Alertar) sobre quantidade mínima atingida         |
 | [#RNF01](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionaiss) |         Rapidez na [consulta](Modeling/verbo?id=Consultar-Produto)         |
 | [#RNF03](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionaiss) |          [Consultas](Modeling/verbo?id=Consultar-Produto) remotas          |
 

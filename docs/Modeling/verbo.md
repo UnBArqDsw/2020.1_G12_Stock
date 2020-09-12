@@ -11,10 +11,10 @@
 
 <br>
 
-### Filtrar [produtos](Modeling/objeto?id=Produto)
+### Filtrar Produtos
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-| Ação realizada pelo usuário. <br><br>Colaborador filtra [produtos](Modeling/objeto?id=Produto) do [estoque](Modeling/objeto?id=Estoque).|Se o filtro estiver ligado alguns [produtos](Modeling/objeto?id=Produto) não ficarão visíveis. <br> Filtrar [produtos](Modeling/objeto?id=Produto) economiza tempo do usuário para encontrar o [produto](Modeling/objeto?id=Produto). |-|
+| Ação realizada pelo usuário. <br><br>Colaborador filtra [produtos](Modeling/objeto?id=Produto) do [estoque](Modeling/objeto?id=Estoque).|Se o filtro estiver ligado alguns [produtos](Modeling/objeto?id=Produto) não ficarão visíveis. <br> [Filtrar produtos](Modeling/verbo?id=Filtrar-Produtos) economiza tempo do usuário para encontrar o [produto](Modeling/objeto?id=Produto). |-|
 
 ### Baixa em Produto
 |   Noção   |   Impacto   |   Sinônimos    |

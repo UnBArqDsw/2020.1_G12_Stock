@@ -42,12 +42,12 @@
 ### Admin
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-| Administrador(a) <br><br> Pessoa responsável pela administração do [Web App](Modeling/objeto?id=Web-App) e/ou da [Micro Empresa](Modeling/objeto?id=Micro-Empresa) | Realiza tarefas: [dar baixa](Modeling/verbo?id=Baixa-em-Produto) em [produto](Modeling/objeto?id=Produto), filtrar [produtos](Modeling/objeto?id=Produto), [Cadastrar produtos](Modeling/verbo?id=Cadastrar-Produto). | Administrador(a). |
+| Administrador(a) <br><br> Pessoa responsável pela administração do [Web App](Modeling/objeto?id=Web-App) e/ou da [Micro Empresa](Modeling/objeto?id=Micro-Empresa) | Realiza tarefas: [dar baixa](Modeling/verbo?id=Baixa-em-Produto) em [produto](Modeling/objeto?id=Produto), [filtrar produtos](Modeling/verbo?id=Filtrar-Produtos), [Cadastrar produtos](Modeling/verbo?id=Cadastrar-Produto). | Administrador(a). |
 
 ### Seller
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-| [Vendedor ou vendedora](Modeling/objeto?id=Seller). <br><br> Pessoa que efetua vendas. | Responsável por dar saída de [produtos](Modeling/objeto?id=Produto). <br><br> Filtra [produtos](Modeling/objeto?id=Produto). <br><br> [Cadastrar produtos](Modeling/verbo?id=Cadastrar-Produto). | [Vendedor(a)](Modeling/objeto?id=Seller). |
+| [Vendedor ou vendedora](Modeling/objeto?id=Seller). <br><br> Pessoa que efetua vendas. | Responsável por dar saída de [produtos](Modeling/objeto?id=Produto). <br><br> [Filtra produtos](Modeling/verbo?id=Filtrar-Produtos). <br><br> [Cadastrar produtos](Modeling/verbo?id=Cadastrar-Produto). | [Vendedor(a)](Modeling/objeto?id=Seller). |
 
 ### Bug
 |   Noção   |   Impacto   |   Sinônimos    |
@@ -77,7 +77,7 @@
 ### Fornecedor
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-| Fornecedor é toda pessoa física ou jurídica, pública ou privada, nacional ou estrangeira, bem como os entes despersonalizados, que desenvolvem atividade de produção, montagem, criação, construção, transformação, importação, exportação, distribuição ou comercialização de [produtos](Modeling/objeto?id=Produto) ou prestação de serviços. | Realiza a tarefa de: fornecer [produtos](Modeling/objeto?id=Produto). | Distribuidor. |
+| Fornecedor é toda pessoa física ou jurídica, pública ou privada, nacional ou estrangeira, bem como os entes despersonalizados, que desenvolvem atividade de produção, montagem, criação, construção, transformação, [importação](Modeling/verbo?id=Importação), [exportação](Modeling/verbo?id=Exportação), distribuição ou comercialização de [produtos](Modeling/objeto?id=Produto) ou prestação de serviços. | Realiza a tarefa de: fornecer [produtos](Modeling/objeto?id=Produto). | Distribuidor. |
 
 ### Dashboard
 |   Noção   |   Impacto   |   Sinônimos    |
@@ -87,7 +87,7 @@
 ### Usuário
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-| Aquele que, por direito de uso, serve-se de algo ou desfruta de suas utilidades. | Realiza tarefas de: filtrar [produtos](Modeling/objeto?id=Produto), [Cadastrar produtos](Modeling/verbo?id=Cadastrar-Produto), [dar baixa](Modeling/verbo?id=Baixa-em-Produto) em [produto](Modeling/objeto?id=Produto). | Utilizador.<br><br>[Cliente](Modeling/objeto?id=usuário). |
+| Aquele que, por direito de uso, serve-se de algo ou desfruta de suas utilidades. | Realiza tarefas de: [filtrar produtos]((Modeling/verbo?id=Filtrar-Produtos)), [Cadastrar produtos](Modeling/verbo?id=Cadastrar-Produto), [dar baixa](Modeling/verbo?id=Baixa-em-Produto) em [produto](Modeling/objeto?id=Produto). | Utilizador.<br><br>[Cliente](Modeling/objeto?id=usuário). |
 
 ### Navegador
 |   Noção   |   Impacto   |   Sinônimos    |

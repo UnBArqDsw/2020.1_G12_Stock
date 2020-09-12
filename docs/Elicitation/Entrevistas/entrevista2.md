@@ -84,12 +84,12 @@ Esta pergunta não foi respondida nesta entrevista.
 | :-------------------------------------------------------------------------: | :---------------------------------: |
 |    [#RF03](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     [Adição de itens](Modeling/verbo?id=Cadastrar-Produto) ao estoque      |
 |    [#RF04](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         [Consulta de estoque](Modeling/verbo?id=Consultar-Produto)         |
-|    [#RF05](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        Filtro por categoria         |
+|    [#RF05](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        [Filtro](Modeling/verbo?id=Filtrar-Produtos) por categoria         |
 |    [#RF07](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     Remoção de itens do estoque     |
 |    [#RF08](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |           [Cadastrar produtos](Modeling/verbo?id=Cadastrar-Produto) por planilhas            |
 |    [#RF09](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |           Gerar planilha            |
 |    [#RF10](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         Histórico de vendas         |
-|   [#RF12](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |       Filtro por nome e preço       |
+|   [#RF12](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |       [Filtro](Modeling/verbo?id=Filtrar-Produtos) por nome e preço       |
 |   [#RF15](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | Atualização instantânea de [estoque](Modeling/objeto?id=Estoque)  |
 |   [#RF16](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | [Importação](Modeling/verbo?id=Importação) de planilha para load de estoque  |
 |   [#RF17](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | App para [consulta](Modeling/verbo?id=Consultar-Produto) fácil de [produtos](Modeling/objeto?id=Produto) |
