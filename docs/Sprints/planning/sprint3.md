@@ -1,4 +1,7 @@
 # Planejamento Sprint 3
+**Período: 13/09/2020 a 19/09/2020**<br>
+**Data da Reunião: 12/09/2020**
+
 ## Issues
 
 | Número |[Issue](Modeling/objeto?id=Issue)| Pontuação |Participantes |
