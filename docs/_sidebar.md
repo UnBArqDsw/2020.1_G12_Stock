@@ -5,6 +5,7 @@
 - **Projeto**
   - [Metodologias](Project/Metodologias.md)
   - [Estimativas](Project/Evaluation.md)
+  - [Modelagem BPMN](Project/ModelagemBPMN.md)
   - [Sprints](Index/sprintsIndex.md)
 - **Base**
   - **Design Sprint**

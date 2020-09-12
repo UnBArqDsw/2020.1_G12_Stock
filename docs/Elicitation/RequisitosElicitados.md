@@ -14,6 +14,7 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 | 09/08/2020 |  1.4   |                         Adição de requisitos RF19 E RF20.                          | Micaella Gouveia |
 | 09/08/2020 |  1.5   |                              Adição do requisito R21.                              | Sofia Patrocínio |
 | 10/08/2020 |  1.6   |              Link dos artefatos de backward from para seus artefatos               |   Gabriel Davi   |
+| 10/09/2020 |  1.7   |                         Adição de requisito RF22.                                   | Sofia Patrocínio |
 
 ## Requisitos Funcionais
 
@@ -40,6 +41,7 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 |  Delimitar quantidade mínima de um produto  | **RF19** |                   O usuário deve ser capaz de delimitar uma quantidade mínima de um produto.                    |      **RF03**       |                                             [Entrevista](Elicitation/Entrevista.md), [Introspecção](Elicitation/Introspeccao.md)                                             |
 |  Alertar sobre quantidade mínima atingida   | **RF20** |   O sistema deve ser capaz de alertar o usuário quando um produto ultrapassar o limite mínimo de quantidade.    | **RF03** e **RF19** |                                             [Entrevista](Elicitation/Entrevista.md), [Introspecção](Elicitation/Introspeccao.md)                                             |
 |     Notificação de prazo de vencimento      | **RF21** |              O sistema deve notificar o usuário na data próxima ao prazo de vencimento do produto               |      **RF03**       |                                                                   [Storyboard](Elicitation/StoryBoard.md)                                                                    |
+|      Lista de Compra      | **RF22** |      O sistema deve ter uma lista de compras de produtos pedidos por clientes que não têm em estoque       |         **RF04**         | [Entrevista](Elicitation/Entrevista.md) |
 
 ## Requisitos Não Funcionais
 
