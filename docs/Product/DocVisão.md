@@ -99,7 +99,7 @@ O Stock poderá ser acessado através de um [navegador](Modeling/objeto?id=Naveg
 | Necessidade | Prioridade | Interesse | Solução Atual | Solução Proposta |
 | ----------- | ---------- | --------- | ------------- | ---------------- |
 | Controlar fluxo de estoque | Alta | Não ter dados inconsistentes  | Planilhas ou Sistemas Caros | Controlar fluxo em tempo real
-| Consultar facilmente [produtos](Modeling/objeto?id=Produto) no estoque | Alta | Facilitar consulta | Conferência de Estoque | Tela de [produtos](Modeling/objeto?id=Produto) em estoque em poucos cliques
+| [Consultar](Modeling/verbo?id=Consultar-Produto) facilmente [produtos](Modeling/objeto?id=Produto) no estoque | Alta | Facilitar [consulta](Modeling/verbo?id=Consultar-Produto) | Conferência de Estoque | Tela de [produtos](Modeling/objeto?id=Produto) em estoque em poucos cliques
 | Mitigar prejuízos por vencimento de [produtos](Modeling/objeto?id=Produto) | Alta | Avisos com antecedência | Conferência de Estoque Periodicamente | Avisos programados sempre que [produto](Modeling/objeto?id=Produto) estiver prestes a vencer
 | Gerenciar vendas | Alta | Dados mais intuitivos | Planilhas | Gráficos ilustrativos e [Exportação](Modeling/verbo?id=Exportação) de planilhas
 

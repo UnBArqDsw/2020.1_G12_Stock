@@ -98,7 +98,7 @@ Range de 1 a 10<br><br>
 (&nbsp;&nbsp;) Nunca utilizei<br>
 (&nbsp;&nbsp;) Outros<br><br>
 
-**14** - Quais problemas você já encontrou ao fazer [controle de estoque](Modeling/verbo?id=Controle-de-Estoque)(Modeling/objeto?id=Estoque)? (opcional)<br>
+**14** - Quais problemas você já encontrou ao fazer [controle de estoque](Modeling/verbo?id=Controle-de-Estoque) (opcional)<br>
 [Caixa de Texto]<br>
 
 ## Referências

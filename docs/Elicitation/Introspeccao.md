@@ -30,11 +30,11 @@ Para visualizar as personas criadas, acesse: [**Personas**](Elicitation/Personas
 |    [#RF10](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         Histórico de vendas         |
 |    [#RF11](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        Históricos Temporais         |
 |   [#RF015](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | Atualização instantânea de [estoque](Modeling/objeto?id=Estoque)  |
-|   [#RF017](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | App para consulta fácil de [produtos](Modeling/objeto?id=Produto) |
+|   [#RF017](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | App para [consulta](Modeling/verbo?id=Consultar-Produto) fácil de [produtos](Modeling/objeto?id=Produto) |
 |    [#RF19](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        Delimitar quantidade mínima de um [produto](Modeling/objeto?id=Produto)          |
 |    [#RF20](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        Alertar sobre quantidade mínima atingida         |
-| [#RNF01](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionaiss) |         Rapidez na consulta         |
-| [#RNF03](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionaiss) |          Consultas remotas          |
+| [#RNF01](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionaiss) |         Rapidez na [consulta](Modeling/verbo?id=Consultar-Produto)         |
+| [#RNF03](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionaiss) |          [Consultas](Modeling/verbo?id=Consultar-Produto) remotas          |
 
 
 ## Referências

@@ -476,7 +476,7 @@ Total: 1820 linhas
 - Tela de perfil do [usuário](Modeling/objeto?id=usuário) - 200 linhas
 - Tela inical da aplicação ([Dashboard](Modeling/objeto?id=Dashboard)) - 400 linhas
 - Tela de lista de [estoque](Modeling/objeto?id=Estoque) - 300 linhas (socket e responsividade)
-- Tela de cadastro de [estoque](Modeling/objeto?id=Estoque) - 150 linhas
+- Tela de [cadastro de estoque](Modeling/verbo?id=Cadastrar-Produto) - 150 linhas
 - Tela de atualização dos [produtos](Modeling/objeto?id=Produto) no [estoque](Modeling/objeto?id=Estoque) - 200 linhas
 - Tela de admnistração (Listagem de [usuário](Modeling/objeto?id=usuário), alterar um [usuário](Modeling/objeto?id=usuário), cadastrar um funcionario) - 250 linhas
 

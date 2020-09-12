@@ -59,7 +59,7 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 
 ![Desistência de Membro](../assets/img/causaEfeito/Desistência_de_Membro.png)
 
-### [produto](Modeling/objeto?id=Produto) com Defeito
+### [Produto](Modeling/objeto?id=Produto) com Defeito
 
 |  Usabilidade  |  Código  |  Gerência  |  Documentação  |
 |  :---------:  |  :-----  |  :------:  |  :----------:  |

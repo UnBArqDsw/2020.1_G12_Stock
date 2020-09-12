@@ -54,7 +54,7 @@
 ### Consultar produto
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-| Realizada pelo [usuário](Modeling/objeto?id=usuário). <br><br> [Usuário](Modeling/objeto?id=usuário) consulta [produtos](Modeling/objeto?id=Produto) disponíveis no [estoque](Modeling/objeto?id=Estoque). | Mostrará informações sobre o [produto](Modeling/objeto?id=Produto). | Conferir [produto](Modeling/objeto?id=Produto).|
+| Realizada pelo [usuário](Modeling/objeto?id=usuário). <br><br> [Usuário](Modeling/objeto?id=usuário) [consulta produtos](Modeling/verbo?id=Consultar-Produto) disponíveis no [estoque](Modeling/objeto?id=Estoque). | Mostrará informações sobre o [produto](Modeling/objeto?id=Produto). | Conferir [produto](Modeling/objeto?id=Produto).|
 
 ### Controle de Estoque
 |   Noção   |   Impacto   |   Sinônimos    |

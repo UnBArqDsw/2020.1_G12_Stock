@@ -30,7 +30,7 @@ A entrevista foi realizada com a Raissa de 27 anos, que atualmente possui um emp
 "Ainda não. No sistema possui, mas não é muito confiável."
 
 ### 8. Imagine que você precisa saber se tem um certo [produto](Modeling/objeto?id=Produto) em [estoque](Modeling/objeto?id=Estoque) e rápido, mas você não está em sua loja. Como você procederia?
-"Teria que ir na loja, faço essa consulta manualmente."
+"Teria que ir na loja, faço essa [consulta](Modeling/verbo?id=Consultar-Produto) manualmente."
 
 ### 9. Já aconteceu de você se enganar quanto ao número de [produtos](Modeling/objeto?id=Produto) que possui em [estoque](Modeling/objeto?id=Estoque)?
 "Sim."
@@ -69,11 +69,11 @@ A entrevista foi realizada com a Raissa de 27 anos, que atualmente possui um emp
 | [#RF10](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         Histórico de vendas         |
 | [#RF12](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |       Filtro por nome e preço       |
 | [#RF15](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | Atualização instantânea de [estoque](Modeling/objeto?id=Estoque)  |
-| [#RF17](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | App para consulta fácil de [produtos](Modeling/objeto?id=Produto) |
+| [#RF17](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | App para [consulta](Modeling/verbo?id=Consultar-Produto) fácil de [produtos](Modeling/objeto?id=Produto) |
 | [#RF018](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   | App para baixa fácil de [produtos](Modeling/objeto?id=Produto) |
 | [#RF19](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     Delimitar quantidade mínima de um [produto](Modeling/objeto?id=Produto) |
-| [#RF20](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     [Alertar](Modeling/verbo?id=[Alertar](Modeling/verbo?id=Alertar)) sobre quantidade mínima atingida |
+| [#RF20](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     [Alertar](Modeling/verbo?id=Alertar) sobre quantidade mínima atingida |
 | [#RF22](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     Lista de Compra                   |
-| [#RNF01](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |         Rapidez na consulta         |
-| [#RNF03](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |          Consultas remotas          |
+| [#RNF01](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |         Rapidez na [consulta](Modeling/verbo?id=Consultar-Produto)         |
+| [#RNF03](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |          [Consultas](Modeling/verbo?id=Consultar-Produto) remotas          |
 

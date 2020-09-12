@@ -12,12 +12,12 @@
 ### PWA
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-| Progressive Web App. <br><br> Termo usado para denotar [Aplicativos da Web](Modeling/objeto?id=Web-App) que usam as últimas tecnologias da web.| Realizar consultas <br><br> [Usuário](Modeling/objeto?id=usuário),[Cadastrar produto](Modeling/verbo?id=Cadastrar-Produto). | [Web App](Modeling/objeto?id=Web-App).|
+| Progressive Web App. <br><br> Termo usado para denotar [Aplicativos da Web](Modeling/objeto?id=Web-App) que usam as últimas tecnologias da web.| Realizar [consultas](Modeling/verbo?id=Consultar-Produto) <br><br> [Usuário](Modeling/objeto?id=usuário),[Cadastrar produto](Modeling/verbo?id=Cadastrar-Produto). | [Web App](Modeling/objeto?id=Web-App).|
 
 ### Web App
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-| Designa sistemas de informática projetados para utilização através de um [navegador](Modeling/objeto?id=Navegador), através da internet ou aplicativos desenvolvidos utilizando tecnologias Web. | Realizar consultas. <br><br> [Usuário](Modeling/objeto?id=usuário) [Cadastrar produto](Modeling/verbo?id=Cadastrar-Produto). | [PWA](Modeling/objeto?id=PWA). |
+| Designa sistemas de informática projetados para utilização através de um [navegador](Modeling/objeto?id=Navegador), através da internet ou aplicativos desenvolvidos utilizando tecnologias Web. | Realizar [consultas](Modeling/verbo?id=Consultar-Produto). <br><br> [Usuário](Modeling/objeto?id=usuário) [Cadastrar produto](Modeling/verbo?id=Cadastrar-Produto). | [PWA](Modeling/objeto?id=PWA). |
 
 ### Tag
 |   Noção   |   Impacto   |   Sinônimos    |
