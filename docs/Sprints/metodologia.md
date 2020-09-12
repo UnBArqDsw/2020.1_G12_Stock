@@ -21,7 +21,7 @@ No documento de planejamento, será mostrado:
 * Link para a gravações realizadas, se houver
 
 No documento de review, será mostrado:
-* [Issue](Modeling/objeto?id=Issue)  entregues
+* [Issues](Modeling/objeto?id=Issue) entregues
 * Dívidas técnicas, caso existam
 * Observações gerais sobre o resultado alcançado
 * Quadro de conhecimento
