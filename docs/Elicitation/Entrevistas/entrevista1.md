@@ -1,8 +1,8 @@
 # Entrevista 1
 
-| Data de Realização | Entrevistada | Entrevistadora
-| - | - | - |
-|  31/08/2020 | Ivanete Bezerra | Gabriel Davi |
+| Data de Realização | Entrevistada    | Entrevistadora |
+| ------------------ | --------------- | -------------- |
+| 31/08/2020         | Ivanete Bezerra | Gabriel Davi   |
 
 A entrevista foi realizada com Ivanete Bezerra de 49 anos, que atualmente possui um empreendimento de pequeno porte chamado Bonnavita. O tipo de entrevista realizada foi fechada. A gravação para entrevista está disponível abaixo bem como a transcrição da mesma.
 
@@ -42,7 +42,7 @@ A entrevista foi realizada com Ivanete Bezerra de 49 anos, que atualmente possui
 
 ### 9. Já aconteceu de você se enganar quanto ao número de [produtos](Modeling/objeto?id=Produto) que possui em [estoque](Modeling/objeto?id=Estoque)?
 
-“Ixe, várias vezes. Inclusive com saldo errado, eu olho na minha planilha e eu tenho lá 10kg de uma erva, por exemplo, ou de um chá ou de um produto sendo que na prateleira não tem isso. Isso ocorre por que eu esqueci de dar [baixa no produto](Modeling/verbo?id=Baixa-em-Produto)  ou alguém vendeu e não deu baixa.”
+“Ixe, várias vezes. Inclusive com saldo errado, eu olho na minha planilha e eu tenho lá 10kg de uma erva, por exemplo, ou de um chá ou de um produto sendo que na prateleira não tem isso. Isso ocorre por que eu esqueci de dar [baixa no produto](Modeling/verbo?id=Baixa-em-Produto) ou alguém vendeu e não deu baixa.”
 
 ### 10. Já aconteceu de você não possuir um [produto](Modeling/objeto?id=Produto) e ele ser extremamente requerido pelos seus [clientes](Modeling/objeto?id=usuário)?
 
@@ -62,11 +62,11 @@ A entrevista foi realizada com Ivanete Bezerra de 49 anos, que atualmente possui
 
 ### 14. De 1 a 10, quanto a tecnologia faz parte do seu dia a dia nessa parte dos negócios?
 
-“5. Faz parte do [controle de estoque](Modeling/verbo?id=Controle-de-Estoque)(Modeling/objeto?id=Estoque) que é feito via excel, no controle de venda , no controle de cotação de mercadoria.”
+“5. Faz parte do [controle de estoque](Modeling/verbo?id=Controle-de-Estoque) que é feito via excel, no controle de venda , no controle de cotação de mercadoria.”
 
 ### 15. Em quais processos hoje em sua empresa você acha que daria para envolver tecnologia?
 
-“Nossa, praticamente tudo. [controle de estoque](Modeling/verbo?id=Controle-de-Estoque)(Modeling/objeto?id=Estoque), controle de venda, cálculo da minha margem de lucro, cotação de mercadoria, emissão de pedido para [cliente](Modeling/objeto?id=usuário).”
+“Nossa, praticamente tudo. [controle de estoque](Modeling/verbo?id=Controle-de-Estoque), controle de venda, cálculo da minha margem de lucro, cotação de mercadoria, emissão de pedido para [cliente](Modeling/objeto?id=usuário).”
 
 ## Gravação
 
@@ -76,18 +76,18 @@ A entrevista foi realizada com Ivanete Bezerra de 49 anos, que atualmente possui
 
 ## Requisitos levantados
 
-|                                     Id                                      |                Nome                 |
-| :-------------------------------------------------------------------------: | :---------------------------------: |
-|    [#RF03](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     [Adição de itens](Modeling/verbo?id=Cadastrar-Produto) ao estoque      |
-|    [#RF04](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         [Consulta de estoque](Modeling/verbo?id=Consultar-Produto)         |
-|    [#RF05](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        Filtro por categoria         |
-|    [#RF07](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     Remoção de itens do estoque     |
-|    [#RF09](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |           Gerar planilha            |
-|    [#RF10](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         Histórico de vendas         |
-|   [#RF012](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |       Filtro por nome e preço       |
-|   [#RF014](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        Plotagem de gráficos         |
-|   [#RF015](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | Atualização instantânea de [estoque](Modeling/objeto?id=Estoque)  |
-|   [#RF017](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | App para consulta fácil de [produto](Modeling/objeto?id=Produto) |
-| [#RNF01](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |         Rapidez na consulta         |
-| [#RNF02](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |         Gráficos didáticos          |
-| [#RNF03](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |          Consultas remotas          |
+|                                     Id                                     |                               Nome                                |
+| :------------------------------------------------------------------------: | :---------------------------------------------------------------: |
+|   [#RF03](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | [Adição de itens](Modeling/verbo?id=Cadastrar-Produto) ao estoque |
+|   [#RF04](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |    [Consulta de estoque](Modeling/verbo?id=Consultar-Produto)     |
+|   [#RF05](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |                       Filtro por categoria                        |
+|   [#RF07](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |                    Remoção de itens do estoque                    |
+|   [#RF09](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |                          Gerar planilha                           |
+|   [#RF10](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |                        Histórico de vendas                        |
+|   [#RF012](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   |                      Filtro por nome e preço                      |
+|   [#RF014](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   |                       Plotagem de gráficos                        |
+|   [#RF015](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   | Atualização instantânea de [estoque](Modeling/objeto?id=Estoque)  |
+|   [#RF017](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   | App para consulta fácil de [produto](Modeling/objeto?id=Produto)  |
+| [#RNF01](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |                        Rapidez na consulta                        |
+| [#RNF02](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |                        Gráficos didáticos                         |
+| [#RNF03](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |                         Consultas remotas                         |
