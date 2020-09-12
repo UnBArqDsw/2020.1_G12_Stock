@@ -1,8 +1,8 @@
   <h2>Arquitetura e desenho de software</h2>
   <h3>Sobre o projeto</h3>
 
-  <p>Trata-se de um sistema para cadastro e consulta de estoque. Ele possui uma platarforma web para cadastro e listagem de produtos, bem como geração de planilhas com resumos e gráficos para mostrar sua evolução.Também, possui uma versão mobile somente para consulta rápida de produtos e para atualização mais ágil do estoque (Retirar um produto recém vendido, por exemplo) e por fim um servidor que irá cuidar de todo o fluxo do negócio. 
-  </p>
+  Trata-se de um sistema para cadastro e consulta de [estoque](Modeling/objeto?id=Estoque). Ele possui uma plataforma web para cadastro e listagem de produtos, bem como geração de planilhas com resumos e gráficos para mostrar sua evolução.Também, possui uma versão mobile somente para consulta rápida de produtos e para atualização mais ágil do [estoque](Modeling/objeto?id=Estoque) (Retirar um produto recém vendido, por exemplo) e por fim um servidor que irá cuidar de todo o fluxo do negócio. 
+  
 
   <h3>Membros da equipe</h3>
 

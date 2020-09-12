@@ -2,8 +2,8 @@
 **Período: 23/08/2020 a 29/08/2020**<br>
 **Data da Reunião: 22/08/2020**
 
-## Issues
-|Número | Issue | Pontuação | Participantes|
+## [Issues](Modeling/objeto?id=Issue) 
+|Número |  [Issue](Modeling/objeto?id=Issue)  | Pontuação | Participantes|
 | - | - | - | - |
 | [**#1**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/1) | [Rich Picture](preTraceability/RichPicture.md)   | Sem  | Todos  |
 | [**#2**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/2) | [Mapa Mental](preTraceability/MapaMental.md) | Sem | Todos |
@@ -21,9 +21,9 @@
 ## Pontuação : Sem pontuação
 
 ## Quadro de Distribuição de Pontos
-Este quadro divide a pontuação das issues com a quantidade de participantes, para ter a noção da distribuição de pontos por pessoa, evitando a sobrecarga de tarefas para algum membro.
+Este quadro divide a pontuação das [issues](Modeling/objeto?id=Issue) com a quantidade de participantes, para ter a noção da distribuição de pontos por pessoa, evitando a sobrecarga de tarefas para algum membro.
 
-*Como nesta Sprint as metodologias não tinham sido definidas, não foi feita a pontuação das issues.*
+*Como nesta Sprint as metodologias não tinham sido definidas, não foi feita a pontuação das [issues](Modeling/objeto?id=Issue).*
 
 ## Relato
 * Na semana anterior à Sprint 0, o grupo já havia sido formado e a ideia geral do projeto também. Antes da reunião, as alunas Micaella Gouveia e Sofia Patrocínio fizeram um levantamento dos artefatos que poderiam ser produzidos durante a Sprint 0, tendo como base as diretrizes propostas pela professora Milene. Elas criaram um Google Calendar com as datas das entregas e datas de avaliações em pares, contendo tudo o que foi solicitado pela professora para cada entrega.

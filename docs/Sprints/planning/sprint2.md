@@ -1,8 +1,8 @@
 # Planejamento Sprint 2
 
-## Issues
+## [Issues](Modeling/objeto?id=Issue) 
 
-|Número | Issue | Pontuação | Participantes|
+|Número |  [Issue](Modeling/objeto?id=Issue)  | Pontuação | Participantes|
 | - | - | - | - |
 | [**#35**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/35) | Léxicos | 5 | Gabriel Alves |
 | [**#36**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/36) | [Metodologia - Definição e Documentação](Project/Metodologias.md) | 5 | Micaella Gouveia, Sofia Patrocínio |
@@ -16,9 +16,9 @@
 ## Pontuação: 51
 
 ## Quadro de Distribuição de Pontos
-Este quadro divide a pontuação das issues com a quantidade de participantes, para ter a noção da distribuição de pontos por pessoa, evitando a sobrecarga de tarefas para algum membro.
+Este quadro divide a pontuação das [issues](Modeling/objeto?id=Issue) com a quantidade de participantes, para ter a noção da distribuição de pontos por pessoa, evitando a sobrecarga de tarefas para algum membro.
 
-|Participante | Distribuiçao por Pontuação de Issue e Partipantes| Pontuação Média|
+|Participante | Distribuiçao por Pontuação de [Issue](Modeling/objeto?id=Issue) e Partipantes| Pontuação Média|
 | - | - | - |
 | Gabriel Alves| 5 + 4,3 + 1,6 | 11
 | Gabriel Davi| 4,3 + 2,5 + 2,5 | 9
@@ -26,17 +26,17 @@ Este quadro divide a pontuação das issues com a quantidade de participantes, p
 | Pedro Igor | 4,3 + 1,6 + 2,5 | 11
 | Sofia Patrocínio| 2,5 + 1,6 + 8| 12
 
-## Data de Entrega para Issues
+## Data de Entrega para [Issues](Modeling/objeto?id=Issue)
 Nesta Sprint, alguns documentos são pré-requisitos de outros, sendo necessário que eles sejam entregues antes. Estipulamos datas de entrega para esses documentos a fim de que as outras entregas não sejam prejudicadas. 
 
-|Número | Issue | Data de Entrega
+|Número | [Issue](Modeling/objeto?id=Issue) | Data de Entrega
 | - | - | - | 
 | [**#36**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/36) | Metodologia - Definição e Documentação | Segunda-feira (07/09/2020) |
 | [**#40**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/40) | Elicitação dos artefatos já produzidos|  Quarta-feira (09/09/2020)|
 
 ## Relato 
 * Antes da reunião foi feito o último artefato da [Design Sprint](DesignSprint/DesignSprint.md). O grupo analisou o que estava faltando para a entrega do dia 11/09/2020 e decidiu as tarefas com base nisso.
-* Nesta reunião o grupo concordadou em utilizar o [Plan it Poker](https://www.planitpoker.com/) para a pontuação das issues.
+* Nesta reunião o grupo concordadou em utilizar o [Plan it Poker](https://www.planitpoker.com/) para a pontuação das  [issues](Modeling/objeto?id=Issue).
 
 **1. Léxicos**:
 
@@ -81,6 +81,6 @@ Nesta Sprint, alguns documentos são pré-requisitos de outros, sendo necessári
 
 <iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/pZZrLSgsaT4?ecver=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="RXWVoIsA" href="https://www.rockpamperscissors.co.uk/a-new-one-on-me/">Emma hybrid</a></div><div><a  id="RXWVoIsA" href="https://www.rockpamperscissors.co.uk/a-new-one-on-me/">https://www.rockpamperscissors.co.uk/a-new-one-on-me/</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
 
-* Planning Poker (Pontuação das Issues):
+* Planning Poker (Pontuação das [issues](Modeling/objeto?id=Issue)):
 
 <iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/rwoqwJKP_AU?ecver=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="RXWVoIsA" href="https://www.rockpamperscissors.co.uk/a-new-one-on-me/">Emma hybrid</a></div><div><a  id="RXWVoIsA" href="https://www.rockpamperscissors.co.uk/a-new-one-on-me/">https://www.rockpamperscissors.co.uk/a-new-one-on-me/</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
