@@ -17,9 +17,9 @@
 
 ### Web App
 
-|                                                                                              Noção                                                                                               |                                                           Impacto                                                            |           Sinônimos            |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :----------------------------: |
-| Designa sistemas de informática projetados para utilização através de um [navegador](Modeling/objeto?id=Navegador), através da internet ou aplicativos desenvolvidos utilizando tecnologias Web. | Realizar consultas. <br><br> [Usuário](Modeling/objeto?id=usuário) [Cadastrar produto](Modeling/verbo?id=Cadastrar-Produto). | [PWA](Modeling/objeto?id=PWA). |
+|                                                                                              Noção                                                                                               |                                                           Impacto                                                            |                 Sinônimos                 |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------: |
+| Designa sistemas de informática projetados para utilização através de um [navegador](Modeling/objeto?id=Navegador), através da internet ou aplicativos desenvolvidos utilizando tecnologias Web. | Realizar consultas. <br><br> [Usuário](Modeling/objeto?id=usuário) [Cadastrar produto](Modeling/verbo?id=Cadastrar-Produto). | [PWA](Modeling/objeto?id=PWA). Plataforma |
 
 ### Tag
 
