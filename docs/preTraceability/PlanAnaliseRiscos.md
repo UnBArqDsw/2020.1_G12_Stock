@@ -10,10 +10,11 @@
 | 03/09/2020| 1.2 | Adição das tabelas por tópicos, criação da tabela de análise | Micaella Gouveia |
 | 04/09/2020| 1.3 | Adição de hyperlink para página de Design Sprint | Micaella Gouveia |
 | 09/09/2020 | 1.4 | Correção da rota de hyperlink para página de Design Sprint | Sofia Patrocínio |
+| 11/09/2020 |  1.5   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 
 ## Introdução
 
-O objetivo deste documento é explicitar como aconteceu o plano de análise de riscos. O gerenciamento de riscos está incluso no processo de gerenciamento de projeto que inclui, além dos riscos, pessoas, custos, escopo, entre outros. O documento define como serão identificados, quantificados e qualificados, mantidos e controlados todos os riscos previstos._Para produção deste artefato, foi usado o documento do grupo Gaia como base cujo a wiki se encontra nas referências desse documento._
+O objetivo deste documento é explicitar como aconteceu o plano de análise de riscos. O gerenciamento de riscos está incluso no processo de gerenciamento de projeto que inclui, além dos riscos, pessoas, custos, escopo, entre outros. O documento define como serão identificados, quantificados e qualificados, mantidos e controlados todos os riscos previstos. _Para produção deste artefato, foi usado o documento do grupo Gaia como base cujo a wiki se encontra nas referências desse documento._
 
 ## Estrutura Análitica de Riscos
 
@@ -112,7 +113,7 @@ Sendo que:
 |ID | Risco | Probabilidade | Impacto | Grau de Risco |
 | - | -  -  |       -       |  -      |    -          |
 |17 | Ausência de testes	                        | 3 | 3 | **9** | 
-|18 | Falhas e bugs                                 | 4 | 4 | **16** | 
+|18 | Falhas e [bugs](Modeling/objeto?id=Bug)                                 | 4 | 4 | **16** | 
 |19 | Má implementação de UX                        | 3 | 3 | **9** | 
 |20 | Má implementação de UI                        | 2 | 3 | **6** | 
 |21 | Má prática do processo de desenvolvimento     | 4 | 3 | **12** | 
@@ -123,13 +124,13 @@ Sendo que:
 | ID  | Risco                                         | Probabilidade | Impacto | Grau de Risco |
 | --- | --------------------------------------------- | ------------- | ------- | ------------- |
 | 17  | Ausência de testes                            | 3             | 3       | **9**         |
-| 18  | Falhas e bugs                                 | 4             | 4       | **16**        |
+| 18  | Falhas e [bugs](Modeling/objeto?id=Bug)                                 | 4             | 4       | **16**        |
 | 19  | Má implementação de UX                        | 3             | 3       | **9**         |
 | 20  | Má implementação de UI                        | 2             | 3       | **6**         |
 | 21  | Má prática do processo de desenvolvimento     | 4             | 3       | **12**        |
-| 22  | Aplicação não atender expectativas do usuário | 3             | 4       | **12**        |
+| 22  | Aplicação não atender expectativas do [usuário](Modeling/objeto?id=usuário)  | 3             | 4       | **12**        |
 | 23  | Não cumprimento dos requisitos elicitados     | 3             | 4       | **12**        |
-| 24  | Falta de validação com o stakeholder          | 3             | 4       | **12**        |
+| 24  | Falta de validação com o [stakeholder](Modeling/objeto?id=Stakeholder)          | 3             | 4       | **12**        |
 
 ## Riscos de Gerência de projeto
 
@@ -210,7 +211,7 @@ Sendo que:
             <td>20</td>
             <td>Má implementação de UI</td>
             <td>Prevenir</td>
-            <td>Estudar sobre UI e testar todas as fases com usuário</td>
+            <td>Estudar sobre UI e testar todas as fases com <a href="#/Modeling/objeto?id=usuário">usuário</a></td>
         </tr>
         <tr class="risco médio" style="background:#FFB366">
             <th>6</th>
@@ -301,7 +302,7 @@ Sendo que:
             <td>19</td>
             <td>Má implementação de UX</td>
             <td>Prevenir</td>
-            <td>Testar todas as fases com usuário</td>
+            <td>Testar todas as fases com <a href="#/Modeling/objeto?id=usuário">usuário</a></td>
         </tr>
         <tr class="risco médio" style="background:#FFB366">
             <th>9</th>
@@ -327,7 +328,7 @@ Sendo que:
         <tr class="risco médio" style="background:#FFB366">
             <th>10</th>
             <td>14</td>
-            <td>Dificuldade de [deploy](Modeling/estado?id=Deploy) da aplicação</td>
+            <td>Dificuldade de <a href="#/Modeling/estado?id=deploy"> deploy </a>da aplicação</td>
             <td>Mitigar</td>
             <td>Estudar sobre as tecnologias utilizadas</td>
         </tr>
@@ -376,9 +377,9 @@ Sendo que:
         <tr class="risco médio" style="background:#FFB366">
             <th>12</th>
             <td>22</td>
-            <td>Aplicação não atender expectativas do usuário</td>
+            <td>Aplicação não atender expectativas do <a href="#/Modeling/objeto?id=usuário">usuário</a></td>
             <td>Prevenir</td>
-            <td>Testar todas as fases com usuário, recebendo feedbacks e respondendo-os</td>
+            <td>Testar todas as fases com <a href="#/Modeling/objeto?id=usuário">usuário</a>, recebendo feedbacks e respondendo-os</td>
         </tr>
         <tr class="risco médio" style="background:#FFB366">
             <th>12</th>
@@ -390,16 +391,16 @@ Sendo que:
         <tr class="risco médio" style="background:#FFB366">
             <th>12</th>
             <td>24</td>
-            <td>Falta de validação com o stakeholder</td>
+            <td>Falta de validação com o <a href="#/Modeling/objeto?id=stakeholder" >stakeholder</a></td>
             <td>Prevenir</td>
-            <td>Manter contato com o stakeholder</td>
+            <td>Manter contato com o <a href="#/Modeling/objeto?id=stakeholder" >stakeholder</a></td>
         </tr>
         <tr class="risco médio" style="background:#FFB366">
             <th>12</th>
             <td>31</td>
             <td>Sobrecarga de tarefas</td>
             <td>Prevenir</td>
-            <td>[Alertar](Modeling/verbo?id=Alertar) sobre semanas mais corridas, dias de prova, entre outros</td>
+            <td><a href="#/Modeling/verbo?id=alertar">Alertar</a> sobre semanas mais corridas, dias de prova, entre outros</td>
         </tr>
         <tr class="risco médio" style="background:#FFB366">
             <th>12</th>
@@ -432,9 +433,9 @@ Sendo que:
         <tr class="risco médio" style="background:#FF6666">
             <th>16</th>
             <td>18</td>
-            <td>Falhas e bugs</td>
+            <td>Falhas e <a href="#/Modeling/objeto?id=bug">bugs</a></td>
             <td>Mitigar</td>
-            <td>Dedicar issues de bugs e refatoração</td>
+            <td>Dedicar <a href="#/Modeling/objeto?id=bug">issues</a> de <a href="#/Modeling/objeto?id=issues">bugs</a> e refatoração</td>
         </tr>
     </tbody>
 </table>

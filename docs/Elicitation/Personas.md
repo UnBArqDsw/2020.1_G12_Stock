@@ -8,9 +8,10 @@ Persona é um personagem fictício, baseado em dados de [clientes](Modeling/obje
 | :--------: | :----: | :----------------------------------------------------------: | :----------: |
 | 08/09/2020 |  1.0   | Criação do documento e adição de metodologia. | Micaella Gouveia |
 | 08/09/2020 |  1.1   | Criação e adição das personas 1 e 2 | Micaella Gouveia e Gabriel Davi |
+| 11/09/2020 |  1.2   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 
 ## Metodologia
-Hoje as personas são uma das principais ferramentas de planejamento para as aplicações que centram suas estratégias no usuário. Para o projeto, o time decidiu criar personas baseadas em pessoas conhecidas, tendo uma melhor noção dos objetivos e dificuldades encontrados. Para a geração das personas foi utilizado o programa [*O Fantástico Gerador de Personas de Marketing*](https://geradordepersonas.com.br/).
+Hoje as personas são uma das principais ferramentas de planejamento para as aplicações que centram suas estratégias no [usuário](Modeling/objeto?id=usuário). Para o projeto, o time decidiu criar personas baseadas em pessoas conhecidas, tendo uma melhor noção dos objetivos e dificuldades encontrados. Para a geração das personas foi utilizado o programa [*O Fantástico Gerador de Personas de Marketing*](https://geradordepersonas.com.br/).
 Estas personas serão referências para a técnica de [**Introspecção**](Elicitation/Introspeccao.md).
 
 ## Personas

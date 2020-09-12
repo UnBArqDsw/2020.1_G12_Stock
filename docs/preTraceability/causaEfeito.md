@@ -9,6 +9,7 @@
 |  04/09/20  |  1.0   | Criação do documento e levantamento de seus efeitos e suas respectivas causas | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 |  06/09/20  |  1.1   | Elaboração das tabelas e diagramas dos seus efeitos e suas respectivas causas |                                Gabriel Alves                                |
 | 09/09/2020 |  1.2   |          Correção da rota de hyperlink para página de Design Sprint           |                              Sofia Patrocínio                               |
+| 11/09/2020 |  1.3   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 
 ## Introdução
 
@@ -38,7 +39,7 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 |                                  Propaganda                                  |                                  Usabilidade                                  |                  Funcionalidade                  |                           [Cliente](Modeling/objeto?id=usuário)                            |
 | :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :----------------------------------------------: | :----------------------------------------------------------------------------------------: |
 |                            Divulgação deficiente                             |                 Dificuldade de uso da aplicação pelo usuário                  | Funcionalidades mal feitas, confusas e complexas | Cliente sem entendimentos técnico para utilização do [produto](Modeling/objeto?id=Produto) |
-|                          Público alvo não definido                           | [produto](Modeling/objeto?id=Produto) final não agregar valor ao público alvo |    Não cumprimento dos requisitos elicitados     |              Não existe mercado para o [produto](Modeling/objeto?id=Produto)               |
+|                          Público alvo não definido                           | [Produto](Modeling/objeto?id=Produto) final não agregar valor ao público alvo |    Não cumprimento dos requisitos elicitados     |              Não existe mercado para o [produto](Modeling/objeto?id=Produto)               |
 |                           Barreira de entrada alta                           |                            Não uso de heurísticas                             |      Má escolha da plataforma da aplicação       |            Falta de validação com [stakeholder](Modeling/objeto?id=Stakeholder)            |
 | Não conseguir mostrar o diferencial da aplicação em relação aos concorrentes |                        Não fazer testes de usabilidade                        |                        -                         |                             Não atender expectativa do cliente                             |
 
@@ -64,7 +65,7 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 
 |                     Usabilidade                      | Código                      |                 Gerência                 |                        Documentação                        |
 | :--------------------------------------------------: | :-------------------------- | :--------------------------------------: | :--------------------------------------------------------: |
-|                Não uso de heurísticas                | Inserção de bugs            |          Sprint mal elaboradas           |                  Documentação equivocada                   |
+|                Não uso de heurísticas                | Inserção de [bugs](Modeling/objeto?id=Bug)            |          Sprint mal elaboradas           |                  Documentação equivocada                   |
 |           Não fazer testes de usabilidade            | Funcionalidades defeituosas |           Backlog mal definido           | Requisitos que influênciam negativamente outros requisitos |
 | Não refatoração dos problemas encontrados nos testes | Não uso de boas práticas    |    Inexperiência na tomada de decisão    |             Falta de documentação complementar             |
 |                          -                           | Falta de testes             | Planejamento mal definido ou não seguido |                             -                              |

@@ -4,22 +4,23 @@
 
 |    Data    | Versão |         Descrição         |           Autor(es)            |
 | :--------: | :----: | :-----------------------: | :----------------------------: |
-| 08/09/2020 |  0.1   |  Sugestão de Léxicos  | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
-| 09/09/2020 |  0.2   |  Estruturação dos léxicos  | Gabriel Alves | 
-| 10/09/2020 |  0.3   |  Revisão e finalização dos léxicos | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
-| 11/09/2020 |  1.0   |  Criação do documento | Gabriel Alves |
+| 08/09/2020 |  1.0   |  Sugestão de Léxicos  | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 09/09/2020 |  1.1   |  Estruturação dos léxicos  | Gabriel Alves | 
+| 10/09/2020 |  1.2   |  Revisão e finalização dos léxicos | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 11/09/2020 |  1.3   |  Criação do documento | Gabriel Alves |
+| 11/09/2020 |  1.4   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 
 <br>
 
-### Filtrar [produtos](Modeling/objeto?id=Produto)
+### Filtrar Produtos
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-| Ação realizada pelo usuário. <br><br>Colaborador filtra [produtos](Modeling/objeto?id=Produto) do [estoque](Modeling/objeto?id=Estoque).|Se o filtro estiver ligado alguns [produtos](Modeling/objeto?id=Produto) não ficarão visíveis. <br> Filtrar [produtos](Modeling/objeto?id=Produto) economiza tempo do usuário para encontrar o [produto](Modeling/objeto?id=Produto). |-|
+| Ação realizada pelo usuário. <br><br>Colaborador filtra [produtos](Modeling/objeto?id=Produto) do [estoque](Modeling/objeto?id=Estoque).|Se o filtro estiver ligado alguns [produtos](Modeling/objeto?id=Produto) não ficarão visíveis. <br> [Filtrar produtos](Modeling/verbo?id=Filtrar-Produtos) economiza tempo do usuário para encontrar o [produto](Modeling/objeto?id=Produto). |-|
 
 ### Baixa em Produto
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-| Realizar a venda de um [produto](Modeling/objeto?id=Produto). <br><br>Realizar distribuição de um [produto](Modeling/objeto?id=Produto). | É preciso [dar baixa](Modeling/verbo?id=Baixa-em-Produto) nos itens que foram vendidos ou foram para outro setor.| Vender [produto](Modeling/objeto?id=Produto), dar saída de [produto](Modeling/objeto?id=Produto).|
+| Realizar a venda de um [produto](Modeling/objeto?id=Produto). <br><br>Realizar distribuição de um [produto](Modeling/objeto?id=Produto). | É preciso [dar baixa](Modeling/verbo?id=Baixa-em-Produto) nos itens que foram vendidos ou foram para outro setor.| Vender [produto](Modeling/objeto?id=Produto), dar saída de [produto](Modeling/objeto?id=Produto), remover.|
 
 ### Importação
 |   Noção   |   Impacto   |   Sinônimos    |
@@ -54,7 +55,7 @@
 ### Consultar produto
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-| Realizada pelo [usuário](Modeling/objeto?id=usuário). <br><br> [Usuário](Modeling/objeto?id=usuário) consulta [produtos](Modeling/objeto?id=Produto) disponíveis no [estoque](Modeling/objeto?id=Estoque). | Mostrará informações sobre o [produto](Modeling/objeto?id=Produto). | Conferir [produto](Modeling/objeto?id=Produto).|
+| Realizada pelo [usuário](Modeling/objeto?id=usuário). <br><br> [Usuário](Modeling/objeto?id=usuário) [consulta produtos](Modeling/verbo?id=Consultar-Produto) disponíveis no [estoque](Modeling/objeto?id=Estoque). | Mostrará informações sobre o [produto](Modeling/objeto?id=Produto). | Conferir [produto](Modeling/objeto?id=Produto).|
 
 ### Controle de Estoque
 |   Noção   |   Impacto   |   Sinônimos    |

@@ -12,6 +12,7 @@ Com isso, abaixo mostramos os argumentos, que levaram o grupo a escolha do tema 
 | 27/08/2020 |  1.1   |                                              Adição da definição de Argumentação                                              | Gabriel Alves |
 | 27/08/2020 |  1.2   | Adição do diagrama ACE em aplicação de [controle de estoque](Modeling/verbo?id=Controle-de-Estoque) e atualizando Referências | Gabriel Alves |
 | 28/08/2020 |  1.3   |                                Adição do resultado da votação e formatando conteúdo da página.                                |  Pedro Igor   |
+| 11/09/2020 |  1.4   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 
 # Argumentação em torno da escolha da aplicação
 
@@ -46,7 +47,7 @@ O processo de escolha da aplicação se iniciou na primeira tentativa de início
 **i(p14)** Gabriel Davi: Minha mãe trabalha com venda de alguns [produtos](Modeling/objeto?id=Produto) e faz o [controle de estoque](Modeling/verbo?id=Controle-de-Estoque) manualmente. Essa aplicação seria muito útil pra ela.<br>
 **i(p15)** Pedro Igor: A aplicação parece ser simples. Envolverá modelagem de banco de dados e alguns informações úteis para os [usuários](Modeling/objeto?id=usuário) . O bom é que poderemos investir bastante nos artefatos.<br>
 **i(p16)** Sofia: Podemos construir um [Dashboard](Modeling/objeto?id=Dashboard) com todas as informações relevantes sobre o fluxo de [estoque](Modeling/objeto?id=Estoque) para que o [usuário](Modeling/objeto?id=usuário) consiga visualizar como tem ido o seu negócio.<br>
-**i(p17)** Gabriel Davi: Podemos criar uma hierarquia em que somente alguns [usuários](Modeling/objeto?id=usuário) de um grupo tem permissão para registrar [produtos](Modeling/objeto?id=Produto) e outros tem permissão apenas para remover um [produto](Modeling/objeto?id=Produto) ao efetuar uma venda.<br>
+**i(p17)** Gabriel Davi: Podemos criar uma [hierarquia](Modeling/objeto?id=Papéis-dos-colaboradores) em que somente alguns [usuários](Modeling/objeto?id=usuário) de um grupo tem permissão para registrar [produtos](Modeling/objeto?id=Produto) e outros tem permissão apenas para [remover](Modeling/verbo?id=Baixa-em-Produto) um [produto](Modeling/objeto?id=Produto) ao efetuar uma venda.<br>
 
 ### Votação:
 

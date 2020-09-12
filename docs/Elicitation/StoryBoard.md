@@ -11,6 +11,7 @@ O storyboard é uma sequência de desenhos quadro a quadro com o esboço das div
 | 09/09/2020 |  1.2   |                Adição dos requisitos.                 |   Gabriel Davi   |
 | 09/09/2020 |  1.3   |          Adição do storyboard de vencimento.          | Sofia Patrocínio |
 | 09/09/2020 |  1.4   |           Adição do requisitos RF9 e RF21.            | Sofia Patrocínio |
+| 11/09/2020 |  1.5   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 
 ## StoryBoards
 
@@ -50,7 +51,7 @@ O storyboard é uma sequência de desenhos quadro a quadro com o esboço das div
 
 ![SB6](../assets/img/storyboards/SB6_Micaella.png)
 
-### Notificação de vencimento de [produto](Modeling/objeto?id=Produto)
+### Notificação de [vencimento](Modeling/estado?id=Prazo-de-Validade) de [produto](Modeling/objeto?id=Produto)
 
 #### Autora: Sofia Patrocinio
 
@@ -62,17 +63,17 @@ O storyboard é uma sequência de desenhos quadro a quadro com o esboço das div
 | :------------------------------------------------------------------------: | :---------------------------------: |
 |   [#RF03](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     [Adição de itens](Modeling/verbo?id=Cadastrar-Produto) ao estoque      |
 |   [#RF04](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         [Consulta de estoque](Modeling/verbo?id=Consultar-Produto)         |
-|   [#RF05](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        Filtro por categoria         |
+|   [#RF05](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        [Filtro](Modeling/verbo?id=Filtrar-Produtos) por categoria         |
 |   [#RF09](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |           Gerar planilha            |
-|   [#RF012](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   |       Filtro por nome e preço       |
+|   [#RF012](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   |       [Filtro](Modeling/verbo?id=Filtrar-Produtos) por nome e preço       |
 |   [#RF014](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   |        Plotagem de gráficos         |
 |   [#RF015](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   | Atualização instantânea de [estoque](Modeling/objeto?id=Estoque)  |
-|   [#RF017](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   | App para consulta fácil de [produtos](Modeling/objeto?id=Produto) |
+|   [#RF017](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   | App para [consulta](Modeling/verbo?id=Consultar-Produto) fácil de [produtos](Modeling/objeto?id=Produto) |
 |   [#RF018](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   |  App para baixa fácil de [produtos](Modeling/objeto?id=Produto)   |
 |   [#RF021](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   | Notificação de [prazo de vencimento](Modeling/estado?id=Prazo-de-Validade)  |
-| [#RNF01](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |         Rapidez na consulta         |
+| [#RNF01](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |         Rapidez na [consulta](Modeling/verbo?id=Consultar-Produto)         |
 | [#RNF02](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |         Gráficos didáticos          |
-| [#RNF03](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |          Consultas remotas          |
+| [#RNF03](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |          [Consultas](Modeling/verbo?id=Consultar-Produto) remotas          |
 
 ## Referências
 

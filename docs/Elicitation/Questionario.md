@@ -12,6 +12,7 @@ As perguntas a seguir foram elaboradas em um dos dias de [Design Sprint](DesignS
 | 04/09/2020 |  1.0   |                                      Adicionado questionário definido em grupo.                                      | Gabriel Alves, Gabriel Davi, Micaella, Pedro Igor e Sofia |
 | 04/09/2020 |  1.1   | Formatação do questionário, tabela de versões, referências, criação do formulário e explicação breve da metodologia. |                        Pedro Igor                         |
 | 09/09/2020 |  1.2   |                                   Adição de hyperlink para página de Design Sprint                                   |                     Sofia Patrocínio                      |
+| 11/09/2020 |  1.3   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 
 ## Protótipo
 

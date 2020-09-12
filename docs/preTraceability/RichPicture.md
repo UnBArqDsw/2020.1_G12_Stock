@@ -12,6 +12,8 @@ Rich picture é uma técnica que tem como objetivo entender o funcionamento e o 
 | 28/08/2020 |  1.4   |  Criação dos Rich Picture individual. | Sofia Patrocínio | 
 | 28/08/2020 |  1.5   |  Criação do documento e adição dos Rich Pictures. | Micaella Gouveia | 
 | 29/08/2020 |  1.6   |  Adição dos nomes dos Rich Pictures. | Micaella Gouveia, Gabriel Davi, Sofia Patrocínio | 
+| 11/09/2020 |  1.7   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+
 ## Realização
 
 Para o projeto, decidimos que cada membro faria inicialmente o seu Rich Picture, com nível de abstração livre, afim de ser discutido na reunião semanal da Sprint 1.
@@ -31,18 +33,18 @@ Para o projeto, decidimos que cada membro faria inicialmente o seu Rich Picture,
 * Autenticação
 ![Gabriel Davi](../assets/richPictures/RP2_GabrielDavi.png)
 
-* Cadastro de Estoque
+* Cadastro de [Estoque](Modeling/objeto?id=Estoque)
 ![Gabriel Davi](../assets/richPictures/RP3_GabrielDavi.png)
 
 ### Micaella Gouveia
 
-* Hierarquia de [Usuários](Modeling/objeto?id=usuário) 
+* [Hierarquia](Modeling/objeto?id=Papéis-dos-colaboradores)   de [Usuários](Modeling/objeto?id=usuário) 
 ![Micaella](../assets/richPictures/RP_Hierarquia_Micaella.png)
 
 ### Pedro Igor
 
 
-* Hierarquia de [Usuários](Modeling/objeto?id=usuário) 
+* [Hierarquia](Modeling/objeto?id=Papéis-dos-colaboradores)   de [Usuários](Modeling/objeto?id=usuário) 
 ![Pedro Igor](../assets/richPictures/RP_Hierarquia_PedroIgor.png)
 
 ### Sofia Patrocínio

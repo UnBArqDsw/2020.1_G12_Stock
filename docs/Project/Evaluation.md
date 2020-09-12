@@ -14,6 +14,7 @@ Para a estimativa do custo, será levado em consideração apenas o ciclo de pro
 | 06/09/2020 |  1.2   |                   Realização dos cálculos de esforço, tempo e custo                    |                                Gabriel Davi                                 |
 | 09/09/2020 |  1.3   |               Correção da rota de hyperlink para página de Design Sprint               |                              Sofia Patrocínio                               |
 | 11/09/2020 |  1.4   | Adição de informações adicionais sobre as referências usadas para criação do documento |                                Gabriel Davi                                 |
+| 11/09/2020 |  1.5   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 
 ## MODELO DE CUSTO CONSTRUTIVO (CONSTRUCTIVE COST MODEL - COCOMO)
 
@@ -454,8 +455,8 @@ Total: 950 linhas
   - Listagem de [produtos](Modeling/objeto?id=Produto) - 150 linhas
   - Cadastro de estoque - 200 linhas
   - Adição de [produto](Modeling/objeto?id=Produto) no estoque - 100 linhas
-  - Remoção de [produto](Modeling/objeto?id=Produto) no estoque - 100 linhas
-  - Atualizar estoque - 120 linhas
+  - [Remoção de produto]((Modeling/verbo?id=Baixa-em-Produto)) no estoque - 100 linhas
+  - Atualizar [estoque](Modeling/objeto?id=Estoque) - 120 linhas
 
 - Crud de [usuário](Modeling/objeto?id=usuário) 
 
@@ -476,9 +477,9 @@ Total: 1820 linhas
 - Tela de perfil do [usuário](Modeling/objeto?id=usuário) - 200 linhas
 - Tela inical da aplicação ([Dashboard](Modeling/objeto?id=Dashboard)) - 400 linhas
 - Tela de lista de [estoque](Modeling/objeto?id=Estoque) - 300 linhas (socket e responsividade)
-- Tela de cadastro de [estoque](Modeling/objeto?id=Estoque) - 150 linhas
+- Tela de [cadastro de estoque](Modeling/verbo?id=Cadastrar-Produto) - 150 linhas
 - Tela de atualização dos [produtos](Modeling/objeto?id=Produto) no [estoque](Modeling/objeto?id=Estoque) - 200 linhas
-- Tela de admnistração (Listagem de [usuário](Modeling/objeto?id=usuário), alterar um [usuário](Modeling/objeto?id=usuário), cadastrar um funcionario) - 250 linhas
+- Tela de admnistração (Listagem de [usuário](Modeling/objeto?id=usuário), alterar um [usuário](Modeling/objeto?id=usuário), cadastrar um funcionário) - 250 linhas
 
 Com isso, o total de linhas estimados para a aplicação foi de 2770 linhas de código. Como é possível uma falha na estimativa, os cálculos irão considerar um intervalo entre 2270 e 2770 linhas de código.
 
