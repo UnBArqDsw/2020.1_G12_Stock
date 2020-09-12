@@ -1,18 +1,20 @@
 # Plano de Análise de Riscos
-**Este artefato foi produzido durante o dia 3 da Design Sprint, para saber mais sobre a metodologia e como ela foi feita, clique aqui: *[Design Sprint](DesignSprint/DesignSprint.md)***
+
+**Este artefato foi produzido durante o dia 3 da Design Sprint, para saber mais sobre a metodologia e como ela foi feita, clique aqui: _[Design Sprint](DesignSprint/DesignSprint.md)_**
 
 ## Histórico de Revisão
-| Data | Versão | Descrição | Autor(es) |
-| :--: | :----: | :-------: | :-------: |
-| 03/09/2020| 1.0|Criação do documento e elicitação dos riscos, probabilidades, impactos e ações| Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio
-| 03/09/2020| 1.1| Adição da estrutura analítica de riscos| Sofia Patrocínio|
-| 03/09/2020| 1.2 | Adição das tabelas por tópicos, criação da tabela de análise | Micaella Gouveia |
-| 04/09/2020| 1.3 | Adição de hyperlink para página de design sprint | Micaella Gouveia |
-| 09/09/2020 |  1.4   | Correção da rota de hyperlink para página de Design Sprint | Sofia Patrocínio |
+
+|    Data    | Versão |                                   Descrição                                    |                                  Autor(es)                                  |
+| :--------: | :----: | :----------------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
+| 03/09/2020 |  1.0   | Criação do documento e elicitação dos riscos, probabilidades, impactos e ações | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 03/09/2020 |  1.1   |                    Adição da estrutura analítica de riscos                     |                              Sofia Patrocínio                               |
+| 03/09/2020 |  1.2   |          Adição das tabelas por tópicos, criação da tabela de análise          |                              Micaella Gouveia                               |
+| 04/09/2020 |  1.3   |                Adição de hyperlink para página de design sprint                |                              Micaella Gouveia                               |
+| 09/09/2020 |  1.4   |           Correção da rota de hyperlink para página de Design Sprint           |                              Sofia Patrocínio                               |
 
 ## Introdução
 
-O objetivo deste documento é explicitar como aconteceu o plano de análise de riscos. O gerenciamento de riscos está incluso no processo de gerenciamento de projeto que inclui, além dos riscos, pessoas, custos, escopo, entre outros. O documento define como serão identificados, quantificados e qualificados, mantidos e controlados todos os riscos previstos.
+O objetivo deste documento é explicitar como aconteceu o plano de análise de riscos. O gerenciamento de riscos está incluso no processo de gerenciamento de projeto que inclui, além dos riscos, pessoas, custos, escopo, entre outros. O documento define como serão identificados, quantificados e qualificados, mantidos e controlados todos os riscos previstos._Para produção deste artefato, foi usado o documento do grupo Gaia como base cujo a wiki se encontra nas referências desse documento._
 
 ## Estrutura Análitica de Riscos
 
@@ -20,75 +22,79 @@ O objetivo deste documento é explicitar como aconteceu o plano de análise de r
 
 ### Descrição dos Itens da Estrutura analítica de Risco
 
-
 #### Gerência de projeto
+
 - **Planejamento**: São riscos relacionados a erros de planejamento, como tarefas grandes em períodos curtos.
 - **Estimativa**: São erros que dizem respeito a erros de estimativa, como por exemplo erros de pontuação de histórias de [usuário](../Modeling/objeto?id=usuário).
 - **Controle**: São riscos referentes à falta de ação sobre riscos identificados.
 
 #### Organizacional
+
 - **Recursos Humanos**: Corresponde aos riscos relacionados aos recursos humanos, bem como o comprometimento da equipe de desenvolvimento e falta de comunicação entre as partes envolvidas.
 - **Priorização**: São riscos relacionados aos erros de priorização, gerando atrasos nas entregas, por existir dependências entre as tarefas.
 
 #### Técnico
+
 - **Requisitos**: Riscos relacionados aos requisitos levantados e ao escopo definido.
 - **Tecnologia**: É relativo a riscos relacionados às tecnologias e ferramentas utilizadas no projeto.
 - **Infraestrutura**: Um dos pontos mais críticos do gerenciamento de riscos em projetos de software, pois geralmente nos esquecemos de providenciar com antecedência a infraestrutura onde o software será executado. Envolve toda a questão de arquitetura, definição de tecnologia.
 
 #### Gerência de projeto
+
 - **Planejamento**: São riscos relacionados a erros de planejamento, como tarefas grandes em períodos curtos.
 - **Estimativa**: São erros que dizem respeito a erros de estimativa, como por exemplo erros de pontuação de histórias de [usuário](../Modeling/objeto?id=usuário).
 - **Controle**: São riscos referentes à falta de ação sobre riscos identificados.
 
 #### Qualidade
+
 - **Funcionalidade**: Contempla tudo relacionado à funcionalidade do software.
 - **Usabilidade**: A usabilidade engloba todos os aspectos referentes à interface com o [usuário](../Modeling/objeto?id=usuário), facilidade e acessibilidade.
 - **Eficiência**: Garantir que o [usuário](../Modeling/objeto?id=usuário) consiga ter as respostas da aplicação de forma rápida e coesa.
 - **Portabilidade**: Se refere a que plataformas/sistemas operacionais o software irá rodar e como será feita a compatibilidade.
 
-## Probabilidade 
-| Probabilidade | % de certeza | Peso |
-| - | - | - |
-| Nula | 0% | 0 |
-| Muito baixa | 0 a 20%| 1 |
-| Baixa | 20 a 40% | 2 |
-| Média | 40 a 60% | 3 |
-| Alta | 60 a 80% | 4 |
-| Muito alta | 80 a 100% | 5 |   
+## Probabilidade
 
+| Probabilidade | % de certeza | Peso |
+| ------------- | ------------ | ---- |
+| Nula          | 0%           | 0    |
+| Muito baixa   | 0 a 20%      | 1    |
+| Baixa         | 20 a 40%     | 2    |
+| Média         | 40 a 60%     | 3    |
+| Alta          | 60 a 80%     | 4    |
+| Muito alta    | 80 a 100%    | 5    |
 
 ## Impacto
-| Impacto | Descrição | Peso |
-| :-----: | :-------: | :--: |
-| Muito Baixo |	Quase imperceptível para o projeto | 1 |
-| Baixo	| Emite pouco impacto sobre o projeto |	2 |
-| Médio | Existe um impacto considerável, mas é recuperável |	3 |
-| Alto | Existe grande impacto no projeto | 4 |
-| Muito Alto | Impede o prosseguimento do projeto | 5 |
+
+|   Impacto   |                     Descrição                     | Peso |
+| :---------: | :-----------------------------------------------: | :--: |
+| Muito Baixo |        Quase imperceptível para o projeto         |  1   |
+|    Baixo    |        Emite pouco impacto sobre o projeto        |  2   |
+|    Médio    | Existe um impacto considerável, mas é recuperável |  3   |
+|    Alto     |         Existe grande impacto no projeto          |  4   |
+| Muito Alto  |        Impede o prosseguimento do projeto         |  5   |
 
 ### O grau de risco é definido pela multiplicação entre probabilidade e impacto. Conforme tabela abaixo:
 
 ![ear](https://i.imgur.com/UgqOw1k.png)
 
-
 Sendo que:
 
 1. Risco >= 15: **Elevado**
 2. 5 < Risco < 15: **Médio**
-3. Risco =< 5: **Baixo** 
-
+3. Risco =< 5: **Baixo**
 
 ## Riscos organizacionais
-|ID | Risco | Probabilidade | Impacto | Grau de Risco |
-| - | -  -  |       -       |  -      |    -          |    
-| 1 | Falha de comunicação        | 2 | 5 | **10**|
-| 2 | Descomprometimento da Equipe| 1 | 4 | **4** |
-| 3 | Erro de Priorização         | 3 | 4 | **12**| 
-| 4 | Desistência de Membros      | 2 | 4 | **8** |
-| 5 | Desavenças entre os membros | 1 | 2 | **2** | 
-| 6 | Tensão de fim de semestre   | 4 | 3 | **12**| 
-| 7 | Falta de motivação          | 2 | 3 | **6** | 
-| 8 | Atraso nas entregas         | 3 | 3 | **9** |
+
+| ID  | Risco                        | Probabilidade | Impacto | Grau de Risco |
+| --- | ---------------------------- | ------------- | ------- | ------------- |
+| 1   | Falha de comunicação         | 2             | 5       | **10**        |
+| 2   | Descomprometimento da Equipe | 1             | 4       | **4**         |
+| 3   | Erro de Priorização          | 3             | 4       | **12**        |
+| 4   | Desistência de Membros       | 2             | 4       | **8**         |
+| 5   | Desavenças entre os membros  | 1             | 2       | **2**         |
+| 6   | Tensão de fim de semestre    | 4             | 3       | **12**        |
+| 7   | Falta de motivação           | 2             | 3       | **6**         |
+| 8   | Atraso nas entregas          | 3             | 3       | **9**         |
 
 ## Riscos técnicos
 |ID | Risco | Probabilidade | Impacto | Grau de Risco |
@@ -102,6 +108,16 @@ Sendo que:
 |15 | Dificuldade em hospedar a aplicação| 3 | 4 | **12** |
 |16 | Documentação que induz ao erro     | 2 | 4 | **8**  | 
 
+| ID  | Risco                               | Probabilidade | Impacto | Grau de Risco |
+| --- | ----------------------------------- | ------------- | ------- | ------------- |
+| 9   | Dificuldade com as tecnologias      | 3             | 4       | **12**        |
+| 10  | Dificuldade em criar backlog        | 2             | 4       | **8**         |
+| 11  | Má escolha das tecnologias          | 2             | 4       | **8**         |
+| 12  | Dificuldade de ambientação          | 3             | 3       | **9**         |
+| 13  | Arquitetura mal definida            | 3             | 4       | **12**        |
+| 14  | Dificuldade de deploy da aplicação  | 2             | 5       | **10**        |
+| 15  | Dificuldade em hospedar a aplicação | 3             | 4       | **12**        |
+| 16  | Documentação que induz ao erro      | 2             | 4       | **8**         |
 
 ## Riscos de Qualidade
 |ID | Risco | Probabilidade | Impacto | Grau de Risco |
@@ -115,28 +131,40 @@ Sendo que:
 |23 | Não cumprimento dos requisitos elicitados     | 3 | 4 | **12** |  
 |24 | Falta de validação com o [stakeholder](../Modeling/objeto?id=stakeholder)          | 3 | 4 | **12** |
 
+| ID  | Risco                                         | Probabilidade | Impacto | Grau de Risco |
+| --- | --------------------------------------------- | ------------- | ------- | ------------- |
+| 17  | Ausência de testes                            | 3             | 3       | **9**         |
+| 18  | Falhas e bugs                                 | 4             | 4       | **16**        |
+| 19  | Má implementação de UX                        | 3             | 3       | **9**         |
+| 20  | Má implementação de UI                        | 2             | 3       | **6**         |
+| 21  | Má prática do processo de desenvolvimento     | 4             | 3       | **12**        |
+| 22  | Aplicação não atender expectativas do usuário | 3             | 4       | **12**        |
+| 23  | Não cumprimento dos requisitos elicitados     | 3             | 4       | **12**        |
+| 24  | Falta de validação com o stakeholder          | 3             | 4       | **12**        |
 
 ## Riscos de Gerência de projeto
-|ID | Risco | Probabilidade | Impacto | Grau de Risco |
-| - | -  -  |       -       |  -      |    -          | 
-|25 | Escopo mal definido                       | 2 | 4 | **8** | 
-|26 | Mudança Arquitetural                      | 2 | 4 | **8** | 
-|27 | Má gestão do tempo                        | 3 | 3 | **9** | 
-|28 | Cronograma inviável                       | 2 | 3 | **6** | 
-|29 | Má pontuação das US                       | 1 | 2 | **2** | 
-|30 | Problema no autogerenciamento da equipe   | 2 | 3 | **6** | 
-|31 | Sobrecarga de tarefas                     | 4 | 3 | **12** | 
-|32 | Mudanças de tecnologias                   | 2 | 4 | **8** | 
-|33 | Horários divergentes dos integrantes      | 3 | 3 | **9** |
+
+| ID  | Risco                                   | Probabilidade | Impacto | Grau de Risco |
+| --- | --------------------------------------- | ------------- | ------- | ------------- |
+| 25  | Escopo mal definido                     | 2             | 4       | **8**         |
+| 26  | Mudança Arquitetural                    | 2             | 4       | **8**         |
+| 27  | Má gestão do tempo                      | 3             | 3       | **9**         |
+| 28  | Cronograma inviável                     | 2             | 3       | **6**         |
+| 29  | Má pontuação das US                     | 1             | 2       | **2**         |
+| 30  | Problema no autogerenciamento da equipe | 2             | 3       | **6**         |
+| 31  | Sobrecarga de tarefas                   | 4             | 3       | **12**        |
+| 32  | Mudanças de tecnologias                 | 2             | 4       | **8**         |
+| 33  | Horários divergentes dos integrantes    | 3             | 3       | **9**         |
 
 ## Riscos Externos
-|ID | Risco | Probabilidade | Impacto | Grau de Risco |
-| - | -  -  |       -       |  -      |    -          |
-|34 | Suspensão das aulas                                                 | 3 | 5 | **15** | 
-|35 | Baixa adesão da aplicação                                           | 3 | 4 | **12** | 
-|36 | Imprevistos com infraestrutura(internet, energia, computador)       | 4 | 4 | **16** | 
-|37 | Afastamento de integrante (enfermidade, luto, assistência familiar) | 4 | 4 | **16** |
-|38 | Atualizações drásticas das tecnologias escolhidas                   | 1 | 2 | **2** |
+
+| ID  | Risco                                                               | Probabilidade | Impacto | Grau de Risco |
+| --- | ------------------------------------------------------------------- | ------------- | ------- | ------------- |
+| 34  | Suspensão das aulas                                                 | 3             | 5       | **15**        |
+| 35  | Baixa adesão da aplicação                                           | 3             | 4       | **12**        |
+| 36  | Imprevistos com infraestrutura(internet, energia, computador)       | 4             | 4       | **16**        |
+| 37  | Afastamento de integrante (enfermidade, luto, assistência familiar) | 4             | 4       | **16**        |
+| 38  | Atualizações drásticas das tecnologias escolhidas                   | 1             | 2       | **2**         |
 
 <br/>
 
@@ -424,12 +452,12 @@ Sendo que:
 
 ## Análise
 
-* Com a definição de todos os riscos, percebemos que esse semestre é muito atípico, e questões que não temos controle podem acontecer, gerando a interrupção do projeto. 
-* Riscos gerenciais e de infraestrutura são muito relevantes, devido à falta de experiência do time.
-* Riscos de entrosamento e motivação da equipe aparenta ser o menor dos problemas, pois todos se vêem motivados e capacitados de fazer a matéria da melhor forma possível.
-
+- Com a definição de todos os riscos, percebemos que esse semestre é muito atípico, e questões que não temos controle podem acontecer, gerando a interrupção do projeto.
+- Riscos gerenciais e de infraestrutura são muito relevantes, devido à falta de experiência do time.
+- Riscos de entrosamento e motivação da equipe aparenta ser o menor dos problemas, pois todos se vêem motivados e capacitados de fazer a matéria da melhor forma possível.
 
 ## Referências
-* Wiki Gaia <https://fga-eps-mds.github.io/2019.1-Gaia/#/projeto/planoRisco> último acesso em 03/09/2020.
-* Wiki A Monitoria <https://2019-2-arquitetura-desenho.github.io/wiki/dinamica_seminario_II/controle_riscos> último acesso em 03/09/2020.
-* Vídeo <https://youtu.be/HDMS7ftQJb0> último acesso em 01/09/2020. (Disponibilizado pela professora Milene).
+
+- Wiki Gaia <https://fga-eps-mds.github.io/2019.1-Gaia/#/projeto/planoRisco> último acesso em 03/09/2020.
+- Wiki A Monitoria <https://2019-2-arquitetura-desenho.github.io/wiki/dinamica_seminario_II/controle_riscos> último acesso em 03/09/2020.
+- Vídeo <https://youtu.be/HDMS7ftQJb0> último acesso em 01/09/2020. (Disponibilizado pela professora Milene).

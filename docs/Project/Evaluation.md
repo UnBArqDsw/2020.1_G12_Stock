@@ -1,18 +1,19 @@
 # Estimativa de custos e tempo
 
-**Este artefato foi produzido durante o dia 5 da Design Sprint, para saber mais sobre a metodologia e como ela foi feita, clique aqui: *[Design Sprint](DesignSprint/DesignSprint.md)***
+**Este artefato foi produzido durante o dia 5 da Design Sprint, para saber mais sobre a metodologia e como ela foi feita, clique aqui: _[Design Sprint](DesignSprint/DesignSprint.md)_**
 
 Estimativa de custos tem como objetivo mensurar analiticamente o escopo de um projeto.
-Para a estimativa do custo, será levado em consideração apenas o ciclo de produção do software e não o ciclo de vida por completo. Também, o modelo que será utilizado é o de custo construtivo, também conhecido como **COCOMO**.
+Para a estimativa do custo, será levado em consideração apenas o ciclo de produção do software e não o ciclo de vida por completo. Também, o modelo que será utilizado é o de custo construtivo, também conhecido como **COCOMO**. _Para produção deste artefato, foi usado o documento do grupo A Monitoria como base cujo a wiki se encontra nas referências desse documento._
 
 ## Histórico de Revisão
 
-|    Data    | Versão |                         Descrição                         |                                  Autor(es)                                  |
-| :--------: | :----: | :-------------------------------------------------------: | :-------------------------------------------------------------------------: |
-| 05/09/2020 |  1.0   | Estimativa em equipe para o número de linhas da aplicação | Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio, Gabriel Alves |
-| 05/09/2020 |  1.1   |           Abertura do documento de estimativas            |                                Gabriel Davi                                 |
-| 06/09/2020 |  1.2   |     Realização dos cálculos de esforço, tempo e custo     |                                Gabriel Davi                                 |
-| 09/09/2020 |  1.3   | Correção da rota de hyperlink para página de Design Sprint | Sofia Patrocínio |
+|    Data    | Versão |                                       Descrição                                        |                                  Autor(es)                                  |
+| :--------: | :----: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
+| 05/09/2020 |  1.0   |               Estimativa em equipe para o número de linhas da aplicação                | Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio, Gabriel Alves |
+| 05/09/2020 |  1.1   |                          Abertura do documento de estimativas                          |                                Gabriel Davi                                 |
+| 06/09/2020 |  1.2   |                   Realização dos cálculos de esforço, tempo e custo                    |                                Gabriel Davi                                 |
+| 09/09/2020 |  1.3   |               Correção da rota de hyperlink para página de Design Sprint               |                              Sofia Patrocínio                               |
+| 11/09/2020 |  1.4   | Adição de informações adicionais sobre as referências usadas para criação do documento |                                Gabriel Davi                                 |
 
 ## MODELO DE CUSTO CONSTRUTIVO (CONSTRUCTIVE COST MODEL - COCOMO)
 
@@ -442,7 +443,7 @@ Com isso, o resultado do peso que será utilizado equivale a multiplicação dos
 
 ## Estimativa de Quantidade de Linhas de Códigos
 
-Foi feito uma reunião com a equipe de desenvolvimento para estimar a quantidade de linhas de código que a aplicação pode tomar separado por telas e funcionalidades principais.
+Foi feito uma reunião com a equipe de desenvolvimento para estimar a quantidade de linhas de código que a aplicação pode tomar separado por telas e funcionalidades principais. Cada participante fez seu próprio levantamento para cada funcionalidade e por fim foi discutido os valores finais para um dos requisitos iniciais.
 
 ### Backend
 
