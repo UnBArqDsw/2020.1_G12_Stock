@@ -102,6 +102,6 @@ O diagrama Causa e Efeito, conhecido também como diagrama Ishikawa ou Espinha d
 
 ## Referências
 
-- MARTINS, Rosemary. Diagrama de Ishikawa. Disponível em: https://blogdaqualidade.com.br/diagrama-de-ishikawa/. Acesso em: 06 set. 2020.
+- MARTINS, Rosemary. Diagrama de Ishikawa. Disponível em: https://blogdaqualidade.com.br/diagrama-de-ishikawa/. Último acesso em 06/09/2020.
 
-- ANDRADE, Luiza. DIAGRAMA DE ISHIKAWA: O QUE É E COMO FAZER. Disponível em: https://www.siteware.com.br/metodologias/diagrama-de-ishikawa/. Acesso em: 06 set. 2020.
+- ANDRADE, Luiza. DIAGRAMA DE ISHIKAWA: O QUE É E COMO FAZER. Disponível em: https://www.siteware.com.br/metodologias/diagrama-de-ishikawa/. último acesso em 06/09/2020.

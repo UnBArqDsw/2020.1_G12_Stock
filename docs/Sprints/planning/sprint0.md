@@ -5,18 +5,18 @@
 ## Issues
 |Número | Issue | Pontuação | Participantes|
 | - | - | - | - |
-| [**#1**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/1) | Rich Picture   | Sem  | Todos  |
-| [**#2**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/2) | Mapa Mental | Sem | Todos |
-| [**#3**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/3) | 5W2H | Sem | Todos |
-| [**#4**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/4) | Identidade Visual | Sem | Sofia |
-| [**#5**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/5) | Brainstorming | Sem | Pedro |
-| [**#6**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/6) | Questionário | Sem | Pedro e Gabriel Alves |
-| [**#7**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/7) | Causa-Efeito, Plano de Análise de Risco/Custo/Tempo | Sem | Micaella |
-| [**#8**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/8) | Documento de Visão | Sem | Micaella e Sofia |
-| [**#9**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/9) | Entrevista | Sem | Gabriel Davi |
-| [**#10**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/10) | StoryBoards | Sem | Gabriel Davi|
-| [**#11**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/11) | Argumentação | Sem | Pedro e Gabriel Alves |
-| [**#12**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/12) | Docsify e ZenHub | Sem | Gabriel Davi e Micaella |
+| [**#1**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/1) | [Rich Picture](preTraceability/RichPicture.md)   | Sem  | Todos  |
+| [**#2**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/2) | [Mapa Mental](preTraceability/MapaMental.md) | Sem | Todos |
+| [**#3**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/3) | [5W2H](preTraceability/5W2H.md) | Sem | Todos |
+| [**#4**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/4) | [Identidade Visual](Product/ManualId.md) | Sem | Sofia |
+| [**#5**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/5) | [Brainstorming](Elicitation/Brainstorming.md) | Sem | Pedro |
+| [**#6**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/6) | [Questionário](Elicitation/Questionario.md) | Sem | Pedro e Gabriel Alves |
+| [**#7**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/7) | [Causa-Efeito](preTraceability/causaEfeito.md), [Plano de Análise de Risco/Custo/Tempo](preTraceability/PlanAnaliseRiscos.md)  | Sem | Micaella |
+| [**#8**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/8) | [Documento de Visão](Product/DocVisão.md) | Sem | Micaella e Sofia |
+| [**#9**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/9) | [Entrevista](Elicitation/Entrevista.md) | Sem | Gabriel Davi |
+| [**#10**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/10) | [StoryBoards](Elicitation/StoryBoard) | Sem | Gabriel Davi|
+| [**#11**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/11) | [Argumentação](preTraceability/Argumentacao.md) | Sem | Pedro e Gabriel Alves |
+| [**#12**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/12) | Docsify e [ZenHub](https://github.com/UnBArqDsw/2020.1_G12_Stock/tree/master#workspaces/stock-5f46b149cedde3001802fff1/board?repos=289488039) | Sem | Gabriel Davi e Micaella |
 
 ## Pontuação : Sem pontuação
 
@@ -35,21 +35,21 @@ Este quadro divide a pontuação das issues com a quantidade de participantes, p
 
 | Tarefa | Resposável
 | - | - |
-| Rich picture | Todos
-| Mapa Mental | Todos
-| 5W2H (documentar) | Gabriel Alves
-| Identidade visual | Sofia
-| Brainstorming (documentar) | Pedro Igor
-| Causa-Efeito (estudo) | Micaella 
-| Plano de Análise de Riscos/Custos/Tempo (estudo) | Micaella 
-| Questionário | Pedro Igor e Gabriel
-| Documento de Visão | Sofia
-| Entrevista | Gabriel Davi
-| Stoyboards | Gabriel Davi
-| Argumentação | Pedro Igor e Gabriel Alves
+| [Rich Picture](preTraceability/RichPicture.md) | Todos
+| [Mapa Mental](preTraceability/MapaMental.md) | Todos
+| [5W2H](preTraceability/5W2H.md) (documentar) | Gabriel Alves
+| [Identidade Visual](Product/ManualId.md) | Sofia
+| [Brainstorming](Elicitation/Brainstorming.md) (documentar) | Pedro Igor
+| [Causa-Efeito](preTraceability/causaEfeito.md) (estudo) | Micaella 
+| [Plano de Análise de Risco/Custo/Tempo](preTraceability/PlanAnaliseRiscos.md) (estudo) | Micaella 
+| [Questionário](Elicitation/Questionario.md) | Pedro Igor e Gabriel
+| [Documento de Visão](Product/DocVisão.md) | Sofia
+| [Entrevista](Elicitation/Entrevista.md) | Gabriel Davi
+| [Storyboards](Elicitation/StoryBoard) | Gabriel Davi
+| [Argumentação](preTraceability/Argumentacao.md) | Pedro Igor e Gabriel Alves
 
-* Como a ideia geral ja havia sido decidida, o aluno Gabriel Davi apresentou dois rich pictures que tinha feito e mostrou durante a reunião.
-* Durante a reunião, o time decidiu escolher o nome da aplicação, para já ser feito o manual de identidade visual. Definição do Nome: Stock.
+* Como a ideia geral ja havia sido decidida, o aluno Gabriel Davi apresentou dois [Rich Pictures](preTraceability/RichPicture.md) que tinha feito e mostrou durante a reunião.
+* Durante a reunião, o time decidiu escolher o nome da aplicação, para já ser feito o [Manual de Identidade Visual](Product/ManualId.md). Definição do Nome: Stock.
 * Foi realizado o Brainstormig inicial do projeto.
 
 ## Gravações Disponíveis

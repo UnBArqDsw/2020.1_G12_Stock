@@ -5,9 +5,9 @@
 
 |Número | Issue | Pontuação | Participantes|
 | - | - | - | - |
-| [**#5**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/5) | Brainstorming | 3 | Pedro Igor |
-| [**#7**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/7) | Plano de Análise de Risco/Custo/Tempo | 8 | Todos |
-| [**#8**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/8) | Documento de Visão | 5 | Todos |
+| [**#5**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/5) | [Brainstorming](Elicitation/Brainstorming.md) | 3 | Pedro Igor |
+| [**#7**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/7) | [Plano de Análise de Risco/Custo/Tempo](preTraceability/PlanAnaliseRiscos.md) | 8 | Todos |
+| [**#8**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/8) | [Documento de Visão](Product/DocVisão.md) | 5 | Todos |
 
 
 ## Pontuação: 16
