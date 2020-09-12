@@ -4,7 +4,7 @@
 
 |    Data    | Versão |         Descrição         |           Autor(es)            |
 | :--------: | :----: | :-----------------------: | :----------------------------: |
-|  08/09/2020 |  0.1   |  Sugestão de Léxicos  | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 08/09/2020 |  0.1   |  Sugestão de Léxicos  | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 | 09/09/2020 |  0.2   |  Estruturação dos léxicos  | Gabriel Alves | 
 | 10/09/2020 |  0.3   |  Revisão e finalização dos léxicos | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 | 11/09/2020 |  1.0   |  Criação do documento | Gabriel Alves |
@@ -14,49 +14,49 @@
 ### Filtrar Produtos
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|-Ação realizada pelo usuário. <br>- Vendedor verifica disponibilidade do produto.<br>- colaborador, filtra produtos do estoque.|- Se o filtro estiver ligado, alguns produtos não ficarão visíveis. <br>- Filtrar produtos, economiza tempo do usuário para encontrar o produto. |-|
+| Ação realizada pelo usuário. <br><br>Colaborador filtra produtos do estoque.|Se o filtro estiver ligado alguns produtos não ficarão visíveis. <br> Filtrar produtos economiza tempo do usuário para encontrar o produto. |-|
 
 ### Baixa em Produto
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|-realizar a venda de um produto <br>- realizar distribuição de um produto|- É preciso dar baixa nos itens que foram para outro setor.|- vender produto, Dar saída de produto|
+|Realizar a venda de um produto. <br><br>Realizar distribuição de um produto. | É preciso dar baixa nos itens que foram vendidos ou foram para outro setor.| Vender produto, dar saída de produto.|
 
 ### Importação
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- aquisição de um bem de um lugar externo para um lugar interno.|- Precisa importar a planilha para o computador. <br>- Precisa importar o produto do fornecedor para o estoque.|- entrada, aquisição|
+|Aquisição de um bem de um lugar externo para um lugar interno.| Precisa importar a planilha para o computador. <br><br>Precisa importar o produto do fornecedor para o estoque.|Entrada, aquisição.|
 
 ### Exportação
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- saída de um bem de um lugar interno para um lugar externo.|- Precisa exportar a planilha do computador. computador. <br>- Precisa exportar o produto da loja.|saída|
+|Saída de um bem de um lugar interno para um lugar externo. |Precisa exportar a planilha do computador. <br><br>Precisa exportar o produto da loja.|Saída.|
 
 ### Cadastrar Produto
 |   Noção   |   Impacto   |   Sinônimos    |
-|  :-----:  |  :-------:  |  :---------:   |
-|- usuário, cadastra produto|- mais produtos para  controlar o estoque|-|
+|  :-----:  |  :--------------:  |  :---------:   |
+| Usuário cadastra produto. |Ter um novo produto em estoque. | Registrar produto.|
 
 ### Alertar
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- sinalizar algo importante|- Se o estoque estiver cheio, vazio ou baixo o usuário será avisado|- sinal|
+|Sinalizar algo importante. | Se o estoque estiver vazio ou baixo o usuário será avisado.<br><br> Se um produto estiver prestes a vencer, o usuário será avisado.|Sinalizar, avisar.|
 
-### Armmazenar
+### Armazenar
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- manter ou conservar em estoque <br>- realizada pelo usuário|- o usuário, poderá encher o estoque|- estoque|
+| Manter ou conservar em estoque. | O usuário poderá encher o estoque. | Estocar. |
 
 ### Dar Entrada
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- realizada pelo usuário <br>- usuário, dá entrada do produto no estoque, quando o fornecedor lhe entregar|- Se o estoque estiver cheio, o usuário irá alertar o admin que não cabe mais produtos|-|
+| Realizada pelo usuário. <br><br> Usuário dá entrada do produto no estoque quando o fornecedor realizar a entrega. | Se o estoque estiver cheio, o usuário irá alertar o Admin ou Owner que não cabe mais produtos.| Comprar produtos. |
 
 ### Consultar Produtos
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- realizada pelo usuário <br>- usuário consulta produtos disponíveis no estoque|- mostrará informações sobre o produto|-|
+| Realizada pelo usuário. <br><br> Usuário consulta produtos disponíveis no estoque. | Mostrará informações sobre o produto. | Conferir produtos.|
 
 ### Controle de Estoque
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- realizada pelo admin|- o admin controlará melhor o estoque com os auxĩlios do dashboard|- gestão de estoque|
+| Realizada pelo Admin. | O Admin controlará melhor o estoque com o auxílio do Dashboard. | Gestão de estoque. |
