@@ -120,9 +120,9 @@ O Stock será distribuído sob a licença MIT para softwares livres, que dá lib
 
 ## 5. Recursos do Produto
 ### 5.1 Criar, atualizar, listar por categorias e remover estoque.
-### 5.2 Geração, Importação e Exportação de planilhas de consulta de estoque.
+### 5.2 Geração, [Importação](Modeling/verbo?id=Importação) e [Exportação](Modeling/verbo?id=Exportação) de planilhas de consulta de estoque.
 ### 5.3 Geração de gráficos de estoque e vendas.
-### 5.4 Notificação de prazo de validade dos produtos
+### 5.4 Notificação de [prazo de validade]((Modeling/estado?id=Prazo-de-Validade)) dos produtos
 ### 5.5 Personalização de acesso baseado em papéis do negócio
 
 ## 6. Restrições do Produto

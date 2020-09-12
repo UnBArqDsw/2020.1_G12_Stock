@@ -310,7 +310,7 @@ Sendo que:
         <tr class="risco médio" style="background:#FFB366">
             <th>10</th>
             <td>14</td>
-            <td>Dificuldade de deploy da aplicação</td>
+            <td>Dificuldade de [deploy](Modeling/estado?id=Deploy) da aplicação</td>
             <td>Mitigar</td>
             <td>Estudar sobre as tecnologias utilizadas</td>
         </tr>

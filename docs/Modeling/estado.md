@@ -12,7 +12,7 @@
 ### Deploy
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- Deploy é um estado que descreve quando uma aplicação está saindo da fase de desenvolvimento para produção|- A aplicação está em deploy <br> - A aplicação sofreu deploy|-|
+| Deploy é um estado que descreve quando uma aplicação está saindo da fase de desenvolvimento para produção. | A aplicação está em deploy <br><br> A aplicação sofreu deploy. | - |
 
 ### Prazo de Validade
 |   Noção   |   Impacto   |   Sinônimos    |
@@ -24,7 +24,7 @@
 |  :-----:  |  :-------:  |  :---------:   |
 |- O [estoque](../Modeling/objeto?id=Estoque) é dito como [estoque](../Modeling/objeto?id=Estoque) baixo quando há um número relativamente pequeno de [produto](../Modeling/objeto?id=produto) em suas dependências|- O [Vendedor](../Modeling/objeto?id=vendedor) tem que repor o [estoque](../Modeling/objeto?id=Estoque) baixo <br> - A loja está com poucos [produto](../Modeling/objeto?id=produto) no [estoque](../Modeling/objeto?id=Estoque)|- [estoque](../Modeling/objeto?id=Estoque) escasso <br> - [estoque](../Modeling/objeto?id=Estoque) com poucos [produto](../Modeling/objeto?id=produto)|
 
-### Estoque cheio
+### Estoque Cheio
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
 |- Quando a quantidade de [produtos](../Modeling/objeto?id=produto) disponíveis preenche todo o [estoque](../Modeling/objeto?id=Estoque).|- A loja está com muitos [produto](../Modeling/objeto?id=produto) no [estoque](../Modeling/objeto?id=Estoque) <br>- Todos os [produto](../Modeling/objeto?id=produto) chegaram.|- Estoque lotado <br>- Estoque com muitos [produtos](../Modeling/objeto?id=produto)|

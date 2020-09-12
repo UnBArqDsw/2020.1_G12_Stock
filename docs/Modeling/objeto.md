@@ -1,4 +1,4 @@
-# Objeto
+# Objetos
 
 ## Histórico de Revisões
 
@@ -102,7 +102,7 @@
 ### Stakeholder
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-|- Diz respeito às partes interessadas pela solução de software.|- Os stakeholders estão satisfeitos com o resultado do desenvolvimento <br> - Investidores são potenciais stakeholders.|- Parte interessada|
+| Diz respeito às partes interessadas pela solução de software. | Os stakeholders estão satisfeitos com o resultado do desenvolvimento <br><br> Investidores são potenciais stakeholders.| Parte interessada. |
 
 ### Desenvolvedor
 |   Noção   |   Impacto   |   Sinônimos    |

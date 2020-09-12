@@ -90,9 +90,3 @@ A entrevista foi realizada com Ivanete Bezerra de 49 anos, que atualmente possui
 | [#RNF01](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |         Rapidez na consulta         |
 | [#RNF02](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |         Gráficos didáticos          |
 | [#RNF03](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |          Consultas remotas          |
-
-## Gravação
-
-<audio controls>
-  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/interview/entrevistaIvanete.m4a" type="audio/mpeg">
-</audio>

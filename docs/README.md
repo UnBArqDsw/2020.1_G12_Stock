@@ -8,26 +8,26 @@
 
   <div class="members">
     <div class="member">
+      <p>Gabriel Davi</p>
       <img src="./assets/img/members/GabrielDavi.jpg" alt="member name">
-      <p>Gabriel Davi<p>
     </div>
     <div class="member">
+      <p>Gabriel Alves</p>
       <img src="./assets/img/members/Gabriel.jpg" alt="member name">
-      <p>Gabriel Alves<p>
     </div>
     <div class="member">
+      <p>Sofia Patrocínio</p>
       <img src="./assets/img/members/Sofia.jpg" alt="member name">
-      <p>Sofia Patrocínio<p>
     </div>
     </div>
     <div class="member line2">
     <div class="member">
+      <p>Micaella Gouveia</p>
       <img src="./assets/img/members/Micaella.jpg" alt="member name">
-      <p>Micaella Gouveia<p>
     </div>
     <div class="member">
+      <p>Pedro Igor</p>
       <img src="./assets/img/members/Pedro.jpg"alt="member name">
-      <p>Pedro Igor<p>
     </div>
    
   </div>
@@ -43,7 +43,6 @@
   }
   .member img{
     position: relative;
-    height: 200px;
     width: 200px;
     opacity: 1;
     border-style: solid;
@@ -57,6 +56,10 @@
     opacity: 0.4;
     z-index: 1;
   }
+  .member p:hover  + img{
+    opacity: 0.4;
+    z-index: 1;
+  }
   
  .member{
    margin: 20px;
@@ -66,12 +69,14 @@
  
  .member p{
     position: absolute;
-    transform: translate(0, 70px);
+    transform: translate(0, 3.8em);
     z-index: 2;
     color: #fff;
     font-weight: bold;
     font-family: Montserrat;
   }
+
+ 
 
   h2, p {
     font-family: Montserrat !important;

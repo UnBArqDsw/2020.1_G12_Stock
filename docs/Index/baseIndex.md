@@ -22,4 +22,3 @@
     - [Questionário](Elicitation/Questionario.md)
     - [Personas](Elicitation/Personas.md)
     - [Introspecção](Elicitation/Introspeccao.md)
-

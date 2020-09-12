@@ -10,6 +10,7 @@
 | 01/09/2020 |  1.0   |  Levantamento de perguntas relevantes | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 | 06/09/2020 |  1.1   | Adição do relato do mediador | Pedro Igor |
 | 09/09/2020 |  1.2   | Padronização do texto e fotos | Sofia Patrocínio |
+| 11/09/2020 |  1.3   |  Adição das gravações  | Sofia Patrocínio |
 
 ## Relato do Mediador
 
@@ -20,7 +21,11 @@ Na etapa **Esboçar (Sketch)**, que levou 30 minutos, cada um construiu o seu pr
 
 
 ### Documentação produzida: [Questionário](Elicitation/Questionario.md)
+
 ## Gravações
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/P03fadzjcwg?ecver=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="RXWVoIsA" href="https://www.rockpamperscissors.co.uk/a-new-one-on-me/">Emma hybrid</a></div><div><a  id="RXWVoIsA" href="https://www.rockpamperscissors.co.uk/a-new-one-on-me/">https://www.rockpamperscissors.co.uk/a-new-one-on-me/</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
+
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/BixJd4FG_uQ?ecver=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="RXWVoIsA" href="https://www.rockpamperscissors.co.uk/a-new-one-on-me/">Emma hybrid</a></div><div><a  id="RXWVoIsA" href="https://www.rockpamperscissors.co.uk/a-new-one-on-me/">https://www.rockpamperscissors.co.uk/a-new-one-on-me/</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
 
 ## Documentos Individuais Produzidos
 * Gabriel Alves<br>

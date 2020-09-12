@@ -44,7 +44,7 @@ O storyboard é uma sequência de desenhos quadro a quadro com o esboço das div
 
 ![SB5](../assets/img/storyboards/SB5_GabrielDavi.jpg)
 
-### Exportação de planilhas de análise
+### [Exportação](Modeling/verbo?id=Exportação) de planilhas de análise
 
 #### Autora: Micaella Gouveia
 
