@@ -19,7 +19,7 @@
 ### Baixa em Produto
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-| Realizar a venda de um [produto](Modeling/objeto?id=Produto). <br><br>Realizar distribuição de um [produto](Modeling/objeto?id=Produto). | É preciso [dar baixa](Modeling/verbo?id=Baixa-em-Produto) nos itens que foram vendidos ou foram para outro setor.| Vender [produto](Modeling/objeto?id=Produto), dar saída de [produto](Modeling/objeto?id=Produto).|
+| Realizar a venda de um [produto](Modeling/objeto?id=Produto). <br><br>Realizar distribuição de um [produto](Modeling/objeto?id=Produto). | É preciso [dar baixa](Modeling/verbo?id=Baixa-em-Produto) nos itens que foram vendidos ou foram para outro setor.| Vender [produto](Modeling/objeto?id=Produto), dar saída de [produto](Modeling/objeto?id=Produto), remover.|
 
 ### Importação
 |   Noção   |   Impacto   |   Sinônimos    |

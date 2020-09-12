@@ -65,7 +65,7 @@ A entrevista foi realizada com a Raissa de 27 anos, que atualmente possui um emp
 | :-------------------------------------------------------------------------: | :---------------------------------: |
 | [#RF03](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     [Adição de itens](Modeling/verbo?id=Cadastrar-Produto) ao estoque      |
 | [#RF04](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         [Consulta de estoque](Modeling/verbo?id=Consultar-Produto)         |
-| [#RF07](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     Remoção de itens do estoque     |
+| [#RF07](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     [Remoção de itens](Modeling/verbo?id=Baixa-em-Produto) do estoque     |
 | [#RF10](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         Histórico de vendas         |
 | [#RF12](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |       [Filtro](Modeling/verbo?id=Filtrar-Produtos) por nome e preço       |
 | [#RF15](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | Atualização instantânea de [estoque](Modeling/objeto?id=Estoque)  |

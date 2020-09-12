@@ -1,6 +1,6 @@
 # Introspecção
 
-A introspecção é uma técnica muito utilizada na etapa de elicitação de requisitos. Ela tem como objetivo entender as funcionalidades importantes de um sistema. Apesar de muito usada, nem sempre a introspecção traz uma visão próxima da realidade, pois em muitos casos, a pessoa que aplica a introspecção não tem uma visão voltada para a experiência e expectativas do usuário.
+A introspecção é uma técnica muito utilizada na etapa de elicitação de requisitos. Ela tem como objetivo entender as funcionalidades importantes de um sistema. Apesar de muito usada, nem sempre a introspecção traz uma visão próxima da realidade, pois em muitos casos, a pessoa que aplica a introspecção não tem uma visão voltada para a experiência e expectativas do [usuário](Modeling/objeto?id=usuário).
 
 ## Históricos de Revisões
 
@@ -24,7 +24,7 @@ Para visualizar as personas criadas, acesse: [**Personas**](Elicitation/Personas
 |    [#RF04](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     [Consulta de estoque](Modeling/verbo?id=Consultar-Produto)      |
 |    [#RF05](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        [Filtro por categoria]((Modeling/verbo?id=Filtrar-Produtos))         |
 |    [#RF06](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         [Tags](Modeling/objeto?id=Tag) nos [produtos](Modeling/objeto?id=Produto)         |
-|    [#RF07](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     Remoção de itens do estoque     |
+|    [#RF07](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     [Remoção de itens](Modeling/verbo?id=Baixa-em-Produto) do estoque     |
 |    [#RF08](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        [Cadastrar produtos](Modeling/verbo?id=Cadastrar-Produto) por planilhas         |
 |    [#RF09](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |           Gerar planilha            |
 |    [#RF10](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         Histórico de vendas         |

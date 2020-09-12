@@ -20,7 +20,7 @@ Toda a documentação está exposta de forma organizada em nossa GH Pages: https
 
 ## Sobre
 
-Sistema para [cadastro](Modeling/verbo?id=Cadastrar-Produto) e [consulta de estoque]((Modeling/verbo?id=Consultar-Produto)). Plataforma web para [cadastro](Modeling/verbo?id=Cadastrar-Produto) e listagem de produtos, assim como exportação de planilhas e plotagem de gráficos. Versão mobile para [consulta](Modeling/verbo?id=Consultar-Produto) rápida de produtos e para atualização mais ágil de estoque.
+Sistema para [cadastro](Modeling/verbo?id=Cadastrar-Produto) e [consulta de estoque]((Modeling/verbo?id=Consultar-Produto)). Plataforma web para [cadastro](Modeling/verbo?id=Cadastrar-Produto) e listagem de produtos, assim como [exportação de planilhas](Modeling/verbo?id=Exportação) e plotagem de gráficos. Versão mobile para [consulta](Modeling/verbo?id=Consultar-Produto) rápida de produtos e para atualização mais ágil de estoque.
 
 ## Instalação
 

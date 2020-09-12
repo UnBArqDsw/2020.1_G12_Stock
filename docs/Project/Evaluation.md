@@ -454,7 +454,7 @@ Total: 950 linhas
   - Listagem de [produtos](Modeling/objeto?id=Produto) - 150 linhas
   - Cadastro de estoque - 200 linhas
   - Adição de [produto](Modeling/objeto?id=Produto) no estoque - 100 linhas
-  - Remoção de [produto](Modeling/objeto?id=Produto) no estoque - 100 linhas
+  - [Remoção de produto]((Modeling/verbo?id=Baixa-em-Produto)) no estoque - 100 linhas
   - Atualizar estoque - 120 linhas
 
 - Crud de [usuário](Modeling/objeto?id=usuário) 

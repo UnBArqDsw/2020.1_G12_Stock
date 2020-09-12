@@ -16,7 +16,7 @@ Esse documento visa especificar de maneira geral as características do desenvol
 
 ### 1.2 Escopo
 A aplicação Stock possuirá cinco funcionalidades chave: 
-- Crud de [estoque](Modeling/objeto?id=Estoque): Nesta funcionalidade, o [usuário](Modeling/objeto?id=usuário) poderá criar, atualizar, listar por categorias e remover. A aplicação ficará responsável por apresentar de forma clara a lista dos [produtos](Modeling/objeto?id=Produto) separados por [tags](Modeling/objeto?id=Tag). 
+- Crud de [estoque](Modeling/objeto?id=Estoque): Nesta funcionalidade, o [usuário](Modeling/objeto?id=usuário) poderá criar, atualizar, [listar por categorias](Modeling/verbo?id=Filtrar-Produtos) e [remover](Modeling/verbo?id=Baixa-em-Produto). A aplicação ficará responsável por apresentar de forma clara a lista dos [produtos](Modeling/objeto?id=Produto) separados por [tags](Modeling/objeto?id=Tag). 
 - Geração, [Importação](Modeling/verbo?id=Importação) e [Exportação](Modeling/verbo?id=Exportação) de planilhas de [consulta de estoque](Modeling/verbo?id=Consultar-Produto): Essa funcionalidade constituirá na geração de planilhas com dados do [estoque](Modeling/objeto?id=Estoque), bem como [importar](Modeling/verbo?id=Importação) e [exportar](Modeling/verbo?id=Exportação) arquivos de planilha.
 - Geração de gráficos: Baseado em dados do [estoque](Modeling/objeto?id=Estoque), será possível plotar gráficos que irão simplificar visualização dos dados de [estoque](Modeling/objeto?id=Estoque) e vendas. Além de poder [filtrar](Modeling/verbo?id=Filtrar-Produtos) por período, funcionários e categorias. 
 - Notificação de [prazo de validade](Modeling/estado?id=Prazo-de-Validade) dos [produtos](Modeling/objeto?id=Produto): Para [produtos](Modeling/objeto?id=Produto) perecíveis, será possível receber [alertas](Modeling/verbo?id=Alertar) para avisar quando o [vencimento](Modeling/estado?id=Prazo-de-Validade) do [produto](Modeling/objeto?id=Produto) está próximo.
@@ -119,7 +119,7 @@ O software será um [Aplicação Web](Modeling/objeto?id=Web-App) e [PWA](Modeli
 O Stock será distribuído sob a licença MIT para softwares livres, que dá liberdade para todos que o adquirirem de modificar, distribuir, sublicenciar, vender e contribuir para o software.
 
 ## 5. Recursos do [Produto](Modeling/objeto?id=Produto)
-### 5.1 Criar, atualizar, listar por categorias e remover estoque.
+### 5.1 Criar, atualizar, [listar por categorias](Modeling/verbo?id=Filtrar-Produtos) e remover estoque.
 ### 5.2 Geração, [Importação](Modeling/verbo?id=Importação) e [Exportação](Modeling/verbo?id=Exportação) de planilhas de [consulta de estoque](Modeling/verbo?id=Consultar-Produto).
 ### 5.3 Geração de gráficos de [estoque](Modeling/objeto?id=Estoque) e vendas.
 ### 5.4 Notificação de [prazo de validade]((Modeling/estado?id=Prazo-de-Validade)) dos [produto](Modeling/objeto?id=Produto)
