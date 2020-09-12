@@ -520,7 +520,7 @@ Para 2270 linhas de código (2.27 Kloc)
 
 ## Estimativa de preço
 
-Os valores alcançados pelas estimativas foram bastantes rasoáveis de acordo com a realidade do projeto, que possui 5 [desenvolvedors](Modeling/objeto?id=Desenvolvedor) e um semestre de aproximadamente 6 meses para desenvolver a aplicação. Por isso, serão levados em conta para esse cálculo 5 quantidade de pessoas e 5 meses de desenvolvimento, o que está dentro da margem estipulada.
+Os valores alcançados pelas estimativas foram bastantes rasoáveis de acordo com a realidade do projeto, que possui 5 [desenvolvedores](Modeling/objeto?id=Desenvolvedor) e um semestre de aproximadamente 6 meses para desenvolver a aplicação. Por isso, serão levados em conta para esse cálculo 5 quantidade de pessoas e 5 meses de desenvolvimento, o que está dentro da margem estipulada.
 
 ### Infra estrutura
 
