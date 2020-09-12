@@ -6,9 +6,9 @@
 
 | Número |[Issue](Modeling/objeto?id=Issue)| Pontuação |Participantes |
 | - | - | - | - |
-| [**#61**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/61) | Estimativas - Evolução | 2 | Gabriel Alves |
-| [**#70**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/70) | Questionário - Evolução | 3 | Micaella Gouveia, Gabriel Davi e Sofia|
-| [**#71**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/71) | Entrevistas - Evolução | 5 | Gabriel Alves e Pedro Igor |
+| [**#61**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/61) | [Estimativas](Project/Evaluation.md) - Evolução | 2 | Gabriel Alves |
+| [**#70**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/70) | [Questionário](Elicitation/Questionario.md) - Evolução | 3 | Micaella Gouveia, Gabriel Davi e Sofia|
+| [**#71**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/71) | [Entrevistas](Elicitation/Entrevista.md) - Evolução | 5 | Gabriel Alves e Pedro Igor |
 | [**#72**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/72) | BPMN - Evolução | 3 | Pedro Igor |
 | [**#73**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/73) | Protótipo de baixa fidelidade | 3 | Todos |
 | [**#74**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/74) | Protótipo de média fidelidade | 13 | Micaella, Sofia e Gabriel Davi |
@@ -35,51 +35,51 @@ Nesta Sprint, alguns documentos são pré-requisitos de outros, sendo necessári
 
 | Número| [Issue](Modeling/objeto?id=Issue)| Data de Entrega|
 | - | - | - |
-| [**#61**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/61) | Estimativas - Evolução | Terça-Feira (15/09/2020)| 
-| [**#70**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/70) | Questionário - Evolução | Terça-Feira (15/09/2020)| 
-| [**#71**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/71) | Entrevistas - Evolução | Terça-Feira (15/09/2020)| 
+| [**#61**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/61) | [Estimativas](Project/Evaluation.md) - Evolução | Terça-Feira (15/09/2020)| 
+| [**#70**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/70) | [Questionário](Elicitation/Questionario.md) | Terça-Feira (15/09/2020)| 
+| [**#71**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/71) | [Entrevistas](Elicitation/Entrevista.md) - Evolução | Terça-Feira (15/09/2020)| 
 | [**#72**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/72) | BPMN - Evolução | Terça-Feira (15/09/2020)| 
 | [**#73**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/73) | Protótipo de baixa fidelidade | Terça-Feira (15/09/2020)|
 
 ## Relato
-* Nesta reunião, o time analisou os novos artefatos para a próxima entrega (Modelagem).
+* Nesta reunião, o time realizou a avaliação em pares.
+* O time analisou os novos artefatos para a próxima entrega (Modelagem).
 * Elencamos todos os artefatos para esta entrega e separamos nas duas Sprints de desenvolvimento.
-* Ficou decido que na Sprint 3 terminaríamos todas as evoluções já propostas, criaríamos os protótipos de baixa e média fidelidade para testar e elencar novos requisitos, principalmente os não funcionais.
+* Ficou decido que na Sprint 3 terminaríamos todas as evoluções já propostas, com nossos requisitos principais levantados, criaremos os protótipos de baixa e média fidelidade para testar e elencar novos requisitos, principalmente os não funcionais.
 
 **Em Paralelo**:
-Léxicos (Todos estão fazendo para todos os novos artefatos) 
+Léxicos (Todos estão fazendo para todos os novos artefatos).
 
 **Evolução (Terça)**:
 
 | Tarefa                                                 | Responsável   |
 | ------------------------------------------------------ | ------------- |
-| Respostas do questionário (1ª versão) | Micaella Gouveia, Gabriel Davi e Sofia |
-| Entrevistas novas | Pedro e Gabriel ALves
+| Respostas do [questionário](Elicitation/Questionario.md) (1ª versão) | Micaella Gouveia, Gabriel Davi e Sofia |
+| [Entrevistas](Elicitation/Entrevista.md) novas | Pedro e Gabriel ALves
 | BPMN geral | Pedro Igor
-|Evolução das estimativas | Gabriel Alves
+| Evolução das [estimativas](Project/Evaluation.md) | Gabriel Alves
 
 **Protótipos (Reunião)**:
 
 1. Baixa Fidelidade:
 
-* Definição das partes que serão esboçadas para cada membro
-* O membro fará o esboço para a reunião
-* Na reunião, iremos evoluir cada esboço, anotando as melhorias
+* Definição das partes que serão esboçadas para cada membro.
+* O membro fará o esboço para a reunião.
+* Na reunião, iremos evoluir cada esboço, anotando as melhorias.
 
 2. Média Fidelidade:
 
 | Tarefa                                                 | Responsável   |
 | ------------------------------------------------------ | ------------- |
-| Criar o protótipo média fidelidade |Micaella, Sofia e Gabriel Davi
+| Criar o protótipo média fidelidade | Micaella, Sofia e Gabriel Davi
 | Testes + Elicitação de novos requisitos| Micaella, Sofia e Gabriel Davi
 
 **Modelagem dos requisitos**:
-* Backlog/Histórias de usuário **(GRANDE REUNIÃO)**
+* Backlog/Histórias de usuário - Será feito por todos em uma reunião.
 <br>
 
 ### **Artefatos que ficaram definidos para a Sprint 4:**
 
-**Sprint 4**:
 1. Reunião:
 * NFR 
 * Especificação Suplementar
@@ -99,3 +99,10 @@ Pretendemos adaptar um tipo de Design Sprint para a produção dos diagramas.
 * Casos de uso e diagramas de caso de uso
 * Treinamento React :)
 
+## Gravações Disponíveis
+
+- Reunião Semanal (Sprint Planning):
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/AkeGKdR6NUw?ecver=1&amp;iv_load_policy=3&amp;rel=0&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="uJLPWJNS" href="https://wildernesswood.co.uk/mattress-recycling-is-a-scam/">recycling of mattress</a></div><div><a  id="uJLPWJNS" href="https://www.ihertfordshire.co.uk">iHertfordshire UK</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
+
+- Planning Poker (Pontuação das [issues](Modeling/objeto?id=Issue)):
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/JGSsA8l72jA?ecver=1&amp;iv_load_policy=3&amp;rel=0&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="uJLPWJNS" href="https://wildernesswood.co.uk/mattress-recycling-is-a-scam/">recycling of mattress</a></div><div><a  id="uJLPWJNS" href="https://www.ihertfordshire.co.uk">iHertfordshire UK</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
