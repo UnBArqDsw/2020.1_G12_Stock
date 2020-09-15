@@ -9,6 +9,7 @@
 | 10/09/2020 |  1.2   | Revisão e finalização dos léxicos | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 | 11/09/2020 |  1.3   |       Criação do documento        |                                Gabriel Alves                                |
 | 11/09/2020 |  1.4   |  Linkagem dos léxicos.            | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 15/09/2020 |  1.5   | Adição e linkagem de mais um léxico. | Pedro Igor |
 
 ### PWA
 |   Noção   |   Impacto   |   Sinônimos    |
@@ -117,3 +118,8 @@
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
 | O desenvolvedor é a pessoa responsável por criar a solução de software. | Desenvolvedor resolveu um bug da aplicação. <br><br> Desenvolvedor conversa com [stakeholder](Modeling/objeto?id=Stakeholder). <br><br> Desenvolvedor colocou a aplicação no ar. | Dev. <br><br> Programador. <br><br> Engenheiro de software. |
+
+### Planilha
+|   Noção   |   Impacto   |   Sinônimos    |
+|  :-----:  |  :-------:  |  :---------:   |
+| Planilha é um documento, geralmente formado por células, utilizado para armazenar informações de forma que seja simples a consulta posterior. | Algumas empresas realizam controle de [estoque](Modeling/objeto?id=Estoque) em planilhas. | Documento Excel. <br><br> Spreadsheet. <br><br> Documento de tabelas. |

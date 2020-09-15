@@ -30,7 +30,7 @@ O entrevistado é [sócio](Modeling/objeto?id=Owner) da confeitaria Nutricakes, 
 
 ### 6. Você costuma registrar em algum lugar os [produtos](Modeling/objeto?id=Produto) que são vendidos? Se sim, como funciona esse processo?
 
-"Registramos em uma planilha de gerenciamento de vendas. Nela listamos todos os pedidos que foram feitos e quais itens estão nesses pedidos. Fazemos o controle do valor bruto do [produto](Modeling/objeto?id=Produto) e item por item para saber o controle de margem, quais [produtos](Modeling/objeto?id=Produto) tem vendido mais."
+"Registramos em uma [planilha](Modeling/objeto?id=Planilha) de gerenciamento de vendas. Nela listamos todos os pedidos que foram feitos e quais itens estão nesses pedidos. Fazemos o controle do valor bruto do [produto](Modeling/objeto?id=Produto) e item por item para saber o controle de margem, quais [produtos](Modeling/objeto?id=Produto) tem vendido mais."
 
 ### 7. Você mantém o registro de seu [estoque](Modeling/objeto?id=Estoque)? Se sim, como ele é feito hoje?
 
@@ -72,3 +72,16 @@ O entrevistado é [sócio](Modeling/objeto?id=Owner) da confeitaria Nutricakes, 
 <audio controls>
   <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/interview/entrevistaRicardo.mp3" type="audio/mpeg">
 </audio>
+
+## Requisitos levantados
+|                                     Id                                      |                Nome                 |
+| :-------------------------------------------------------------------------: | :---------------------------------: |
+| [#RF03](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  | [Adição de itens](Modeling/verbo?id=Cadastrar-Produto) ao estoque |
+| [#RF04](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  | [Consulta de estoque](Modeling/verbo?id=Consultar-Produto) |
+| [#RF07](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  | [Remoção de itens](Modeling/verbo?id=Baixa-em-Produto) do estoque |
+| [#RF10](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  | Histórico de vendas |
+| [#RF19](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  | Delimitar quantidade mínima de um [produto](Modeling/objeto?id=Produto) |
+| [#RF20](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  | [Alertar](Modeling/verbo?id=Alertar) sobre quantidade mínima atingida |
+| [#RF23](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  | Registrar valor do [produto](Modeling/objeto?id=Produto) |
+| [#RF24](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  | Consulta de [produtos](Modeling/objeto?id=Produto) mais vendidos |
+| [#RNF03](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) | [Consultas](Modeling/verbo?id=Consultar-Produto) remotas | 
