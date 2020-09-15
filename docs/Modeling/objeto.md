@@ -42,7 +42,7 @@
 
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-| Proprietário ou proprietária. <br><br> Dono(a) da [micro empresa](Modeling/objeto?id=Micro-Empresa). | Define papel dos colaboradores. | Dono(a). <br><br> Proprietário(a). <br><br> Gestor(a). |
+| Proprietário ou proprietária. <br><br> Dono(a) da [micro empresa](Modeling/objeto?id=Micro-Empresa). | Define papel dos colaboradores. | Dono(a). <br><br> Proprietário(a). <br><br> Gestor(a). <br><br> Sócio(a). |
 
 ### Admin
 |   Noção   |   Impacto   |   Sinônimos    |
