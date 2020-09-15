@@ -506,6 +506,34 @@ Total: 1820 linhas
  
 Com isso, o total de linhas estimados para a aplicação foi de 2324 linhas de código, baseados na média da estimativa individual de cada um dos membro mais a estimativa do grupo. Como é possível uma falha na estimativa, os cálculos irão considerar uma variação de 369 linhas para mais ou para menos, baseado no desvio padrão da estimativa.
 
+## Estimativa de Esforço
+
+Como dito na introdução, nosso projeto é do tipo Semidestacado, portanto os valores serão **a = 3.00** e **b = 1.12**
+
+Para 1955 linhas de código (1.95 Kloc)
+
+E = a x S^b x fae
+
+    E = 3.00 x 1.95^1.12 * (0,71)
+
+    E = 4.5 pessoas/mes
+
+Para 2324 linhas de código (2.32 Kloc)
+
+E = a x S^b x fae
+
+    E = 3.00 x 2.32^1.12 * (0,71)
+
+    E = 5.4 pessoas/mes
+
+
+Para 2696 linhas de código (2.69 Kloc)
+
+E = a x S^b x fae
+
+    E = 3.00 x 2.69^1.12 * (0,71)
+
+    E = 6.4 pessoas/mes
 
 ## Estimativa de preço
 
