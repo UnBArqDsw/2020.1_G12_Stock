@@ -14,8 +14,10 @@ As perguntas a seguir foram elaboradas em um dos dias de [Design Sprint](DesignS
 | 09/09/2020 |  1.2   |                                   Adição de hyperlink para página de Design Sprint                                   |                     Sofia Patrocínio                      |
 | 11/09/2020 |  1.3   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 | 15/09/2020 |  1.4   |  Adição das respostas do questionário. | Micaella Gouveia e Sofia Patrocínio |
+| 15/09/2020 |  1.5   |  Levantamento dos requisitos do questionário. | Micaella Gouveia e Sofia Patrocínio |
 
 ## Respostas
+**Resultado obtido em: 15/09/2020**
 
 **1** - Você trabalha com vendas ou negócios?<br>
 ![Pergunta 1](../assets/questionario/1.png)<br>
@@ -119,34 +121,3 @@ Entre os problemas encontrados, é muito comum a falta de assertividade no contr
 ## Referências
 
 - Google Forms enviado aos participantes: <https://docs.google.com/forms/d/e/1FAIpQLScm1jD2vjcqu5CZ3nuQBD3bgh19VgtuL2rltMG5WlqtbM0qcA/viewform?usp=sf_link> Último acesso em 04/09/2020.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-RF02
-RF03
-RF04
-RF05
-RF06
-RF07
-RF08
-RF10
-RF11
-RF13
-RF14
-RF15
-RF21
-RF23
-RF24
-
-RNF04, 05, 06
