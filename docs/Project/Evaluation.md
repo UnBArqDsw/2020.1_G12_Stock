@@ -15,6 +15,7 @@ Para a estimativa do custo, será levado em consideração apenas o ciclo de pro
 | 09/09/2020 |  1.3   |               Correção da rota de hyperlink para página de Design Sprint               |                              Sofia Patrocínio                               |
 | 11/09/2020 |  1.4   | Adição de informações adicionais sobre as referências usadas para criação do documento |                                Gabriel Davi                                 |
 | 11/09/2020 |  1.5   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 15/09/2020 |  1.6   |  Aplicação do Desvio Padrão no intervalo de estimatívas | Gabriel Alves |
 
 ## MODELO DE CUSTO CONSTRUTIVO (CONSTRUCTIVE COST MODEL - COCOMO)
 
@@ -446,6 +447,8 @@ Com isso, o resultado do peso que será utilizado equivale a multiplicação dos
 
 Foi feito uma reunião com a equipe de desenvolvimento para estimar a quantidade de linhas de código que a aplicação pode tomar separado por telas e funcionalidades principais. Cada participante fez seu próprio levantamento para cada funcionalidade e por fim foi discutido os valores finais para um dos requisitos iniciais.
 
+A estimativa individual está disponível [aqui](DesignSprint/dia5?id=documentos-produzidos)
+
 ### Backend
 
 Total: 950 linhas
@@ -481,43 +484,84 @@ Total: 1820 linhas
 - Tela de atualização dos [produtos](Modeling/objeto?id=Produto) no [estoque](Modeling/objeto?id=Estoque) - 200 linhas
 - Tela de admnistração (Listagem de [usuário](Modeling/objeto?id=usuário), alterar um [usuário](Modeling/objeto?id=usuário), cadastrar um funcionário) - 250 linhas
 
-Com isso, o total de linhas estimados para a aplicação foi de 2770 linhas de código. Como é possível uma falha na estimativa, os cálculos irão considerar um intervalo entre 2270 e 2770 linhas de código.
+### Estatísticas das Linhas
+<table>
+    <thead>
+        <tr bgcolor="#6c6f73">
+            <td class="head">Média</td>
+            <td class="head">Desvio Padrão</td>
+            <td class="head">Variação para Menos</td>
+            <td class="head">Variação para Mais</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>2324</td>
+            <td>369</td>
+            <td>1955</td>
+            <td>2696</td>
+        </tr>
+    </tbody>
+</table>
+ 
+Com isso, o total de linhas estimados para a aplicação foi de 2324 linhas de código, baseados na média da estimativa individual de cada um dos membro mais a estimativa do grupo. Como é possível uma falha na estimativa, os cálculos irão considerar uma variação de 369 linhas para mais ou para menos, baseado no desvio padrão da estimativa.
 
 ## Estimativa de Esforço
 
 Como dito na introdução, nosso projeto é do tipo Semidestacado, portanto os valores serão **a = 3.00** e **b = 1.12**
 
-Para 2770 linhas de código (2.77 Kloc)
+Para 1955 linhas de código (1.95 Kloc)
 
 E = a x S^b x fae
 
-    E = 3.00 x 2.77^1.12 * (0,71)
+    E = 3.00 x 1.95^1.12 * (0,71)
 
-    E = 6.7 pessoas/mes
+    E = 4.5 pessoas/mes
 
-Para 2270 linhas de código (2.27 Kloc)
+Para 2324 linhas de código (2.32 Kloc)
 
-    E = 3.00 x 2.27^1.12 * (0,71)
+E = a x S^b x fae
 
-    E = 5.33 pessoas/mes
+    E = 3.00 x 2.32^1.12 * (0,71)
+
+    E = 5.4 pessoas/mes
+
+
+Para 2696 linhas de código (2.69 Kloc)
+
+E = a x S^b x fae
+
+    E = 3.00 x 2.69^1.12 * (0,71)
+
+    E = 6.4 pessoas/mes
 
 ## Estimativa de Tempo
 
 Utiliza o resultado calculado do esforço para calcular o tempo, pois estão diretamente relacionados, também utiliza o coeficiente **c = 2.50** e **d = 0.35** da tabela (Para projeto semidestacado):
 
-Para 2770 linhas de código (2.77 Kloc)
+Para 1955 linhas de código (1.95 Kloc)
 
     T = c x E^d
 
-    T = 2.50 x 6.7^0.35
+    T = 2.50 x 4.5^0.35
 
-    T = 4.86 meses
+    T = 4.23 meses
 
-Para 2270 linhas de código (2.27 Kloc)
+Para 2324 linhas de código (2.32 Kloc)
 
-    T = 2.50 x 8.91^0.35
+    T = c x E^d
 
-    T = 4.49 meses
+    T = 2.50 x 5.4^0.35
+
+    T = 4.5 meses
+
+Para 2696 linhas de código (2.69 Kloc)
+
+    T = c x E^d
+
+    T = 2.50 x 6.4^0.35
+
+    T = 4.78 meses
 
 ## Estimativa de preço
 
@@ -561,5 +605,8 @@ SILVA FILHO, Antonio Mendes da. **Custo de Software: Planejamento e Gestão**. D
 <style>
     .selected {
         color: #fff
+    }
+    .head {
+        color: #f8f8f8
     }
 </style>
