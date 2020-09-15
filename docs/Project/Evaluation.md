@@ -535,6 +535,34 @@ E = a x S^b x fae
 
     E = 6.4 pessoas/mes
 
+## Estimativa de Tempo
+
+Utiliza o resultado calculado do esforço para calcular o tempo, pois estão diretamente relacionados, também utiliza o coeficiente **c = 2.50** e **d = 0.35** da tabela (Para projeto semidestacado):
+
+Para 1955 linhas de código (1.95 Kloc)
+
+    T = c x E^d
+
+    T = 2.50 x 4.5^0.35
+
+    T = 4.23 meses
+
+Para 2324 linhas de código (2.32 Kloc)
+
+    T = c x E^d
+
+    T = 2.50 x 5.4^0.35
+
+    T = 4.5 meses
+
+Para 2696 linhas de código (2.69 Kloc)
+
+    T = c x E^d
+
+    T = 2.50 x 6.4^0.35
+
+    T = 4.78 meses
+
 ## Estimativa de preço
 
 Os valores alcançados pelas estimativas foram bastantes rasoáveis de acordo com a realidade do projeto, que possui 5 [desenvolvedores](Modeling/objeto?id=Desenvolvedor) e um semestre de aproximadamente 6 meses para desenvolver a aplicação. Por isso, serão levados em conta para esse cálculo 5 quantidade de pessoas e 5 meses de desenvolvimento, o que está dentro da margem estipulada.
