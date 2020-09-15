@@ -13,94 +13,84 @@ As perguntas a seguir foram elaboradas em um dos dias de [Design Sprint](DesignS
 | 04/09/2020 |  1.1   | Formatação do questionário, tabela de versões, referências, criação do formulário e explicação breve da metodologia. |                        Pedro Igor                         |
 | 09/09/2020 |  1.2   |                                   Adição de hyperlink para página de Design Sprint                                   |                     Sofia Patrocínio                      |
 | 11/09/2020 |  1.3   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 15/09/2020 |  1.4   |  Adição das respostas do questionário. | Micaella Gouveia e Sofia Patrocínio |
 
-## Protótipo
+## Respostas
 
 **1** - Você trabalha com vendas ou negócios?<br>
-(&nbsp;&nbsp;)Sim&nbsp;&nbsp;&nbsp;(&nbsp;&nbsp;)Não<br><br>
+![Pergunta 1](../assets/questionario/1.png)<br>
 
 **2** - A empresa a qual trabalha envolve [estoque](Modeling/objeto?id=Estoque) de [produtos](Modeling/objeto?id=Produto)?<br>
+![Pergunta 2](../assets/questionario/2.png)
 
-(&nbsp;&nbsp;)Sim&nbsp;&nbsp;&nbsp;(&nbsp;&nbsp;)Não<br><br>
-
-**Caso Não:** Finaliza o questionário.<br>
-**Caso Sim:**<br><br>
+Apesar de termos direcionado nosso questionário à grupos com nosso público alvo, como grupos de vendas e de áreas como Administração, restringimos no próprio formulário as pessoas que se aplicavam a nosso contexto. Então, **Caso Não**, finaliza o questionário. **Caso Sim**, continua:<br><br>
 
 _Perfil pessoal:_<br><br>
 
 **3** - Qual a sua faixa etária?<br>
-(&nbsp;&nbsp;) Menos de 20 anos<br>
-(&nbsp;&nbsp;) Entre 20 e 30 anos<br>
-(&nbsp;&nbsp;) Entre 31 e 40 anos<br>
-(&nbsp;&nbsp;) Entre 41 e 50 anos<br>
-(&nbsp;&nbsp;) Entre 51 e 60 anos<br>
-(&nbsp;&nbsp;) 61 anos ou mais<br><br>
+![Pergunta 3](../assets/questionario/3.png)
+
+Notamos que nosso público alvo se encontra principalmente na faixa etária de 20 a 30 anos. Esse dado é importante para dirercionarmos a "nossa persona" à esse público.<br><br>
 
 **4** - Qual a sua afinidade com a tecnologia? Sendo 10 = Tenho muita afinidade com tecnologia e 1 = Não consigo utilizar tecnologia alguma.<br>
 
-Range de 1 a 10<br><br>
+![Pergunta 4](../assets/questionario/4.png)
+
+Em relação à afinidade com tecnologia, podemos concluir que nosso público alvo possui uma média alta. Trata-se de um dado fundamental como abordaremos as interfaces e funcionalidades ao usuário.<br><br>
 
 _Perfil da empresa:_<br><br>
 
 **5** - Qual é o ramo de negócio da empresa a qual trabalha?<br>
-(&nbsp;&nbsp;) Alimentício<br>
-(&nbsp;&nbsp;) Vestimenta<br>
-(&nbsp;&nbsp;) Farmácia<br>
-(&nbsp;&nbsp;) Eletrônica<br>
-(&nbsp;&nbsp;) Outros<br><br>
+![Pergunta 5](../assets/questionario/5.png)
+
+Notamos que há uma diversidade muito grande de ramos de negócios. Essa informação é importante para tornar a aplicação mais acessível possível para todas as categorias.<br><br>
 
 **6** - Quantas pessoas trabalham nesta empresa (contando com [donos](Modeling/objeto?id=Owner) e sócios)?<br>
-(&nbsp;&nbsp;) Só eu<br>
-(&nbsp;&nbsp;) 2 a 5<br>
-(&nbsp;&nbsp;) 6 a 10<br>
-(&nbsp;&nbsp;) 11 a 30<br>
-(&nbsp;&nbsp;) 31 ou mais<br><br>
+![Pergunta 6](../assets/questionario/6.png)
+
+Podemos perceber que nosso público alvo trata-se de micro empresas, com apenas o dono ou com poucos funcionários. Com essas respostas, podemos avaliar a necessidade dos usuários em relação à quantidade de acessos ao controle de estoque.<br><br>
 
 **7** - Quais os cargos dessa empresa?(Marque todos os aplicáveis)<br>
-(&nbsp;&nbsp;) [Dono](Modeling/objeto?id=Owner) ou Sócio<br>
-(&nbsp;&nbsp;) [Administrador(gerente)](Modeling/objeto?id=Admin)<br>
-(&nbsp;&nbsp;) Tesoureiro<br>
-(&nbsp;&nbsp;) [Vendedor](Modeling/objeto?id=Seller)<br>
-(&nbsp;&nbsp;) Outros<br><br>
+![Pergunta 7](../assets/questionario/7.png)
+
+Sobre os cargos existentes nesses negócios, podemos perceber três que se sobrepõem: Dono(a), Administrador(a) e Vendedor(a). Essa análise valida o nível de hierarquia dentro da aplicação.<br><br>
 
 _Definições do [estoque](Modeling/objeto?id=Estoque):_<br><br>
 
 **8** - Qual a frequência de reposição de [estoque](Modeling/objeto?id=Estoque)?<br>
-(&nbsp;&nbsp;) Diariamente<br>
-(&nbsp;&nbsp;) Semanalmente<br>
-(&nbsp;&nbsp;) Mensalmente<br>
-(&nbsp;&nbsp;) Indefinido<br><br>
+![Pergunta 8](../assets/questionario/8.png)
+
+Essa informação diz respeito ao fluxo do estoque, fundamental para elaboração de gráficos de controle do estoque e de vendas.<br><br>
 
 **9** - Qual a quantidade de [produtos](Modeling/objeto?id=Produto) que saem do estoque diariamente (aproximadamente)?<br>
-(&nbsp;&nbsp;) 1 a 50<br>
-(&nbsp;&nbsp;) )51 a 100<br>
-(&nbsp;&nbsp;) 101 a 200<br>
-(&nbsp;&nbsp;) 201 ou mais<br>
-(&nbsp;&nbsp;) Não tenho essa informação<br><br>
+![Pergunta 9](../assets/questionario/9.png)
+
+Esse dado, além de analisar o controle de saída, podemos pensar na melhoria da acurácia tendo maior rastros de vendas, como quando e por quem saiu a mercadoria.<br><br>
 
 **10** - É possível categorizar cada [produto](Modeling/objeto?id=Produto) desta empresa?<br>
-(&nbsp;&nbsp;) Sim<br>
-(&nbsp;&nbsp;) Não<br><br>
+![Pergunta 10](../assets/questionario/10.png)
+
+A categorização é muito importante para o controle do estoque e a aplicação de tags para separar produtos por seções.<br><br>
 
 _Aplicação:_<br><br>
 
 **11** - Está empresa trabalha com [produtos](Modeling/objeto?id=Produto) perecíveis? <br>
-(&nbsp;&nbsp;) Sim<br>
-(&nbsp;&nbsp;) Não<br><br>
+![Pergunta 11](../assets/questionario/11.png)
+
+Quase metade do nosso público respondeu que trabalha com produtos perecíveis, o que nos mostra uma necessidade de ser possível adicionar data de vencimento dos produtos e alertá-los quando está próximo.<br><br>
 
 **12** - Esta empresa já teve prejuízo por não controlar o [estoque](Modeling/objeto?id=Estoque) corretamente? ([Produto](Modeling/objeto?id=Produto) passar da [data de validade](Modeling/estado?id=Prazo-de-Validade), [produto](Modeling/objeto?id=Produto) não encontrado no estoque)<br>
-(&nbsp;&nbsp;) Sim<br>
-(&nbsp;&nbsp;) Não<br><br>
+![Pergunta 12](../assets/questionario/12.png)
+
+A maioria das empresas já tiveram prejuízo pelo mau controle do estoque, o que significa que não utilizam/utilizaram ferramentas adequedas.<br><br>
 
 **13** - Quais ferramentas de [controle de estoque](Modeling/verbo?id=Controle-de-Estoque) são utilizadas ou já foram utilizadas nesta empresa? (marque todas as aplicáveis)?<br>
-(&nbsp;&nbsp;) Planilhas Online<br>
-(&nbsp;&nbsp;) Controle manual(planilha excel no computador)<br>
-(&nbsp;&nbsp;) Programa/Aplicativo<br>
-(&nbsp;&nbsp;) Nunca utilizei<br>
-(&nbsp;&nbsp;) Outros<br><br>
+![Pergunta 13](../assets/questionario/13.png)
+A grande maioria faz controle manual dos seu estoque, gastando mais tempo e com uma precisão menor.<br><br>
 
 **14** - Quais problemas você já encontrou ao fazer [controle de estoque](Modeling/verbo?id=Controle-de-Estoque)? (opcional)<br>
-[Caixa de Texto]<br>
+![Pergunta 14](../assets/questionario/14.png)
+Entre os problemas encontrados, é muito comum a falta de assertividade no controle: quantidade de produto em estoque não bater com valor real. Além disso, podemos perceber que há problemas em separar os produtos por categorias e dificuldade em achá-los. Há também dificuldade em controlar o prazo de vencimento dos produtos.<br><br> 
 
 ## Referências
 
