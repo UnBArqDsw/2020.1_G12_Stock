@@ -92,6 +92,61 @@ A grande maioria faz controle manual dos seu estoque, gastando mais tempo e com 
 ![Pergunta 14](../assets/questionario/14.png)
 Entre os problemas encontrados, é muito comum a falta de assertividade no controle: quantidade de produto em estoque não bater com valor real. Além disso, podemos perceber que há problemas em separar os produtos por categorias e dificuldade em achá-los. Há também dificuldade em controlar o prazo de vencimento dos produtos.<br><br> 
 
+## Requisitos Levantados
+
+## Requisitos Levantados
+|                                     Id                                      |                Nome                 |
+| :-------------------------------------------------------------------------: | :---------------------------------: |
+|    [#RF02](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |    [Hierarquia](Modeling/objeto?id=Papéis-dos-colaboradores)      |
+|    [#RF03](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     [Adição de itens](Modeling/verbo?id=Cadastrar-Produto) ao [estoque](Modeling/objeto?id=Estoque)      |
+|    [#RF04](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     [Consulta de estoque](Modeling/verbo?id=Consultar-Produto)      |
+|    [#RF05](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        [Filtro por categoria]((Modeling/verbo?id=Filtrar-Produtos))         |
+|    [#RF06](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         [Tags](Modeling/objeto?id=Tag) nos [produtos](Modeling/objeto?id=Produto)         |
+|    [#RF07](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     [Remoção de itens](Modeling/verbo?id=Baixa-em-Produto) do [estoque](Modeling/objeto?id=Estoque)     |
+|    [#RF08](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        [Cadastrar produtos](Modeling/verbo?id=Cadastrar-Produto) por planilhas         |
+|    [#RF010](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         Histórico de vendas         |
+|    [#RF011](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        Históricos Temporais         |
+|   [#RF013](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   |        [Filtro](Modeling/verbo?id=Filtrar-Produtos) por data         |
+|   [#RF014](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   |        Plotagem de gráficos         |
+|   [#RF015](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | Atualização instantânea de [estoque](Modeling/objeto?id=Estoque)  |
+|   [#RF021](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   | Notificação de [prazo de vencimento](Modeling/estado?id=Prazo-de-Validade)  |
+|   [#RF023](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   | Cadastro de diferentes lotes do mesmo produto  |
+|   [#RF024](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   |Personalização da geração dos gráficos  |
+|   [#RNF04](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais)   | Interface intuitiva e de fácil compreensão  |
+|   [#RNF05](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais)   | Suporte para múltiplos acessos simultâneos  |
+|   [#RNF06](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais)   |  Linguagem de fácil entendimento |
+
 ## Referências
 
 - Google Forms enviado aos participantes: <https://docs.google.com/forms/d/e/1FAIpQLScm1jD2vjcqu5CZ3nuQBD3bgh19VgtuL2rltMG5WlqtbM0qcA/viewform?usp=sf_link> Último acesso em 04/09/2020.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RF02
+RF03
+RF04
+RF05
+RF06
+RF07
+RF08
+RF10
+RF11
+RF13
+RF14
+RF15
+RF21
+RF23
+RF24
+
+RNF04, 05, 06
