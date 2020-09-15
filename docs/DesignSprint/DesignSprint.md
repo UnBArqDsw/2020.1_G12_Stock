@@ -20,9 +20,9 @@ O principal objetivo é ter conhecimento se a ideia proposta irá funcionar ante
 
 1. **UNPACK**: Seu time vai exteriorizar tudo o que eles sabem sobre a ideia.
 2. **SKETCH**: As pessoas vão trabalhar individualmente colocando as soluções para aquele problema/ideia no papel. A ideia é conseguir colocar o máximo possível no papel, sem muita discussão em grupo no começo.
-3. **DECIDE**: Filtrar as ideias, refiná-las, e no fim do dia escolher uma única ideia que vocês irão prototipar
-4. **PROTOTYPE**: A ideia é montar um protótipo daquela ideia até o fim do dia.
-5. **TEST**: Testar os protótipos para os potenciais [usuários](Modeling/objeto?id=usuário) do [produto](Modeling/objeto?id=Produto) , em sessões individuais.
+3. **DECIDE**: Filtrar as ideias, refiná-las, e no fim do dia escolher uma única ideia que vocês irão [prototipar](/Modeling/verbo?id=prototipação)
+4. **PROTOTYPE**: A ideia é montar um [protótipo](Modeling/objeto?id=protótipo) daquela ideia até o fim do dia.
+5. **TEST**: Testar os [protótipos](Modeling/objeto?id=protótipo) para os potenciais [usuários](Modeling/objeto?id=usuário) do [produto](Modeling/objeto?id=Produto) , em sessões individuais.
 
 ## Adaptação do Processo para o Contexto do Time
 
@@ -37,12 +37,12 @@ Nossas fases ficaram assim definidas:
 1. **Entender(20min)**: Discussão entre os membros sobre o documento a ser feito, podendo utilizar técnincas como brainstorming, mapa metal, entre outros.
 2. **Esboçar(30min)**: Cada membro faz seu modelo do documento, ou apenas elicita aquilo que precisa ser discutido para o documento final.
 3. **Decidir(50min)**: Discussão entre os membros, em qua cada um levanta o que ele produziu, e há a decisão do que será documentado ou não.
-4. **Prototipar(20min)**: O mediador do dia fica responsável pela pré produção do artefato.
+4. **[Prototipar](/Modeling/verbo?id=prototipação)(20min)**: O mediador do dia fica responsável pela pré produção do artefato.
 5. **Finalizar**: O mediador do dia fica responsável em terminar a documentação e abrir o Pull Rquest.
 
 ## Justificativa
 
-Decidimos adaptar o Design Sprint com o intuito de todos os membros do grupo ficarem alinhados em relação a documentação, parte muito importante do desenvolvimento do nosso [produto](Modeling/objeto?id=Produto). Além disso, acreditamos que com todos os 5 membros participando do processo de criação, os documentos possuem uma qualidade muito superior, pois "**Cinco cabeças pensam melhor que uma**". Nessa metodologia, não foi produzido um protótipo navegável, pois foco principal era trabalhar nos métodos que iriam levantar os requisitos necessários para trazer clareza ao problema e a solução que a [plataforma](Modeling/objeto?id=Web-App) fornecerá.
+Decidimos adaptar o Design Sprint com o intuito de todos os membros do grupo ficarem alinhados em relação a documentação, parte muito importante do desenvolvimento do nosso [produto](Modeling/objeto?id=Produto). Além disso, acreditamos que com todos os 5 membros participando do processo de criação, os documentos possuem uma qualidade muito superior, pois "**Cinco cabeças pensam melhor que uma**". Nessa metodologia, não foi produzido um [protótipo](Modeling/objeto?id=protótipo) navegável, pois foco principal era trabalhar nos métodos que iriam levantar os requisitos necessários para trazer clareza ao problema e a solução que a [plataforma](Modeling/objeto?id=Web-App) fornecerá.
 
 ## Realização
 
