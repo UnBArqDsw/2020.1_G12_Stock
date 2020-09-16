@@ -21,11 +21,12 @@ Como o grupo a princípio não utiliza papéis da metodologia Scrum, Project Own
 
 ## Geral
 ![Geral](../assets/img/bpmn/Geral.png)
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/bpmn/Geral.pdf">Download em PDF</a>
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/bpmn/Geral.pdf">Arquivo em PDF</a>
 
 ## Sprint Planning
 
 ![Sprint Planning](../assets/img/bpmn/Sprint_Planning.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/bpmn/Sprint_Planning.pdf">Arquivo em PDF</a>
 
 ### Áudio explicativo sobre Sprint Planning
 
@@ -38,6 +39,7 @@ Como o grupo a princípio não utiliza papéis da metodologia Scrum, Project Own
 ## Desenvolvimento
 
 ![Desenvolvimento](../assets/img/bpmn/Desenvolvimento.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/bpmn/Desenvolvimento.pdf">Arquivo em PDF</a>
 
 ### Áudio explicativo sobre o Desenvolvimento
 
@@ -50,6 +52,7 @@ Como o grupo a princípio não utiliza papéis da metodologia Scrum, Project Own
 ## Sprint Review
 
 ![Sprint Review](../assets/img/bpmn/Sprint_Review.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/bpmn/Sprint_Review.pdf">Arquivo em PDF</a>
 
 ### Áudio explicativo sobre Sprint Review
 
@@ -62,6 +65,7 @@ Como o grupo a princípio não utiliza papéis da metodologia Scrum, Project Own
 ## Planning Poker
 
 ![Planning Poker](../assets/img/bpmn/Planning_Poker.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/bpmn/Planning_Poker.pdf">Arquivo em PDF</a>
 
 ### Áudio explicativo sobre o Planning Poker
 
@@ -74,6 +78,7 @@ Como o grupo a princípio não utiliza papéis da metodologia Scrum, Project Own
 ## Daily
 
 ![Daily](../assets/img/bpmn/Daily.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/bpmn/Daily.pdf">Arquivo em PDF</a>
 
 ### Áudio explicativo sobre Daily
 
@@ -88,6 +93,7 @@ Como o grupo a princípio não utiliza papéis da metodologia Scrum, Project Own
 #### Para mais detalhes sobre a adaptação dessa metodologia, acesse [Design Sprint](DesignSprint/DesignSprint.md?id=design-sprint).
 
 ![Design Sprint](../assets/img/bpmn/Design_Sprint.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/bpmn/Design_Sprint.pdf">Arquivo em PDF</a>
 
 ### Áudio explicativo sobre Design Sprint
 
