@@ -8,14 +8,20 @@ Como o grupo a princípio não utiliza papéis da metodologia Scrum, Project Own
 
 ## Histórico de Revisões
 
-|    Data    | Versão |                              Descrição                              |             Autor(es)              |
-| :--------: | :----: | :-----------------------------------------------------------------: | :--------------------------------: |
-| 11/09/2020 |  1.0   |    Criação do documento e breve introdução da técnica aplicada.     |             Pedro Igor             |
+|    Data    | Versão |                              Descrição                              |             Autor(es)      |
+| :--------: | :----: | :-----------------------------------------------------------------: | :------------------------: |
+| 11/09/2020 |  1.0   |    Criação do documento e breve introdução da técnica aplicada.     |             Pedro Igor     |
 | 11/09/2020 |  1.1   |                      Inserção de 6 Diagramas.                       | Gabriel Davi, Pedro Igor, Micaella |
-| 11/09/2020 |  1.2   |                       Adição de referências.                        |             Pedro Igor             |
-| 11/09/2020 |  1.3   | Adição dos áudios explicativos do Desenvolvimento e Planning Poker. |          Micaella Gouveia          |
-| 11/09/2020 |  1.4   |  Adição dos áudios explicativos do Sprint Review e Design Sprint.   |            Gabriel Davi            |
-| 11/09/2020 |  1.5   |  Adição dos áudios explicativos do Sprint Planning e Daily.   |            Pedro Igor            |
+| 11/09/2020 |  1.2   |                       Adição de referências.                        |             Pedro Igor     |
+| 11/09/2020 |  1.3   | Adição dos áudios explicativos do Desenvolvimento e Planning Poker. |        Micaella Gouveia    |
+| 11/09/2020 |  1.4   |  Adição dos áudios explicativos do Sprint Review e Design Sprint.   |            Gabriel Davi    |
+| 11/09/2020 |  1.5   |  Adição dos áudios explicativos do Sprint Planning e Daily.         |         Pedro Igor         |
+| 15/09/2020 |  1.6   | Inserção do diagrama geral (união 5 dos diagramas já adicionados).  |         Pedro Igor         |
+
+
+## Geral
+![Geral](../assets/img/bpmn/Geral.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/bpmn/Geral.pdf">Download em PDF</a>
 
 ## Sprint Planning
 
