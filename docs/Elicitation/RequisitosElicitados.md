@@ -45,7 +45,7 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 |     [Notificação](Modeling/verbo?id=Alertar) de [prazo de vencimento](Modeling/estado?id=Prazo-de-Validade)      | **RF21** |              O sistema deve [notificar](Modeling/verbo?id=Alertar) o usuário na data próxima ao [prazo de vencimento](Modeling/estado?id=Prazo-de-Validade) do [produto](Modeling/objeto?id=Produto)               |      **RF03**       |                                                                   [Storyboard](Elicitation/StoryBoard.md)                                                                    |
 |      Lista de Compra      | **RF22** |      O sistema deve ter uma lista de compras de [produtos](Modeling/objeto?id=Produto) pedidos por [clientes](Modeling/objeto?id=usuário) que não têm em [estoque](Modeling/objeto?id=Estoque)       |         **RF04**         | [Entrevista](Elicitation/Entrevista.md) |
 | Registrar valor do [produto](Modeling/objeto?id=Produto)| **RF23** | O sistema deve ser capaz de armazenar o preço do [produto](Modeling/objeto?id=Produto). | **RF03** | [Entrevista](Elicitation/Entrevista.md)|
-| Consulta de [produtos](Modeling/objeto?id=Produto) mais vendidos | **RF24** | O sistema deve ser capaz de informar os [produtos](Modeling/objeto?id=Produto) que mais estão saindo do [estoque](Modeling/objeto?id=Estoque)  . | **RF10** | [Entrevista] |
+| Consulta de [produtos](Modeling/objeto?id=Produto) mais vendidos | **RF24** | O sistema deve ser capaz de informar os [produtos](Modeling/objeto?id=Produto) que mais estão saindo do [estoque](Modeling/objeto?id=Estoque)  . | **RF10** | [Entrevista](Elicitation/Entrevista.md) |
 
 
 ## Requisitos Não Funcionais

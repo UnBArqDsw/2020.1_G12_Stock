@@ -22,7 +22,7 @@ O entrevistado é sócio da Hamburgueria Gamaparô, que trabalha hambúrguer art
 
 ### 4. Qual a arrecadação bruta do negócio mensalmente?
 
-" ----- "
+Esta pergunta não foi respondida nesta entrevista.
 
 ### 5. Como você costuma mensurar quanto o seu negócio obteve de crescimento? E de prejuízo?
 
@@ -37,11 +37,11 @@ O entrevistado é sócio da Hamburgueria Gamaparô, que trabalha hambúrguer art
 "Atualmente muito pouco e quando fazemos é mais no olhômetro mesmo."
 
 ### 8. Imagine que você precisa saber se tem um certo [produto](Modeling/objeto?id=Produto) em [estoque](Modeling/objeto?id=Estoque) e rápido, mas você não está em sua loja. Como você procederia?
-"Compraria peli feeling mesmo, atualmente não tem como saber."
+"Compraria pelo feeling mesmo, atualmente não tem como saber."
 
 ### 9. Já aconteceu de você se enganar quanto ao número de [produtos](Modeling/objeto?id=Produto) que possui em [estoque](Modeling/objeto?id=Estoque)?
 
-"Sim, muitas vezes, toda semana"
+"Sim, muitas vezes, toda semana."
 
 ### 10. Já aconteceu de você não possuir um [produto](Modeling/objeto?id=Produto) e ele ser extremamente requerido pelos seus [clientes](Modeling/objeto?id=usuário)?
 
@@ -53,7 +53,7 @@ O entrevistado é sócio da Hamburgueria Gamaparô, que trabalha hambúrguer art
 
 ### 12. Qual a maior dificuldade que você enfrenta na parte administrativa de seu negócio?
 
-"Lançar nota, controle de tudo que está gastando"
+"Lançar nota, controle de tudo que está gastando."
 
 ### 13. De 1 a 10, qual a sua afinidade com aparelhos celulares e computadores? Costuma depender de alguém para realizar certas ações?
 

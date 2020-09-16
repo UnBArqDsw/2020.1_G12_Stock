@@ -53,7 +53,7 @@ O entrevistado é [sócio](Modeling/objeto?id=Owner) da confeitaria Nutricakes, 
 
 ### 12. Qual a maior dificuldade que você enfrenta na parte administrativa de seu negócio?
 
-"Mais na questão de controle de produção e administrativo. Administrar a produção, quanto tempo leva a produção de cada um dos [produtos](Modeling/objeto?id=Produto). Ás vezes acredita-se que é possível fazer várias coisas em dado tempo e acaba não dando."
+"Mais na questão de controle de produção e administrativo. Administrar a produção, quanto tempo leva a produção de cada um dos [produtos](Modeling/objeto?id=Produto). Às vezes acredita-se que é possível fazer várias coisas em dado tempo e acaba não dando."
 
 ### 13. De 1 a 10, qual a sua afinidade com aparelhos celulares e computadores? Costuma depender de alguém para realizar certas ações?
 
