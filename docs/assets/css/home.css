@@ -6,6 +6,7 @@ lu,
 span,
 a,
 markdown-section h2+h3,
-.markdown-section h3 {
+.markdown-section h3,
+.markdown-section h2 {
     font-family: Montserrat;
 }
