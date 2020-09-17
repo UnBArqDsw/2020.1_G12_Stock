@@ -11,7 +11,7 @@ O Product Backlog é uma lista de funcionalidades desejadas de um produto, ou se
 
 ## Estruturação
 Para melhor estruturar o Product Backlog nós utilizamos as chamadas Histórias de [Usuário](Modeling/objeto?id=usuário), que explicitado no documento de [Metodologias](Project/Metodologias.md), são uma forma de definir e organizar os requisitos do sistema, centrando a visão no [usuário](Modeling/objeto?id=usuário), contendo a descrição detalhada dos requisitos de cada solicitação a ser implementada.
-As Histórias de [Usuário](Modeling/objeto?id=usuário) foram agrupadas e formaram as Features, que irão compor nossos Épicos, dividos em [**Usuário**](Modeling/objeto?id=usuário) e [**Produto**](Modeling/objeto?id=produto).
+As Histórias de [Usuário](Modeling/objeto?id=usuário) foram agrupadas e formaram as Features, que irão compor nossos Épicos, dividos em [**Usuário**](Modeling/objeto?id=usuário), [**Produto**](Modeling/objeto?id=produto) e **Vendas**.
 
 ## Backlog
 
