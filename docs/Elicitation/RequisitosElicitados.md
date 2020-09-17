@@ -1,6 +1,6 @@
 # Requisitos Elicitados
 
-Ao longo do projeto são utilizadas diversas técnicas para aprofundamento do domínio do público alvo e definição de requisitos que serão úteis, posteriormente, na construção de funcionalidades dentro da aplicação.<br>
+Ao longo do projeto são utilizadas diversas técnicas para aprofundamento do domínio do [público alvo](/Modeling/objeto?id=público-alvo) e definição de requisitos que serão úteis, posteriormente, na construção de funcionalidades dentro da aplicação.<br>
 Os requisitos apresentados a seguir estão baseados nos documentos: Brainstorming, Entrevista, Questionário e StoryBoard elaborados em sprints anteriores. Outros requisitos serão inseridos a medida que outras técnicas sejam realizadas.<br>
 
 ## Histórico de Revisões
@@ -18,7 +18,7 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 | 11/09/2020 |  1.8   |                               Linkagem dos léxicos.                                | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 | 15/09/2020 |  1.9   |              Adição dos requisitos RF23, RF24, RNF04, RNF05 e RNF06.               |                     Micaella Gouveia e Sofia Patrocínio                     |
 | 15/09/2020 |  2.0   |                              adição de novos léxicos.                              |                                Gabriel Davi                                 |
-| 15/09/2020 |  2.1   | Adição de requisitos RF25 e RF26.                                                  |    Pedro Igor    |
+| 15/09/2020 |  2.1   | Adição de requisitos RF25 e RF26.                                                  |                                 Pedro Igor                                  |
 
 ## Requisitos Funcionais
 

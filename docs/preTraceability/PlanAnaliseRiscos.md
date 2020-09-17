@@ -39,11 +39,10 @@ O objetivo deste documento é explicitar como aconteceu o plano de análise de r
 - **Tecnologia**: É relativo a riscos relacionados às tecnologias e ferramentas utilizadas no projeto.
 - **Infraestrutura**: Um dos pontos mais críticos do gerenciamento de riscos em projetos de software, pois geralmente nos esquecemos de providenciar com antecedência a infraestrutura onde o software será executado. Envolve toda a questão de arquitetura, definição de tecnologia.
 
-#### Gerência de projeto
-
-- **Planejamento**: São riscos relacionados a erros de planejamento, como tarefas grandes em períodos curtos.
-- **Estimativa**: São erros que dizem respeito a erros de estimativa, como por exemplo erros de pontuação de histórias de [usuário](Modeling/objeto?id=usuário).
-- **Controle**: São riscos referentes à falta de ação sobre riscos identificados.
+#### Externos
+- **Mercado**: Baixa adesão dos usuários a aplicação, risco relacionado à utilização e evolução do projeto no mercado.
+- **Cliente**: Diz respeito aos riscos relacionados com o cliente, como aprovação da solução, boa aceitação da aplicação.
+- **Ambiente**: O ambiente pode influenciar no desempenho da equipe e no desenvolvimento do produto. No contexto de pandemia, trabalhos remotos podem acarretar vários riscos.
 
 #### Qualidade
 
