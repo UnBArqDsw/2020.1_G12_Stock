@@ -80,5 +80,5 @@ Esta pergunta não foi respondida nesta entrevista.
 | [#RF10](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  | Histórico de vendas |
 | [#RF19](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  | Delimitar quantidade mínima de um [produto](Modeling/objeto?id=Produto) |
 | [#RF20](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  | [Alertar](Modeling/verbo?id=Alertar) sobre quantidade mínima atingida |
-| [#RF24](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  | Consulta de [produtos](Modeling/objeto?id=Produto) mais vendidos |
+| [#RF26](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  | Consulta de [produtos](Modeling/objeto?id=Produto) mais vendidos |
 | [#RNF03](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) | [Consultas](Modeling/verbo?id=Consultar-Produto) remotas | 

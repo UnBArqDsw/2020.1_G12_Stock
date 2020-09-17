@@ -82,6 +82,6 @@ O entrevistado é [sócio](Modeling/objeto?id=Owner) da confeitaria Nutricakes, 
 | [#RF10](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  | Histórico de vendas |
 | [#RF19](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  | Delimitar quantidade mínima de um [produto](Modeling/objeto?id=Produto) |
 | [#RF20](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  | [Alertar](Modeling/verbo?id=Alertar) sobre quantidade mínima atingida |
-| [#RF23](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  | Registrar valor do [produto](Modeling/objeto?id=Produto) |
-| [#RF24](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  | Consulta de [produtos](Modeling/objeto?id=Produto) mais vendidos |
+| [#RF25](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  | Registrar valor do [produto](Modeling/objeto?id=Produto) |
+| [#RF26](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)  | Consulta de [produtos](Modeling/objeto?id=Produto) mais vendidos |
 | [#RNF03](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) | [Consultas](Modeling/verbo?id=Consultar-Produto) remotas | 
