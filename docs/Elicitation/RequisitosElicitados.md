@@ -18,6 +18,7 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 | 11/09/2020 |  1.8   |                               Linkagem dos léxicos.                                | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 | 15/09/2020 |  1.9   |              Adição dos requisitos RF23, RF24, RNF04, RNF05 e RNF06.               |                     Micaella Gouveia e Sofia Patrocínio                     |
 | 15/09/2020 |  2.0   |                              adição de novos léxicos.                              |                                Gabriel Davi                                 |
+| 15/09/2020 |  2.1   | Adição de requisitos RF25 e RF26.                                                  |                                 Pedro Igor                                  |
 
 ## Requisitos Funcionais
 
@@ -47,6 +48,9 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 | Lista de Compra                                                                                                    | **RF22** | O sistema deve ter uma lista de compras de [produtos](Modeling/objeto?id=Produto) pedidos por [clientes](Modeling/objeto?id=usuário) que não têm em [estoque](Modeling/objeto?id=Estoque).           | **RF04**            | [Entrevista](Elicitation/Entrevista.md)                                                                                                                                                                                   |
 | Cadastro de diferentes lotes do mesmo produto                                                                      | **RF23** | O sistema deve permitir o cadastro de um mesmo produto de lotes/validades diferentes.                                                                                                                | **RF03**            | [Questionário](Elicitation/Questionario.md)                                                                                                                                                                               |
 | Personalização da geração dos gráficos                                                                             | **RF24** | O sistema deve permitir a personalização da geração dos gráficos por período, categoria de produtos e funcionários.                                                                                  | **RF10**, **RF06**  | [Questionário](Elicitation/Questionario.md)                                                                                                                                                                               |
+| Registrar valor do [produto](Modeling/objeto?id=Produto)| **RF25** | O sistema deve ser capaz de armazenar o preço do [produto](Modeling/objeto?id=Produto). | **RF03** | [Entrevista](Elicitation/Entrevista.md)|
+| Consulta de [produtos](Modeling/objeto?id=Produto) mais vendidos | **RF26** | O sistema deve ser capaz de informar os [produtos](Modeling/objeto?id=Produto) que mais estão saindo do [estoque](Modeling/objeto?id=Estoque). | **RF10** | [Entrevista](Elicitation/Entrevista.md) |
+
 
 ## Requisitos Não Funcionais
 
