@@ -11,6 +11,7 @@ A entrevista é uma técnica de elicitação de requisitos que se baseia em ques
 | 09/09/2020 |  1.2   |             Adição dos requisitos da entrevista 1.           |   Gabriel Davi   |
 | 09/09/2020 |  1.3   |             Adição da entrevista 3 e requisitos.           |   Sofia Patrocínio   |
 | 11/09/2020 |  1.4   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 15/09/2020 |  1.5   | Adição de mais requisitos elicitados na técnica.             |     Pedro Igor   |
 
 ## Roteiro de Perguntas
 
@@ -37,6 +38,8 @@ Foi desenvolvido um roteiro de perguntas que será utilizado para todas as entre
 ### [*Entrevista 1 - Ivanete Bezerra, 49 anos](Elicitation/Entrevistas/entrevista1.md)
 ### [*Entrevista 2 - Dinamara Carvalho, 44 anos](Elicitation/Entrevistas/entrevista2.md)
 ### [*Entrevista 3 - Raissa, 27 anos](Elicitation/Entrevistas/entrevista3.md)
+### [*Entrevista 4 - Ricardo](Elicitation/Entrevistas/entrevista4.md)
+### [*Entrevista 5 - Matheus, 23 anos](Elicitation/Entrevistas/entrevista5.md)
 
 
 ## Requisitos Totais levantados
@@ -59,6 +62,8 @@ Foi desenvolvido um roteiro de perguntas que será utilizado para todas as entre
 |    [#RF19](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     Delimitar quantidade mínima de um [produto](Modeling/objeto?id=Produto)            |
 |    [#RF20](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     [Alertar](Modeling/verbo?id=Alertar) sobre quantidade mínima atingida            |
 | [#RF22](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     Lista de Compra                   |
+| [#RF25](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) | O sistema deve ser capaz de armazenar o preço do [produto](Modeling/objeto?id=Produto). |
+| [#RF26](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) | O sistema deve ser capaz de informar os [produtos](Modeling/objeto?id=Produto) que mais estão saindo do [estoque](Modeling/objeto?id=Estoque). |
 | [#RNF01](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |         Rapidez na [consulta](Modeling/verbo?id=Consultar-Produto)         |
 | [#RNF02](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |         Gráficos didáticos          |
 | [#RNF03](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |          [Consultas](Modeling/verbo?id=Consultar-Produto) remotas          |

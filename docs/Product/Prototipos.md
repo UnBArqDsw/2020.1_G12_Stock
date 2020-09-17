@@ -9,6 +9,7 @@ O objetivo de um [protótipo](Modeling/objeto?id=protótipo) é criar uma repres
 | 16/09/2020 |  1.0   | Abertura do documento de [protótipo](Modeling/objeto?id=protótipo)  | Gabriel Davi e Sofia Patrocínio |
 | 16/09/2020 |  1.1   | Adição da introdução, referências e index dos [prototipos](Modeling/objeto?id=protótipo)  | Micaella Gouveia e Sofia Patrocínio |
 | 16/09/2020 |  1.2   | Linkagem dos léxicos   | Gabriel Davi, Micaella Gouveia e Sofia Patrocínio|
+| 17/09/2020 |  1.3   | Adição dos requisitos RF28, RF30 e RF31   | Micaella Gouveia|
 
 
 ## Metodologia
@@ -24,6 +25,9 @@ Para a produção dos [protótipos](Modeling/objeto?id=protótipo) o time decidi
 |                                     Id                                      |                Nome                 |
 | :-- | :-- |
 | [#RF27](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) |  Feedback  |
+| [#RF28](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) |  Pedido de cadastro da empresa  |
+| [#RF30](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) |  Nível de acesso  |
+| [#RF31](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) |  Controle de colaboradores  |
 
 ## Referências
 * Vantagens da prototipação no desenvolvimento de software: <https://www.treinaweb.com.br/blog/vantagens-da-prototipacao-no-desenvolvimento-de-software/>. Último acesso em 16/09/2020.

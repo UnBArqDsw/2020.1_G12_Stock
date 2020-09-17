@@ -434,7 +434,7 @@ Sendo que:
             <td>18</td>
             <td>Falhas e <a href="#/Modeling/objeto?id=bug">bugs</a></td>
             <td>Mitigar</td>
-            <td>Dedicar <a href="#/Modeling/objeto?id=bug">issues</a> de <a href="#/Modeling/objeto?id=issues">bugs</a> e refatoração</td>
+            <td>Dedicar <a href="#/Modeling/objeto?id=issue">issues</a> de <a href="#/Modeling/objeto?id=bug">bugs</a> e refatoração</td>
         </tr>
     </tbody>
 </table>
