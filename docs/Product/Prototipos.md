@@ -16,6 +16,13 @@ Para a produção dos protótipos o time decidiu, durante a [Sprint 3](Sprints/p
 ## Protótipos
 ### [Protótipo de Baixa Fidelidade](Product/PrototipoBaixa.md)
 ### [Protótipo de Média Fidelidade](Product/PrototipoMedia.md)
+### [Planejamento da Avaliação](Product/PlanejamentoAvaliacao.md)
+
+
+## Requisitos Elicitados
+|                                     Id                                      |                Nome                 |
+| :-- | :-- |
+| [#RF27](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) |  Feedback  |
 
 ## Referências
 * Vantagens da prototipação no desenvolvimento de software: <https://www.treinaweb.com.br/blog/vantagens-da-prototipacao-no-desenvolvimento-de-software/>. Último acesso em 16/09/2020.
