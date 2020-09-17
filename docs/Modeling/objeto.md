@@ -8,8 +8,10 @@
 | 09/09/2020 |  1.1   |     Estruturação dos léxicos      |                                Gabriel Alves                                |
 | 10/09/2020 |  1.2   | Revisão e finalização dos léxicos | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 | 11/09/2020 |  1.3   |       Criação do documento        |                                Gabriel Alves                                |
-| 11/09/2020 |  1.4   |  Linkagem dos léxicos.            | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
-| 15/09/2020 |  1.5   | Adição e linkagem de mais um léxico. | Pedro Igor |
+| 11/09/2020 |  1.4   |       Linkagem dos léxicos.       | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 15/09/2020 |  1.5   |     Adição de novos léxicos.      |                                Gabriel Davi         |
+| 15/09/2020 |  1.6   | Adição e linkagem de mais um léxico. | Pedro Igor |
+
 
 ### PWA
 |   Noção   |   Impacto   |   Sinônimos    |
@@ -118,6 +120,18 @@
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
 | O desenvolvedor é a pessoa responsável por criar a solução de software. | Desenvolvedor resolveu um bug da aplicação. <br><br> Desenvolvedor conversa com [stakeholder](Modeling/objeto?id=Stakeholder). <br><br> Desenvolvedor colocou a aplicação no ar. | Dev. <br><br> Programador. <br><br> Engenheiro de software. |
+
+### Protótipo
+
+|                                     Noção                                     |                                                   Impacto                                                   |               Sinônimos               |
+| :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-----------------------------------: |
+| É um esboço em desenho ou em programa gráfico de como ficará o produto final. | O designer criou o protótipo. <br><br> O [stakeholder](Modeling/objeto?id=Stakeholder) aprovou o protótipo. | Esboço. <br><br> Desenho do software. |
+
+### Público Alvo
+
+|                                                                                  Noção                                                                                   |                                                                                                            Impacto                                                                                                            |          Sinônimos          |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------: |
+| É segmento da sociedade com determinadas características em comum (idade, sexo, profissão, interesses etc.), ao qual se dirige uma mensagem ou um conjunto de mensagens. | O [público alvo](/Modeling/objeto?id=público-alvo) desse [Web App](Modeling/objeto?id=Web-App) é bem amplo. <br><br> O [Web App](Modeling/objeto?id=Web-App) não atingiu seu [público alvo](/Modeling/objeto?id=público-alvo) | Audiência <br><br> Público. |
 
 ### Planilha
 |   Noção   |   Impacto   |   Sinônimos    |
