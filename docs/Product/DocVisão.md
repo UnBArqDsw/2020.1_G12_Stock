@@ -109,12 +109,12 @@ O Stock poderá ser acessado através de um [navegador](Modeling/objeto?id=Naveg
 ### 3.6 Necessidades Principais do Investidor ou [Usuário](Modeling/objeto?id=usuário)
 | Necessidade | Prioridade | Interesse | Solução Atual | Solução Proposta |
 | ----------- | ---------- | --------- | ------------- | ---------------- |
-| Controlar fluxo de estoque | Alta | Não ter dados inconsistentes  | Planilhas ou Sistemas Caros | Controlar fluxo em tempo real
+| Controlar [fluxo](Modeling/verbo?id=fluxo) de estoque | Alta | Não ter dados inconsistentes  | Planilhas ou Sistemas Caros | Controlar [fluxo](Modeling/verbo?id=fluxo) em tempo real
 | [Consultar](Modeling/verbo?id=Consultar-Produto) facilmente [produtos](Modeling/objeto?id=Produto) no [estoque](Modeling/objeto?id=Estoque) | Alta | Facilitar [consulta](Modeling/verbo?id=Consultar-Produto) | Conferência de [Estoque](Modeling/objeto?id=Estoque) | Tela de [produtos](Modeling/objeto?id=Produto) em [estoque](Modeling/objeto?id=Estoque) em poucos cliques
 | Mitigar prejuízos por vencimento de [produtos](Modeling/objeto?id=Produto) | Alta | Avisos com antecedência | Conferência de [Estoque](Modeling/objeto?id=Estoque) Periodicamente | [Avisos](Modeling/verbo?id=Alertar) programados sempre que [produto](Modeling/objeto?id=Produto) estiver prestes a vencer
 | Gerenciar vendas | Alta | Dados mais intuitivos | Planilhas | Gráficos ilustrativos e [Exportação](Modeling/verbo?id=Exportação) de planilhas
 
-## 4. Visão Geral do [Produto](Modeling/objeto?id=Produto)
+## 4. Visão Geral do Produto
 ### 4.1 Perspectiva do [Produto](Modeling/objeto?id=Produto)
 
 O software será um [Aplicação Web](Modeling/objeto?id=Web-App) e [PWA](Modeling/objeto?id=PWA), com informações sobre [estoque](Modeling/objeto?id=Estoque) e vendas em tempo real.
@@ -132,7 +132,7 @@ O software será um [Aplicação Web](Modeling/objeto?id=Web-App) e [PWA](Modeli
 
 O Stock será distribuído sob a licença MIT para softwares livres, que dá liberdade para todos que o adquirirem de modificar, distribuir, sublicenciar, vender e contribuir para o software.
 
-## 5. Recursos do [Produto](Modeling/objeto?id=Produto)
+## 5. Recursos do Produto
 ### 5.1 Criar, atualizar, [listar por categorias](Modeling/verbo?id=Filtrar-Produtos) e remover [estoque](Modeling/objeto?id=Estoque).
 ### 5.2 Geração, [Importação](Modeling/verbo?id=Importação) e [Exportação](Modeling/verbo?id=Exportação) de planilhas de [consulta de estoque](Modeling/verbo?id=Consultar-Produto).
 

@@ -64,7 +64,7 @@ _Definições do [estoque](Modeling/objeto?id=Estoque):_<br><br>
 **8** - Qual a frequência de reposição de [estoque](Modeling/objeto?id=Estoque)?<br>
 ![Pergunta 8](../assets/questionario/8.png)
 
-Essa informação diz respeito ao fluxo do [estoque](Modeling/objeto?id=Estoque), fundamental para elaboração de gráficos de [controle de estoque](/Modeling/verbo?id=controle-de-estoque) e de vendas.<br><br>
+Essa informação diz respeito ao [fluxo](Modeling/verbo?id=fluxo) do [estoque](Modeling/objeto?id=Estoque), fundamental para elaboração de gráficos de [controle de estoque](/Modeling/verbo?id=controle-de-estoque) e de vendas.<br><br>
 
 **9** - Qual a quantidade de [produtos](Modeling/objeto?id=Produto) que saem do [estoque](Modeling/objeto?id=Estoque) diariamente (aproximadamente)?<br>
 ![Pergunta 9](../assets/questionario/9.png)

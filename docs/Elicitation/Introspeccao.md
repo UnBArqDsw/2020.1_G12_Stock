@@ -12,7 +12,7 @@ A introspecção é uma técnica muito utilizada na etapa de elicitação de req
 
 
 ## Metodologia
-A elicitação dos requisitos por meio de instrospecção consiste em imaginar qual seria o fluxo de necessidades que o [usuário](Modeling/objeto?id=usuário) teria ao utilizar a aplicação.
+A elicitação dos requisitos por meio de instrospecção consiste em imaginar qual seria o [fluxo](Modeling/verbo?id=fluxo) de necessidades que o [usuário](Modeling/objeto?id=usuário) teria ao utilizar a aplicação.
 
 Para o uso da técnica, utilizamos as personas criadas como base para a introspecção. Com isso, evitamos a falha desta técnica, pois os requisitos levantados serão retirados e pensados na visão do [usuário](Modeling/objeto?id=usuário), com base nas personas que possuímos, que são inspiradas em [clientes](Modeling/objeto?id=usuário) reais, pessoas reais que podem utilizar a aplicação.
 

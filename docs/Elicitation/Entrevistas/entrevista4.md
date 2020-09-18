@@ -26,7 +26,7 @@ O entrevistado é [sócio](Modeling/objeto?id=Owner) da confeitaria Nutricakes, 
 
 ### 5. Como você costuma mensurar quanto o seu negócio obteve de crescimento? E de prejuízo?
 
-"Fazemos o controle financeiro, quase que contábil. Fazemos o controle de fluxo de caixa atraveś de DFC. Apuramos lucros e prejuízos com uma DRE que a gente tem, a gente sabe o ponto de equilíbrio e tudo mais. Temos um número de faturamento a se buscar."
+"Fazemos o controle financeiro, quase que contábil. Fazemos o controle de [fluxo](Modeling/verbo?id=fluxo) de caixa atraveś de DFC. Apuramos lucros e prejuízos com uma DRE que a gente tem, a gente sabe o ponto de equilíbrio e tudo mais. Temos um número de faturamento a se buscar."
 
 ### 6. Você costuma registrar em algum lugar os [produtos](Modeling/objeto?id=Produto) que são vendidos? Se sim, como funciona esse processo?
 
