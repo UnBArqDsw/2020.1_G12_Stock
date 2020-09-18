@@ -21,6 +21,7 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 | 15/09/2020 |  2.1   | Adição de requisitos RF25 e RF26.                                                  |                                 Pedro Igor                                  |
 | 17/09/2020 |  2.2   | Adição dos requisitos RF28, RF29, RF30 e RF31   | Micaella Gouveia|
 | 17/09/2020 |  2.3   |       Adição do léxico de feedback e fluxo     | Gabriel Davi |
+| 18/09/2020 |  2.4   | Adição dos requisitos RF32 e RF33   | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 
 
 ## Requisitos Funcionais
@@ -58,6 +59,8 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 | Filtro pela [prazo de validade](Modeling/estado?id=Prazo-de-Validade) | **RF29** | O sistema deve permitir que o usuário filtre sua pesquisa pelo [prazo de validade](Modeling/estado?id=Prazo-de-Validade).| **RF01**, **RF03**, **RF04**  | [Storyboard](Elicitation/StoryBoard.md)    |
 | Nível de acesso | **RF30** | O sistema deve permitir que o usuário owner e admin edite o nível de acesso de um colaborador. | **RF01**, **RF02**  | [Protótipos](Product/Prototipos.md)    |
 | Controle de colaboradores | **RF31** | O sistema deve permitir que o usuário owner ou admin adicione ou remova colaboradores da aplicação. | **RF01**, **RF02**  | [Protótipos](Product/Prototipos.md)    |
+| Cadastro de valor de fábrica | **RF32** | O sistema deve permitir que o usuário cadastre um [produto](Modeling/objeto?id=Produto) adicionando seu valor de fábrica. | **RF01**, **RF03**  | [Protótipos](Product/Prototipos.md)    |
+| Margem de lucro | **RF33** | O sistema deve permitir que o usuário Visualizar a margem de lucro dos seus [produto](Modeling/objeto?id=Produto). | **RF01**, **RF32**  | [Protótipos](Product/Prototipos.md)    |
 
 ## Requisitos Não Funcionais
 

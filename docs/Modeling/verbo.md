@@ -83,9 +83,9 @@
 ### Feedback
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-| Feedbak é o ato de disponibilizar uma opinião ou análise sobre determinado objeto ou situação | [Stakeholders](Modeling/objeto.md?id=stakeholder) dão seu feedback sobre o [produto](Modeling/objeto.md?id=produto). <br><br> [desenvolvedores](Modeling/objeto?id=desenvolvedor) melhoram seus [aplicativos](Modeling/objeto?id=web-app) basedado no feedback de seus clientes. | Dar feedback. <br><br>  |
+| Feedbak é o ato de disponibilizar uma opinião ou análise sobre determinado objeto ou situação | [Stakeholders](Modeling/objeto.md?id=stakeholder) dão seu feedback sobre o [produto](Modeling/objeto.md?id=produto). <br><br> [Desenvolvedores](Modeling/objeto?id=desenvolvedor) melhoram seus [aplicativos](Modeling/objeto?id=web-app) basedado no feedback de seus clientes. | Dar feedback. <br><br>  |
 
 ### Fluxo
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-| Fluxo indica um equilíbrio dinâmico de um sisteme ou ambiente, no qual possuimo entrada e saida de elementos de seu meio | Um negócio possui um fluxo de produto, ou de caixa <br><br>  [aplicativos](Modeling/objeto?id=web-app) possuem fluxos de usabilidade. | Entrada e saida.  |
+| Fluxo indica um equilíbrio dinâmico de um sistema ou ambiente, no qual possui entrada e saída de elementos de seu meio | Um negócio possui um fluxo de produto, ou de caixa <br><br>  [Aplicativos](Modeling/objeto?id=web-app) possuem fluxos de usabilidade. | Entrada e saída.  |
