@@ -32,7 +32,8 @@ O que será avaliado com o [protótipo](Modeling/objeto?id=protótipo):
 2. Entrar na plataforma e acessar o Dashboard.
 3. Editar seu perfil.
 5. Visualizar colaboradores.
-6. Adicionar um produto no [estoque](Modeling/verbo?id=Controle-de-Estoque).
+6. Excluir o colaborador Thiago Souza.
+7. Adicionar um produto no [estoque](Modeling/verbo?id=Controle-de-Estoque).
 
 ## Perfil do [Usuário](Modeling/objeto?id=usuário)
 O perfil dos [usuários](Modeling/objeto?id=usuário) será bem semelhante às pessoas reais que potencialmente utilizarão a aplicação. O teste será feito inicialmente por 3 participantes.
