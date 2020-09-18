@@ -13,6 +13,8 @@ Com isso, abaixo mostramos os argumentos, que levaram o grupo a escolha do tema 
 | 27/08/2020 |  1.2   | Adição do diagrama ACE em aplicação de [controle de estoque](Modeling/verbo?id=Controle-de-Estoque) e atualizando Referências | Gabriel Alves |
 | 28/08/2020 |  1.3   |                                Adição do resultado da votação e formatando conteúdo da página.                                |  Pedro Igor   |
 | 11/09/2020 |  1.4   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 17/09/2020 |  1.5   |       Adição do léxico de fluxo     | Gabriel Davi |
+
 
 # Argumentação em torno da escolha da aplicação
 

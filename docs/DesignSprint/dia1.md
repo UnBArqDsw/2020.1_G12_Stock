@@ -12,6 +12,8 @@
 | 06/09/2020 |  1.1   |     Adição do relato do mediador     |                                 Pedro Igor                                  |
 | 09/09/2020 |  1.2   |    Padronização do texto e fotos     |                              Sofia Patrocínio                               |
 | 11/09/2020 |  1.3   |         Adição das gravações         |                              Sofia Patrocínio                               |
+| 17/09/2020 |  1.4   |       Adição do léxico de fluxo     | Gabriel Davi |
+
 
 ## Relato do Mediador
 

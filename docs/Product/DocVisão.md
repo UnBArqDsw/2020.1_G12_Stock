@@ -10,6 +10,8 @@
 | 03/09/2020 | 1.1    | Adição do documento na wiki.                     | Sofia Patrocínio                                                             |
 | 09/09/2020 | 1.2    | Adição de hyperlink para página de Design Sprint | Sofia Patrocínio                                                     |
 | 11/09/2020 |  1.3   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 17/09/2020 |  1.4   |       Adição do léxico de fluxo     | Gabriel Davi |
+
 
 ## 1. Introdução
 

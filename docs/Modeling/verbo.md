@@ -9,6 +9,7 @@
 | 10/09/2020 |  1.2   | Revisão e finalização dos léxicos | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 | 11/09/2020 |  1.3   |       Criação do documento        |                                Gabriel Alves                                |
 | 11/09/2020 |  1.4   |       Linkagem dos léxicos.       | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 17/09/2020 |  1.5   |       Adição do léxico de feedback e fluxo      | Gabriel Davi |
 
 <br>
 

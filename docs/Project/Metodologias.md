@@ -7,6 +7,7 @@
 | 05/09/2020 |  1.1   |  Adição da imagem de ferramentas e ajustes no texto | Sofia |
 | 07/09/2020 | 1.2 | Adição do texto explicativo das metodologias | Micaella Gouveia e Sofia Patrocínio |
 | 11/09/2020 |  1.3   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 17/09/2020 |  1.4   |       Adição do léxico de fluxo     | Gabriel Davi |
 
 
 # Práticas Ágeis 

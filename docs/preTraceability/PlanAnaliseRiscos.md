@@ -11,6 +11,8 @@
 | 04/09/2020| 1.3 | Adição de hyperlink para página de Design Sprint | Micaella Gouveia |
 | 09/09/2020 | 1.4 | Correção da rota de hyperlink para página de Design Sprint | Sofia Patrocínio |
 | 11/09/2020 |  1.5   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 17/09/2020 |  1.6   |       Adição do léxico de fluxo     | Gabriel Davi |
+
 
 ## Introdução
 

@@ -16,6 +16,7 @@ As perguntas a seguir foram elaboradas em um dos dias de [Design Sprint](DesignS
 | 15/09/2020 |  1.4   |                                        Adição das respostas do questionário.                                         |                     Micaella Gouveia e Sofia Patrocínio                     |
 | 15/09/2020 |  1.5   |                                     Levantamento dos requisitos do questionário.                                     |                     Micaella Gouveia e Sofia Patrocínio                     |
 | 15/09/2020 |  1.6   |                                               adição de novos léxicos.                                               |                                Gabriel Davi                                 |
+| 17/09/2020 |  1.7   |       Adição do léxico de fluxo     | Gabriel Davi |
 
 ## Respostas
 

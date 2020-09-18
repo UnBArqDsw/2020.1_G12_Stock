@@ -9,6 +9,8 @@ A introspecção é uma técnica muito utilizada na etapa de elicitação de req
 | 08/09/2020 |  1.0   | Criação do documento e adição da metodologia. | Micaella Gouveia |
 | 10/09/2020 |  1.1   | Adição dos requisitos elicitados com base nas personas. | Micaella Gouveia |
 | 11/09/2020 |  1.2   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 17/09/2020 |  1.3   |       Adição do léxico de fluxo     | Gabriel Davi |
+
 
 
 ## Metodologia

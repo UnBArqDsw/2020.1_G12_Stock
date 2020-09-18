@@ -20,6 +20,8 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 | 15/09/2020 |  2.0   |                              adição de novos léxicos.                              |                                Gabriel Davi                                 |
 | 15/09/2020 |  2.1   | Adição de requisitos RF25 e RF26.                                                  |                                 Pedro Igor                                  |
 | 17/09/2020 |  2.2   | Adição dos requisitos RF28, RF29, RF30 e RF31   | Micaella Gouveia|
+| 17/09/2020 |  2.3   |       Adição do léxico de feedback e fluxo     | Gabriel Davi |
+
 
 ## Requisitos Funcionais
 
