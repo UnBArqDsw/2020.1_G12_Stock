@@ -15,6 +15,7 @@ Para o projeto, foram feitas duas técnincas de Priorização, são elas o MoSCo
 ## Tipos de Priorização
 
  - [MoSCoW](Modeling/MOSCOW.md)
+ - [First Things First](Modeling/FirstThingsFirst.md)
 
 ## Referências
 * PRIORIZAÇÃO DE REQUISITOS E PROJETOS – PRODUCT MANAGEMENT: <https://leonardo-matsumota.com/2019/12/18/priorizacao-de-requisitos-e-projetos-product-management/>. Último acesso em 19/09/2020.
