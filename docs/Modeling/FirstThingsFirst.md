@@ -33,10 +33,161 @@ Prioridade = Valor% / (Custo% * Peso do Custo + Risco% * Peso do Risco)
 | Data | Versão | Descrição | Autor(es) |
 |:----:|:------:|:---------:|:---------:|
 | 18/09/2020 | 1.0 | Priorização First Thins First. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
-| 19/09/2020 | 1.1 | Adição da tabela.              | Pedro Igor |
-| 19/09/2020 | 1.2 | Adição da introdução e detalhamento da técnica. | Pedro Igor | 
+| 19/09/2020 | 1.1 | Adição da tabela, introdução e detalhamento da técnica e referências.              | Pedro Igor |
+| 19/09/2020 | 1.2 | Adição da tabela de requisitos não avaliados.   | Pedro Igor |  
 
 ## Requisitos Não Avaliados
+<div class="ritz grid-container" dir="ltr">
+  <table class="waffle" cellspacing="0" cellpadding="0">
+    <tbody>
+      <tr style='height:20px;'>
+        <td class="s0" dir="ltr">Desejo</td>
+        <td class="s0" dir="ltr">Para que eu possa</td>
+        <td class="s0" dir="ltr">Requisitos</td>
+        <td class="s0" dir="ltr">MOSCOW</td>
+        <td class="s0" dir="ltr">Motivo</td>
+        <td class="s0" dir="ltr">Dependência</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1" dir="ltr">Dar feedbacks ao suporte da aplicação</td>
+        <td class="s1" dir="ltr">Relatar qualquer erro encontrado ou sugestões de novas funcionalidades</td>
+        <td class="s1" dir="ltr">RF27</td>
+        <td class="s1" dir="ltr">Would</td>
+        <td class="s2">Avaliado como Would no MOSCOW</td>
+        <td class="s1" dir="ltr">-</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1" dir="ltr">Remover itens do controle de estoque</td>
+        <td class="s1" dir="ltr">Controlar vendas e remoções do estoque</td>
+        <td class="s1" dir="ltr">RF07</td>
+        <td class="s1" dir="ltr">Must</td>
+        <td class="s3" dir="ltr">Depende de &quot;Cadastrar itens no meu controle de estoque&quot;.</td>
+        <td class="s4" dir="ltr">RF03</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1">Dar baixa em um produto pelo aplicativo mobile</td>
+        <td class="s1">Vender ou remover produtos mais facilmente</td>
+        <td class="s1">RF18, RNF03, RNF05</td>
+        <td class="s1" dir="ltr">Should</td>
+        <td class="s3" dir="ltr">Depende de &quot;Cadastrar itens no meu controle de estoque&quot; e &quot;Possuir uma
+          versão mobile do aplicativo do estoque&quot;.</td>
+        <td class="s4" dir="ltr">RF03, RF17,RNF03, RNF05</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1">Definir a quantidade mínima de determinado produto</td>
+        <td class="s1">Ser notificado quando um item estiver em baixa no estoque</td>
+        <td class="s1">RF19</td>
+        <td class="s1" dir="ltr">Could</td>
+        <td class="s3" dir="ltr">Depende de &quot;Cadastrar itens no meu controle de estoque&quot;.</td>
+        <td class="s4" dir="ltr">RF03</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1">Ter uma lista de produtos solicitados por clientes que não estão disponíveis no estoque</td>
+        <td class="s1">Adquirir esses produtos e disponibinizá-los no estoque</td>
+        <td class="s1">RF22</td>
+        <td class="s1" dir="ltr">Would</td>
+        <td class="s3">Avaliado como Would no MOSCOW</td>
+        <td class="s1" dir="ltr">-</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1" dir="ltr">Cadastrar um produto adicionando seu valor de fábrica</td>
+        <td class="s1" dir="ltr">Visualizar uma margem de lucro satisfatória</td>
+        <td class="s1" dir="ltr">RF32</td>
+        <td class="s1" dir="ltr">Would</td>
+        <td class="s3">Avaliado como Would no MOSCOW</td>
+        <td class="s1" dir="ltr">-</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1" dir="ltr">Filtrar a minha busca por uma categoria no controle de estoque</td>
+        <td class="s1">Acessar com facilidade os produtos relacionados a esta categoria</td>
+        <td class="s1">RF05</td>
+        <td class="s1" dir="ltr">Could</td>
+        <td class="s3" dir="ltr">Depende de &quot;Consultar itens presentes no meu estoque&quot;.</td>
+        <td class="s4" dir="ltr">RF04, RNF01, RNF03, RNF05</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1">Filtrar a busca de um produto por nome e/ou preço</td>
+        <td class="s1">Acessar com facilidade as informações sobre este produto</td>
+        <td class="s1">RF12</td>
+        <td class="s1" dir="ltr">Should</td>
+        <td class="s3" dir="ltr">Depende de &quot;Consultar itens presentes no meu estoque&quot;.</td>
+        <td class="s4" dir="ltr">RF04, RNF01, RNF03, RNF05</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1">Gostaria de, no momento da listagem, poder filtrar os produtos pela data de adição</td>
+        <td class="s1">Ter um melhor controle dos produtos que estão mais tempo parados no meu estoque</td>
+        <td class="s1">RF13</td>
+        <td class="s1" dir="ltr">Could</td>
+        <td class="s3" dir="ltr">Depende de &quot;Consultar itens presentes no meu estoque&quot;.</td>
+        <td class="s4" dir="ltr">RF04, RNF01, RNF03, RNF05</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1">Consultar produtos que mais saem do meu estoque</td>
+        <td class="s1">Saber quais produtos devo comprar em maior quantidade</td>
+        <td class="s1">RF26, RNF01</td>
+        <td class="s1" dir="ltr">Would</td>
+        <td class="s3">Avaliado como Would no MOSCOW</td>
+        <td class="s1" dir="ltr">-</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1">No momento da listagem, poder filtrar os produtos pela data de vencimento</td>
+        <td class="s1">Ter um melhor controle dos produtos que estão para vencer</td>
+        <td class="s1">RF29</td>
+        <td class="s1" dir="ltr">Could</td>
+        <td class="s3" dir="ltr">Depende de &quot;Consultar itens presentes no meu estoque&quot;.</td>
+        <td class="s4" dir="ltr">RF04, RNF01, RNF03, RNF05</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1">Ser alertado que um ou mais produtos estão com quantidades mínimas no estoque</td>
+        <td class="s1">Reabastecer itens quando estiver em baixa no estoque</td>
+        <td class="s1">RF20</td>
+        <td class="s1" dir="ltr">Could</td>
+        <td class="s3" dir="ltr">Depende de &quot;Definir a quantidade mínima de determinado produto&quot;.</td>
+        <td class="s4" dir="ltr">RF19</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1">Ser alertado caso um produto ultrapasse o seu prazo de validade</td>
+        <td class="s1">Organizar meu estoque, retirando este produto vencido</td>
+        <td class="s1">RF21</td>
+        <td class="s1" dir="ltr">Should</td>
+        <td class="s5" dir="ltr">Depende de &quot;Cadastrar itens no meu controle de estoque&quot;.</td>
+        <td class="s4" dir="ltr">RF03</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1" dir="ltr">Gerar gráficos que marcam o periodo por quantidade total de produto</td>
+        <td class="s1" dir="ltr">Fazer uma análise melhor do crescimento geral do meu estoque</td>
+        <td class="s1" dir="ltr">RF24, RNF02</td>
+        <td class="s1" dir="ltr">Could</td>
+        <td class="s3" dir="ltr">Consultar um log de remoção e adição de itens ao estoque.</td>
+        <td class="s4" dir="ltr">RF10, RNF01</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1" dir="ltr">Gerar gráficos que marcam a quantidade de produtos por categoria</td>
+        <td class="s1" dir="ltr">Saber a quantidade de produtos por categorias</td>
+        <td class="s1" dir="ltr">RF24, RNF02</td>
+        <td class="s1" dir="ltr">Would</td>
+        <td class="s3">Avaliado como Would no MOSCOW</td>
+        <td class="s1" dir="ltr">-</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1" dir="ltr">Visualizar a margem de lucro dos meus produtos </td>
+        <td class="s1" dir="ltr">Precificar da melhor forma os produtos</td>
+        <td class="s1" dir="ltr">RF33</td>
+        <td class="s1" dir="ltr">Would</td>
+        <td class="s3">Avaliado como Would no MOSCOW</td>
+        <td class="s1" dir="ltr">-</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1">Filtrar para consulta um log de remoção e adição de itens ao estoque de forma temporal</td>
+        <td class="s1">Consultar o fluxo de estoque em um período específico</td>
+        <td class="s1">RF11, RNF01</td>
+        <td class="s1" dir="ltr">Could</td>
+        <td class="s3" dir="ltr">Consultar um log de remoção e adição de itens ao estoque.</td>
+        <td class="s4" dir="ltr">RF10, RNF01</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ## First Things First
 <div class="ritz grid-container" dir="ltr">
@@ -303,3 +454,4 @@ Prioridade = Valor% / (Custo% * Peso do Custo + Risco% * Peso do Risco)
 </div>
 
 ## Referências
+ - First Things First: <https://www.processimpact.com/articles/prioritizing.pdf>. Último acesso em 19/09/2020
