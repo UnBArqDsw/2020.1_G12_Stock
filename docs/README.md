@@ -1,7 +1,7 @@
   <h2>Arquitetura e desenho de software</h2>
   <h3>Sobre o projeto</h3>
 
-  Trata-se de um sistema para [cadastro](Modeling/verbo?id=Cadastrar-Produto) e [consulta de estoque](Modeling/verbo?id=Consultar-Produto). Ele possui uma plataforma web para [cadastro](Modeling/verbo?id=Cadastrar-Produto) e listagem de produtos, bem como geração de planilhas com resumos e gráficos para mostrar sua evolução. Também, possui uma versão mobile somente para [consulta](Modeling/verbo?id=Consultar-Produto) rápida de produtos e para atualização mais ágil do [estoque](Modeling/objeto?id=Estoque) (Retirar um produto recém vendido, por exemplo) e por fim um servidor que irá cuidar de todo o fluxo do negócio. 
+  Trata-se de um sistema para [cadastro](Modeling/verbo?id=Cadastrar-Produto) e [consulta de estoque](Modeling/verbo?id=Consultar-Produto). Ele possui uma plataforma web para [cadastro](Modeling/verbo?id=Cadastrar-Produto) e listagem de produtos, bem como geração de planilhas com resumos e gráficos para mostrar sua evolução. Também, possui uma versão mobile somente para [consulta](Modeling/verbo?id=Consultar-Produto) rápida de produtos e para atualização mais ágil do [estoque](Modeling/objeto?id=Estoque) (Retirar um produto recém vendido, por exemplo) e por fim um servidor que irá cuidar de todo o [fluxo](Modeling/verbo?id=fluxo) do negócio. 
   
 
   <h3>Membros da equipe</h3>

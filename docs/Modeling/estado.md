@@ -38,7 +38,7 @@
 ### Em produção
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-| Uma aplicação está em produção quando está no ar em pronto para uso. | O site entra em produção. <br><br> O site deu problema em produção. <br><br> O programador consertou o bug em produção. | Aplicação no ar. <br><br> Aplicação que sofreu [deploy](Modeling/estado?id=Deploy)|
+| Uma aplicação está em produção quando está no ar em pronto para uso. | O site entra em produção. <br><br> O site deu problema em produção. <br><br> O programador consertou o [bug](Modeling/objeto?id=Bug) em produção. | Aplicação no ar. <br><br> Aplicação que sofreu [deploy](Modeling/estado?id=Deploy)|
 
 ### Em desenvolvimento
 |   Noção   |   Impacto   |   Sinônimos    |

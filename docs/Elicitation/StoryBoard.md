@@ -12,6 +12,7 @@ O storyboard é uma sequência de desenhos quadro a quadro com o esboço das div
 | 09/09/2020 |  1.3   |          Adição do storyboard de vencimento.          | Sofia Patrocínio |
 | 09/09/2020 |  1.4   |           Adição do requisitos RF9 e RF21.            | Sofia Patrocínio |
 | 11/09/2020 |  1.5   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 17/09/2020 |  1.6   | Adição do requisito RF29   | Micaella Gouveia|
 
 ## StoryBoards
 
@@ -72,9 +73,11 @@ O storyboard é uma sequência de desenhos quadro a quadro com o esboço das div
 |   [#RF017](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   | App para [consulta](Modeling/verbo?id=Consultar-Produto) fácil de [produtos](Modeling/objeto?id=Produto) |
 |   [#RF018](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   |  App para baixa fácil de [produtos](Modeling/objeto?id=Produto)   |
 |   [#RF021](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   | Notificação de [prazo de vencimento](Modeling/estado?id=Prazo-de-Validade)  |
+| [#RF029](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) | Filtro pela [prazo de validade](Modeling/estado?id=Prazo-de-Validade) |
 | [#RNF01](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |         Rapidez na [consulta](Modeling/verbo?id=Consultar-Produto)         |
 | [#RNF02](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |         Gráficos didáticos          |
 | [#RNF03](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |          [Consultas](Modeling/verbo?id=Consultar-Produto) remotas          |
+
 
 ## Referências
 
