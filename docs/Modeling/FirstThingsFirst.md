@@ -1,4 +1,31 @@
 # First Things First
+O método First Things First é uma técnica de priorização de requisitos que analisa matematicamente o benefício, penalidade, custo e risco relativo de cada requisito para que seja calculada uma ordem de prioridade entre os requisitos. A técnica foi aplicada como um detalhamento do [MoSCoW](Modeling/MOSCOW.md), visto que esta classifica as histórias de usuário em 4 status diferentes.
+
+Sendo assim, foi feita uma filtragem dos requisitos avaliados como "prioritários" na técnica de [MoSCoW](Modeling/MOSCOW.md), isto é, requisitos avaliados como **Must**, **Should** ou **Could** sendo desconsiderados os requisitos avalidados como **Would**. Além disso, a técnica exige que requisitos totalmente dependentes de outros não participem dos cálculos para evitar situações onde um requisito B é avaliado como prioritário, porém depende de um requisito A, que não tem prioridade tão alta, seja implementado em conjunto ou previamente. É possível consultar a tabela dos [Requisitos não avaliados](Modeling/FirstThingsFirst.md?id=Requisitos-Não-Avaliados).
+
+Como a técnica foi aplicada após a criação do [Backlog](Modeling/Backlog.md), foi utilizada a história do usuário correspondente aos requisitos (requisitos funcional e os não funcionais atrelados) na avaliação para melhor entendimento no momento da discussão em grupo.
+
+Foram utilizados os seguintes pesos:
+
+|      Avaliação      | Peso |
+|:-------------------:|:----:|
+| Benefício Relativo  |   2  |
+| Penalidade Relativa |   1  |
+| Custo Relativo      |   1  |
+| Risco Relativo      |  0.5 |
+
+Cada item da avaliação foi avaliado em um número entre 1 e 5.
+
+O valor é calculado pela fórmula:
+```
+Valor = Benefício * Peso do Benefício + Penalidade * Peso da Penalidade
+```
+
+A prioridade é calculada pela fórmula:
+```
+Prioridade = Valor% / (Custo% * Peso do Custo + Risco% * Peso do Risco)
+```
+
 
 
 ## Histórico de Revisões
@@ -7,6 +34,9 @@
 |:----:|:------:|:---------:|:---------:|
 | 18/09/2020 | 1.0 | Priorização First Thins First. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 | 19/09/2020 | 1.1 | Adição da tabela.              | Pedro Igor |
+| 19/09/2020 | 1.2 | Adição da introdução e detalhamento da técnica. | Pedro Igor | 
+
+## Requisitos Não Avaliados
 
 ## First Things First
 <div class="ritz grid-container" dir="ltr">
