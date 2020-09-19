@@ -26,7 +26,7 @@ Esta pergunta não foi respondida nesta entrevista.
 
 ### 5. Como você costuma mensurar quanto o seu negócio obteve de crescimento? E de prejuízo?
 
-"Aumento das vendas, feedback de clientes, indicações e aumento da compra de produtos também."
+"Aumento das vendas, [feedback](Modeling/verbo?id=feedback) de clientes, indicações e aumento da compra de produtos também."
 
 ### 6. Você costuma registrar em algum lugar os [produtos](Modeling/objeto?id=Produto) que são vendidos? Se sim, como funciona esse processo?
 

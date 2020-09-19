@@ -2,6 +2,7 @@
 - **Produto**
   - [Manual de Identidade<br> Visual](Product/ManualId.md)
   - [Documento de Visão](Product/DocVisão.md)
+  - [Protótipos](Product/Prototipos.md)
 - **Projeto**
   - [Metodologias](Project/Metodologias.md)
   - [Estimativas](Project/Evaluation.md)
@@ -32,4 +33,4 @@
     - [Introspecção](Elicitation/Introspeccao.md)
 - **Modelagem**
   - [Léxicos](Modeling/Lexico.md)
-  - [Priorização](Modeling/Priorização.md)
+  - [Priorização](Modeling/Priorizacao.md)

@@ -9,6 +9,7 @@
 | 10/09/2020 |  1.2   | Revisão e finalização dos léxicos | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 | 11/09/2020 |  1.3   |       Criação do documento        |                                Gabriel Alves                                |
 | 11/09/2020 |  1.4   |       Linkagem dos léxicos.       | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 17/09/2020 |  1.5   |       Adição do léxico de feedback e fluxo      | Gabriel Davi |
 
 <br>
 
@@ -78,3 +79,13 @@
 |                           Noção                            |              Impacto               |             Sinônimos              |
 | :--------------------------------------------------------: | :--------------------------------: | :--------------------------------: |
 | Ato de gerar um [protótipo](Modeling/objeto?id=protótipo). | O designer prototipou a aplicação. | Criar um protótipo.<br>Prototipar. |
+
+### Feedback
+|   Noção   |   Impacto   |   Sinônimos    |
+|  :-----:  |  :-------:  |  :---------:   |
+| Feedbak é o ato de disponibilizar uma opinião ou análise sobre determinado objeto ou situação | [Stakeholders](Modeling/objeto.md?id=stakeholder) dão seu feedback sobre o [produto](Modeling/objeto.md?id=produto). <br><br> [Desenvolvedores](Modeling/objeto?id=desenvolvedor) melhoram seus [aplicativos](Modeling/objeto?id=web-app) basedado no feedback de seus clientes. | Dar feedback. <br><br>  |
+
+### Fluxo
+|   Noção   |   Impacto   |   Sinônimos    |
+|  :-----:  |  :-------:  |  :---------:   |
+| Fluxo indica um equilíbrio dinâmico de um sistema ou ambiente, no qual possui entrada e saída de elementos de seu meio | Um negócio possui um fluxo de produto, ou de caixa <br><br>  [Aplicativos](Modeling/objeto?id=web-app) possuem fluxos de usabilidade. | Entrada e saída.  |
