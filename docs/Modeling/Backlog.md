@@ -21,7 +21,7 @@ tr {
     background-color: white;
 }
 .markdown-section td.backlog {
-    border: 3px solid #F7F7F7;
+    border: 3px solid #EBEBEB;
 }
 
 
@@ -43,8 +43,8 @@ table, td.backlog{
 <td class="backlog" style="width: 119px; height: 43px;">Requisitos</td class="backlog">
 </tr>
 <tr style="height: 23px;">
-<td class="backlog" style="width: 15px; height: 138px; border: 3px solid #F7F7F7;" rowspan="6">Usuário</td class="backlog">
-<td class="backlog" style="width: 15px; height: 69px; border: 3px solid #F7F7F7;" rowspan="3">&nbsp;Cadastro</td class="backlog">
+<td class="backlog" style="width: 15px; height: 138px; " rowspan="6">Usuário</td class="backlog">
+<td class="backlog" style="width: 15px; height: 69px; " rowspan="3">&nbsp;Cadastro</td class="backlog">
 <td class="backlog" style="width: 132px; height: 23px;">Usuário Owner</td class="backlog">
 <td class="backlog" style="width: 167px; height: 23px;">Fazer o pedido de cadastro da minha empresa</td class="backlog">
 <td class="backlog" style="width: 176px; height: 23px;">&nbsp;Criar o meu controle de estoque na aplicação</td class="backlog">
@@ -63,7 +63,7 @@ table, td.backlog{
 <td class="backlog" style="width: 119px; height: 23px;">&nbsp;RF02</td class="backlog">
 </tr>
 <tr style="height: 23px;">
-<td class="backlog" style="width: 15px; height: 46px; border: 3px solid #F7F7F7;" rowspan="2">&nbsp;Hierarquia</td class="backlog">
+<td class="backlog" style="width: 15px; height: 46px; " rowspan="2">&nbsp;Hierarquia</td class="backlog">
 <td class="backlog" style="width: 132px; height: 23px;">Usuário Owner e Usuário Admin</td class="backlog">
 <td class="backlog" style="width: 167px; height: 23px;">&nbsp;Editar o nível de acesso de um colaborador</td class="backlog">
 <td class="backlog" style="width: 176px; height: 23px;">&nbsp;Alterar os cargos dos colaboradores</td class="backlog">
@@ -83,8 +83,8 @@ table, td.backlog{
 <td class="backlog" style="width: 119px; height: 23px;">&nbsp;RF27</td class="backlog">
 </tr>
 <tr style="height: 23px;">
-<td class="backlog" style="width: 15px; height: 460px; border: 3px solid #F7F7F7;" rowspan="20">Produto</td class="backlog">
-<td class="backlog" style="width: 15px; height: 253px; border: 3px solid #F7F7F7;" rowspan="11">&nbsp;Controle</td class="backlog">
+<td class="backlog" style="width: 15px; height: 460px; " rowspan="20">Produto</td class="backlog">
+<td class="backlog" style="width: 15px; height: 253px; " rowspan="11">&nbsp;Controle</td class="backlog">
 <td class="backlog" style="width: 132px; height: 23px;">Usuário Owner e Usuário Admin</td class="backlog">
 <td class="backlog" style="width: 167px; height: 23px;">&nbsp;Cadastrar itens no meu controle de estoque</td class="backlog">
 <td class="backlog" style="width: 176px; height: 23px;">Administrar o fluxo do estoque&nbsp;</td class="backlog">
@@ -151,7 +151,7 @@ table, td.backlog{
 <td class="backlog" style="width: 119px; height: 23px;">&nbsp;RF25</td class="backlog">
 </tr>
 <tr style="height: 23px;">
-<td class="backlog" style="width: 15px; height: 161px; border: 3px solid #F7F7F7;" rowspan="7">&nbsp;Consulta</td class="backlog">
+<td class="backlog" style="width: 15px; height: 161px; " rowspan="7">&nbsp;Consulta</td class="backlog">
 <td class="backlog" style="width: 132px; height: 23px;">&nbsp;Usuário</td class="backlog">
 <td class="backlog" style="width: 167px; height: 23px;">&nbsp;Consultar itens presentes no meu estoque</td class="backlog">
 <td class="backlog" style="width: 176px; height: 23px;">&nbsp;Saber o que há no meu estoque</td class="backlog">
@@ -194,7 +194,7 @@ table, td.backlog{
 <td class="backlog" style="width: 119px; height: 23px;">&nbsp;RF29</td class="backlog">
 </tr>
 <tr style="height: 23px;">
-<td class="backlog" style="width: 15px; height: 46px; border: 3px solid #F7F7F7;" rowspan="2">&nbsp;Notificação</td class="backlog">
+<td class="backlog" style="width: 15px; height: 46px; " rowspan="2">&nbsp;Notificação</td class="backlog">
 <td class="backlog" style="width: 132px; height: 23px;">&nbsp;Usuário</td class="backlog">
 <td class="backlog" style="width: 167px; height: 23px;">&nbsp;Ser alertado que um ou mais produtos estão com quantidades mínimas no estoque</td class="backlog">
 <td class="backlog" style="width: 176px; height: 23px;">Reabastecer itens quando estiver em baixa no estoque&nbsp;</td class="backlog">
@@ -207,8 +207,8 @@ table, td.backlog{
 <td class="backlog" style="width: 119px; height: 23px;">&nbsp;RF21</td class="backlog">
 </tr>
 <tr style="height: 23px;">
-<td class="backlog" style="width: 15px; height: 184px; border: 3px solid #F7F7F7;" rowspan="8">Venda</td class="backlog">
-<td class="backlog" style="width: 15px; height: 138px; border: 3px solid #F7F7F7;" rowspan="6">&nbsp;Gráficos</td class="backlog">
+<td class="backlog" style="width: 15px; height: 184px; " rowspan="8">Venda</td class="backlog">
+<td class="backlog" style="width: 15px; height: 138px; " rowspan="6">&nbsp;Gráficos</td class="backlog">
 <td class="backlog" style="width: 132px; height: 23px;">&nbsp;Usuário Owner e Usuário Admin</td class="backlog">
 <td class="backlog" style="width: 167px; height: 23px;">Gerar planilhas de análise do estoque&nbsp;</td class="backlog">
 <td class="backlog" style="width: 176px; height: 23px;">&nbsp;Documentar todas as análises de vendas e controle de estoque</td class="backlog">
@@ -245,7 +245,7 @@ table, td.backlog{
 <td class="backlog" style="width: 119px; height: 23px;">&nbsp;RF33</td class="backlog">
 </tr>
 <tr style="height: 23px;">
-<td class="backlog" style="width: 15px; height: 46px; border: 3px solid #F7F7F7;" rowspan="2">&nbsp;Histórico</td class="backlog">
+<td class="backlog" style="width: 15px; height: 46px; " rowspan="2">&nbsp;Histórico</td class="backlog">
 <td class="backlog" style="width: 132px; height: 23px;">&nbsp;Usuário Owner e Usuário Admin</td class="backlog">
 <td class="backlog" style="width: 167px; height: 23px;">Consultar um log de remoção e adição de itens ao estoque</td class="backlog">
 <td class="backlog" style="width: 176px; height: 23px;">Ter uma noção melhor do fluxo do meu estoque &nbsp;</td class="backlog">
