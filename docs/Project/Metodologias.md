@@ -7,6 +7,7 @@
 | 05/09/2020 |  1.1   |  Adição da imagem de ferramentas e ajustes no texto | Sofia |
 | 07/09/2020 | 1.2 | Adição do texto explicativo das metodologias | Micaella Gouveia e Sofia Patrocínio |
 | 11/09/2020 |  1.3   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 17/09/2020 |  1.4   |       Adição do léxico de fluxo     | Gabriel Davi |
 
 
 # Práticas Ágeis 
@@ -15,7 +16,7 @@ Para este projeto, decidimos utilizar diferentes metodologias de forma híbrida,
 
 * O **Scrum** adota uma abordagem iterativa e incremental voltada para o [produto](Modeling/objeto?id=Produto), ou seja, a cada iteração, é adicionado algo relevante para o [produto](Modeling/objeto?id=Produto). 
 * O **XP** *(Extreme Programming)* já é mais voltado para qualidade de código, produtividade do time e lida bem com requisitos vagos que mudam frequentemente, times pequenos e mais disciplina dos [desenvolvedores](Modeling/objeto?id=Desenvolvedor) ao invés de processos formais, enfatizando o trabalho em equipe.
-* O **Kanban** visa a gestão de fluxo de tarefas, com o intuito de aumentar a eficiência da produção e realizações de tarefas, otimizar sistemas de movimentaçao e produção.   
+* O **Kanban** visa a gestão de [fluxo](Modeling/verbo?id=fluxo) de tarefas, com o intuito de aumentar a eficiência da produção e realizações de tarefas, otimizar sistemas de movimentaçao e produção.   
 
 
 ## Scrum

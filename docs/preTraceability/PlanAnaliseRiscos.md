@@ -11,6 +11,8 @@
 | 04/09/2020| 1.3 | Adição de hyperlink para página de Design Sprint | Micaella Gouveia |
 | 09/09/2020 | 1.4 | Correção da rota de hyperlink para página de Design Sprint | Sofia Patrocínio |
 | 11/09/2020 |  1.5   |  Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 17/09/2020 |  1.6   |       Adição do léxico de fluxo     | Gabriel Davi |
+
 
 ## Introdução
 
@@ -434,7 +436,7 @@ Sendo que:
             <td>18</td>
             <td>Falhas e <a href="#/Modeling/objeto?id=bug">bugs</a></td>
             <td>Mitigar</td>
-            <td>Dedicar <a href="#/Modeling/objeto?id=bug">issues</a> de <a href="#/Modeling/objeto?id=issues">bugs</a> e refatoração</td>
+            <td>Dedicar <a href="#/Modeling/objeto?id=issue">issues</a> de <a href="#/Modeling/objeto?id=bug">bugs</a> e refatoração</td>
         </tr>
     </tbody>
 </table>
