@@ -37,158 +37,7 @@ Prioridade = Valor% / (Custo% * Peso do Custo + Risco% * Peso do Risco)
 | 19/09/2020 | 1.2 | Adição da tabela de requisitos não avaliados.   | Pedro Igor | 
 | 19/09/2020 | 1.3 | Linkagem dos léxicos e outras documentações.    | Pedro Igor | 
 
-## Requisitos Não Avaliados
-<div class="ritz grid-container" dir="ltr">
-  <table class="waffle" cellspacing="0" cellpadding="0">
-    <tbody>
-      <tr style='height:20px;'>
-        <td class="s0" dir="ltr">Desejo</td>
-        <td class="s0" dir="ltr">Para que eu possa</td>
-        <td class="s0" dir="ltr">Requisitos</td>
-        <td class="s0" dir="ltr"><a href="#/Modeling/MOSCOW"> MOSCOW</a></td>
-        <td class="s0" dir="ltr">Motivo</td>
-        <td class="s0" dir="ltr">Dependência</td>
-      </tr>
-      <tr style='height:20px;'>
-        <td class="s1" dir="ltr">Dar <a href="#/Modeling/verbo?id=feedback">feedbacks</a> ao suporte da aplicação</td>
-        <td class="s1" dir="ltr">Relatar qualquer erro encontrado ou sugestões de novas funcionalidades</td>
-        <td class="s1" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF27</a></td>
-        <td class="s1" dir="ltr">Would</td>
-        <td class="s2">Avaliado como Would no <a href="#/Modeling/MOSCOW"> MOSCOW</a></td>
-        <td class="s1" dir="ltr">-</td>
-      </tr>
-      <tr style='height:20px;'>
-        <td class="s1" dir="ltr"><a href="#/Modeling/verbo?id=baixa-em-produto">Remover</a> itens do <a href="#/Modeling/verbo?id=controle-de-estoque">controle de estoque</a></td>
-        <td class="s1" dir="ltr">Controlar vendas e <a href="#/Modeling/verbo?id=baixa-em-produto">remoções do estoque</a></td>
-        <td class="s1" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF07</a></td>
-        <td class="s1" dir="ltr">Must</td>
-        <td class="s3" dir="ltr">Depende de &quot;<a href="#/Modeling/verbo?id=cadastrar-produto"> Cadastrar</a> itens no meu <a href="#/Modeling/verbo?id=controle-de-estoque">controle de estoque</a>&quot;.</td>
-        <td class="s4" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF03</a></td>
-      </tr>
-      <tr style='height:20px;'>
-        <td class="s1"><a href="#/Modeling/verbo?id=baixa-em-produto">Dar baixa</a> em um <a href="#/Modeling/objeto?id=produto">produto</a> pelo aplicativo mobile</td>
-        <td class="s1">Vender ou <a href="#/Modeling/verbo?id=baixa-em-produto">remover produtos</a> mais facilmente</td>
-        <td class="s1"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF18</a>, <a href="#/Elicitation/RequisitosElicitados?id=requisitos-não-funcionais">RNF03, RNF05</a></td>
-        <td class="s1" dir="ltr">Should</td>
-        <td class="s3" dir="ltr">Depende de &quot;<a href="#/Modeling/verbo?id=cadastrar-produto"> Cadastrar</a> itens no meu <a href="#/Modeling/verbo?id=controle-de-estoque">controle de estoque</a>&quot; e &quot;Possuir uma
-          versão mobile do aplicativo do <a href="#/Modeling/objeto?id=estoque">estoque</a>&quot;.</td>
-        <td class="s4" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF03</a>, <a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF17</a>,<a href="#/Elicitation/RequisitosElicitados?id=requisitos-não-funcionais">RNF03, RNF05</a></td>
-      </tr>
-      <tr style='height:20px;'>
-        <td class="s1">Definir a quantidade mínima de determinado <a href="#/Modeling/objeto?id=produto">produto</a></td>
-        <td class="s1">Ser <a href="#/Modeling/verbo?id=alertar">notificado</a> quando um item estiver em <a href="#/Modeling/estado?id=estoque-baixo">baixa no estoque</a></td>
-        <td class="s1"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF19</a></td>
-        <td class="s1" dir="ltr">Could</td>
-        <td class="s3" dir="ltr">Depende de &quot;<a href="#/Modeling/verbo?id=cadastrar-produto"> Cadastrar</a> itens no meu <a href="#/Modeling/verbo?id=controle-de-estoque">controle de estoque</a>&quot;.</td>
-        <td class="s4" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF03</a></td>
-      </tr>
-      <tr style='height:20px;'>
-        <td class="s1">Ter uma lista de <a href="#/Modeling/objeto?id=produto">produtos</a> solicitados por clientes que não estão disponíveis no <a href="#/Modeling/objeto?id=estoque">estoque</a></td>
-        <td class="s1">Adquirir esses <a href="#/Modeling/objeto?id=produto">produtos</a>  e disponibinizá-los no <a href="#/Modeling/objeto?id=estoque">estoque</a></td>
-        <td class="s1"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF22</a></td>
-        <td class="s1" dir="ltr">Would</td>
-        <td class="s3">Avaliado como Would no <a href="#/Modeling/MOSCOW"> MOSCOW</a></td>
-        <td class="s1" dir="ltr">-</td>
-      </tr>
-      <tr style='height:20px;'>
-        <td class="s1" dir="ltr"><a href="#/Modeling/verbo?id=cadastrar-produto"> Cadastrar</a> um <a href="#/Modeling/objeto?id=produto">produto</a> adicionando seu valor de fábrica</td>
-        <td class="s1" dir="ltr">Visualizar uma margem de lucro satisfatória</td>
-        <td class="s1" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF32</a></td>
-        <td class="s1" dir="ltr">Would</td>
-        <td class="s3">Avaliado como Would no <a href="#/Modeling/MOSCOW"> MOSCOW</a></td>
-        <td class="s1" dir="ltr">-</td>
-      </tr>
-      <tr style='height:20px;'>
-        <td class="s1" dir="ltr"><a href="#/Modeling/verbo?id=filtrar-produtos">Filtrar</a> a minha busca por uma categoria no <a href="#/Modeling/verbo?id=controle-de-estoque">controle de estoque</a></td>
-        <td class="s1">Acessar com facilidade os <a href="#/Modeling/objeto?id=produto">produtos</a>  relacionados a esta categoria</td>
-        <td class="s1"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF05</a></td>
-        <td class="s1" dir="ltr">Could</td>
-        <td class="s3" dir="ltr">Depende de &quot;<a href="#/Modeling/verbo?id=consultar-produto">Consultar</a> itens presentes no meu <a href="#/Modeling/objeto?id=estoque">estoque</a>&quot;.</td>
-        <td class="s4" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF04</a>, <a href="#/Elicitation/RequisitosElicitados?id=requisitos-não-funcionais">RNF01, RNF03, RNF05</a></td>
-      </tr>
-      <tr style='height:20px;'>
-        <td class="s1"><a href="#/Modeling/verbo?id=filtrar-produtos">Filtrar</a> a busca de um <a href="#/Modeling/objeto?id=produto">produto</a> por nome e/ou preço</td>
-        <td class="s1">Acessar com facilidade as informações sobre este produto</td>
-        <td class="s1"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF12</a></td>
-        <td class="s1" dir="ltr">Should</td>
-        <td class="s3" dir="ltr">Depende de &quot; <a href="#/Modeling/verbo?id=consultar-produto">Consultar</a> itens presentes no meu <a href="#/Modeling/objeto?id=estoque">estoque</a>&quot;.</td>
-        <td class="s4" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF04</a>, <a href="#/Elicitation/RequisitosElicitados?id=requisitos-não-funcionais">RNF01, RNF03, RNF05</td>
-      </tr>
-      <tr style='height:20px;'>
-        <td class="s1">Gostaria de, no momento da listagem, poder <a href="#/Modeling/verbo?id=filtrar-produtos">filtrar</a> os <a href="#/Modeling/objeto?id=produto">produtos</a>  pela data de adição</td>
-        <td class="s1">Ter um melhor <a href="#/Modeling/verbo?id=controle-de-estoque">controle</a> dos <a href="#/Modeling/objeto?id=produto">produtos</a>  que estão mais tempo parados no meu <a href="#/Modeling/objeto?id=estoque">estoque</a></td>
-        <td class="s1"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF13</a></td>
-        <td class="s1" dir="ltr">Could</td>
-        <td class="s3" dir="ltr">Depende de &quot;<a href="#/Modeling/verbo?id=consultar-produto">Consultar</a> itens presentes no meu <a href="#/Modeling/objeto?id=estoque">estoque</a>&quot;.</td>
-        <td class="s4" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF04</a>, <a href="#/Elicitation/RequisitosElicitados?id=requisitos-não-funcionais">RNF01, RNF03, RNF05</a></td>
-      </tr>
-      <tr style='height:20px;'>
-        <td class="s1"><a href="#/Modeling/verbo?id=consultar-produto">Consultar</a> <a href="#/Modeling/objeto?id=produto">produtos</a>  que mais saem do meu <a href="#/Modeling/objeto?id=estoque">estoque</a></td>
-        <td class="s1">Saber quais <a href="#/Modeling/objeto?id=produto">produtos</a>  devo comprar em maior quantidade</td>
-        <td class="s1"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF26</a>, <a href="#/Elicitation/RequisitosElicitados?id=requisitos-não-funcionais">RNF01</a></td>
-        <td class="s1" dir="ltr">Would</td>
-        <td class="s3">Avaliado como Would no <a href="#/Modeling/MOSCOW"> MOSCOW</a></td>
-        <td class="s1" dir="ltr">-</td>
-      </tr>
-      <tr style='height:20px;'>
-        <td class="s1">No momento da listagem, poder <a href="#/Modeling/verbo?id=filtrar-produtos">filtrar</a> os <a href="#/Modeling/objeto?id=produto">produtos</a>  pela data de vencimento</td>
-        <td class="s1">Ter um melhor <a href="#/Modeling/verbo?id=controle-de-estoque">controle</a> dos <a href="#/Modeling/objeto?id=produto">produtos</a>  que estão para vencer</td>
-        <td class="s1"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF29</a></td>
-        <td class="s1" dir="ltr">Could</td>
-        <td class="s3" dir="ltr">Depende de &quot;<a href="#/Modeling/verbo?id=consultar-produto">Consultar</a> itens presentes no meu <a href="#/Modeling/objeto?id=estoque">estoque</a>&quot;.</td>
-        <td class="s4" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF04</a>, <a href="#/Elicitation/RequisitosElicitados?id=requisitos-não-funcionais">RNF01, RNF03, RNF05</a></td>
-      </tr>
-      <tr style='height:20px;'>
-        <td class="s1">Ser alertado que um ou mais <a href="#/Modeling/objeto?id=produto">produtos</a>  estão com quantidades mínimas no <a href="#/Modeling/objeto?id=estoque">estoque</a></td>
-        <td class="s1">Reabastecer itens quando estiver em <a href="#/Modeling/estado?id=estoque-baixo">baixa no estoque</a></td>
-        <td class="s1"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF20</a></td>
-        <td class="s1" dir="ltr">Could</td>
-        <td class="s3" dir="ltr">Depende de &quot;Definir a quantidade mínima de determinado produto&quot;.</td>
-        <td class="s4" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF19</a></td>
-      </tr>
-      <tr style='height:20px;'>
-        <td class="s1">Ser alertado caso um <a href="#/Modeling/objeto?id=produto">produto</a> ultrapasse o seu <a href="#/Modeling/estado?id=prazo-de-validade">prazo de validade</a></td>
-        <td class="s1">Organizar meu <a href="#/Modeling/objeto?id=estoque">estoque</a>, retirando este <a href="#/Modeling/objeto?id=produto">produto</a> vencido</td>
-        <td class="s1"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF21</a></td>
-        <td class="s1" dir="ltr">Should</td>
-        <td class="s5" dir="ltr">Depende de &quot;<a href="#/Modeling/verbo?id=cadastrar-produto"> Cadastrar</a> itens no meu <a href="#/Modeling/verbo?id=controle-de-estoque">controle de estoque</a>&quot;.</td>
-        <td class="s4" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF03</a></td>
-      </tr>
-      <tr style='height:20px;'>
-        <td class="s1" dir="ltr">Gerar gráficos que marcam o periodo por quantidade total de produto</td>
-        <td class="s1" dir="ltr">Fazer uma análise melhor do crescimento geral do meu <a href="#/Modeling/objeto?id=estoque">estoque</a></td>
-        <td class="s1" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF24</a>, <a href="#/Elicitation/RequisitosElicitados?id=requisitos-não-funcionais">RNF02</a></td>
-        <td class="s1" dir="ltr">Could</td>
-        <td class="s3" dir="ltr"><a href="#/Modeling/verbo?id=consultar-produto">Consultar</a> um <a href="#/Modeling/objeto?id=log">log</a> de remoção e adição de itens ao <a href="#/Modeling/objeto?id=estoque">estoque</a>.</td>
-        <td class="s4" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF10</a>, <a href="#/Elicitation/RequisitosElicitados?id=requisitos-não-funcionais">RNF01</a></td>
-      </tr>
-      <tr style='height:20px;'>
-        <td class="s1" dir="ltr">Gerar gráficos que marcam a quantidade de <a href="#/Modeling/objeto?id=produto">produtos</a>  por categoria</td>
-        <td class="s1" dir="ltr">Saber a quantidade de <a href="#/Modeling/objeto?id=produto">produtos</a>  por categorias</td>
-        <td class="s1" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF24</a>, <a href="#/Elicitation/RequisitosElicitados?id=requisitos-não-funcionais">RNF02</a></td>
-        <td class="s1" dir="ltr">Would</td>
-        <td class="s3">Avaliado como Would no <a href="#/Modeling/MOSCOW"> MOSCOW</a></td>
-        <td class="s1" dir="ltr">-</td>
-      </tr>
-      <tr style='height:20px;'>
-        <td class="s1" dir="ltr">Visualizar a margem de lucro dos meus <a href="#/Modeling/objeto?id=produto">produtos</a>  </td>
-        <td class="s1" dir="ltr">Precificar da melhor forma os <a href="#/Modeling/objeto?id=produto">produtos</a> </td>
-        <td class="s1" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF33</a></td>
-        <td class="s1" dir="ltr">Would</td>
-        <td class="s3">Avaliado como Would no <a href="#/Modeling/MOSCOW"> MOSCOW</a></td>
-        <td class="s1" dir="ltr">-</td>
-      </tr>
-      <tr style='height:20px;'>
-        <td class="s1"><a href="#/Modeling/verbo?id=filtrar-produtos">Filtrar</a> para consulta um <a href="#/Modeling/objeto?id=log">log</a> de remoção e adição de itens ao <a href="#/Modeling/objeto?id=estoque">estoque</a> de forma temporal</td>
-        <td class="s1"><a href="#/Modeling/verbo?id=consultar-produto">Consultar</a> o <a href="#/Modeling/verbo?id=fluxo">fluxo</a> de <a href="#/Modeling/objeto?id=estoque">estoque</a> em um período específico</td>
-        <td class="s1"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF11</a>, <a href="#/Elicitation/RequisitosElicitados?id=requisitos-não-funcionais">RNF01</a></td>
-        <td class="s1" dir="ltr">Could</td>
-        <td class="s3" dir="ltr"><a href="#/Modeling/verbo?id=consultar-produto">Consultar</a> um <a href="#/Modeling/objeto?id=log">log</a> de remoção e adição de itens ao <a href="#/Modeling/objeto?id=estoque">estoque</a>.</td>
-        <td class="s4" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF10</a>, <a href="#/Elicitation/RequisitosElicitados?id=requisitos-não-funcionais">RNF01</a></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+
 
 ## First Things First
 <div class="ritz grid-container" dir="ltr">
@@ -449,6 +298,159 @@ Prioridade = Valor% / (Custo% * Peso do Custo + Risco% * Peso do Risco)
         <td class="s5">52</td>
         <td class="s5">100</td>
         <td class="s4"></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+## Requisitos Não Avaliados
+<div class="ritz grid-container" dir="ltr">
+  <table class="waffle" cellspacing="0" cellpadding="0">
+    <tbody>
+      <tr style='height:20px;'>
+        <td class="s0" dir="ltr">Desejo</td>
+        <td class="s0" dir="ltr">Para que eu possa</td>
+        <td class="s0" dir="ltr">Requisitos</td>
+        <td class="s0" dir="ltr"><a href="#/Modeling/MOSCOW"> MOSCOW</a></td>
+        <td class="s0" dir="ltr">Motivo</td>
+        <td class="s0" dir="ltr">Dependência</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1" dir="ltr">Dar <a href="#/Modeling/verbo?id=feedback">feedbacks</a> ao suporte da aplicação</td>
+        <td class="s1" dir="ltr">Relatar qualquer erro encontrado ou sugestões de novas funcionalidades</td>
+        <td class="s1" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF27</a></td>
+        <td class="s1" dir="ltr">Would</td>
+        <td class="s2">Avaliado como Would no <a href="#/Modeling/MOSCOW"> MOSCOW</a></td>
+        <td class="s1" dir="ltr">-</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1" dir="ltr"><a href="#/Modeling/verbo?id=baixa-em-produto">Remover</a> itens do <a href="#/Modeling/verbo?id=controle-de-estoque">controle de estoque</a></td>
+        <td class="s1" dir="ltr">Controlar vendas e <a href="#/Modeling/verbo?id=baixa-em-produto">remoções do estoque</a></td>
+        <td class="s1" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF07</a></td>
+        <td class="s1" dir="ltr">Must</td>
+        <td class="s3" dir="ltr">Depende de &quot;<a href="#/Modeling/verbo?id=cadastrar-produto"> Cadastrar</a> itens no meu <a href="#/Modeling/verbo?id=controle-de-estoque">controle de estoque</a>&quot;.</td>
+        <td class="s4" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF03</a></td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1"><a href="#/Modeling/verbo?id=baixa-em-produto">Dar baixa</a> em um <a href="#/Modeling/objeto?id=produto">produto</a> pelo aplicativo mobile</td>
+        <td class="s1">Vender ou <a href="#/Modeling/verbo?id=baixa-em-produto">remover produtos</a> mais facilmente</td>
+        <td class="s1"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF18</a>, <a href="#/Elicitation/RequisitosElicitados?id=requisitos-não-funcionais">RNF03, RNF05</a></td>
+        <td class="s1" dir="ltr">Should</td>
+        <td class="s3" dir="ltr">Depende de &quot;<a href="#/Modeling/verbo?id=cadastrar-produto"> Cadastrar</a> itens no meu <a href="#/Modeling/verbo?id=controle-de-estoque">controle de estoque</a>&quot; e &quot;Possuir uma
+          versão mobile do aplicativo do <a href="#/Modeling/objeto?id=estoque">estoque</a>&quot;.</td>
+        <td class="s4" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF03</a>, <a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF17</a>,<a href="#/Elicitation/RequisitosElicitados?id=requisitos-não-funcionais">RNF03, RNF05</a></td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1">Definir a quantidade mínima de determinado <a href="#/Modeling/objeto?id=produto">produto</a></td>
+        <td class="s1">Ser <a href="#/Modeling/verbo?id=alertar">notificado</a> quando um item estiver em <a href="#/Modeling/estado?id=estoque-baixo">baixa no estoque</a></td>
+        <td class="s1"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF19</a></td>
+        <td class="s1" dir="ltr">Could</td>
+        <td class="s3" dir="ltr">Depende de &quot;<a href="#/Modeling/verbo?id=cadastrar-produto"> Cadastrar</a> itens no meu <a href="#/Modeling/verbo?id=controle-de-estoque">controle de estoque</a>&quot;.</td>
+        <td class="s4" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF03</a></td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1">Ter uma lista de <a href="#/Modeling/objeto?id=produto">produtos</a> solicitados por clientes que não estão disponíveis no <a href="#/Modeling/objeto?id=estoque">estoque</a></td>
+        <td class="s1">Adquirir esses <a href="#/Modeling/objeto?id=produto">produtos</a>  e disponibinizá-los no <a href="#/Modeling/objeto?id=estoque">estoque</a></td>
+        <td class="s1"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF22</a></td>
+        <td class="s1" dir="ltr">Would</td>
+        <td class="s3">Avaliado como Would no <a href="#/Modeling/MOSCOW"> MOSCOW</a></td>
+        <td class="s1" dir="ltr">-</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1" dir="ltr"><a href="#/Modeling/verbo?id=cadastrar-produto"> Cadastrar</a> um <a href="#/Modeling/objeto?id=produto">produto</a> adicionando seu valor de fábrica</td>
+        <td class="s1" dir="ltr">Visualizar uma margem de lucro satisfatória</td>
+        <td class="s1" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF32</a></td>
+        <td class="s1" dir="ltr">Would</td>
+        <td class="s3">Avaliado como Would no <a href="#/Modeling/MOSCOW"> MOSCOW</a></td>
+        <td class="s1" dir="ltr">-</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1" dir="ltr"><a href="#/Modeling/verbo?id=filtrar-produtos">Filtrar</a> a minha busca por uma categoria no <a href="#/Modeling/verbo?id=controle-de-estoque">controle de estoque</a></td>
+        <td class="s1">Acessar com facilidade os <a href="#/Modeling/objeto?id=produto">produtos</a>  relacionados a esta categoria</td>
+        <td class="s1"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF05</a></td>
+        <td class="s1" dir="ltr">Could</td>
+        <td class="s3" dir="ltr">Depende de &quot;<a href="#/Modeling/verbo?id=consultar-produto">Consultar</a> itens presentes no meu <a href="#/Modeling/objeto?id=estoque">estoque</a>&quot;.</td>
+        <td class="s4" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF04</a>, <a href="#/Elicitation/RequisitosElicitados?id=requisitos-não-funcionais">RNF01, RNF03, RNF05</a></td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1"><a href="#/Modeling/verbo?id=filtrar-produtos">Filtrar</a> a busca de um <a href="#/Modeling/objeto?id=produto">produto</a> por nome e/ou preço</td>
+        <td class="s1">Acessar com facilidade as informações sobre este produto</td>
+        <td class="s1"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF12</a></td>
+        <td class="s1" dir="ltr">Should</td>
+        <td class="s3" dir="ltr">Depende de &quot; <a href="#/Modeling/verbo?id=consultar-produto">Consultar</a> itens presentes no meu <a href="#/Modeling/objeto?id=estoque">estoque</a>&quot;.</td>
+        <td class="s4" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF04</a>, <a href="#/Elicitation/RequisitosElicitados?id=requisitos-não-funcionais">RNF01, RNF03, RNF05</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1">Gostaria de, no momento da listagem, poder <a href="#/Modeling/verbo?id=filtrar-produtos">filtrar</a> os <a href="#/Modeling/objeto?id=produto">produtos</a>  pela data de adição</td>
+        <td class="s1">Ter um melhor <a href="#/Modeling/verbo?id=controle-de-estoque">controle</a> dos <a href="#/Modeling/objeto?id=produto">produtos</a>  que estão mais tempo parados no meu <a href="#/Modeling/objeto?id=estoque">estoque</a></td>
+        <td class="s1"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF13</a></td>
+        <td class="s1" dir="ltr">Could</td>
+        <td class="s3" dir="ltr">Depende de &quot;<a href="#/Modeling/verbo?id=consultar-produto">Consultar</a> itens presentes no meu <a href="#/Modeling/objeto?id=estoque">estoque</a>&quot;.</td>
+        <td class="s4" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF04</a>, <a href="#/Elicitation/RequisitosElicitados?id=requisitos-não-funcionais">RNF01, RNF03, RNF05</a></td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1"><a href="#/Modeling/verbo?id=consultar-produto">Consultar</a> <a href="#/Modeling/objeto?id=produto">produtos</a>  que mais saem do meu <a href="#/Modeling/objeto?id=estoque">estoque</a></td>
+        <td class="s1">Saber quais <a href="#/Modeling/objeto?id=produto">produtos</a>  devo comprar em maior quantidade</td>
+        <td class="s1"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF26</a>, <a href="#/Elicitation/RequisitosElicitados?id=requisitos-não-funcionais">RNF01</a></td>
+        <td class="s1" dir="ltr">Would</td>
+        <td class="s3">Avaliado como Would no <a href="#/Modeling/MOSCOW"> MOSCOW</a></td>
+        <td class="s1" dir="ltr">-</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1">No momento da listagem, poder <a href="#/Modeling/verbo?id=filtrar-produtos">filtrar</a> os <a href="#/Modeling/objeto?id=produto">produtos</a>  pela data de vencimento</td>
+        <td class="s1">Ter um melhor <a href="#/Modeling/verbo?id=controle-de-estoque">controle</a> dos <a href="#/Modeling/objeto?id=produto">produtos</a>  que estão para vencer</td>
+        <td class="s1"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF29</a></td>
+        <td class="s1" dir="ltr">Could</td>
+        <td class="s3" dir="ltr">Depende de &quot;<a href="#/Modeling/verbo?id=consultar-produto">Consultar</a> itens presentes no meu <a href="#/Modeling/objeto?id=estoque">estoque</a>&quot;.</td>
+        <td class="s4" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF04</a>, <a href="#/Elicitation/RequisitosElicitados?id=requisitos-não-funcionais">RNF01, RNF03, RNF05</a></td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1">Ser alertado que um ou mais <a href="#/Modeling/objeto?id=produto">produtos</a>  estão com quantidades mínimas no <a href="#/Modeling/objeto?id=estoque">estoque</a></td>
+        <td class="s1">Reabastecer itens quando estiver em <a href="#/Modeling/estado?id=estoque-baixo">baixa no estoque</a></td>
+        <td class="s1"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF20</a></td>
+        <td class="s1" dir="ltr">Could</td>
+        <td class="s3" dir="ltr">Depende de &quot;Definir a quantidade mínima de determinado produto&quot;.</td>
+        <td class="s4" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF19</a></td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1">Ser alertado caso um <a href="#/Modeling/objeto?id=produto">produto</a> ultrapasse o seu <a href="#/Modeling/estado?id=prazo-de-validade">prazo de validade</a></td>
+        <td class="s1">Organizar meu <a href="#/Modeling/objeto?id=estoque">estoque</a>, retirando este <a href="#/Modeling/objeto?id=produto">produto</a> vencido</td>
+        <td class="s1"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF21</a></td>
+        <td class="s1" dir="ltr">Should</td>
+        <td class="s5" dir="ltr">Depende de &quot;<a href="#/Modeling/verbo?id=cadastrar-produto"> Cadastrar</a> itens no meu <a href="#/Modeling/verbo?id=controle-de-estoque">controle de estoque</a>&quot;.</td>
+        <td class="s4" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF03</a></td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1" dir="ltr">Gerar gráficos que marcam o periodo por quantidade total de produto</td>
+        <td class="s1" dir="ltr">Fazer uma análise melhor do crescimento geral do meu <a href="#/Modeling/objeto?id=estoque">estoque</a></td>
+        <td class="s1" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF24</a>, <a href="#/Elicitation/RequisitosElicitados?id=requisitos-não-funcionais">RNF02</a></td>
+        <td class="s1" dir="ltr">Could</td>
+        <td class="s3" dir="ltr"><a href="#/Modeling/verbo?id=consultar-produto">Consultar</a> um <a href="#/Modeling/objeto?id=log">log</a> de remoção e adição de itens ao <a href="#/Modeling/objeto?id=estoque">estoque</a>.</td>
+        <td class="s4" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF10</a>, <a href="#/Elicitation/RequisitosElicitados?id=requisitos-não-funcionais">RNF01</a></td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1" dir="ltr">Gerar gráficos que marcam a quantidade de <a href="#/Modeling/objeto?id=produto">produtos</a>  por categoria</td>
+        <td class="s1" dir="ltr">Saber a quantidade de <a href="#/Modeling/objeto?id=produto">produtos</a>  por categorias</td>
+        <td class="s1" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF24</a>, <a href="#/Elicitation/RequisitosElicitados?id=requisitos-não-funcionais">RNF02</a></td>
+        <td class="s1" dir="ltr">Would</td>
+        <td class="s3">Avaliado como Would no <a href="#/Modeling/MOSCOW"> MOSCOW</a></td>
+        <td class="s1" dir="ltr">-</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1" dir="ltr">Visualizar a margem de lucro dos meus <a href="#/Modeling/objeto?id=produto">produtos</a>  </td>
+        <td class="s1" dir="ltr">Precificar da melhor forma os <a href="#/Modeling/objeto?id=produto">produtos</a> </td>
+        <td class="s1" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF33</a></td>
+        <td class="s1" dir="ltr">Would</td>
+        <td class="s3">Avaliado como Would no <a href="#/Modeling/MOSCOW"> MOSCOW</a></td>
+        <td class="s1" dir="ltr">-</td>
+      </tr>
+      <tr style='height:20px;'>
+        <td class="s1"><a href="#/Modeling/verbo?id=filtrar-produtos">Filtrar</a> para consulta um <a href="#/Modeling/objeto?id=log">log</a> de remoção e adição de itens ao <a href="#/Modeling/objeto?id=estoque">estoque</a> de forma temporal</td>
+        <td class="s1"><a href="#/Modeling/verbo?id=consultar-produto">Consultar</a> o <a href="#/Modeling/verbo?id=fluxo">fluxo</a> de <a href="#/Modeling/objeto?id=estoque">estoque</a> em um período específico</td>
+        <td class="s1"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF11</a>, <a href="#/Elicitation/RequisitosElicitados?id=requisitos-não-funcionais">RNF01</a></td>
+        <td class="s1" dir="ltr">Could</td>
+        <td class="s3" dir="ltr"><a href="#/Modeling/verbo?id=consultar-produto">Consultar</a> um <a href="#/Modeling/objeto?id=log">log</a> de remoção e adição de itens ao <a href="#/Modeling/objeto?id=estoque">estoque</a>.</td>
+        <td class="s4" dir="ltr"><a href="#/Elicitation/RequisitosElicitados?id=requisitos-funcionais">RF10</a>, <a href="#/Elicitation/RequisitosElicitados?id=requisitos-não-funcionais">RNF01</a></td>
       </tr>
     </tbody>
   </table>
