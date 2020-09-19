@@ -10,9 +10,9 @@
 | [**#61**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/61) | [Estimativas](Project/Evaluation.md) - Evolução               | 2         | Gabriel Alves                          |
 | [**#70**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/70) | [Questionário](Elicitation/Questionario.md) - Evolução        | 3         | Micaella Gouveia, Gabriel Davi e Sofia |
 | [**#71**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/71) | [Entrevistas](Elicitation/Entrevista.md) - Evolução           | 5         | Gabriel Alves e Pedro Igor             |
-| [**#72**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/72) | BPMN - Evolução                                               | 3         | Pedro Igor                             |
-| [**#73**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/73) | [Protótipo](Modeling/objeto?id=protótipo) de baixa fidelidade | 3         | Todos                                  |
-| [**#74**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/74) | [Protótipo](Modeling/objeto?id=protótipo) de média fidelidade | 13        | Micaella, Sofia e Gabriel Davi         |
+| [**#72**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/72) | [BPMN](Project/ModelagemBPMN.md) - Evolução                                               | 3         | Pedro Igor                             |
+| [**#73**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/73) | [Protótipo de baixa fidelidade](Product/PrototipoBaixa.md) | 3         | Todos                                  |
+| [**#74**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/74) | [Protótipo de média fidelidade](Product/PrototipoMedia.md) | 13        | Micaella, Sofia e Gabriel Davi         |
 | [**#75**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/75) | Backlog                                                       | 8         | Todos                                  |
 | [**#76**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/76) | Priorização                                                   | 5         | Todos                                  |
 
@@ -39,8 +39,8 @@ Nesta Sprint, alguns documentos são pré-requisitos de outros, sendo necessári
 | [**#61**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/61) | [Estimativas](Project/Evaluation.md) - Evolução               | Terça-Feira (15/09/2020) |
 | [**#70**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/70) | [Questionário](Elicitation/Questionario.md)                   | Terça-Feira (15/09/2020) |
 | [**#71**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/71) | [Entrevistas](Elicitation/Entrevista.md) - Evolução           | Terça-Feira (15/09/2020) |
-| [**#72**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/72) | BPMN - Evolução                                               | Terça-Feira (15/09/2020) |
-| [**#73**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/73) | [Protótipo](Modeling/objeto?id=protótipo) de baixa fidelidade | Terça-Feira (15/09/2020) |
+| [**#72**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/72) | [BPMN](Project/ModelagemBPMN.md) - Evolução                                               | Terça-Feira (15/09/2020) |
+| [**#73**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/73) | [Protótipo de baixa fidelidade](Product/PrototipoBaixa.md) | Terça-Feira (15/09/2020) |
 
 ## Relato
 
