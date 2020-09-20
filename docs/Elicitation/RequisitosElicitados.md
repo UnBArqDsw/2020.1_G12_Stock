@@ -7,9 +7,9 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 
 |    Data    | Versão |                                     Descrição                                      |                                  Autor(es)                                  |
 | :--------: | :----: | :--------------------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
-| 07/08/2020 |  1.0   |        Adição de requisitos funcionais baseados na técnica de Brainstorming        |                                 Pedro Igor                                  |
-| 07/08/2020 |  1.1   | Adição de requisitos funcionais e não funcionais baseados na técnica de StoryBoard |                                 Pedro Igor                                  |
-| 07/08/2020 |  1.2   |       Adição de requisitos não funcionais baseados na técnica de Entrevista.       |                                 Pedro Igor                                  |
+| 07/08/2020 |  1.0   |        Adição de [requisitos funcionais](Modeling/objeto?id=requisito-funcional)    baseados na técnica de Brainstorming        |                                 Pedro Igor                                  |
+| 07/08/2020 |  1.1   | Adição de [requisitos funcionais](Modeling/objeto?id=requisito-funcional) e não funcionais baseados na técnica de StoryBoard |                                 Pedro Igor                                  |
+| 07/08/2020 |  1.2   |       Adição de [requisitos não funcionais](Modeling/objeto?id=requisito-não-funcional) baseados na técnica de Entrevista.       |                                 Pedro Igor                                  |
 | 07/08/2020 |  1.3   |                         Adição de requisitos RF17 E RF18.                          |                                Gabriel Davi                                 |
 | 09/08/2020 |  1.4   |                         Adição de requisitos RF19 E RF20.                          |                              Micaella Gouveia                               |
 | 09/08/2020 |  1.5   |                              Adição do requisito R21.                              |                              Sofia Patrocínio                               |
@@ -22,6 +22,7 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 | 17/09/2020 |  2.2   | Adição dos requisitos RF28, RF29, RF30 e RF31   | Micaella Gouveia|
 | 17/09/2020 |  2.3   |       Adição do léxico de feedback e fluxo     | Gabriel Davi |
 | 18/09/2020 |  2.4   | Adição dos requisitos RF32 e RF33   | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 19/09/2020 |  2.5   | Linkagem dos lexicos de requisitos não funcionais e funcionais   | Gabriel Davi |
 
 
 ## Requisitos Funcionais

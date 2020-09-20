@@ -11,6 +11,8 @@
 | 11/09/2020 |  1.4   |        Linkagem dos léxicos.         | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 | 15/09/2020 |  1.5   |       Adição de novos léxicos.       |                                Gabriel Davi                                 |
 | 15/09/2020 |  1.6   | Adição e linkagem de mais um léxico. |                                 Pedro Igor                                  |
+| 19/09/2020 |  1.7  | Lexicos de requisitos não funcionais e funcionais   | Gabriel Davi |
+
 
 ### PWA
 
@@ -143,3 +145,14 @@
 |                                                                     Noção                                                                     |                                          Impacto                                          |                               Sinônimos                               |
 | :-------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: |
 | Planilha é um documento, geralmente formado por células, utilizado para armazenar informações de forma que seja simples a consulta posterior. | Algumas empresas realizam controle de [estoque](Modeling/objeto?id=Estoque) em planilhas. | Documento Excel. <br><br> Spreadsheet. <br><br> Documento de tabelas. |
+
+
+### Requisito funcional
+|                                                                     Noção                                                                     |                                          Impacto                                          |                               Sinônimos                               |
+| :-------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: |
+| São especificações de uma [aplicação](Modeling/objeto?id=Web-App)  que ditam como a mesma deve se comportar no âmbito de funcionalidades. | Storyboard é uma ótima técnica para elicitar requisitos funcionais.<br><br> É necessário organizar os requistos funcionais em grau de relevância.| Features.<br><br> Funcionalidades |
+
+### Requisito não funcional
+|                                                                     Noção                                                                     |                                          Impacto                                          |                               Sinônimos                               |
+| :-------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: |
+| São especificações de uma [aplicação](Modeling/objeto?id=Web-App) que influenciam na experiência do [usuário](Modeling/objeto?id=usuário). | Requisitos funcionais são grandes diferencias em uma [aplicação](Modeling/objeto?id=Web-App) e podem determinar a permanência de um [usuário](Modeling/objeto?id=usuário) na mesma.| - |
