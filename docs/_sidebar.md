@@ -33,4 +33,5 @@
     - [Introspecção](Elicitation/Introspeccao.md)
 - **Modelagem**
   - [Léxicos](Modeling/Lexico.md)
+  - [Priorização](Modeling/Priorizacao.md)
   - [Backlog do Produto](Modeling/Backlog.md)

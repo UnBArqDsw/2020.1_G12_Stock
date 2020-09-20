@@ -5,23 +5,24 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 
 ## Histórico de Revisões
 
-| Data | Versão | Descrição | Autor(es) |
-|:----:|:------:|:---------:|:---------:|
-| 07/08/2020 | 1.0 | Adição de requisitos funcionais baseados na técnica de Brainstorming | Pedro Igor |
-| 07/08/2020 | 1.1 | Adição de requisitos funcionais e não funcionais baseados na técnica de StoryBoard | Pedro Igor |
-| 07/08/2020 | 1.2 | Adição de requisitos não funcionais baseados na técnica de Entrevista. | Pedro Igor |
-| 07/08/2020 | 1.3 | Adição de requisitos RF17 E RF18. | Gabriel Davi |
-| 09/08/2020 | 1.4 | Adição de requisitos RF19 E RF20. | Micaella Gouveia |
-| 09/08/2020 | 1.5 | Adição do requisito R21. | Sofia Patrocínio |
-| 10/08/2020 | 1.6 | Link dos artefatos de backward from para seus artefatos | Gabriel Davi |
-| 10/09/2020 | 1.7 | Adição de requisito RF22. | Sofia Patrocínio |
-| 11/09/2020 | 1.8 | Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
-| 15/09/2020 | 1.9 | Adição dos requisitos RF23, RF24, RNF04, RNF05 e RNF06. | Micaella Gouveia e Sofia Patrocínio |
-| 15/09/2020 | 2.0 | adição de novos léxicos. | Gabriel Davi |
-| 15/09/2020 | 2.1 | Adição de requisitos RF25 e RF26. | Pedro Igor |
-| 17/09/2020 | 2.2 | Adição dos requisitos RF28, RF29, RF30 e RF31 | Micaella Gouveia |
-| 17/09/2020 | 2.3 | Adição do léxico de feedback e fluxo | Gabriel Davi |
-| 18/09/2020 | 2.4 | Adição dos requisitos RF32 e RF33 | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+|    Data    | Versão |                                     Descrição                                      |                                  Autor(es)                                  |
+| :--------: | :----: | :--------------------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
+| 07/08/2020 |  1.0   |        Adição de [requisitos funcionais](Modeling/objeto?id=requisito-funcional)    baseados na técnica de Brainstorming        |                                 Pedro Igor                                  |
+| 07/08/2020 |  1.1   | Adição de [requisitos funcionais](Modeling/objeto?id=requisito-funcional) e não funcionais baseados na técnica de StoryBoard |                                 Pedro Igor                                  |
+| 07/08/2020 |  1.2   |       Adição de [requisitos não funcionais](Modeling/objeto?id=requisito-não-funcional) baseados na técnica de Entrevista.       |                                 Pedro Igor                                  |
+| 07/08/2020 |  1.3   |                         Adição de requisitos RF17 E RF18.                          |                                Gabriel Davi                                 |
+| 09/08/2020 |  1.4   |                         Adição de requisitos RF19 E RF20.                          |                              Micaella Gouveia                               |
+| 09/08/2020 |  1.5   |                              Adição do requisito R21.                              |                              Sofia Patrocínio                               |
+| 10/08/2020 |  1.6   |              Link dos artefatos de backward from para seus artefatos               |                                Gabriel Davi                                 |
+| 10/09/2020 |  1.7   |                             Adição de requisito RF22.                              |                              Sofia Patrocínio                               |
+| 11/09/2020 |  1.8   |                               Linkagem dos léxicos.                                | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 15/09/2020 |  1.9   |              Adição dos requisitos RF23, RF24, RNF04, RNF05 e RNF06.               |                     Micaella Gouveia e Sofia Patrocínio                     |
+| 15/09/2020 |  2.0   |                              adição de novos léxicos.                              |                                Gabriel Davi                                 |
+| 15/09/2020 |  2.1   | Adição de requisitos RF25 e RF26.                                                  |                                 Pedro Igor                                  |
+| 17/09/2020 |  2.2   | Adição dos requisitos RF28, RF29, RF30 e RF31   | Micaella Gouveia|
+| 17/09/2020 |  2.3   |       Adição do léxico de feedback e fluxo     | Gabriel Davi |
+| 18/09/2020 |  2.4   | Adição dos requisitos RF32 e RF33   | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 19/09/2020 |  2.5   | Linkagem dos léxicos de requisitos não funcionais e funcionais   | Gabriel Davi |
 
 
 ## Requisitos Funcionais
@@ -63,11 +64,11 @@ Os requisitos apresentados a seguir estão baseados nos documentos: Brainstormin
 
 ## Requisitos Não Funcionais
 
-| Nome | ID | Descrição | Pré-Condições | Backward From |
-|------|----|-----------|---------------|---------------|
-| Rapidez na [consulta](Modeling/verbo?id=Consultar-Produto) | **RNF01** | O sistema deve retornar o resultado de uma [consulta](Modeling/verbo?id=Consultar-Produto) quase que instantaneamente. | **RF04** | [Storyboard](Elicitation/StoryBoard.md), [Entrevista](Elicitation/Entrevista.md), [Introspecção](Elicitation/Introspeccao.md) |
-| Gráficos didáticos | **RNF02** | O sistema deve garantir que os gráficos plotados são abrangentes em detalhes porém de fácil entendimento. | **RF14** | [Storyboard](Elicitation/StoryBoard.md), [Entrevista](Elicitation/Entrevista.md) |
-| [Consultas](Modeling/verbo?id=Consultar-Produto) remotas | **RNF03** | O sistema deve ser capaz de ser [consultado](Modeling/verbo?id=Consultar-Produto) remotamente. (longe do local físico de armazenamento do [estoque](Modeling/objeto?id=Estoque)) | **RF04** | [Entrevista](Elicitation/Entrevista.md), [Storyboard](Elicitation/StoryBoard.md), [Entrevista](Elicitation/Entrevista.md), [Introspecção](Elicitation/Introspeccao.md) |
-| Interface intuitiva e de fácil compreensão | **RNF04** | O sistema deve possuir interface de fácil manuseio. | N/A | [Questionário](Elicitation/Questionario.md) |
-| Suporte para múltiplos acessos simultâneos | **RNF05** | O sistema deve ser capaz de permitir mais de um acesso ao mesmo tempo. | **RF01** | [Questionário](Elicitation/Questionario.md) |
-| Linguagem de fácil entendimento | **RNF06** | O sistema deve possuir uma linguagem acessível para usuários de diferentes ramos de negócio. | N/A | [Questionário](Elicitation/Questionario.md) |
+|Nome | ID  |  Descrição  | Pré-Condições | Backward From |
+| :- | :-- | :-- | :-- |-- |
+| Rapidez na [consulta](Modeling/verbo?id=Consultar-Produto) | **RNF01** |                              O sistema deve retornar o resultado de uma [consulta](Modeling/verbo?id=Consultar-Produto) quase que instantaneamente.                              |   **RF04**    |                     [Storyboard](Elicitation/StoryBoard.md), [Entrevista](Elicitation/Entrevista.md), [Introspecção](Elicitation/Introspeccao.md)                      |
+|                     Gráficos didáticos                     | **RNF02** |                                    O sistema deve garantir que os gráficos plotados são abrangentes em detalhes porém de fácil entendimento.                                     |   **RF14**    |                                            [Storyboard](Elicitation/StoryBoard.md), [Entrevista](Elicitation/Entrevista.md)                                            |
+|  [Consultas](Modeling/verbo?id=Consultar-Produto) remotas  | **RNF03** | O sistema deve ser capaz de ser [consultado](Modeling/verbo?id=Consultar-Produto) remotamente. (longe do local físico de armazenamento do [estoque](Modeling/objeto?id=Estoque)) |   **RF04**    | [Entrevista](Elicitation/Entrevista.md), [Storyboard](Elicitation/StoryBoard.md), [Entrevista](Elicitation/Entrevista.md), [Introspecção](Elicitation/Introspeccao.md) |
+|         Interface intuitiva e de fácil compreensão         | **RNF04** |                                                               O sistema deve possuir interface de fácil manuseio.                                                                |      N/A      |                                                              [Questionário](Elicitation/Questionario.md)                                                               |
+|         Suporte para múltiplos acessos simultâneos         | **RNF05** |                                                      O sistema deve ser capaz de permitir mais de um acesso ao mesmo tempo.                                                      |   **RF01**    |                                                              [Questionário](Elicitation/Questionario.md)                                                               |
+|              Linguagem de fácil entendimento               | **RNF06** |                                           O sistema deve possuir uma linguagem acessível para usuários de diferentes ramos de negócio.                                           |      N/A      |                                                              [Questionário](Elicitation/Questionario.md)                                                               |
