@@ -8,6 +8,7 @@
   - [Estimativas](Project/Evaluation.md)
   - [Modelagem BPMN](Project/ModelagemBPMN.md)
   - [Sprints](Index/sprintsIndex.md)
+  - [OmniStock](Project/Omnistock.md)
 - **Base**
   - **Design Sprint**
     - [Metodologia](DesignSprint/DesignSprint.md)

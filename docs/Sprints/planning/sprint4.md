@@ -72,7 +72,7 @@ Nesta Sprint, para não haver sobrecarga de tarefas, foi definido data de entreg
 - Esta responsabilidade de cada membro definiu a distribuição de pontos para cada membro. Para melhor dividir a pontuação, fizemos o somatório da pontuação dos diagramas e dividimos por 6. Cada membro recebeu essa pontuação de participação, e para a produção do artefato, o membro responsável recebeu 1/6 da pontuação da issue que ficou responsável em documentar.
 
 - Nesta Sprint ficou decidido que haverá a produção do [Protótipo](Modeling/objeto?id=protótipo) de  Alta fidelidade, porém ainda sem testes.
-- Além disso, teremos um treinamento de React liderado pelo membro Gabriel Davi :)
+- Além disso, teremos um [treinamento de React](Project/Omnistock.md) liderado pelo membro Gabriel Davi :)
 
 
 ## Gravações Disponíveis
@@ -81,3 +81,4 @@ Nesta Sprint, para não haver sobrecarga de tarefas, foi definido data de entreg
 
 
 - Planning Poker (Pontuação das [issues](Modeling/objeto?id=Issue)):
+
