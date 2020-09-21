@@ -56,7 +56,6 @@ Foi desenvolvido um roteiro de perguntas que será utilizado para todas as entre
 |   [#RF012](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |       [Filtro por nome e preço](Modeling/verbo?id=Filtrar-Produtos)       |
 |   [#RF014](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        Plotagem de gráficos         |
 |   [#RF015](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | Atualização instantânea de [estoque](Modeling/objeto?id=Estoque)  |
-|   [#RF16](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | [Importação](Modeling/verbo?id=Importação) de planilha para [load de estoque](Modeling/verbo?id=Cadastrar-Produto)  |
 |   [#RF017](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | App para [consulta fácil de produto](Modeling/verbo?id=Consultar-Produto) |
 |   [#RF018](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    | App para baixa fácil de [produto](Modeling/objeto?id=Produto) |
 |    [#RF19](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     Delimitar quantidade mínima de um [produto](Modeling/objeto?id=Produto)            |

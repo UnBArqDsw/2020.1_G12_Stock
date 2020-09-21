@@ -17,7 +17,7 @@ O termo MoSCoW é um acrônimo em inglês derivado da primeira letra de cada uma
 | 18/09/2020 | 1.0 | Priorização MoSCoW. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 | 18/09/2020 | 1.1 | Criação do documento e adição da tabela. | Sofia Patrocínio |
 | 19/09/2020 | 1.2 | Adição da introdução e priorização dos requisitos 26 a 33.| Micaella Gouveia |
-| 19/09/2020 |  1.3  | Linkagem dos lexicos de requisitos não funcionais e funcionais   | Gabriel Davi |
+| 19/09/2020 |  1.3  | Linkagem dos léxicos de requisitos não funcionais e funcionais   | Gabriel Davi |
 
 
 ## MoSCoW
