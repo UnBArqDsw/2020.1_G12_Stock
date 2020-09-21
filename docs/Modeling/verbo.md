@@ -89,3 +89,8 @@
 | Noção | Impacto | Sinônimos |
 |:-----:|:-------:|:---------:|
 | Fluxo indica um equilíbrio dinâmico de um sistema ou ambiente, no qual possui entrada e saída de elementos de seu meio | Um negócio possui um fluxo de produto, ou de caixa <br><br>  [Aplicativos](Modeling/objeto?id=web-app) possuem fluxos de usabilidade. | Entrada e saída. |
+
+### Consultar Gráfico
+| Noção | Impacto | Sinônimos |
+|:-----:|:-------:|:---------:|
+| Consultar gráfico é o ato de solicitar a visualização de um gráfico e analisar/interpretar as informações mostradas. | É possível gerar e consultar um gráfico de [fluxo](/Modeling/verbo?id=fluxo) de [estoque](/Modeling/objeto?id=estoque). | Analisar gráfico. |
