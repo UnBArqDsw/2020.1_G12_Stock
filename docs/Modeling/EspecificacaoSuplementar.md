@@ -45,13 +45,13 @@ Como a aplicação é multiplataforma, [web](/Modeling/objeto?id=web-app) e mobi
 ## Interfaces
 As interfaces deverão ser intuitivas.
 
-### Interfaces com o [usuário](/Modeling/objeto?id=usuário)
+### Interfaces com o Usuário
 As interfaces de navegação entre funcionalidades deverão ser de simples utilização.
 
 ### Interfaces de software
 As informações a respeito de funcionalidades deverão ser apresentadas de forma organizada.
 
-## [Requisitos](/Modeling/objeto?id=requisito-não-funcional) de Licenciamento
+## Requisitos de Licenciamento
 
 A utilização do software está restrita ao gerenciamento de [estoque](/Modeling/objeto?id=estoque) desenvolvido, não sendo garantida operacionalidade para qualquer outro fim.
 
