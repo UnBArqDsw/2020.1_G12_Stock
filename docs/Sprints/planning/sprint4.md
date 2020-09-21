@@ -30,7 +30,7 @@ Este quadro divide a pontuação das [issues](Modeling/objeto?id=Issue) com a qu
 |--------------|-------------------------------------------------------------------------------|-----------------|
 | Gabriel Alves | 6,5  + 1,05 + 3,75 + 1| 12 |
 | Gabriel Davi | 6,5  +  0,8  + 1,25 + 4 | 13 |
-| Micaella Gouveia | 6,5  + 2,1 + 1 + 4 | 13 |
+| Micaella Gouveia | 6,5  + 2,1 + 4 + 1| 13 |
 | Pedro Igor | 6,5  + 1,05 + 3  + 1 | 12 |
 | Sofia Patrocínio | 6,5 + 1,3  + 4 + 1 | 13 |
 
@@ -52,6 +52,7 @@ Nesta Sprint, para não haver sobrecarga de tarefas, foi definido data de entreg
 
 ## Relato
 
+- Nesta Sprint ficou decidido que haverá a produção do [Protótipo](Modeling/objeto?id=protótipo) de  Alta fidelidade, porém ainda sem testes.
 - Nesta reunião dividimos os artefatos que tinhamos definido para a Sprint 4, atribuíndo responsáveis, dias de produção e entrega.
 
 **Segunda-feira**:
@@ -62,17 +63,33 @@ Nesta Sprint, para não haver sobrecarga de tarefas, foi definido data de entreg
 ### **Diagramas**:
 - Pretendemos adaptar um tipo de Design Sprint para a produção dos diagramas. Todo dia faremos dois diagramas, e a cada dia um membro ficará reponsável em mediar a reunião e finalizar o documento de diagramas do dia.
 
-|Dia |Data da Reunião | Diagramas | Responsável pela documentação
-| - | -| -| - |
-| 1 | Terça-feira<br> (22/09/2020) | Classe e Componentes | Micaella|
-| 2 | Quarta-feira<br> (23/09/2020) | Entidade relacionamento de banco de dados e Pacotes | Gabriel Alves e Pedro Igor |
-| 3 | Quinta-feira <br> (24/09/2020) | Sequência e Comunicação | Sofia Patrocínio
-| 4 | Sexta-feira <br>(25/09/2020) | Atividades e Estado | Gabriel Davi
+|Dia |Data da Reunião | Horário da Reunião |Diagramas | Responsável pela documentação
+| - | -| -| - | - |
+| 1 | Terça-feira<br> (22/09/2020) |12:00 |Classe e Componentes | Micaella|
+| 2 | Quarta-feira<br> (23/09/2020) |14:00 |Entidade relacionamento de banco de dados e Pacotes | Gabriel Alves e Pedro Igor |
+| 3 | Quinta-feira <br> (24/09/2020) |8:00 |Sequência e Comunicação | Sofia Patrocínio
+| 4 | Sexta-feira <br>(25/09/2020) | 8:00 |Atividades e Estado | Gabriel Davi
 
 - Esta responsabilidade de cada membro definiu a distribuição de pontos para cada membro. Para melhor dividir a pontuação, fizemos o somatório da pontuação dos diagramas e dividimos por 6. Cada membro recebeu essa pontuação de participação, e para a produção do artefato, o membro responsável recebeu 1/6 da pontuação da issue que ficou responsável em documentar.
 
-- Nesta Sprint ficou decidido que haverá a produção do [Protótipo](Modeling/objeto?id=protótipo) de  Alta fidelidade, porém ainda sem testes.
+
+### [**OmniStock**](Project/Omnistock.md)
 - Além disso, teremos um [treinamento de React](Project/Omnistock.md) liderado pelo membro Gabriel Davi :)
+
+- **Definição dos dias de treinamento**:
+
+| Dia | Data | Horário |
+| - | - | - |
+| 1 | Terça-feira (22/09/2020) | 14:00 |
+| 2 | Quarta-feira (23/09/2020) | 16:00 |
+| 3 | Sexta-feira (25/09/2020) | 22:00 |
+| 4 | Sábado (26/08/2020) | 9:00 |
+
+#### **Horários**
+- Os dias e horários do treinamento e produção dos diagramas foram decidos a partir de um heaheatmap feito pelos membros.
+
+![reuniao](../../assets/img/Sprints/heatmapSprint4.png)
+*Heatmap para definição dos horários das reuniões e treinamento*
 
 
 ## Gravações Disponíveis

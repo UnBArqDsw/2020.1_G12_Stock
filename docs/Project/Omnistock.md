@@ -13,6 +13,13 @@ Com o desenvolvimento do projeto, o time notou que muitos membros não tinham fa
 ## Metodologia
 Ficou acordado que esse treinamento aconteceria durante a Semana Universitária, com duração de quatro dias. O membro Gabriel Davi planejou todas as aulas e o time preencheu um heatmap para definir o horário de cada encontro. Cada encontro terá duração de uma a duas horas, e conta com a presença de todos os membros.
 
+| Dia | Data | Horário |
+| - | - | - |
+| 1 | Terça-feira<br>(22/09/2020) | 14:00 |
+| 2 | Quarta-feira<br>(23/09/2020) | 16:00 |
+| 3 | Sexta-feira<br>(25/09/2020) | 22:00 |
+| 4 | Sábado<br>(26/08/2020) | 9:00 |
+
 ## Planejamento
 ***Planejamento realizado pelo membro Gabriel Davi***
 
