@@ -34,6 +34,8 @@
     - [Introspecção](Elicitation/Introspeccao.md)
 - **Modelagem**
   - [Léxicos](Modeling/Lexico.md)
+  - [asdasdasd](Modeling/Lexico.md)
   - [Priorização](Modeling/Priorizacao.md)
   - [Backlog do Produto](Modeling/Backlog.md)
   - [Especificação Suplementar](Modeling/EspecificacaoSuplementar.md)   
+  - [NFR](Modeling/NFR.md)
