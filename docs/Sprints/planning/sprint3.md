@@ -85,7 +85,7 @@ Léxicos (Todos estão fazendo para todos os novos artefatos).
 1. Reunião:
 
 - NFR
-- Especificação Suplementar
+- [Especificação Suplementar](Modeling/EspecificacaoSuplementar.md)   
 
 2. Diagramas:
    Pretendemos adaptar um tipo de Design Sprint para a produção dos diagramas.
