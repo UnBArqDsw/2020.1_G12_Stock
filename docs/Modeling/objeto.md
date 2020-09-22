@@ -36,7 +36,7 @@
 
 | Noção | Impacto | Sinônimos |
 |:-----:|:-------:|:---------:|
-| Papéis desempenhados pelos membros da micro empresa. <br><br> [Hierarquia](Modeling/objeto?id=Papéis-dos-colaboradores) de trabalho. <br><br> Grau de permissão no [Web App](Modeling/objeto?id=Web-App). | [Admin](Modeling/objeto?id=Admin) supervisiona os [Sellers](Modeling/objeto?id=Seller). <br><br> [Seller](Modeling/objeto?id=Seller) não consegue excluir [produtos](Modeling/objeto?id=Produto) do sistema. | Função. <br><br> Cargo. <br><br> Nível de acesso |
+| Papéis desempenhados pelos membros da micro empresa. <br><br> [Hierarquia](Modeling/objeto?id=Papéis-dos-colaboradores) de trabalho. <br><br> Grau de permissão no [Web App](Modeling/objeto?id=Web-App). | [Admin](Modeling/objeto?id=Admin) supervisiona os [Sellers](Modeling/objeto?id=Seller). <br><br> [Seller](Modeling/objeto?id=Seller) não consegue excluir [produtos](Modeling/objeto?id=Produto) do sistema. | Função. <br><br> Cargo. <br><br> Nível de acesso. <br><br> Privilégio. |
 
 ### Micro Empresa
 
@@ -138,7 +138,7 @@
 
 | Noção | Impacto | Sinônimos |
 |:-----:|:-------:|:---------:|
-| É segmento da sociedade com determinadas características em comum (idade, sexo, profissão, interesses etc.), ao qual se dirige uma mensagem ou um conjunto de mensagens. | O [público alvo](/Modeling/objeto?id=público-alvo) desse [Web App](Modeling/objeto?id=Web-App) é bem amplo. <br><br> O [Web App](Modeling/objeto?id=Web-App) não atingiu seu [público alvo](/Modeling/objeto?id=público-alvo) | Audiência <br><br> Público. |
+| É segmento da sociedade com determinadas características em comum (idade, sexo, profissão, interesses etc.), ao qual se dirige uma mensagem ou um conjunto de mensagens. | O [público alvo](/Modeling/objeto?id=público-alvo) desse [Web App](Modeling/objeto?id=Web-App) é bem amplo. <br><br> O [Web App](Modeling/objeto?id=Web-App) não atingiu seu [público alvo](/Modeling/objeto?id=público-alvo) | Audiência <br><br> Público. <br><br> Perfil de usuário. |
 
 ### Planilha
 

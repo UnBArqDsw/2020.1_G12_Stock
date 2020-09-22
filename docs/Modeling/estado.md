@@ -43,4 +43,4 @@
 ### Em desenvolvimento
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |
-| Uma aplicação está em desenvolvimento quando [desenvolvedors](Modeling/objeto?id=Desenvolvedor) estão trabalhando na criação das funcionalidades do projeto.| A aplicação está em desenvolvimento <br><br> Acabou a fase de desenvolvimento, agora os [desenvolvedores](Modeling/objeto?id=Desenvolvedor) vão fazer o [deploy](Modeling/estado?id=Deploy)| Em progresso|
+| Uma aplicação está em desenvolvimento quando [desenvolvedors](Modeling/objeto?id=Desenvolvedor) estão trabalhando na criação das funcionalidades do projeto.| A aplicação está em desenvolvimento <br><br> Acabou a fase de desenvolvimento, agora os [desenvolvedores](Modeling/objeto?id=Desenvolvedor) vão fazer o [deploy](Modeling/estado?id=Deploy)| Em progresso. <br><br> Em implementação. <br><br> Em homologação.|
