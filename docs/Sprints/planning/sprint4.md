@@ -9,7 +9,7 @@
 | Número | [Issue](Modeling/objeto?id=Issue) | Pontuação | Participantes |
 |--------|-----------------------------------|-----------|---------------|
 | [**#74**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/74) | [Protótipo de média fidelidade](Product/PrototipoMedia.md) | 13 | Micaella, Sofia e Gabriel Davi |
-| [**#86**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/86) | NRF | 5 | Gabriel Alves e Gabriel Davi |
+| [**#86**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/86) | NFR | 5 | Gabriel Alves e Gabriel Davi |
 | [**#87**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/87) | [Especificação Suplementar](Modeling/EspecificacaoSuplementar.md)    | 3 | Pedro Igor |
 | [**#88**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/88) | Diagrama de classe e Diagrama de componentes | 13 | Todos |
 | [**#89**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/89) | Diagrama de Sequência e Diagrama de Comunicação | 8 | Todos |
@@ -42,7 +42,7 @@ Nesta Sprint, para não haver sobrecarga de tarefas, foi definido data de entreg
 | Número | [Issue](Modeling/objeto?id=Issue) | Data de Entrega |
 |--------|-----------------------------------|-----------------|
 | [**#74**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/74) | [Protótipo de média fidelidade](Product/PrototipoMedia.md) | Segunda-feira (21/09/2020) |
-| [**#86**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/86) | NRF | Segunda-feira<br>(21/09/2020) |
+| [**#86**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/86) | NFR | Segunda-feira<br>(21/09/2020) |
 | [**#87**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/87) | [Especificação Suplementar](Modeling/EspecificacaoSuplementar.md)   |Segunda-feira<br>(21/09/2020) |
 | [**#88**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/88) | Diagrama de classe e Diagrama de componentes | Quinta-feira<br>(24/09/2020) |
 | [**#91**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/74) | Entidade relacionamento de banco de dados e Diagrama de Pacote | Sexta-feira<br>(25/09/2020)
