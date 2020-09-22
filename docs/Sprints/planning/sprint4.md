@@ -8,7 +8,7 @@
 
 | Número | [Issue](Modeling/objeto?id=Issue) | Pontuação | Participantes |
 |--------|-----------------------------------|-----------|---------------|
-| [**#74**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/74) | [Protótipo](Modeling/objeto?id=protótipo) de média fidelidade | 13 | Micaella, Sofia e Gabriel Davi |
+| [**#74**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/74) | [Protótipo de média fidelidade](Product/PrototipoMedia.md) | 13 | Micaella, Sofia e Gabriel Davi |
 | [**#86**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/86) | NRF | 5 | Gabriel Alves e Gabriel Davi |
 | [**#87**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/87) | Especificação Suplementar | 3 | Pedro Igor |
 | [**#88**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/88) | Diagrama de classe e Diagrama de componentes | 13 | Todos |
@@ -41,7 +41,7 @@ Nesta Sprint, para não haver sobrecarga de tarefas, foi definido data de entreg
 
 | Número | [Issue](Modeling/objeto?id=Issue) | Data de Entrega |
 |--------|-----------------------------------|-----------------|
-| [**#74**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/74) | [Protótipo](Modeling/objeto?id=protótipo) de média fidelidade | Segunda-feira (21/09/2020) |
+| [**#74**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/74) | [Protótipo de média fidelidade](Product/PrototipoMedia.md) | Segunda-feira (21/09/2020) |
 | [**#86**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/86) | NRF | Segunda-feira<br>(21/09/2020) |
 | [**#87**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/87) | Especificação Suplementar |Segunda-feira<br>(21/09/2020) |
 | [**#88**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/88) | Diagrama de classe e Diagrama de componentes | Quinta-feira<br>(24/09/2020) |
@@ -56,7 +56,7 @@ Nesta Sprint, para não haver sobrecarga de tarefas, foi definido data de entreg
 - Nesta reunião dividimos os artefatos que tinhamos definido para a Sprint 4, atribuíndo responsáveis, dias de produção e entrega.
 
 **Segunda-feira**:
-- Protótipo de média fidelidade (dívida técnica)
+- [Protótipo de média fidelidade](Product/PrototipoMedia.md) (dívida técnica)
 - NFR 
 - Especificação Suplementar 
 
@@ -86,7 +86,7 @@ Nesta Sprint, para não haver sobrecarga de tarefas, foi definido data de entreg
 | 4 | Sábado (26/08/2020) | 9:00 |
 
 #### **Horários**
-- Os dias e horários do treinamento e produção dos diagramas foram decidos a partir de um heaheatmap feito pelos membros.
+- Os dias e horários do [treinamento de React](Project/Omnistock.md) e produção dos diagramas foram decidos a partir de um heaheatmap feito pelos membros.
 
 ![reuniao](../../assets/img/Sprints/heatmapSprint4.png)
 *Heatmap para definição dos horários das reuniões e treinamento*

@@ -12,8 +12,8 @@
 | [**#71**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/71) | [Entrevistas](Elicitation/Entrevista.md) - Evolução | 5 | Gabriel Alves e Pedro Igor |
 | [**#72**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/72) | [BPMN](Project/ModelagemBPMN.md) - Evolução | 3 | Pedro Igor |
 | [**#73**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/73) | [Protótipo de baixa fidelidade](Product/PrototipoBaixa.md) | 3 | Todos |
-| [**#75**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/75) | Backlog | 8 | Todos |
-| [**#76**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/76) | Priorização | 5 | Todos |
+| [**#75**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/75) | [Backlog](Modeling/Backlog.md) | 8 | Todos |
+| [**#76**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/76) | [Priorização](Modeling/Priorizacao.md) | 5 | Todos |
 
 
 ## Pontuação: 29 
