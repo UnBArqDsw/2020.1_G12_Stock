@@ -27,10 +27,10 @@
 *Métrica ainda não usada nesta Sprint.*
 
 ## Burndown
-
+![burndown 3](../../assets/img/Sprints/metricas/burndownS3.png)
 
 ## Velocity
-
+![velocity 3](../../assets/img/Sprints/metricas/velocityS3.png)
 
 ## Observações
 * A [issue](Modeling/objeto?id=Issue) [**#74**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/74) ficou como dívida técnica pois não deu tempo de realizar os testes com os participantes, sendo esta [issue](Modeling/objeto?id=Issue) definida com entrega até segunda-feira.
