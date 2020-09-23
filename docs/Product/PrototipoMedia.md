@@ -12,6 +12,7 @@ Os [protótipos](Modeling/objeto?id=protótipo) de média fidelidade, mesmo send
 | 16/09/2020 |  1.2   |                              Linkagem dos léxicos                              | Gabriel Davi, Micaella Gouveia e Sofia Patrocínio |
 | 20/09/2020 |  1.3   |                    Realização do teste de usabilidade 1 e 2                    |                 Sofia Patrocínio                  |
 | 22/09/2020 |  1.4   |                     Adição dos testes de usabilidade 1 e 2                     |                 Sofia Patrocínio                  |
+| 23/09/2020 |  1.5   |                     Adição dos testes de usabilidade 3                     |                 Gabriel Davi                  |
 
 ## Metodologia
 
