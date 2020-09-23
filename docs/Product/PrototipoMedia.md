@@ -13,6 +13,7 @@ Os [protótipos](Modeling/objeto?id=protótipo) de média fidelidade, mesmo send
 | 20/09/2020 |  1.3   |                    Realização do teste de usabilidade 1 e 2                    |                 Sofia Patrocínio                  |
 | 22/09/2020 |  1.4   |                     Adição dos testes de usabilidade 1 e 2                     |                 Sofia Patrocínio                  |
 | 23/09/2020 |  1.5   |                     Adição dos testes de usabilidade 3                     |                 Gabriel Davi                  |
+| 23/09/2020 |  1.6   |                    Linkagem de lexicos                   |                 Gabriel Davi                  |
 
 ## Metodologia
 
@@ -77,7 +78,7 @@ O teste foi planejado para responder questões pertinentes da aplicação. Esse 
   |:-------:|:---------:|
   | 1 | Na área de portal do gestor deveria ter um botão de quem ainda não é cadastrado poder pedir para se cadastrar. De resto, ficou muito bom. |
   | 2 | Eu achei tudo muito objetivo, gostei! |
-  | 3 |   No estoque, senti falta da presença da unidade de medida.<br><br> Na parte de gráficos, ter gráficos mais objetivos e mais detalhados com relação aos produtos que estão sendo analisados. Atualmente as informações apresentadas estão muito generalizadas.<br><br> Nomes mais ituitivos, expressões como "bugs", "dashboard", não é claro.<br><br> Ter na parte de colaboradores, um input de pesquisa para achar colaboradoes.<br><br>Nome "colaboradores" deveria ser "usuários".<br><br>Na parte de históricos, ter um input de pesquisa para filtrar produtos.|
+  | 3 |   No [estoque](Modeling/objeto?id=Estoque)  , senti falta da presença da unidade de medida.<br><br> Na parte de gráficos, ter gráficos mais objetivos e mais detalhados com relação aos [produtos](Modeling/objeto?id=Produto) que estão sendo analisados. Atualmente as informações apresentadas estão muito generalizadas.<br><br> Nomes mais ituitivos, expressões como ["bugs"](Modeling/objeto?id=Bug), ["dashboard"](Modeling/objeto?id=Dashboard), não é claro.<br><br> Ter na parte de colaboradores, um input de pesquisa para achar colaboradoes.<br><br>Nome "colaboradores" deveria ser ["usuários"](Modeling/objeto?id=usuário).<br><br>Na parte de históricos, ter um input de pesquisa para [filtrar produtos](Modeling/verbo?id=Filtrar-Produtos).|
 
 ## Referências
 
