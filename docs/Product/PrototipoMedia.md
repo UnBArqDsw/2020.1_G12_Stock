@@ -77,7 +77,7 @@ O teste foi planejado para responder questões pertinentes da aplicação. Esse 
   |:-------:|:---------:|
   | 1 | Na área de portal do gestor deveria ter um botão de quem ainda não é cadastrado poder pedir para se cadastrar. De resto, ficou muito bom. |
   | 2 | Eu achei tudo muito objetivo, gostei! |
-  | 3 |   No estoque, senti falta da presença da unidade de medida.<br> Na parte de gráficos, ter gráficos mais objetivos e mais detalhados com relação aos produtos que estão sendo analisados. Atualmente as informações apresentadas estão muito generalizadas.<br> Nomes mais ituitivos, expressões como "bugs", "dashboard", não é claro.<br> Ter na parte de colaboradores, uma input de pesquisa para achar colaboradoes.<br>Nome "colaboradores" deveria ser "usuários".<br>Na parte de históricos, ter um input de pesquisa para filtrar produtos.|
+  | 3 |   No estoque, senti falta da presença da unidade de medida.<br><br> Na parte de gráficos, ter gráficos mais objetivos e mais detalhados com relação aos produtos que estão sendo analisados. Atualmente as informações apresentadas estão muito generalizadas.<br><br> Nomes mais ituitivos, expressões como "bugs", "dashboard", não é claro.<br><br> Ter na parte de colaboradores, um input de pesquisa para achar colaboradoes.<br><br>Nome "colaboradores" deveria ser "usuários".<br><br>Na parte de históricos, ter um input de pesquisa para filtrar produtos.|
 
 ## Referências
 
