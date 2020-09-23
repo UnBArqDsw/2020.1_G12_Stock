@@ -56,7 +56,7 @@ O teste foi planejado para responder questões pertinentes da aplicação. Esse 
     |:-------:|:------------:|:------:|
     | 1 | 1 | Visualizar perfil do usuário |
     | 2 | 0 | - |
-    | 3 | 3 | - |
+    | 3 | 2 | Visualizar perfil do usuário, Excluir um colaborador |
 - Identificar problemas na interação e interface:
 
   - Quantas vezes o [usuário](Modeling/objeto?id=usuário) não conseguiu realizar tarefas por não achar o campo destinado a ela?
