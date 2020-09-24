@@ -1,10 +1,13 @@
 # Planejamento da Avaliação do [Protótipo](Modeling/objeto?id=protótipo) de Média
 
+**Este planejamento foi utlizado para teste de usabilidade do protótipo de média fidelidade, para acessá-lo clique aqui: _[Protótipo de Média Fidelidade](Product/PrototipoMedia.md)_**
+
 ## Históricos de Revisões
 |    Data    | Versão |         Descrição         |           Autor(es)            |
 | :--------: | :----: | :-----------------------: | :----------------------------: |
 | 16/09/2020 |  1.0   | Criação do documento e adição do planejamento   | Micaella Gouveia e Sofia Patrocínio|
 | 16/09/2020 |  1.1   | Linkagem dos léxicos   | Gabriel Davi, Micaella Gouveia e Sofia Patrocínio|
+| 22/09/2020 |  1.2   | Correção das tarefas de avaliação do protótipo e adição do link para protótipo   | Sofia Patrocínio |
 
 ## Método de Avaliação
 O método escolhido será o Teste de Usabilidade.
@@ -30,10 +33,11 @@ O que será avaliado com o [protótipo](Modeling/objeto?id=protótipo):
 
 1. Envio do pedido de cadastramento de uma empresa.
 2. Entrar na plataforma e acessar o Dashboard.
-3. Editar seu perfil.
-5. Visualizar colaboradores.
-6. Excluir o colaborador Thiago Souza.
-7. Adicionar um produto no [estoque](Modeling/verbo?id=Controle-de-Estoque).
+3. Visualizar seu perfil.
+4. Visualizar colaboradores.
+5. Excluir o colaborador Thiago Souza.
+6. Adicionar um produto no [estoque](Modeling/verbo?id=Controle-de-Estoque).
+7. Enviar feedback
 
 ## Perfil do [Usuário](Modeling/objeto?id=usuário)
 O perfil dos [usuários](Modeling/objeto?id=usuário) será bem semelhante às pessoas reais que potencialmente utilizarão a aplicação. O teste será feito inicialmente por 3 participantes.
