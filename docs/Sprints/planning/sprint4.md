@@ -44,7 +44,7 @@ Nesta Sprint, para não haver sobrecarga de tarefas, foi definido data de entreg
 | [**#74**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/74) | [Protótipo de média fidelidade](Product/PrototipoMedia.md) | Segunda-feira (21/09/2020) |
 | [**#86**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/86) | NFR | Segunda-feira<br>(21/09/2020) |
 | [**#87**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/87) | [Especificação Suplementar](Modeling/EspecificacaoSuplementar.md)   |Segunda-feira<br>(21/09/2020) |
-| [**#88**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/88) | Diagrama de classe e Diagrama de componentes | Quinta-feira<br>(24/09/2020) |
+| [**#88**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/88) | [Diagrama de classe](Modeling/Diagrams/Classes.md) e [Diagrama de componentes](Modeling/Diagrams/Componentes.md) | Quinta-feira<br>(24/09/2020) |
 | [**#91**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/74) | Entidade relacionamento de banco de dados e Diagrama de Pacote | Sexta-feira<br>(25/09/2020)
 | [**#89**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/89) | Diagrama de Sequência e Diagrama de Comunicação | Sábado<br>(26/09/2020)
 | [**#90**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/90) | Diagrama Atividades e Diagrama de Estado | Domingo<br>(27/08/2020)
@@ -65,10 +65,10 @@ Nesta Sprint, para não haver sobrecarga de tarefas, foi definido data de entreg
 
 |Dia |Data da Reunião | Horário da Reunião |Diagramas | Responsável pela documentação
 | - | -| -| - | - |
-| 1 | Terça-feira<br> (22/09/2020) |12:00 |Classe e Componentes | Micaella|
-| 2 | Quarta-feira<br> (23/09/2020) |14:00 |Entidade relacionamento de banco de dados e Pacotes | Gabriel Alves e Pedro Igor |
-| 3 | Quinta-feira <br> (24/09/2020) |8:00 |Sequência e Comunicação | Sofia Patrocínio
-| 4 | Sexta-feira <br>(25/09/2020) | 8:00 |Atividades e Estado | Gabriel Davi
+| 1 | Terça-feira<br> (22/09/2020) |12:00 |[Classe e Componentes](Modeling/Diagrams/dias/dia1.md) | Micaella|
+| 2 | Quarta-feira<br> (23/09/2020) |14:00 |[Entidade relacionamento de banco de dados e Pacotes](Modeling/Diagrams/dias/dia2.md) | Gabriel Alves e Pedro Igor |
+| 3 | Quinta-feira <br> (24/09/2020) |8:00 |[Atividades e Estado]((Modeling/Diagrams/dias/dia3.md)) | Gabriel Davi
+| 4 | Sexta-feira <br>(25/09/2020) | 8:00 |[Sequência e Comunicação]((Modeling/Diagrams/dias/dia1.md) | Sofia Patrocínio
 
 - Esta responsabilidade de cada membro definiu a distribuição de pontos para cada membro. Para melhor dividir a pontuação, fizemos o somatório da pontuação dos diagramas e dividimos por 6. Cada membro recebeu essa pontuação de participação, e para a produção do artefato, o membro responsável recebeu 1/6 da pontuação da issue que ficou responsável em documentar.
 

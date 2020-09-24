@@ -11,7 +11,7 @@ Diagrams Sprint foi o nome dado carinhosamente à semana de produção dos diagr
 
 ## Metodologia do Processo
 
-Para a produção dos diagramas o time decidiu realizar quatro reuniões diárias, sendo que em cada reunião haveria a produção de dois diagramas. Um ou dois membros do time ficariam responsáveis em mediar cada reunião, sendo estes membros responsáveis em finalizar os diagramas daquela reunião. A reunião foi divida em fases, sendo elas:
+Para a produção dos diagramas o time decidiu realizar quatro reuniões durante a semana da [Sprint 4](Sprints/planning/sprint4.md) , sendo que em cada reunião haveria a produção de dois diagramas. Um ou dois membros do time ficariam responsáveis em mediar cada reunião, sendo estes membros responsáveis em finalizar os diagramas daquela reunião. A reunião foi divida em fases, sendo elas:
 1. **Entender**: O membro mediador faz uma breve explicação dos diagramas que serão produzidos, que foram previamente estudados por todos os membros. Essa fase tem como objetivo preparar e ambientar os membros para a produção.
 2. **Produzir**: Essa é a maior fase da reunião, sendo ela destinada para a produção do que for necessário para a diagramação. Como são diagramas com finalidades distintas, essa fase se torna livre de uma técninca específica.
 3. **Diagramar**: Essa fase fica destinada ao mediador, que se torna o responsável em finalizar os diagramas e documentá-los na Wiki do projeto.

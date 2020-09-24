@@ -8,7 +8,7 @@ O Diagrama de Componentes tem como principal objetivo mostrar o relacionamento e
 |:----:|:------:|:---------:|:---------:|
 | 22/09/2020 | 1.0 | Criação dos módulos e possíveis interfaces | Gabriel Alves, Gabriel Davi, Micaella Gouviea, Pedro Igor e Sofia Patrocínio |
 | 23/09/2020 | 1.1 | Criação do diagrama de componentes | Micaella Gouveia |
-| 24/09/2020 | 1.2 | Adição da introdução, realização e referências | Micaella Gouveia |
+| 24/09/2020 | 1.2 | Adição da introdução, realização, arquivo PDF e referências | Micaella Gouveia |
 
 ## Realização
 O diagrama foi produzido pelo [Draw.io](https://app.diagrams.net/). Nele há todas os subsistemas contendo seus componentes, fazendo a relação entre os componentes com suas devidas interfaces.
@@ -17,6 +17,7 @@ O diagrama foi produzido pelo [Draw.io](https://app.diagrams.net/). Nele há tod
 * **Diagrama de Componentes(V.0)**
 
 ![diagramaComponentes](../../../assets/diagramas/DiagramaComponentes.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/DiagramaComponentes.pdf">Arquivo em PDF</a>
 
 ## Referências
 * Diagrama de componentes UML: <https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml>. Último acesso em 24/09/2020.
