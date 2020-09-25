@@ -33,51 +33,51 @@ Será produzido na semana omniStock a aplicação "Stock Beta", que consiste em 
 
 ### Conceitos NodeJS e Express
 
-- [ ]  POST, GET, PUT/PATCH, DELETE
-- [ ]  Request, Response
-- [ ]  Rotas
-- [ ]  Middlewares
+- [x]  POST, GET, PUT/PATCH, DELETE
+- [x]  Request, Response
+- [x]  Rotas
+- [x]  Middlewares
 
 ### Backend do Stock beta
 
-- [ ]  Configurar banco de dados
-- [ ]  Configurar o sucrase
-- [ ]  Configurar dotenv
-- [ ]  Criar rotas
-- [ ]  Criar Model de user
-    - [ ]  Nome
-    - [ ]  Email
-    - [ ]  Senha
-    - [ ]  Criar função de criptografia de senha
-- [ ]  Criar Model de produtos
-    - [ ]  Nome
-    - [ ]  Preço
-    - [ ]  Id da categoria
-    - [ ]  Id do usuário
-- [ ]  Criar Model de categoria
-    - [ ]  Nome
-    - [ ]  Descrição
-    - [ ]  Id do usuário
-- [ ]  Criar Controller de usuário
-    - [ ]  Criação de um usuário
-    - [ ]  Autenticação
-- [ ]  Criar função para criação de token JWT
-- [ ]  Criar middleware de autenticação JWT
-- [ ]  Criar controller de produtos
-    - [ ]  Listar produtos de um usuário logado (Popular as relações de usuário e de categoria)
-    - [ ]  Criar um produto
-    - [ ]  Editar um produto
-    - [ ]  Deletar um produto
+- [x]  Configurar banco de dados
+- [x]  Configurar o sucrase
+- [x]  Configurar dotenv
+- [x]  Criar rotas
+- [x]  Criar Model de user
+    - [x]  Nome
+    - [x]  Email
+    - [x]  Senha
+    - [x]  Criar função de criptografia de senha
+- [x]  Criar Model de produtos
+    - [x]  Nome
+    - [x]  Preço
+    - [x]  Id da categoria
+    - [x]  Id do usuário
+- [x]  Criar Model de categoria
+    - [x]  Nome
+    - [x]  Descrição
+    - [x]  Id do usuário
+- [x]  Criar Controller de usuário
+    - [x]  Criação de um usuário
+    - [x]  Autenticação
+- [x]  Criar função para criação de token JWT
+- [x]  Criar middleware de autenticação JWT
+- [x]  Criar controller de produtos
+    - [x]  Listar produtos de um usuário logado (Popular as relações de usuário e de categoria)
+    - [x]  Criar um produto
+    - [x]  Editar um produto
+    - [x]  Deletar um produto
 
 ### Dia 2 - Frontend Stock Beta (Parte 1)
 
 #### Conceitos fundamentais react
 
-- [ ]  Estrutura de pastas
-- [ ]  Estado
-- [ ]  Hooks (useEffect, useState)
-- [ ]  Ciclo de vida de um componente
-- [ ]  Virtual DOM
+- [x]  Estrutura de pastas
+- [x]  Estado
+- [x]  Hooks (useEffect, useState)
+- [x]  Ciclo de vida de um componente
+- [x]  Virtual DOM
 
 #### Login/Cadastro de usuário
 
