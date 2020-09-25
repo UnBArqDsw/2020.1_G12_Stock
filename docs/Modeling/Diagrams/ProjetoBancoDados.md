@@ -1,80 +1,81 @@
 # Projeto Banco de Dados
 **Este artefato foi produzido durante o dia 2 da Diagrams Sprint, para saber mais sobre a metodologia e como ela foi feita, clique aqui: _[Diagrams Sprint](Modeling/Diagrams/Diagrams.md)_**
 
-O Projeto de banco de dados tem por finalidade, modelar todo o banco de dados do sistema com suas respectivas tabelas e relacionamento. Nesse documento é apresentado por um MER Modelo Entidade Relacionamento, DER Diagrama Entidade Relacionamento, DL Diagrama Lógico e o seu respectivo Dicionário de Dados.
+O Projeto de banco de dados tem por finalidade modelar todo o banco de dados do sistema com suas respectivas tabelas e relacionamento. Nesse documento é apresentado por um MER (Modelo Entidade Relacionamento), DER (Diagrama Entidade Relacionamento), DL (Diagrama Lógico) e o seu respectivo Dicionário de Dados.
 
 ## Histórico de Revisões
 | Data | Versão | Descrição | Autor(es) |
 |:----:|:------:|:---------:|:---------:|
 | 23/09/2020 | 1.0 | Criação das classes e seus atributos | Gabriel Alves, Gabriel Davi, Micaella Gouviea, Pedro Igor e Sofia Patrocínio |
 | 25/09/2020 | 1.1 | Criação dos diagramas relacionamento e lógico | Gabriel Alves |
+| 25/09/2020 | 1.2 | Corrige alguns erros de digitação e linka o documento a navbar | Pedro Igor |
 
 ## Modelo Entidade Relacionamento (MER)
 
 ### Entidades
 
-COMPANY (name, document, branch, telephone, email, photo, maxQtdCollaborator, registerDate)
+**COMPANY** (name, document, telephone, email, photo, maxQtdCollaborator, registerDate)
 
-BRANCH(id, name)
+**BRANCH** (idBranch, name)
 
-PRODUCT (id, name, category, unitQtd, unitMeasure, salePrice)
+**PRODUCT** (idProduct, name, unitQtd, unitMeasure, salePrice)
 
-LOT (id, entryDate, dueDate, qtdProdutos, description, purchasePrice)
+**LOT** (idLot, entryDate, dueDate, qtdProdutos, description, purchasePrice)
 
-CATEGORY (id, name, description)
+**CATEGORY** (idCategory, name, description)
 
-COLLABORATOR (id, name, document, acessLevel, photo)
+**COLLABORATOR** (idCollaborator, name, document, acessLevel, photo)
 
-ACESS_LEVEL (id, name)
+**ACCESS_LEVEL** (idAccessLevel, name)
 
-FEEDBACK (id, type, description, document, annex)
+**FEEDBACK** (idFeedback, type, description, document, annex)
 
-TYPE_FEEDBACK (id, name)
+**TYPE_FEEDBACK** (idTypeFeedback, name)
 
 ### Relacionamentos
 
-Company - stocks - Product
-Uma company pode estocar nenhum ou vários produtos e um produto pode ser estocado por uma e no máximo uma company. <br>
+**COMPANY** - stocks - **PRODUCT**<br>
+Uma COMPANY pode estocar nenhum ou vários PRODUCTS e um PRODUCT pode ser estocado por uma e no máximo uma COMPANY. <br>
 **Cardinalidade -> 1:n**
 
-Company - belongs - Branch
-Uma company pertence a uma e somente uma branch e uma branch pode possuir nenhuma ou várias Companys.<br>
+**COMPANY** - belongs - **BRANCH**<br>
+Uma COMPANY pertence a uma e somente uma BRANCH e uma BRANCH pode possuir nenhuma ou várias COMPANYS.<br>
 **Cardinalidade -> n:1**
 
-Company - has - COLLABORATOR
-Uma company possui um ou vários colaboradores e um colaborador pertence a uma e somente uma company.<br>
+**COMPANY** - has - **COLLABORATOR**<br>
+Uma COMPANY possui um ou vários COLLABORATOR e um COLLABORATOR pertence a uma e somente uma COMPANY.<br>
 **Cardinalidade -> 1:n**
 
-Lot - composes - Product
-Um lote pode compor um e no máximo um produto e um produto pode ser composto por nenhum ou vários lots.<br>
+**LOT** - composes - **PRODUCT**<br>
+Um LOT pode compor um e no máximo um PRODUCT e um PRODUCT pode ser composto por nenhum ou vários LOTs.<br>
 **Cardinalidade -> n:1**
 
-Product - belongs - Category
-Um produto pode pertencer a um ou a várias categorias e uma categoria pode ser de nenhum ou vários produtos.<br>
+**PRODUCT** - belongs - **CATEGORY**<br>
+Um PRODUCT pode pertencer a um ou a várias CATEGORYS e uma CATEGORY pode ser de nenhum ou vários PRODUCTS.<br>
 **Cardinalidade -> n:m**
 
-COLLABORATOR - fills - Lot
-Um colaborador pode popular nenhum ou vários lotes e um lote pode ser populado por um e apenas um colaborador.<br>
+**COLLABORATOR** - fills - **LOT**<br>
+Um COLLBORATOR pode popular nenhum ou vários LOTS e um LOT pode ser populado por um e apenas um COLLABORATOR.<br>
 **Cardinalidade -> 1:n**
 
-COLLABORATOR - registers - Product
-Um colaborador pode registrar nenhum ou vários produtos e um produto pode ser registrado por um e apenas um colaborador.<br>
+**COLLABORATOR** - registers - **PRODUCT**<br>
+Um COLLABORATOR pode registrar nenhum ou vários PRODUCTS e um PRODUCT pode ser registrado por um e apenas um COLLABORATOR.<br>
 **Cardinalidade -> 1:n**
 
-COLLABORATOR - decreases - Lot
-Um colaborador pode decrementar nenhum ou vários lotes e um lote pode ser decrementado por um ou vários colaboradores.<br>
+**COLLABORATOR** - decreases - **LOT**<br>
+Um COLLBORATOR pode decrementar nenhum ou vários LOTS e um LOT pode ser decrementado por um ou vários COLLBORATORS.<br>
 **Cardinalidade -> n:m**
 
-FEEDBACK - has - TYPE_FEEDBACK
-Um feedback pode possuir um e no máximo um tipo de feedback e um tipo de feedback pode possuir nenhum ou vários feedbacks.<br>
+**FEEDBACK** - has - **TYPE_FEEDBACK**<br>
+Um FEEDBACK pode possuir um e no máximo um tipo de FEEDBACK e um tipo de FEEDBACK pode possuir nenhum ou vários FEEDBACKS.<br>
 **Cardinalidade -> n:1**
 
-COLLABORATOR - sends - FEEDBACK
-Um colaborador pode enviar nenhum ou vários feedbacks e um feedback pode ser enviado por um e apenas um colaborador.<br>
+**COLLABORATOR** - sends - **FEEDBACK**<br>
+Um COLLABORATOR pode enviar nenhum ou vários FEEDBACKS e um FEEDBACK pode ser enviado por um e apenas um COLLABORATOR.<br>
 **Cardinalidade -> 1:n**
 
-COLLABORATOR - has - ACESS_LEVE
-Um colaborador pode ter um e somente um nível de acesso e um nível de acesso pode ter nenhum ou vários colaboradores.<br>
+**COLLABORATOR** - has - **ACCESS_LEVEL**<br>
+Um COLLABORATOR pode ter um e somente um ACCESS_LEVEL e um nível de ACCESS_LEVEL pode ter nenhum ou vários COLLABORATORS.<br>
 **Cardinalidade -> n:1**
 
 ## Diagrama Entidade Relacionamento (DER)
