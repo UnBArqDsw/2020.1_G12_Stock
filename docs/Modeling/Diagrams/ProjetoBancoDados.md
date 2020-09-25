@@ -24,7 +24,7 @@ O Projeto de banco de dados tem por finalidade modelar todo o banco de dados do 
 
 **CATEGORY** (idCategory, name, description)
 
-**COLLABORATOR** (idCollaborator, name, document, acessLevel, photo)
+**COLLABORATOR** (idCollaborator, name, document, acessLevel, photo, password)
 
 **ACCESS_LEVEL** (idAccessLevel, name)
 
