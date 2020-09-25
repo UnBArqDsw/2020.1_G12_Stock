@@ -79,3 +79,7 @@ Um colaborador pode ter um e somente um nível de acesso e um nível de acesso p
 ## Diagrama Entidade Relacionamento (DER)
 
 ![Diagrama Entidade Relacionamento](../../assets/img/bancoDados/Modelo_STOCK.png)
+
+## Diagrama Lógico
+
+![Diagrama Entidade Relacionamento](../../assets/img/bancoDados/LOGICO_STOCK.png)
