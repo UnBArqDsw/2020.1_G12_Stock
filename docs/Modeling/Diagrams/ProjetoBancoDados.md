@@ -7,6 +7,7 @@ O Projeto de banco de dados tem por finalidade, modelar todo o banco de dados do
 | Data | Versão | Descrição | Autor(es) |
 |:----:|:------:|:---------:|:---------:|
 | 23/09/2020 | 1.0 | Criação das classes e seus atributos | Gabriel Alves, Gabriel Davi, Micaella Gouviea, Pedro Igor e Sofia Patrocínio |
+| 25/09/2020 | 1.1 | Criação dos diagramas relacionamento e lógico | Gabriel Alves |
 
 ## Modelo Entidade Relacionamento (MER)
 
