@@ -15,7 +15,7 @@ O diagrama foi produzido pelo [Draw.io](https://app.diagrams.net/). Nele há tod
 ## Diagrama
 
 * **Diagrama de Classes (V.0)**
-![diagramaClasse](../../../assets/diagramas/DiagramaClasses.png)
+![diagramaClasse](../../assets/diagramas/DiagramaClasses.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/DiagramaClasses.pdf">Arquivo em PDF</a>
 
 ## Referências

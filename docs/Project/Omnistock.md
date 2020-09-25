@@ -69,6 +69,12 @@ Será produzido na semana omniStock a aplicação "Stock Beta", que consiste em 
     - [x]  Editar um produto
     - [x]  Deletar um produto
 
+## Gravações Disponíveis
+
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/qFIssRB3Ag0?ecver=1&amp;iv_load_policy=1&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="x4Kmoha6" href="https://www.rockpamperscissors.co.uk/a-new-one-on-me/">Emma hybrid</a></div><div><a  id="x4Kmoha6" href="https://www.earth-essentials.co.uk/is-buying-a-mattress-the-worst-thing-possible-for-your-health/">VOCs</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
+
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/BIOu52NfqZ0?ecver=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="x4Kmoha6" href="https://www.rockpamperscissors.co.uk/a-new-one-on-me/">Emma hybrid</a></div><div><a  id="x4Kmoha6" href="https://www.earth-essentials.co.uk/is-buying-a-mattress-the-worst-thing-possible-for-your-health/">VOCs</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
+
 ### Dia 2 - Frontend Stock Beta (Parte 1)
 
 #### Conceitos fundamentais react
@@ -81,16 +87,20 @@ Será produzido na semana omniStock a aplicação "Stock Beta", que consiste em 
 
 #### Login/Cadastro de usuário
 
-- [ ]  Página de login
-    - [ ]  Campo de digitação de email
-    - [ ]  Campo de digitação de senha
-    - [ ]  Redirecionamento para a página principal
-- [ ]  Página de cadastro
-    - [ ]  Campo para digitar o nome
-    - [ ]  Campo para digitar o email
-    - [ ]  Campo para digitar a senha
-    - [ ]  Campo para confirmar a senha
-    - [ ]  Redirecionamento para a página de login
+- [x]  Página de login
+    - [x]  Campo de digitação de email
+    - [x]  Campo de digitação de senha
+    - [x]  Redirecionamento para a página principal
+- [x]  Página de cadastro
+    - [x]  Campo para digitar o nome
+    - [x]  Campo para digitar o email
+    - [x]  Campo para digitar a senha
+    - [x]  Campo para confirmar a senha
+    - [x]  Redirecionamento para a página de login
+
+## Gravações Disponíveis
+
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/DhmPSM8-2OM?ecver=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="x4Kmoha6" href="https://www.rockpamperscissors.co.uk/a-new-one-on-me/">Emma hybrid</a></div><div><a  id="x4Kmoha6" href="https://www.earth-essentials.co.uk/is-buying-a-mattress-the-worst-thing-possible-for-your-health/">VOCs</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
 
 ### Dia 3 - Frontend Stock Beta (Parte 2)
 
@@ -106,6 +116,8 @@ Será produzido na semana omniStock a aplicação "Stock Beta", que consiste em 
 - [ ]  Implementação do modal de editar um produto
 - [ ]  Implementação do modal para adicionar nova categoria
 - [ ]  Botão de logoff da aplicação (Redirecionar para o login)
+
+
 
 ## Referências
 * Rockseat: <https://rocketseat.com.br> . Último acesso em 21/09/2020.
