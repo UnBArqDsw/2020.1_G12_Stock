@@ -8,6 +8,10 @@ O Diagrama de Pacotes tem por finalidade demonstrar a estrutura de diretórios e
 |:----:|:------:|:---------:|:---------:|
 | 23/09/2020 | 1.0 | Criação do esboço do diagrama. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor e Sofia Patrocínio |
 | 25/09/2020 | 1.1 | Criação do documento. | Pedro Igor |
+| 25/09/2020 | 1.2 | Finalização e adição do Diagrama. | Pedro Igor | 
+## Diagrama de Pacotes
+
+![Diagrama de Pacotes](../../../assets/diagramas/Diagrama_de_Pacotes.png)
 
 ## Referências
 Micreiros - Diagramas Estruturais da UML: Diagrama de Pacotes. <https://micreiros.com/diagrama-de-pacotes/>. Último Acesso em 25/09/2020.
