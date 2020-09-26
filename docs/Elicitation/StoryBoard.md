@@ -52,7 +52,7 @@ O storyboard é uma sequência de desenhos quadro a quadro com o esboço das div
 
 ![SB6](../assets/img/storyboards/SB6_Micaella.png)
 
-### Notificação de [vencimento](Modeling/estado?id=Prazo-de-Validade) de [produto](Modeling/objeto?id=Produto)
+### Notificação de [vencimento](Modeling/objeto?id=Prazo-de-Validade) de [produto](Modeling/objeto?id=Produto)
 
 #### Autora: Sofia Patrocinio
 
@@ -72,8 +72,8 @@ O storyboard é uma sequência de desenhos quadro a quadro com o esboço das div
 |   [#RF015](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   | Atualização instantânea de [estoque](Modeling/objeto?id=Estoque)  |
 |   [#RF017](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   | App para [consulta](Modeling/verbo?id=Consultar-Produto) fácil de [produtos](Modeling/objeto?id=Produto) |
 |   [#RF018](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   |  App para baixa fácil de [produtos](Modeling/objeto?id=Produto)   |
-|   [#RF021](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   | Notificação de [prazo de vencimento](Modeling/estado?id=Prazo-de-Validade)  |
-| [#RF029](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) | Filtro pela [prazo de validade](Modeling/estado?id=Prazo-de-Validade) |
+|   [#RF021](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   | Notificação de [prazo de vencimento](Modeling/objeto?id=Prazo-de-Validade)  |
+| [#RF029](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) | Filtro pela [prazo de validade](Modeling/objeto?id=Prazo-de-Validade) |
 | [#RNF01](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |         Rapidez na [consulta](Modeling/verbo?id=Consultar-Produto)         |
 | [#RNF02](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |         Gráficos didáticos          |
 | [#RNF03](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |          [Consultas](Modeling/verbo?id=Consultar-Produto) remotas          |

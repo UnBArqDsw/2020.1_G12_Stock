@@ -16,7 +16,7 @@ O diagrama foi produzido pelo [Draw.io](https://app.diagrams.net/). Nele há tod
 ## Diagrama
 * **Diagrama de Componentes(V.0)**
 
-![diagramaComponentes](../../../assets/diagramas/DiagramaComponentes.png)
+![diagramaComponentes](../../assets/diagramas/DiagramaComponentes.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/DiagramaComponentes.pdf">Arquivo em PDF</a>
 
 ## Referências
