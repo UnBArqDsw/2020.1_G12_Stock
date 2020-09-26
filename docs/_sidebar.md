@@ -40,6 +40,7 @@
   - **Diagramas UML**
     - [Diagrama de Classes](Modeling/Diagrams/Classes.md)
     - [Diagrama de Componentes](Modeling/Diagrams/Componentes.md)
+    - [Diagrama de Pacotes](Modeling/Diagrams/Pacotes.md)
   -  **Diagrama - Modelagem do Banco de Dados**
     - [Modelo Entidade Relacionamento](Modeling/Diagrams/EntidadeRelacionamento.md)
   - **Diagrams Sprint**

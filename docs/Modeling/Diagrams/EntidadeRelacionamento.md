@@ -78,7 +78,10 @@ Um COLLABORATOR pode enviar nenhum ou vários FEEDBACKS e um FEEDBACK pode ser e
 
 ## Diagrama Entidade Relacionamento (DER)
 
-![Diagrama Entidade Relacionamento](../../assets/img/bancoDados/Diagrama_Entidade_Relacionamento.png)
+![Diagrama Entidade Relacionamento](../../assets/img/bancoDados/Diagrama_Entidade_Relacionamento.png)<br>
+<audio controls>
+  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/der/DER.wav" type="audio/mpeg">
+</audio>
 
 ## Diagrama Lógico
 
