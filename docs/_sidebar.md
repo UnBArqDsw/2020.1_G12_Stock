@@ -41,7 +41,7 @@
     - [Diagrama de Classes](Modeling/Diagrams/Classes.md)
     - [Diagrama de Componentes](Modeling/Diagrams/Componentes.md)
   -  **Diagrama - Modelagem do Banco de Dados**
-    - [Modelo Entidade Relacionamento](Modeling/Diagrams/ProjetoBancoDados.md)
+    - [Modelo Entidade Relacionamento](Modeling/Diagrams/DiagramaEntidadeRelacionamento.md)
   - **Diagrams Sprint**
     - [Metodologia](Modeling/Diagrams/Diagrams.md) 
     - [Dia 1 - Diagrama de Classes e Diagrama de Componentes](Modeling/Diagrams/dias/dia1.md)
