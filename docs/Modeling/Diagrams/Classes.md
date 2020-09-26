@@ -9,6 +9,7 @@ Diagramas de classes tem como principal objetivo mapear de forma clara a estrutu
 | 22/09/2020 | 1.0 | Criação das classes e seus atributos | Gabriel Alves, Gabriel Davi, Micaella Gouviea, Pedro Igor e Sofia Patrocínio |
 | 22/09/2020 | 1.1 | Criação do diagrama de classe | Micaella Gouveia |
 | 24/09/2020 | 1.2 | Adição da introdução, realização, arquivo PDF e referências | Micaella Gouveia |
+| 25/09/2020 | 1.3 | Atualização do diagrama de classes conforme feedback da professora Milene | Micaella Gouveia |
 
 ## Realização
 O diagrama foi produzido pelo [Draw.io](https://app.diagrams.net/). Nele há todas as classes do nosso sistema, contendo seus atributos e métodos, sendo ocultados métodos de Setter e Getter, além dos seus relacionamentos e cardinalidade.
