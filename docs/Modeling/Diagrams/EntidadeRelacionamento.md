@@ -6,7 +6,7 @@ O Modelo Entidade Relacionamento tem por finalidade modelar todo o banco de dado
 ## Histórico de Revisões
 | Data | Versão | Descrição | Autor(es) |
 |:----:|:------:|:---------:|:---------:|
-| 23/09/2020 | 1.0 | Criação das classes e seus atributos | Gabriel Alves, Gabriel Davi, Micaella Gouviea, Pedro Igor e Sofia Patrocínio |
+| 23/09/2020 | 1.0 | Criação das entidades e seus atributos | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor e Sofia Patrocínio |
 | 25/09/2020 | 1.1 | Criação dos diagramas relacionamento e lógico | Gabriel Alves |
 | 25/09/2020 | 1.2 | Correção de alguns erros de digitação e linkagem do documento a navbar | Pedro Igor |
 | 25/09/2020 | 1.3 | Atualização dos diagramas. | Pedro Igor |
