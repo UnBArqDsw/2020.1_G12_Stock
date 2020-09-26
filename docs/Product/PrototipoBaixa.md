@@ -9,7 +9,7 @@ Os [protótipos](Modeling/objeto?id=protótipo) de baixa fidelidade são [protó
 | 16/09/2020 |  1.0   |  Abertura do documento de baixa fidelidade   |          Gabriel Davi e Sofia Patrocínio          |
 | 16/09/2020 |  1.1   | Adição da introdução e documentos produzidos |        Micaella Gouveia e Sofia Patrocínio        |
 | 16/09/2020 |  1.2   |             Linkagem dos léxicos             | Gabriel Davi, Micaella Gouveia e Sofia Patrocínio |
-| 17/09/2020 |  1.3  |       Adição do léxico de feedback     | Gabriel Davi |
+| 17/09/2020 |  1.3  |       Adição do léxico de [feedback](Modeling/verbo?id=feedback)     | Gabriel Davi |
 | 21/09/2020 |  1.4  |       Adição da gravação da reunião     | Micaella Gouveia |
 
 

@@ -10,7 +10,7 @@ O objetivo de um [protótipo](Modeling/objeto?id=protótipo) é criar uma repres
 | 16/09/2020 |  1.1   | Adição da introdução, referências e index dos [prototipos](Modeling/objeto?id=protótipo)  | Micaella Gouveia e Sofia Patrocínio |
 | 16/09/2020 |  1.2   | Linkagem dos léxicos   | Gabriel Davi, Micaella Gouveia e Sofia Patrocínio|
 | 17/09/2020 |  1.3   | Adição dos requisitos RF28, RF30 e RF31   | Micaella Gouveia |
-| 17/09/2020 |  1.4   |       Adição do léxico de feedback     | Gabriel Davi |
+| 17/09/2020 |  1.4   |       Adição do léxico de [feedback](Modeling/verbo?id=feedback)     | Gabriel Davi |
 | 18/09/2020 |  1.5   | Adição dos requisitos RF32 e RF33   | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
 
 

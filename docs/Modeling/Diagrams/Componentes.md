@@ -9,7 +9,7 @@ O Diagrama de Componentes tem como principal objetivo mostrar o relacionamento e
 | 22/09/2020 | 1.0 | Criação dos módulos e possíveis interfaces | Gabriel Alves, Gabriel Davi, Micaella Gouviea, Pedro Igor e Sofia Patrocínio |
 | 23/09/2020 | 1.1 | Criação do diagrama de componentes | Micaella Gouveia |
 | 24/09/2020 | 1.2 | Adição da introdução, realização, arquivo PDF e referências | Micaella Gouveia |
-| 25/09/2020 | 1.3 | Atualização do diagrama de componentes conforme feedback da professora Milene | Micaella Gouveia |
+| 25/09/2020 | 1.3 | Atualização do diagrama de componentes conforme [feedback](Modeling/verbo?id=feedback) da professora Milene | Micaella Gouveia |
 
 ## Realização
 O diagrama foi produzido pelo [Draw.io](https://app.diagrams.net/). Nele há todas os subsistemas contendo seus componentes, fazendo a relação entre os componentes com suas devidas interfaces.
