@@ -40,6 +40,8 @@
   - **Diagramas UML**
     - [Diagrama de Classes](Modeling/Diagrams/Classes.md)
     - [Diagrama de Componentes](Modeling/Diagrams/Componentes.md)
+    - [Diagrama de Sequência](Modeling/Diagrams/Sequência.md)
+    - [Diagrama de Comunicação](Modeling/Diagrams/Comunicação.md)
   - **Diagrams Sprint**
     - [Metodologia](Modeling/Diagrams/Diagrams.md) 
     - [Dia 1 - Diagrama de Classes e Diagrama de Componentes](Modeling/Diagrams/dias/dia1.md)

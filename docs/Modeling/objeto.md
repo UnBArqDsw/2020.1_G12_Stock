@@ -2,16 +2,16 @@
 
 ## Histórico de Revisões
 
-|    Data    | Versão |              Descrição               |                                  Autor(es)                                  |
-| :--------: | :----: | :----------------------------------: | :-------------------------------------------------------------------------: |
-| 08/09/2020 |  1.0   |         Sugestão de Léxicos          | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
-| 09/09/2020 |  1.1   |       Estruturação dos léxicos       |                                Gabriel Alves                                |
-| 10/09/2020 |  1.2   |  Revisão e finalização dos léxicos   | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
-| 11/09/2020 |  1.3   |         Criação do documento         |                                Gabriel Alves                                |
-| 11/09/2020 |  1.4   |        Linkagem dos léxicos.         | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
-| 15/09/2020 |  1.5   |       Adição de novos léxicos.       |                                Gabriel Davi                                 |
-| 15/09/2020 |  1.6   | Adição e linkagem de mais um léxico. |                                 Pedro Igor                                  |
-| 19/09/2020 |  1.7  | Léxicos de requisitos não funcionais e funcionais   | Gabriel Davi |
+| Data | Versão | Descrição | Autor(es) |
+|:----:|:------:|:---------:|:---------:|
+| 08/09/2020 | 1.0 | Sugestão de Léxicos | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 09/09/2020 | 1.1 | Estruturação dos léxicos | Gabriel Alves |
+| 10/09/2020 | 1.2 | Revisão e finalização dos léxicos | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 11/09/2020 | 1.3 | Criação do documento | Gabriel Alves |
+| 11/09/2020 | 1.4 | Linkagem dos léxicos. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 15/09/2020 | 1.5 | Adição de novos léxicos. | Gabriel Davi |
+| 15/09/2020 | 1.6 | Adição e linkagem de mais um léxico. | Pedro Igor |
+| 19/09/2020 | 1.7 | Léxicos de requisitos não funcionais e funcionais | Gabriel Davi |
 
 
 ### PWA
@@ -148,11 +148,12 @@
 
 
 ### Requisito funcional
-|                                                                     Noção                                                                     |                                          Impacto                                          |                               Sinônimos                               |
-| :-------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: |
-| São especificações de uma [aplicação](Modeling/objeto?id=Web-App)  que ditam como a mesma deve se comportar no âmbito de funcionalidades. | Storyboard é uma ótima técnica para elicitar requisitos funcionais.<br><br> É necessário organizar os requistos funcionais em grau de relevância.| Features.<br><br> Funcionalidades |
+| Noção | Impacto | Sinônimos |
+|:-----:|:-------:|:---------:|
+| São especificações de uma [aplicação](Modeling/objeto?id=Web-App)  que ditam como a mesma deve se comportar no âmbito de funcionalidades. | Storyboard é uma ótima técnica para elicitar requisitos funcionais.<br><br> É necessário organizar os requistos funcionais em grau de relevância. | Features.<br><br> Funcionalidades |
 
 ### Requisito não funcional
-|                                                                     Noção                                                                     |                                          Impacto                                          |                               Sinônimos                               |
-| :-------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: |
-| São especificações de uma [aplicação](Modeling/objeto?id=Web-App) que influenciam na experiência do [usuário](Modeling/objeto?id=usuário). | Requisitos funcionais são grandes diferencias em uma [aplicação](Modeling/objeto?id=Web-App) e podem determinar a permanência de um [usuário](Modeling/objeto?id=usuário) na mesma.| - |
+| Noção | Impacto | Sinônimos |
+|:-----:|:-------:|:---------:|
+| São especificações de uma [aplicação](Modeling/objeto?id=Web-App) que influenciam na experiência do [usuário](Modeling/objeto?id=usuário). | Requisitos funcionais são grandes diferencias em uma [aplicação](Modeling/objeto?id=Web-App) e podem determinar a permanência de um [usuário](Modeling/objeto?id=usuário) na mesma. | - |
+P
