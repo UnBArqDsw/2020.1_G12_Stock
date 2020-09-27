@@ -12,7 +12,7 @@ Diagramas de estado servem para modelar os diversos estados de um objeto durante
 | 28/09/2020 | 1.3 | Adição dos áudios | Gabriel Davi|
 
 ## Realização
-Os diagramas foi produzido pelo [Lucichart](https://www.lucidchart.com/). Eles descrevem os possíveis estados de uma aplicação em todo o seu ciclo de vida.
+Os diagramas foi produzido pelo [Lucichart](https://www.lucidchart.com/). Eles descrevem os possíveis estados de uma [aplicação](Modeling/objeto?id=Web-App) em todo o seu ciclo de vida.
 
 
 ## Diagramas
