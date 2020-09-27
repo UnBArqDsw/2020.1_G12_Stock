@@ -10,9 +10,11 @@
   - [Diagrama de Classes](Modeling/Diagrams/Classes.md)
   - [Diagrama de Pacotes](Modeling/Diagrams/Pacotes.md)
   - [Diagrama de Componentes](Modeling/Diagrams/Componentes.md)
-  - [Diagrama de Entidade de Relacionamento de banco de dados](Modeling/Diagrams/EntidadeRelacionamento.md)
   - [Diagrama de Atividade](Modeling/Diagrams/Atividades.md)
   - [Diagrama de Estado](Modeling/Diagrams/Estado.md)
+  
+- **Diagrama - Modelagem do Banco de Dados**
+  - [Modelo Entidade Relacionamento](Modeling/Diagrams/EntidadeRelacionamento.md)
 
 - **Diagrams Sprint**
   - [Metodologia](Modeling/Diagrams/Diagrams.md) 
