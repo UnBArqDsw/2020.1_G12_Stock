@@ -1,4 +1,4 @@
-# Diagrama de Classes
+# Diagrama de Estado
 **Este artefato foi produzido durante o dia 3 da Diagrams Sprint, para saber mais sobre a metodologia e como ela foi feita, clique aqui: _[Diagrams Sprint](Modeling/Diagrams/Diagrams.md)_**
 
 Diagramas de estado servem para modelar os diversos estados de um objeto durante o seu ciclo de vida. É uma maneira eficiente e clara de descrever todos os possíveis estados de um sistema, assim como quais eventos levam transição de um estado para outro.
@@ -6,7 +6,7 @@ Diagramas de estado servem para modelar os diversos estados de um objeto durante
 ## Histórico de Revisões
 | Data | Versão | Descrição | Autor(es) |
 |:----:|:------:|:---------:|:---------:|
-| 24/09/2020 | 1.0 | Reunião para debate sobre os diagramas | Gabriel Alves, Gabriel Davi, Micaella Gouviea, Pedro Igor e Sofia Patrocínio |
+| 24/09/2020 | 1.0 | Reunião para debate sobre os diagramas | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor e Sofia Patrocínio |
 | 25/09/2020 | 1.1 | Confecção dos diagramas de estado | Gabriel Davi|
 | 28/09/2020 | 1.2 | Documentação dos diagramas | Gabriel Davi|
 | 28/09/2020 | 1.3 | Adição dos áudios | Gabriel Davi|
