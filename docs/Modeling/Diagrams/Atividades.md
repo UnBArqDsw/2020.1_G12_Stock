@@ -7,7 +7,7 @@ Diagramas de atividade são considerados diagramas de comportamento, pois descre
 | Data | Versão | Descrição | Autor(es) |
 |:----:|:------:|:---------:|:---------:|
 | 24/09/2020 | 1.0 | Reunião para debate sobre os diagramas | Gabriel Alves, Gabriel Davi, Micaella Gouviea, Pedro Igor e Sofia Patrocínio |
-| 24/09/2020 | 1.1 | Confecção dos diagramas de prazo de validade | Sofia Patrocínio|
+| 24/09/2020 | 1.1 | Confecção do diagrama de prazo de validade | Sofia Patrocínio|
 | 25/09/2020 | 1.2 | Confecção dos demais diagramas de atividade | Gabriel Davi|
 | 28/09/2020 | 1.3 | Documentação dos diagramas | Gabriel Davi|
 | 28/09/2020 | 1.4 | Adição dos áudios | Gabriel Davi|
