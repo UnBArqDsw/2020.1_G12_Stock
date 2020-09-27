@@ -18,7 +18,11 @@ Os diagramas foi produzido pelo [Lucichart](https://www.lucidchart.com/). Eles d
 ## Diagramas
 
 ### Autenticação (V.0)
+![diagramaEstado](../../assets/diagramas/estado/Diagrama_estado_autenticacao1.png)
+
+### Autenticação (V.1)
 ![diagramaEstado](../../assets/diagramas/estado/Diagrama_estado_autenticacao.png)
+
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/estado/Diagrama_estado_autenticacao.pdf">Arquivo em PDF</a>
 
 
