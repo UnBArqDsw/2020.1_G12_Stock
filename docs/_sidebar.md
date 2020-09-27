@@ -42,6 +42,7 @@
     - [Diagrama de Componentes](Modeling/Diagrams/Componentes.md)
     - [Diagrama de Pacotes](Modeling/Diagrams/Pacotes.md)
     - [Diagrama de Atividade](Modeling/Diagrams/Atividades.md)
+    - [Diagrama de Estado](Modeling/Diagrams/Estado.md)
   -  **Diagrama - Modelagem do Banco de Dados**
     - [Modelo Entidade Relacionamento](Modeling/Diagrams/EntidadeRelacionamento.md)
   - **Diagrams Sprint**

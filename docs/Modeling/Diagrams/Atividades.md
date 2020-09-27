@@ -10,6 +10,7 @@ Diagramas de atividade são considerados diagramas de comportamento, pois descre
 | 24/09/2020 | 1.1 | Confecção dos diagramas de prazo de validade | Sofia Patrocínio|
 | 25/09/2020 | 1.2 | Confecção dos demais diagramas de atividade | Gabriel Davi|
 | 28/09/2020 | 1.3 | Documentação dos diagramas | Gabriel Davi|
+| 28/09/2020 | 1.4 | Adição dos áudios | Gabriel Davi|
 
 ## Realização
 Os diagramas foi produzido pelo [Lucichart](https://www.lucidchart.com/). Eles descrevem ações consideradas enscênciais para o nosso sistema detalhados em fluxos que podem se dividir entre raias de responsabilidade. 
