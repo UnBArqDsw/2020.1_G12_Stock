@@ -10,6 +10,7 @@
 |:----:|:------:|:---------:|:---------:|
 | 24/09/2020 | 1.0 | Criação do documento | Micaella Gouveia |
 | 25/09/2020 | 1.1 | Inserção do relato e adição da documentação produzida durante a reunião | Pedro Igor |
+| 27/09/2020 | 1.2 | Adição dos vídeos | Micaella Gouveia |
 
 ## Relato do Mediador
 
