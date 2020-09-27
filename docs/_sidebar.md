@@ -42,6 +42,9 @@
     - [Diagrama de Componentes](Modeling/Diagrams/Componentes.md)
     - [Diagrama de Sequência](Modeling/Diagrams/Sequência.md)
     - [Diagrama de Comunicação](Modeling/Diagrams/Comunicação.md)
+    - [Diagrama de Pacotes](Modeling/Diagrams/Pacotes.md)
+  -  **Diagrama - Modelagem do Banco de Dados**
+    - [Modelo Entidade Relacionamento](Modeling/Diagrams/EntidadeRelacionamento.md)
   - **Diagrams Sprint**
     - [Metodologia](Modeling/Diagrams/Diagrams.md) 
     - [Dia 1 - Diagrama de Classes e Diagrama de Componentes](Modeling/Diagrams/dias/dia1.md)
