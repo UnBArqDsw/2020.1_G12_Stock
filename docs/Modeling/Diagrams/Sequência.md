@@ -31,6 +31,7 @@ Representar ação:
 | 24/09/2020 | 1.0 | Adição da explicação sobre diagrama de sequência | Sofia Patrocínio |
 | 25/09/2020 | 1.1 | Criação das relações entre classes | Gabriel Davi, Micaella Gouviea, Pedro Igor e Sofia Patrocínio |
 | 28/09/2020 | 1.2 | Criação dos diagramas | Sofia Patrocínio |
+| 28/09/2020 | 1.3 | Adição dos áudios e linkagem dos léxicos | Sofia Patrocínio |
 
 ## Diagramas
 
@@ -38,21 +39,41 @@ Representar ação:
 ![createCollaborator](../../assets/diagramas/sequência/CreateCollaborator.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequência/CreateCollaborator.pdf">Arquivo em PDF</a>
 
-* **Visualização de [Administradores](Modeling/objeto?id=Admin)**
+<audio controls>
+  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/sequência/CreateCollaborator.m4a" type="audio/mpeg">
+</audio>
+
+* **Criação de [Administradores](Modeling/objeto?id=Admin)**
 ![createAdmin](../../assets/diagramas/sequência/CreateAdmin.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequência/CreateAdmin.pdf">Arquivo em PDF</a>
+
+<audio controls>
+  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/sequência/CreateAdmin.m4a" type="audio/mpeg">
+</audio>
 
 * **[Adição](Modeling/verbo?id=Cadastrar-Produto) de [Produto](Modeling/objeto?id=Produto) ao Estoque**
 ![increaseProduct](../../assets/diagramas/sequência/IncreaseProduct.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequência/IncreaseProduct.pdf">Arquivo em PDF</a>
 
+<audio controls>
+  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/sequência/IncreaseProduct.m4a" type="audio/mpeg">
+</audio>
+
 * **[Baixa](Modeling/verbo?id=Baixa-em-Produto) de [Produto](Modeling/objeto?id=Produto)**
 ![productSale](../../assets/diagramas/sequência/ProductSale.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequência/ProductSale.pdf">Arquivo em PDF</a>
 
+<audio controls>
+  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/sequência/ProductSale.m4a" type="audio/mpeg">
+</audio>
+
 * **Envio de [Feedback](/Modeling/verbo?id=feedback)**
 ![sendFeedback](../../assets/diagramas/sequência/SendFeedback.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequência/SendFeedback.pdf">Arquivo em PDF</a>
+
+<audio controls>
+  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/sequência/SendFeedback.m4a" type="audio/mpeg">
+</audio>
 
 
 
