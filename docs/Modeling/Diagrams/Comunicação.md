@@ -18,24 +18,24 @@ O diagrama foi produzido pelo [LucidChart](https://www.lucidchart.com/). Nele h�
 ## Diagramas
 
 * **Criação de Colaborador**
-![createCollaborator](../../assets/diagramas/CreateCollaborator.png)
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/CreateCollaborator.pdf">Arquivo em PDF</a>
+![createCollaborator](../../assets/diagramas/comunicação/CreateCollaborator.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/comunicação/CreateCollaborator.pdf">Arquivo em PDF</a>
 
-* **Adição de Produto ao Estoque**
-![increaseProduct](../../assets/diagramas/IncreaseProduct.png)
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/IncreaseProduct.pdf">Arquivo em PDF</a>
+* **[Adição](Modeling/verbo?id=Cadastrar-Produto) de [Produto](Modeling/objeto?id=Produto) ao Estoque**
+![increaseProduct](../../assets/diagramas/comunicação/IncreaseProduct.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/comunicação/IncreaseProduct.pdf">Arquivo em PDF</a>
 
-* **Venda de Produto**
-![productSale](../../assets/diagramas/ProductSale.png)
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/ProductSale.pdf">Arquivo em PDF</a>
+* **[Baixa](Modeling/verbo?id=Baixa-em-Produto) de [Produto](Modeling/objeto?id=Produto)**
+![productSale](../../assets/diagramas/comunicação/ProductSale.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/comunicação/ProductSale.pdf">Arquivo em PDF</a>
 
 * **Visualização de Gráficos**
-![checkAnalisys](../../assets/diagramas/CheckAnalisys.png)
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/CheckAnalisys.pdf">Arquivo em PDF</a>
+![checkAnalisys](../../assets/diagramas/comunicação/CheckAnalisys.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/comunicação/CheckAnalisys.pdf">Arquivo em PDF</a>
 
-* **Envio de Feedback**
-![sendFeedback](../../assets/diagramas/SendFeedback.png)
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/SendFeedback.pdf">Arquivo em PDF</a>
+* **Envio de [Feedback](/Modeling/verbo?id=feedback)**
+![sendFeedback](../../assets/diagramas/comunicação/SendFeedback.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/comunicação/SendFeedback.pdf">Arquivo em PDF</a>
 
 
 ## Referências

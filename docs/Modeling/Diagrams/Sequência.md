@@ -29,9 +29,32 @@ Representar ação:
 | Data | Versão | Descrição | Autor(es) |
 |:----:|:------:|:---------:|:---------:|
 | 24/09/2020 | 1.0 | Adição da explicação sobre diagrama de sequência | Sofia Patrocínio |
-| 25/09/2020 | 1.1 | Criação do diagrama | Gabriel Alves, Gabriel Davi, Micaella Gouviea, Pedro Igor e Sofia Patrocínio |
+| 25/09/2020 | 1.1 | Criação das relações entre classes | Gabriel Davi, Micaella Gouviea, Pedro Igor e Sofia Patrocínio |
+| 28/09/2020 | 1.2 | Criação dos diagramas | Sofia Patrocínio |
 
-## Diagrama
+## Diagramas
+
+* **Criação de Colaborador**
+![createCollaborator](../../assets/diagramas/sequência/CreateCollaborator.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequência/CreateCollaborator.pdf">Arquivo em PDF</a>
+
+* **Visualização de [Administradores](Modeling/objeto?id=Admin)**
+![createAdmin](../../assets/diagramas/sequência/CreateAdmin.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequência/CreateAdmin.pdf">Arquivo em PDF</a>
+
+* **[Adição](Modeling/verbo?id=Cadastrar-Produto) de [Produto](Modeling/objeto?id=Produto) ao Estoque**
+![increaseProduct](../../assets/diagramas/sequência/IncreaseProduct.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequência/IncreaseProduct.pdf">Arquivo em PDF</a>
+
+* **[Baixa](Modeling/verbo?id=Baixa-em-Produto) de [Produto](Modeling/objeto?id=Produto)**
+![productSale](../../assets/diagramas/sequência/ProductSale.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequência/ProductSale.pdf">Arquivo em PDF</a>
+
+* **Envio de [Feedback](/Modeling/verbo?id=feedback)**
+![sendFeedback](../../assets/diagramas/sequência/SendFeedback.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequência/SendFeedback.pdf">Arquivo em PDF</a>
+
+
 
 ## Referências
 - ENGENHARIA DE SOFTWARE Prof. Ricardo Rodrigues Barcelar MODELAGEM DE SISTEMAS ORIENTADA A OBJETOS COM UML. Disponível em: <https://docplayer.com.br/7303694-Engenharia-de-software-prof-ricardo-rodrigues-barcelar-http-www-ricardobarcelar-com-br.html>. Último acesso em 23/09/2020.
