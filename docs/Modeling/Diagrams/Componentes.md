@@ -9,15 +9,27 @@ O Diagrama de Componentes tem como principal objetivo mostrar o relacionamento e
 | 22/09/2020 | 1.0 | Criação dos módulos e possíveis interfaces | Gabriel Alves, Gabriel Davi, Micaella Gouviea, Pedro Igor e Sofia Patrocínio |
 | 23/09/2020 | 1.1 | Criação do diagrama de componentes | Micaella Gouveia |
 | 24/09/2020 | 1.2 | Adição da introdução, realização, arquivo PDF e referências | Micaella Gouveia |
+| 25/09/2020 | 1.3 | Atualização do diagrama de componentes conforme [feedback](Modeling/verbo?id=feedback) da professora Milene (Diagrama V.1)| Micaella Gouveia |
+| 27/09/2020 | 1.4 | Adição do áudio explicativo | Micaella Gouveia |
 
 ## Realização
 O diagrama foi produzido pelo [Draw.io](https://app.diagrams.net/). Nele há todas os subsistemas contendo seus componentes, fazendo a relação entre os componentes com suas devidas interfaces.
 
 ## Diagrama
+
+* **Diagrama de Componentes(V.1)**
+
+![diagramaComponentes](../../assets/diagramas/DiagramaComponentesV1.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/DiagramaComponentesV1.pdf">Arquivo em PDF</a>
+
+<audio controls>
+  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/DiagramaComponentes.m4a" type="audio/mpeg">
+</audio>
+
 * **Diagrama de Componentes(V.0)**
 
-![diagramaComponentes](../../../assets/diagramas/DiagramaComponentes.png)
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/DiagramaComponentes.pdf">Arquivo em PDF</a>
+![diagramaComponentes](../../assets/diagramas/DiagramaComponentesV0.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/DiagramaComponentesV0.pdf">Arquivo em PDF</a>
 
 ## Referências
 * Diagrama de componentes UML: <https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml>. Último acesso em 24/09/2020.

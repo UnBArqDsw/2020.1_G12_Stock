@@ -82,9 +82,9 @@ _Aplicação:_<br><br>
 **11** - Está empresa trabalha com [produtos](Modeling/objeto?id=Produto) perecíveis? <br>
 ![Pergunta 11](../assets/questionario/11.png)
 
-Quase metade do nosso público respondeu que trabalha com [produtos](Modeling/objeto?id=Produto) perecíveis, o que nos mostra uma necessidade de ser possível adicionar data de [vencimento](Modeling/estado?id=Prazo-de-Validade) dos [produtos](Modeling/objeto?id=Produto) e alertá-los quando está próximo.<br><br>
+Quase metade do nosso público respondeu que trabalha com [produtos](Modeling/objeto?id=Produto) perecíveis, o que nos mostra uma necessidade de ser possível adicionar data de [vencimento](Modeling/objeto?id=Prazo-de-Validade) dos [produtos](Modeling/objeto?id=Produto) e alertá-los quando está próximo.<br><br>
 
-**12** - Esta empresa já teve prejuízo por não controlar o [estoque](Modeling/objeto?id=Estoque) corretamente? ([Produto](Modeling/objeto?id=Produto) passar da [data de validade](Modeling/estado?id=Prazo-de-Validade), [produto](Modeling/objeto?id=Produto) não encontrado no [estoque](Modeling/objeto?id=Estoque))<br>
+**12** - Esta empresa já teve prejuízo por não controlar o [estoque](Modeling/objeto?id=Estoque) corretamente? ([Produto](Modeling/objeto?id=Produto) passar da [data de validade](Modeling/objeto?id=Prazo-de-Validade), [produto](Modeling/objeto?id=Produto) não encontrado no [estoque](Modeling/objeto?id=Estoque))<br>
 ![Pergunta 12](../assets/questionario/12.png)
 
 A maioria das empresas já tiveram prejuízo pelo mau controle do [estoque](Modeling/objeto?id=Estoque), o que significa que não utilizam/utilizaram ferramentas adequedas.<br><br>
@@ -95,7 +95,7 @@ A grande maioria faz controle manual dos seu [estoque](Modeling/objeto?id=Estoqu
 
 **14** - Quais problemas você já encontrou ao fazer [controle de estoque](Modeling/verbo?id=Controle-de-Estoque)? (opcional)<br>
 ![Pergunta 14](../assets/questionario/14.png)
-Entre os problemas encontrados, é muito comum a falta de assertividade no controle: quantidade de [produto](Modeling/objeto?id=Produto) em [estoque](Modeling/objeto?id=Estoque) não bater com valor real. Além disso, podemos perceber que há problemas em separar os [produtos](Modeling/objeto?id=Produto) por categorias e dificuldade em achá-los. Há também dificuldade em controlar o [prazo de vencimento](Modeling/estado?id=Prazo-de-Validade) dos [produtos](Modeling/objeto?id=Produto).<br><br>
+Entre os problemas encontrados, é muito comum a falta de assertividade no controle: quantidade de [produto](Modeling/objeto?id=Produto) em [estoque](Modeling/objeto?id=Estoque) não bater com valor real. Além disso, podemos perceber que há problemas em separar os [produtos](Modeling/objeto?id=Produto) por categorias e dificuldade em achá-los. Há também dificuldade em controlar o [prazo de vencimento](Modeling/objeto?id=Prazo-de-Validade) dos [produtos](Modeling/objeto?id=Produto).<br><br>
 
 ## Requisitos Levantados
 
@@ -115,7 +115,7 @@ Entre os problemas encontrados, é muito comum a falta de assertividade no contr
 |   [#RF013](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   |                      [Filtro](Modeling/verbo?id=Filtrar-Produtos) por data                      |
 |   [#RF014](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   |                                      Plotagem de gráficos                                       |
 |   [#RF015](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   |                Atualização instantânea de [estoque](Modeling/objeto?id=Estoque)                 |
-|   [#RF021](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   |           Notificação de [prazo de vencimento](Modeling/estado?id=Prazo-de-Validade)            |
+|   [#RF021](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   |           Notificação de [prazo de vencimento](Modeling/objeto?id=Prazo-de-Validade)            |
 |   [#RF023](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   |                          Cadastro de diferentes lotes do mesmo produto                          |
 |   [#RF024](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   |                             Personalização da geração dos gráficos                              |
 | [#RNF04](Elicitation/RequisitosElicitados.md?id=requisitos-não-funcionais) |                           Interface intuitiva e de fácil compreensão                            |

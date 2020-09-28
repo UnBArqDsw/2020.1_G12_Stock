@@ -15,11 +15,6 @@
 |  :-----:  |  :-------:  |  :---------:   |
 | Deploy é um estado que descreve quando uma aplicação está saindo da fase de desenvolvimento para produção. | A aplicação está em deploy <br><br> A aplicação sofreu deploy. | - |
 
-### Prazo de Validade
-|   Noção   |   Impacto   |   Sinônimos    |
-|  :-----:  |  :-------:  |  :---------:   |
-| Tempo que os [produtos](Modeling/objeto?id=Produto) podem ser armazenados mantendo sua qualidade aceitável.| A validade do [produto](Modeling/objeto?id=Produto) está acabando. | Serventia do [produto](Modeling/objeto?id=Produto), vida útil do [produto](Modeling/objeto?id=Produto), validade do [produto](Modeling/objeto?id=Produto), prazo de vencimento.|
-
 ### Estoque baixo
 |   Noção   |   Impacto   |   Sinônimos    |
 |  :-----:  |  :-------:  |  :---------:   |

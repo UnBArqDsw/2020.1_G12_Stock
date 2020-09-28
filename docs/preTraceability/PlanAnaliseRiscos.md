@@ -205,7 +205,7 @@ Sendo que:
             <td>7</td>
             <td>Falta de motivação</td>
             <td>Prevenir</td>
-            <td> Incentivar dailys, comentários em PRs e no grupo do telegram, mostrar propósito e impacto  das suas ações e suas responsabilidades, dar feedbacks tanto construtivos quanto positivos</td>
+            <td> Incentivar dailys, comentários em PRs e no grupo do telegram, mostrar propósito e impacto  das suas ações e suas responsabilidades, dar <a href="#/Modeling/verbo?id=feedback">feedbacks</a> tanto construtivos quanto positivos</td>
         </tr>
         <tr class="risco médio" style="background:#FFB366">
             <th>6</th>
