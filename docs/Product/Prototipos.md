@@ -4,14 +4,15 @@
 O objetivo de um [protótipo](Modeling/objeto?id=protótipo) é criar uma representação semi realística de algo para que seja possível interagir e testar com [usuários](Modeling/objeto?id=usuário) reais. A sua principal função é identificar problemas e oportunidades de melhorias antes de começar o desenvolvimento do produto. Ele deve ser desenvolvido com base em pesquisas e pelos requisitos elicitados, e depois validado para responder se funciona conforme o esperado.
 
 ## Históricos de Revisões
-|    Data    | Versão |         Descrição         |           Autor(es)            |
-| :--------: | :----: | :-----------------------: | :----------------------------: |
-| 16/09/2020 |  1.0   | Abertura do documento de [protótipo](Modeling/objeto?id=protótipo)  | Gabriel Davi e Sofia Patrocínio |
-| 16/09/2020 |  1.1   | Adição da introdução, referências e index dos [prototipos](Modeling/objeto?id=protótipo)  | Micaella Gouveia e Sofia Patrocínio |
-| 16/09/2020 |  1.2   | Linkagem dos léxicos   | Gabriel Davi, Micaella Gouveia e Sofia Patrocínio|
-| 17/09/2020 |  1.3   | Adição dos requisitos RF28, RF30 e RF31   | Micaella Gouveia |
-| 17/09/2020 |  1.4   |       Adição do léxico de [feedback](Modeling/verbo?id=feedback)     | Gabriel Davi |
-| 18/09/2020 |  1.5   | Adição dos requisitos RF32 e RF33   | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| Data | Versão | Descrição | Autor(es) |
+|:----:|:------:|:---------:|:---------:|
+| 16/09/2020 | 1.0 | Abertura do documento de [protótipo](Modeling/objeto?id=protótipo) | Gabriel Davi e Sofia Patrocínio |
+| 16/09/2020 | 1.1 | Adição da introdução, referências e index dos [prototipos](Modeling/objeto?id=protótipo) | Micaella Gouveia e Sofia Patrocínio |
+| 16/09/2020 | 1.2 | Linkagem dos léxicos | Gabriel Davi, Micaella Gouveia e Sofia Patrocínio |
+| 17/09/2020 | 1.3 | Adição dos requisitos RF28, RF30 e RF31 | Micaella Gouveia |
+| 17/09/2020 | 1.4 | Adição do léxico de [feedback](Modeling/verbo?id=feedback) | Gabriel Davi |
+| 18/09/2020 | 1.5 | Adição dos requisitos RF32 e RF33 | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 28/09/2020 | 1.6 | Adição do link para o [protótipo](Modeling/objeto?id=protótipo) de alta fidelidade | Micaella Gouveia |
 
 
 
@@ -21,17 +22,18 @@ Para a produção dos [protótipos](Modeling/objeto?id=protótipo) o time decidi
 ## Protótipos
 ### [Protótipo de Baixa Fidelidade](Product/PrototipoBaixa.md)
 ### [Protótipo de Média Fidelidade](Product/PrototipoMedia.md)
-### [Planejamento da Avaliação](Product/PlanejamentoAvaliacao.md)
+### [Protótipo de Alta Fidelidade](Product/PrototipoAlta.md)
+### [Planejamento da Avaliação do Protótipo de Média Fidelidade](Product/PlanejamentoAvaliacao.md)
 
 
 ## Requisitos Elicitados
-|                                     Id                                      |                Nome                 |
-| :-- | :-- |
-| [#RF27](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) |  [Feedback](Modeling/verbo?id=feedback)  |
-| [#RF28](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) |  Pedido de cadastro da empresa  |
-| [#RF30](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) |  Nível de acesso  |
-| [#RF31](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) |  Controle de colaboradores  |
-| [#RF32](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)| Cadastro de valor de fábrica |
+| Id | Nome |
+|----|------|
+| [#RF27](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) | [Feedback](Modeling/verbo?id=feedback) |
+| [#RF28](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) | Pedido de cadastro da empresa |
+| [#RF30](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) | Nível de acesso |
+| [#RF31](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) | Controle de colaboradores |
+| [#RF32](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) | Cadastro de valor de fábrica |
 | [#RF33](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais) | Margem de lucro |
 
 ## Referências
