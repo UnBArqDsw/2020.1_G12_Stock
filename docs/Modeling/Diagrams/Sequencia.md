@@ -39,43 +39,43 @@ O diagrama foi produzido pelo [LucidChart](https://www.lucidchart.com/). Nele h�
 ## Diagramas
 
 * **Criação de Colaborador**
-![createCollaborator](../../assets/diagramas/sequência/CreateCollaborator.png)
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequência/CreateCollaborator.pdf">Arquivo em PDF</a>
+![createCollaborator](../../assets/diagramas/sequencia/CreateCollaborator.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequencia/CreateCollaborator.pdf">Arquivo em PDF</a>
 
 <audio controls>
-  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/sequência/CreateCollaborator.m4a" type="audio/mpeg">
+  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/sequencia/CreateCollaborator.m4a" type="audio/mpeg">
 </audio>
 
 * **Criação de [Administradores](Modeling/objeto?id=Admin)**
-![createAdmin](../../assets/diagramas/sequência/CreateAdmin.png)
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequência/CreateAdmin.pdf">Arquivo em PDF</a>
+![createAdmin](../../assets/diagramas/sequencia/CreateAdmin.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequencia/CreateAdmin.pdf">Arquivo em PDF</a>
 
 <audio controls>
-  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/sequência/CreateAdmin.m4a" type="audio/mpeg">
+  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/sequencia/CreateAdmin.m4a" type="audio/mpeg">
 </audio>
 
 * **[Adição](Modeling/verbo?id=Cadastrar-Produto) de [Produto](Modeling/objeto?id=Produto) ao Estoque**
-![increaseProduct](../../assets/diagramas/sequência/IncreaseProduct.png)
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequência/IncreaseProduct.pdf">Arquivo em PDF</a>
+![increaseProduct](../../assets/diagramas/sequencia/IncreaseProduct.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequencia/IncreaseProduct.pdf">Arquivo em PDF</a>
 
 <audio controls>
-  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/sequência/IncreaseProduct.m4a" type="audio/mpeg">
+  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/sequencia/IncreaseProduct.m4a" type="audio/mpeg">
 </audio>
 
 * **[Baixa](Modeling/verbo?id=Baixa-em-Produto) de [Produto](Modeling/objeto?id=Produto)**
-![productSale](../../assets/diagramas/sequência/ProductSale.png)
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequência/ProductSale.pdf">Arquivo em PDF</a>
+![productSale](../../assets/diagramas/sequencia/ProductSale.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequencia/ProductSale.pdf">Arquivo em PDF</a>
 
 <audio controls>
-  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/sequência/ProductSale.m4a" type="audio/mpeg">
+  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/sequencia/ProductSale.m4a" type="audio/mpeg">
 </audio>
 
 * **Envio de [Feedback](/Modeling/verbo?id=feedback)**
-![sendFeedback](../../assets/diagramas/sequência/SendFeedback.png)
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequência/SendFeedback.pdf">Arquivo em PDF</a>
+![sendFeedback](../../assets/diagramas/sequencia/SendFeedback.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequencia/SendFeedback.pdf">Arquivo em PDF</a>
 
 <audio controls>
-  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/sequência/SendFeedback.m4a" type="audio/mpeg">
+  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/sequencia/SendFeedback.m4a" type="audio/mpeg">
 </audio>
 
 
