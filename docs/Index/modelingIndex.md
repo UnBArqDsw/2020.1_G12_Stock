@@ -12,7 +12,9 @@
   - [Diagrama de Componentes](Modeling/Diagrams/Componentes.md)
   - [Diagrama de Atividade](Modeling/Diagrams/Atividades.md)
   - [Diagrama de Estado](Modeling/Diagrams/Estado.md)
-  
+  - [Diagrama de Sequência](Modeling/Diagrams/Sequencia.md)
+  - [Diagrama de Comunicação](Modeling/Diagrams/Comunicacao.md)
+
 - **Diagrama - Modelagem do Banco de Dados**
   - [Modelo Entidade Relacionamento](Modeling/Diagrams/EntidadeRelacionamento.md)
 

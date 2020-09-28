@@ -47,7 +47,7 @@ Nesta Sprint, para não haver sobrecarga de tarefas, foi definido data de entreg
 | [**#88**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/88) | [Diagrama de classe](Modeling/Diagrams/Classes.md) e [Diagrama de componentes](Modeling/Diagrams/Componentes.md) | Quinta-feira<br>(24/09/2020) |
 | [**#91**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/74) | [Entidade relacionamento de banco de dados](Modeling/Diagrams/EntidadeRelacionamento.md) e [Diagrama de Pacote](Modeling/Diagrams/Pacotes.md) | Sexta-feira<br>(25/09/2020) |
 | [**#90**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/90) | [Diagrama Atividades](Modeling/Diagrams/Atividades.md) e [Diagrama de Estado](Modeling/Diagrams/Estado.md) | Sábado<br>(26/09/2020) |
-| [**#89**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/89) | [Diagrama de Sequência]((Modeling/Diagrams/Sequencia.md)) e [Diagrama de Comunicação](Modeling/Diagrams/Comunicacao.md) | Domingo<br>(27/09/2020) |
+| [**#89**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/89) | [Diagrama de Sequência](Modeling/Diagrams/Sequencia.md) e [Diagrama de Comunicação](Modeling/Diagrams/Comunicacao.md) | Domingo<br>(27/09/2020) |
 
 ## Relato
 
