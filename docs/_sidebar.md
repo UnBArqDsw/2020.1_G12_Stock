@@ -2,7 +2,11 @@
 - **Produto**
   - [Manual de Identidade<br> Visual](Product/ManualId.md)
   - [Documento de Visão](Product/DocVisão.md)
-  - [Protótipos](Product/Prototipos.md)
+  - **Protótipos**
+    - [Introdução](Product/Prototipos.md)
+    - [Protótipo de Baixa Fidelidade](Product/PrototipoBaixa.md)
+    - [Protótipo de Média Fidelidade](Product/PrototipoMedia.md)
+    - [Protótipo de Alta Fidelidade](Product/PrototipoAlta.md)
 - **Projeto**
   - [Metodologias](Project/Metodologias.md)
   - [Estimativas](Project/Evaluation.md)
