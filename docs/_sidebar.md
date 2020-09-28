@@ -40,6 +40,8 @@
   - **Diagramas UML**
     - [Diagrama de Classes](Modeling/Diagrams/Classes.md)
     - [Diagrama de Componentes](Modeling/Diagrams/Componentes.md)
+    - [Diagrama de Sequência](Modeling/Diagrams/Sequencia.md)
+    - [Diagrama de Comunicação](Modeling/Diagrams/Comunicacao.md)
     - [Diagrama de Pacotes](Modeling/Diagrams/Pacotes.md)
     - [Diagrama de Atividade](Modeling/Diagrams/Atividades.md)
     - [Diagrama de Estado](Modeling/Diagrams/Estado.md)
