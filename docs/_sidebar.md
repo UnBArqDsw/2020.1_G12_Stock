@@ -43,6 +43,8 @@
     - [Diagrama de Sequência](Modeling/Diagrams/Sequência.md)
     - [Diagrama de Comunicação](Modeling/Diagrams/Comunicação.md)
     - [Diagrama de Pacotes](Modeling/Diagrams/Pacotes.md)
+    - [Diagrama de Atividade](Modeling/Diagrams/Atividades.md)
+    - [Diagrama de Estado](Modeling/Diagrams/Estado.md)
   -  **Diagrama - Modelagem do Banco de Dados**
     - [Modelo Entidade Relacionamento](Modeling/Diagrams/EntidadeRelacionamento.md)
   - **Diagrams Sprint**
