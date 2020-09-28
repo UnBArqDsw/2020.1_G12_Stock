@@ -3,24 +3,23 @@
 **Período: 20/09/2020 a 28/09/2020**<br>
 **Data da Reunião: 19/09/2020**
 
-
 ## Issues
 
 | Número | [Issue](Modeling/objeto?id=Issue) | Pontuação | Participantes |
 |--------|-----------------------------------|-----------|---------------|
-| [**#74**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/74) | [Protótipo de média fidelidade](Product/PrototipoMedia.md) | 13 | Micaella, Sofia e Gabriel Davi |
-| [**#86**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/86) | NFR | 5 | Gabriel Alves e Gabriel Davi |
+| [**#74**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/74) | [Protótipo de Média Fidelidade](Product/PrototipoMedia.md) | 13 | Micaella, Sofia e Gabriel Davi |
+| [**#86**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/86) | NFR| 5 | Gabriel Alves e Gabriel Davi |
 | [**#87**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/87) | [Especificação Suplementar](Modeling/EspecificacaoSuplementar.md)    | 3 | Pedro Igor |
-| [**#88**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/88) | Diagrama de classe e Diagrama de componentes | 13 | Todos |
-| [**#89**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/89) | Diagrama de Sequência e Diagrama de Comunicação | 8 | Todos |
-| [**#90**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/90) | Diagrama Atividades e Diagrama de Estado | 5 | Todos |
-| [**#91**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/74) | Entidade relacionamento de banco de dados e Diagrama de Pacote | 13 | Todos |
-| [**#92**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/92) | React :) | 8 | Gabriel Davi |
+| [**#88**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/88) | [Diagrama de Classes](Modeling/Diagrams/Classes.md) e [Diagrama de Componentes](Modeling/Diagrams/Componentes.md) | 13 | Todos |
+| [**#89**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/89) | [Diagrama de Sequência](Modeling/Diagrams/Sequencia) e [Diagrama de Comunicação](Modeling/Diagrams/Comunicacao.md) | 8 | Todos |
+| [**#90**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/90) | [Diagrama Atividades](Modeling/Diagrams/Atividades) e [Diagrama de Estado](Modeling/Diagrams/Estado) | 5 | Todos |
+| [**#91**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/74) | [Entidade Relacionamento de Banco de Dados](Modeling/Diagrams/EntidadeRelacionamento.md) e [Diagrama de Pacotes](Modeling/Diagrams/Pacotes.md) | 13 | Todos |
+| [**#92**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/92) | [Treinamento React](Project/Omnistock) :) | 8 | Gabriel Davi |
 | [**#93**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/93) | Casos de uso e diagrama de casos de uso | 5 | - |
-| [**#94**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/94) | Protótipo de alta fidelidade | 8 | Micaella Gouveia e Sofia Patrocínio |
+| [**#94**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/94) | [Protótipo de Alta Fidelidade](Product/PrototipoAlta.md) | 8 | Micaella Gouveia e Sofia Patrocínio |
 
 
-## Pontuação: 60
+## Pontuação: 68 + 13 (dívida técnica)
 
 ## Quadro de Distribuição de Pontos
 
@@ -41,19 +40,20 @@ Nesta Sprint, para não haver sobrecarga de tarefas, foi definido data de entreg
 
 | Número | [Issue](Modeling/objeto?id=Issue) | Data de Entrega |
 |--------|-----------------------------------|-----------------|
-| [**#74**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/74) | [Protótipo de média fidelidade](Product/PrototipoMedia.md) | Segunda-feira (21/09/2020) |
+| [**#74**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/74) | [Protótipo de Média Fidelidade](Product/PrototipoMedia.md) | Segunda-feira (21/09/2020) |
 | [**#86**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/86) | NFR | Segunda-feira<br>(21/09/2020) |
 | [**#87**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/87) | [Especificação Suplementar](Modeling/EspecificacaoSuplementar.md)   |Segunda-feira<br>(21/09/2020) |
-| [**#88**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/88) | [Diagrama de classe](Modeling/Diagrams/Classes.md) e [Diagrama de componentes](Modeling/Diagrams/Componentes.md) | Quinta-feira<br>(24/09/2020) |
-| [**#91**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/74) | Entidade relacionamento de banco de dados e Diagrama de Pacote | Sexta-feira<br>(25/09/2020)
-| [**#89**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/89) | Diagrama de Sequência e Diagrama de Comunicação | Sábado<br>(26/09/2020)
-| [**#90**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/90) | Diagrama Atividades e Diagrama de Estado | Domingo<br>(27/08/2020)
+| [**#88**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/88) | [Diagrama de Classes](Modeling/Diagrams/Classes.md) e [Diagrama de Componentes](Modeling/Diagrams/Componentes.md) | Quinta-feira<br>(24/09/2020) |
+| [**#91**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/74) | [Entidade Relacionamento de Banco de Dados](Modeling/Diagrams/EntidadeRelacionamento.md) e [Diagrama de Pacotes](Modeling/Diagrams/Pacotes.md) | Sexta-feira<br>(25/09/2020)
+| [**#89**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/89) |[Diagrama Atividades](Modeling/Diagrams/Atividades) e [Diagrama de Estado](Modeling/Diagrams/Estado) | Sábado<br>(26/09/2020)
+| [**#90**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/90) | [Diagrama de Sequência](Modeling/Diagrams/Sequencia) e [Diagrama de Comunicação](Modeling/Diagrams/Comunicacao.md) | Domingo<br>(27/08/2020)
 
 
 ## Relato
 
 - Nesta Sprint ficou decidido que haverá a produção do [Protótipo](Modeling/objeto?id=protótipo) de  Alta fidelidade, porém ainda sem testes.
 - Nesta reunião dividimos os artefatos que tinhamos definido para a Sprint 4, atribuíndo responsáveis, dias de produção e entrega.
+- A [issue](Modeling/objeto?id=Issue) [**#93**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/93) ficou de Backlog, então caso algum membro tenha disponibilidade, pode assumir a [issue](Modeling/objeto?id=Issue).
 
 **Segunda-feira**:
 - [Protótipo de média fidelidade](Product/PrototipoMedia.md) (dívida técnica)
@@ -65,8 +65,8 @@ Nesta Sprint, para não haver sobrecarga de tarefas, foi definido data de entreg
 
 |Dia |Data da Reunião | Horário da Reunião |Diagramas | Responsável pela documentação
 | - | -| -| - | - |
-| 1 | Terça-feira<br> (22/09/2020) |12:00 |[Classe e Componentes](Modeling/Diagrams/dias/dia1.md) | Micaella|
-| 2 | Quarta-feira<br> (23/09/2020) |14:00 |[Entidade relacionamento de banco de dados e Pacotes](Modeling/Diagrams/dias/dia2.md) | Gabriel Alves e Pedro Igor |
+| 1 | Terça-feira<br> (22/09/2020) |12:00 |[Classes e Componentes](Modeling/Diagrams/dias/dia1.md) | Micaella|
+| 2 | Quarta-feira<br> (23/09/2020) |14:00 |[Entidade Relacionamento de Banco de Dados e Pacotes](Modeling/Diagrams/dias/dia2.md) | Gabriel Alves e Pedro Igor |
 | 3 | Quinta-feira <br> (24/09/2020) |8:00 |[Atividades e Estado](Modeling/Diagrams/dias/dia3.md) | Gabriel Davi
 | 4 | Sexta-feira <br>(25/09/2020) | 8:00 |[Sequência e Comunicação](Modeling/Diagrams/dias/dia4.md) | Sofia Patrocínio
 
