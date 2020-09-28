@@ -9,7 +9,7 @@ Também conhecido como diagrama de colaboração, o diagrama de comunicação mo
 | Data | Versão | Descrição | Autor(es) |
 |:----:|:------:|:---------:|:---------:|
 | 24/09/2020 | 1.0 | Adição da explicação sobre diagrama de comunicação | Sofia Patrocínio |
-| 25/09/2020 | 1.1 | Criação das relações entre classes | Gabriel Davi, Micaella Gouviea, Pedro Igor e Sofia Patrocínio |
+| 25/09/2020 | 1.1 | Criação das relações entre classes | Gabriel Davi, Micaella Gouveia, Pedro Igor e Sofia Patrocínio |
 | 26/09/2020 | 1.2 | Criação dos diagramas | Sofia Patrocínio |
 | 28/09/2020 | 1.3 | Adição dos áudios e linkagem dos léxicos | Sofia Patrocínio |
 
