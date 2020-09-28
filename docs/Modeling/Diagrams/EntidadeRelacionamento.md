@@ -79,7 +79,7 @@ Um COLLABORATOR pode enviar nenhum ou vários [FEEDBACKS](/Modeling/verbo?id=fee
 ## Diagrama Entidade Relacionamento (DER)
 
 ![Diagrama Entidade Relacionamento](../../assets/img/bancoDados/Diagrama_Entidade_Relacionamento.png)<br>
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/diagramas/bancoDados/Diagrama_Entidade_Relacionamento.pdf">Arquivo em PDF</a><br>
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/bancoDados/Diagrama_Entidade_Relacionamento.pdf">Arquivo em PDF</a><br>
 
 
 <audio controls>
@@ -89,6 +89,6 @@ Um COLLABORATOR pode enviar nenhum ou vários [FEEDBACKS](/Modeling/verbo?id=fee
 ## Diagrama Lógico
 
 ![Diagrama Entidade Relacionamento](../../assets/img/bancoDados/Diagrama_Logico.png)
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/diagramas/bancoDados/Diagrama_Logico.pdf">Arquivo em PDF</a>
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/bancoDados/Diagrama_Logico.pdf">Arquivo em PDF</a>
 ## Referências 
 - Software para Diagramação do Modelo Entidade Relacionamento - brModelo <http://www.sis4.com/brModelo/>. Último acesso em 25/09/2020 
