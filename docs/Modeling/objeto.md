@@ -156,4 +156,8 @@
 | Noção | Impacto | Sinônimos |
 |:-----:|:-------:|:---------:|
 | São especificações de uma [aplicação](Modeling/objeto?id=Web-App) que influenciam na experiência do [usuário](Modeling/objeto?id=usuário). | Requisitos funcionais são grandes diferencias em uma [aplicação](Modeling/objeto?id=Web-App) e podem determinar a permanência de um [usuário](Modeling/objeto?id=usuário) na mesma. | - |
-P
+
+### Prazo de Validade
+| Noção | Impacto | Sinônimos |
+|:-----:|:-------:|:---------:|
+| Tempo que os [produtos](Modeling/objeto?id=Produto) podem ser armazenados mantendo sua qualidade aceitável. | A validade do [produto](Modeling/objeto?id=Produto) está acabando. | Serventia do [produto](Modeling/objeto?id=Produto), vida útil do [produto](Modeling/objeto?id=Produto), validade do [produto](Modeling/objeto?id=Produto), prazo de vencimento. |

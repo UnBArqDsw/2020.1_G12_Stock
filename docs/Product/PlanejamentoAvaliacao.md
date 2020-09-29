@@ -37,7 +37,7 @@ O que será avaliado com o [protótipo](Modeling/objeto?id=protótipo):
 4. Visualizar colaboradores.
 5. Excluir o colaborador Thiago Souza.
 6. Adicionar um produto no [estoque](Modeling/verbo?id=Controle-de-Estoque).
-7. Enviar feedback
+7. Enviar [feedback](Modeling/verbo?id=feedback)
 
 ## Perfil do [Usuário](Modeling/objeto?id=usuário)
 O perfil dos [usuários](Modeling/objeto?id=usuário) será bem semelhante às pessoas reais que potencialmente utilizarão a aplicação. O teste será feito inicialmente por 3 participantes.

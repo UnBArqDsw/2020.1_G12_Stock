@@ -9,7 +9,7 @@ Os [protótipos](Modeling/objeto?id=protótipo) de baixa fidelidade são [protó
 | 16/09/2020 |  1.0   |  Abertura do documento de baixa fidelidade   |          Gabriel Davi e Sofia Patrocínio          |
 | 16/09/2020 |  1.1   | Adição da introdução e documentos produzidos |        Micaella Gouveia e Sofia Patrocínio        |
 | 16/09/2020 |  1.2   |             Linkagem dos léxicos             | Gabriel Davi, Micaella Gouveia e Sofia Patrocínio |
-| 17/09/2020 |  1.3  |       Adição do léxico de feedback     | Gabriel Davi |
+| 17/09/2020 |  1.3  |       Adição do léxico de [feedback](Modeling/verbo?id=feedback)     | Gabriel Davi |
 | 21/09/2020 |  1.4  |       Adição da gravação da reunião     | Micaella Gouveia |
 
 
@@ -80,7 +80,7 @@ Membro Responsável: Sofia Patrocínio
 ## Gravações Disponíveis
 
 * Reunião Protótipo Baixa Fidelidade
-<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/BTPhqS84xJE?ecver=1&amp;iv_load_policy=3&amp;rel=0&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="uJLPWJNS" href="https://wildernesswood.co.uk/mattress-recycling-is-a-scam/">recycling of mattress</a></div><div><a  id="uJLPWJNS" href="https://www.ihertfordshire.co.uk">iHertfordshire UK</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/Xvi062jHXS0?ecver=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="x4Kmoha6" href="https://www.rockpamperscissors.co.uk/a-new-one-on-me/">Emma hybrid</a></div><div><a  id="x4Kmoha6" href="https://www.earth-essentials.co.uk/is-buying-a-mattress-the-worst-thing-possible-for-your-health/">VOCs</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
 
 
 

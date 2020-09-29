@@ -8,6 +8,8 @@ Com o desenvolvimento do projeto, o time notou que muitos membros não tinham fa
 |:----:|:------:|:---------:|:---------:|
 | 20/09/2020 | 1.0 | Planejamento do treinamento. | Gabriel Davi |
 | 21/09/2020 | 1.1 | Criação do documento e adição da explicação e link para o treinamento. | Micaella Gouveia |
+| 26/09/2020 | 1.2 | Adição dos vídeos do dia 1 e 2 | Sofia Patrocínio |
+| 28/09/2020 | 1.3 | Adição dos vídeos do dia 3 e 4 e links para github | Micaella Gouveia |
 
 
 ## Metodologia
@@ -15,15 +17,15 @@ Ficou acordado que esse treinamento aconteceria durante a Semana Universitária,
 
 | Dia | Data | Horário |
 | - | - | - |
-| 1 | Terça-feira<br>(22/09/2020) | 14:00 |
-| 2 | Quarta-feira<br>(23/09/2020) | 16:00 |
-| 3 | Sexta-feira<br>(25/09/2020) | 22:00 |
-| 4 | Sábado<br>(26/08/2020) | 9:00 |
+| 1 | Terça-feira (22/09/2020) | 14:00 |
+| 2 | Quarta-feira (23/09/2020) | 16:00 |
+| 3 | Sexta-feira (25/09/2020) | 22:00 |
+| 4 | Sábado (26/08/2020) | 9:00 |
 
 ## Planejamento
 ***Planejamento realizado pelo membro Gabriel Davi***
 
-Será produzido na semana omniStock a aplicação "Stock Beta", que consiste em uma versão bem simplificada da aplicação Stock com o intuito de somente apresentar os principais conceitos de express e node com o ReactJS.
+Será produzido na semana OmniStock a aplicação "Stock Beta", que consiste em uma versão bem simplificada da aplicação Stock com o intuito de somente apresentar os principais conceitos de Express e NodeJS com o ReactJS.
 
 * Link para o protótipo (produzido com o [Figma](https://www.figma.com/)): 
 
@@ -69,6 +71,12 @@ Será produzido na semana omniStock a aplicação "Stock Beta", que consiste em 
     - [x]  Editar um produto
     - [x]  Deletar um produto
 
+## Gravações Disponíveis
+
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/qFIssRB3Ag0?ecver=1&amp;iv_load_policy=1&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="x4Kmoha6" href="https://www.rockpamperscissors.co.uk/a-new-one-on-me/">Emma hybrid</a></div><div><a  id="x4Kmoha6" href="https://www.earth-essentials.co.uk/is-buying-a-mattress-the-worst-thing-possible-for-your-health/">VOCs</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
+
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/BIOu52NfqZ0?ecver=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="x4Kmoha6" href="https://www.rockpamperscissors.co.uk/a-new-one-on-me/">Emma hybrid</a></div><div><a  id="x4Kmoha6" href="https://www.earth-essentials.co.uk/is-buying-a-mattress-the-worst-thing-possible-for-your-health/">VOCs</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
+
 ### Dia 2 - Frontend Stock Beta (Parte 1)
 
 #### Conceitos fundamentais react
@@ -81,31 +89,60 @@ Será produzido na semana omniStock a aplicação "Stock Beta", que consiste em 
 
 #### Login/Cadastro de usuário
 
-- [ ]  Página de login
-    - [ ]  Campo de digitação de email
-    - [ ]  Campo de digitação de senha
-    - [ ]  Redirecionamento para a página principal
-- [ ]  Página de cadastro
-    - [ ]  Campo para digitar o nome
-    - [ ]  Campo para digitar o email
-    - [ ]  Campo para digitar a senha
-    - [ ]  Campo para confirmar a senha
-    - [ ]  Redirecionamento para a página de login
+- [x]  Página de login
+    - [x]  Campo de digitação de email
+    - [x]  Campo de digitação de senha
+    - [x]  Redirecionamento para a página principal
+- [x]  Página de cadastro
+    - [x]  Campo para digitar o nome
+    - [x]  Campo para digitar o email
+    - [x]  Campo para digitar a senha
+    - [x]  Campo para confirmar a senha
+    - [x]  Redirecionamento para a página de login
+
+## Gravações Disponíveis
+
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/DhmPSM8-2OM?ecver=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="x4Kmoha6" href="https://www.rockpamperscissors.co.uk/a-new-one-on-me/">Emma hybrid</a></div><div><a  id="x4Kmoha6" href="https://www.earth-essentials.co.uk/is-buying-a-mattress-the-worst-thing-possible-for-your-health/">VOCs</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
 
 ### Dia 3 - Frontend Stock Beta (Parte 2)
 
-- [ ]  Configuração de rotas para a nossa aplicação
-- [ ]  Criação do contexto para fluxo de autenticação
-- [ ]  Configuração do fluxo de rotas e proteção de rotas (Só acessar determinadas rotas quando logado)
-- [ ]  Criação da estrutura da página inicial (Hardcoded)
+- [x]  Configuração de rotas para a nossa aplicação
+- [x]  Criação do contexto para fluxo de autenticação
+- [x]  Configuração do fluxo de rotas e proteção de rotas (Só acessar determinadas rotas quando logado)
+- [x]  Criação da estrutura da página inicial (Hardcoded)
+
+## Gravações Disponíveis
+
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/l7c2Gbf2b-c?ecver=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="x4Kmoha6" href="https://www.rockpamperscissors.co.uk/a-new-one-on-me/">Emma hybrid</a></div><div><a  id="x4Kmoha6" href="https://www.earth-essentials.co.uk/is-buying-a-mattress-the-worst-thing-possible-for-your-health/">VOCs</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
+
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/Cm8H3CsnJwI?ecver=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="x4Kmoha6" href="https://www.rockpamperscissors.co.uk/a-new-one-on-me/">Emma hybrid</a></div><div><a  id="x4Kmoha6" href="https://www.earth-essentials.co.uk/is-buying-a-mattress-the-worst-thing-possible-for-your-health/">VOCs</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
 
 ### Dia 4 - Frontend Stock Beta (Parte 3)
 
-- [ ]  Implementação do modal de adicionar novo produto
-- [ ]  Implementação do serviço para listagem dos produtos
-- [ ]  Implementação do modal de editar um produto
-- [ ]  Implementação do modal para adicionar nova categoria
-- [ ]  Botão de logoff da aplicação (Redirecionar para o login)
+- [x]  Implementação do modal de adicionar novo produto
+- [x]  Implementação do serviço para listagem dos produtos
+- [x]  Implementação do modal de editar um produto
+- [x]  Implementação do modal para adicionar nova categoria
+- [x]  Botão de logoff da aplicação (Redirecionar para o login)
+
+## Gravações Disponíveis
+
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/mQCKdZBs0WA?ecver=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="x4Kmoha6" href="https://www.rockpamperscissors.co.uk/a-new-one-on-me/">Emma hybrid</a></div><div><a  id="x4Kmoha6" href="https://www.earth-essentials.co.uk/is-buying-a-mattress-the-worst-thing-possible-for-your-health/">VOCs</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
+
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/Mn0yXY-y4C4?ecver=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="x4Kmoha6" href="https://www.rockpamperscissors.co.uk/a-new-one-on-me/">Emma hybrid</a></div><div><a  id="x4Kmoha6" href="https://www.earth-essentials.co.uk/is-buying-a-mattress-the-worst-thing-possible-for-your-health/">VOCs</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
+
+## Repositórios produzidos na Semana OmniStock
+* Gabriel Davi:
+    * [Backend](https://github.com/GabrielDVpereira/StockBeta-backend)
+    * [Frontend](https://github.com/GabrielDVpereira/StockBeta-web)
+
+* Micaella Gouveia:
+    * [Backend](https://github.com/micaellagouveia/dojoReact)
+    * [Frontend](https://github.com/micaellagouveia/stockBetaFront)
+
+* Sofia Patrocínio:
+    * [Backend](https://github.com/sofiapatrocinio/SemanaOmniStock/tree/master/src)
+    * [Frontend](https://github.com/sofiapatrocinio/SemanaOmniStock/tree/master/front)
 
 ## Referências
 * Rockseat: <https://rocketseat.com.br> . Último acesso em 21/09/2020.
