@@ -2,18 +2,18 @@
 
 ## Reunião
 
-| Horário | Duração | Mediador(a)      | Participantes    |
-| ------- | ------- | ---------------- | ---------------- |
-| 10:00   | 03:00   | Micaella Gouveia | Todos os membros |
+| Horário | Duração | Mediador(a) | Participantes |
+|---------|---------|-------------|---------------|
+| 10:00 | 03:00 | Micaella Gouveia | Todos os membros |
 
 ## Histórico de Revisões
 
-|    Data    | Versão |                      Descrição                       |                                  Autor(es)                                  |
-| :--------: | :----: | :--------------------------------------------------: | :-------------------------------------------------------------------------: |
-| 04/09/2020 |  1.0   |    Produção dos documentos individuais de riscos     | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
-| 04/09/2020 |  1.1   | Criação do documento, relato e adição dos documentos |                              Micaella Gouveia                               |
-| 09/09/2020 |  1.2   |                Padronização do texto                 |                              Sofia Patrocínio                               |
-| 11/09/2020 |  1.3   |                 Adição das gravações                 |                              Sofia Patrocínio                               |
+| Data | Versão | Descrição | Autor(es) |
+|:----:|:------:|:---------:|:---------:|
+| 04/09/2020 | 1.0 | Produção dos documentos individuais de riscos | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor, Sofia Patrocínio |
+| 04/09/2020 | 1.1 | Criação do documento, relato e adição dos documentos | Micaella Gouveia |
+| 09/09/2020 | 1.2 | Padronização do texto | Sofia Patrocínio |
+| 11/09/2020 | 1.3 | Adição das gravações | Sofia Patrocínio |
 
 ## Relato da Mediadora
 
