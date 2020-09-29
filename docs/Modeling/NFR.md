@@ -10,6 +10,7 @@ processos, onde os requisitos não-funcionais são explicitamente representados 
 |:----:|:------:|:---------:|:---------:|
 | 22/09/2020 | 1.0 | Criação do documento | Gabriel Alves |
 | 28/09/2020 | 1.0 | Adição das referências e metodologia| Micaella Gouveia e Sofia Patrocínio |
+| 28/09/2020 | 1.1 | Adição do NFR de usabilidade | Pedro Igor |
 
 ## Metodologia
 Para a produção do NFR foi utilizado a ferramenta [Draw.io](https://app.diagrams.net/). Ele é composto por:
@@ -20,6 +21,8 @@ Para a produção do NFR foi utilizado a ferramenta [Draw.io](https://app.diagra
 
 
 ## Usabilidade
+![Usabilidade](../assets/img/nfr/NFR_Usabilidade.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/nfr/NFR_Usabilidade.pdf">Arquivo em PDF</a>
 
 
 ## Referências
