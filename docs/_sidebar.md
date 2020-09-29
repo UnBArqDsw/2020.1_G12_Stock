@@ -13,6 +13,7 @@
   - [Modelagem BPMN](Project/ModelagemBPMN.md)
   - [Sprints](Index/sprintsIndex.md)
   - [OmniStock](Project/Omnistock.md)
+  - [Estudo Dirigido](Project/EstudoDirigido.md)
 - **Base**
   - **Design Sprint**
     - [Metodologia](DesignSprint/DesignSprint.md)
