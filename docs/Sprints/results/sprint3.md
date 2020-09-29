@@ -24,7 +24,7 @@
 | [**#74**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/74) | [Protótipo de média fidelidade](Product/PrototipoMedia.md) | 13 | Micaella, Sofia e Gabriel Davi |
 
 ## Quadro de Conhecimento
-*Métrica ainda não usada nesta Sprint.*
+![quadro 3](../../assets/img/Sprints/metricas/quadroS3.png)
 
 ## Burndown
 ![burndown 3](../../assets/img/Sprints/metricas/burndownS3.png)
