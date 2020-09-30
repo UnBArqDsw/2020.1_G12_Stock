@@ -50,7 +50,5 @@ O [produto](Modeling/objeto?id=Produto) não deve estar disponponível para visu
     6. O [produto](Modeling/objeto?id=Produto) não foi cadastrado.
     7. O Sistema não retornará o [produto](Modeling/objeto?id=Produto) na busca feita.
 
-
-
 ## Pós-condição
 O [usuário](Modeling/objeto?id=usuário) poderá visulizar informações sobre o [produto](Modeling/objeto?id=Produto) encontrado.

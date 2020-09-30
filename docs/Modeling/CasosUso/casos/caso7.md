@@ -50,7 +50,5 @@ O [produto](Modeling/objeto?id=Produto) não deve estar disponível no [estoque]
     6. O [produto](Modeling/objeto?id=Produto) não foi cadastrado.
     7. O Sistema não retornará o [produto](Modeling/objeto?id=Produto) na busca feita.
 
-
-
 ## Pós-condição
 O [produto](Modeling/objeto?id=Produto) será vendido e retirado do [estoque](Modeling/objeto?id=Estoque).

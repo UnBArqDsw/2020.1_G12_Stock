@@ -41,8 +41,6 @@ O  [usuário](Modeling/objeto?id=usuário) não deve estar na tela de [Feedback]
     5. O [usuário](Modeling/objeto?id=usuário) deve selecionar o botão de "Enviar".
     6. O Sistema alertará que há campos não preenchidos.
 
-
-
 ## Pós-condição
 
 O [feedback](Modeling/verbo?id=feedback) será enviado para o Suporte Técnico, e caso precise, entrará em contato com o [Owner](Modeling/objeto?id=Owner) da empresa.

@@ -31,6 +31,5 @@ O produto não deve estar ter seu lote cadastrado no [estoque](Modeling/objeto?i
 ### Fluxos de Exceção
 *Não há fluxos de exceção*
 
-
 ## Pós-condição
  A [usuário](Modeling/objeto?id=usuário) saberá se algum [produto](Modeling/objeto?id=Produto) passou do prazo de validade ou atingiu sua quantidade mínima.

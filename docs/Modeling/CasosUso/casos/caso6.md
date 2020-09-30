@@ -9,11 +9,11 @@
 | 30/09/2020 | 1.2 | Linkagem dos léxicos | Micaella Gouveia |
 
 ## Descrição
-O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve cadastrar lotes dos [produtos](Modeling/objeto?id=Produto) no [estoque](Modeling/objeto?id=Estoque).
+O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve cadastrar lotes dos [produtos](Modeling/objeto?id=Produto) no [estoque](Modeling/objeto?id=Estoque).
 
 ## Atores
-* Usuário [Owner](Modeling/objeto?id=Owner)
-* Usuário [Admin](Modeling/objeto?id=Admin)
+* [Usuário Owner](Modeling/objeto?id=Owner)
+* [Usuário Admin](Modeling/objeto?id=Admin)
 * Sistema
 
 ## Pré-requisitos
@@ -21,37 +21,36 @@ O produto não deve estar ter seu lote cadastrado no [estoque](Modeling/objeto?i
 
 ## Fluxo de Eventos
 ### Fluxo Principal
-1. O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve entrar no Stock com suas credenciais.
-2. O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve entrar na tela de [Estoque](Modeling/objeto?id=Estoque).
-3. O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve selecionar o botão "Novo [Produto](Modeling/objeto?id=Produto)".
-4. O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve selecionar o botão de "Definir Lote".
-5. O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve preencher as informações do lote do produto.
-6. O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve preencher as outras informações sobre o [produto](Modeling/objeto?id=Produto).
-7. O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deverá selecionar o botão "Adicionar".
+1. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve entrar no Stock com suas credenciais.
+2. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve entrar na tela de [Estoque](Modeling/objeto?id=Estoque).
+3. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve selecionar o botão "Novo [Produto](Modeling/objeto?id=Produto)".
+4. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve selecionar o botão de "Definir Lote".
+5. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve preencher as informações do lote do produto.
+6. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve preencher as outras informações sobre o [produto](Modeling/objeto?id=Produto).
+7. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deverá selecionar o botão "Adicionar".
 8. O [produto](Modeling/objeto?id=Produto) será cadastrado com o seu lote cadastrado.
 
 ### Fluxos Alternativos
 * **FA01**:
-    1. O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve entrar no Stock com suas credenciais.
-    2. O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve entrar na tela de [Estoque](Modeling/objeto?id=Estoque).
-    3. O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve selecionar um [produto](Modeling/objeto?id=Produto) específico que não possua lote cadastrado.
-    4. O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve selecionar o botão de "Editar Produto".
-    4. O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve selecionar o botão de "Definir Lote".
-    5. O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve preencher as informações do lote do produto.
-    6. O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve preencher as outras informações sobre o [produto](Modeling/objeto?id=Produto).
-    7. O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deverá selecionar o botão "Adicionar".
+    1. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve entrar no Stock com suas credenciais.
+    2. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve entrar na tela de [Estoque](Modeling/objeto?id=Estoque).
+    3. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve selecionar um [produto](Modeling/objeto?id=Produto) específico que não possua lote cadastrado.
+    4. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve selecionar o botão de "Editar Produto".
+    4. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve selecionar o botão de "Definir Lote".
+    5. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve preencher as informações do lote do produto.
+    6. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve preencher as outras informações sobre o [produto](Modeling/objeto?id=Produto).
+    7. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deverá selecionar o botão "Adicionar".
     8. O [produto](Modeling/objeto?id=Produto) será atualizado com o seu lote cadastrado.
 ### Fluxos de Exceção
 * **FE01**: Produto com lote já cadastrado
-    1. O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve entrar no Stock com suas credenciais.
-    2. O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve entrar na tela de [Estoque](Modeling/objeto?id=Estoque).
-    3. O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve selecionar um [produto](Modeling/objeto?id=Produto).
-    4. O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve selecionar o botão de "Editar Produto".
-    4. O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve selecionar o botão de "Definir Lote".
+    1. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve entrar no Stock com suas credenciais.
+    2. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve entrar na tela de [Estoque](Modeling/objeto?id=Estoque).
+    3. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve selecionar um [produto](Modeling/objeto?id=Produto).
+    4. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve selecionar o botão de "Editar Produto".
+    4. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve selecionar o botão de "Definir Lote".
     5. O [produto](Modeling/objeto?id=Produto) já possui lote cadastrado.
     6. O Sistema mandará uma mensagem de lote já cadastrado e se o usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deseja modificá-lo.
-    7. O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve atualizar o lote ou sair da aba de "Definir Lote".
-
+    7. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve atualizar o lote ou sair da aba de "Definir Lote".
 
 ## Pós-condição
  A [produto](Modeling/objeto?id=Produto) possuirá um lote cadastrado.

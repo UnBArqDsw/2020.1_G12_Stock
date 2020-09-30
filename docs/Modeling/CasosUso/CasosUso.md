@@ -12,7 +12,7 @@ Os diagramas de caso de uso tem como principal objetivo auxiliar a comunicação
 ## Casos de Uso
 O caso de uso é uma especificação do comportamento de uma funcionalidade do sistema.
 Ele tem como finalidade descrever como será o uso de uma funcionalidade do sistema.
-Para a diagramação, é necessário elencar os casos de uso, especificando seus atores, pré-requisitos, fluxos e fluxos de exceção.casos/
+Para a diagramação, é necessário elencar os casos de uso, especificando seus atores, pré-requisitos, fluxos e fluxos de exceção
 ### [UC01 - Cadastro de Empresa](Modeling/CasosUso/casos/caso1.md)
 ### [UC02 - Login do Usuário](Modeling/CasosUso/casos/caso2.md)
 ### [UC03 - Cadastro de Colaborador](Modeling/CasosUso/casos/caso3.md)
