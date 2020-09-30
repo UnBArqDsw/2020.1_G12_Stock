@@ -9,7 +9,7 @@
 | 30/09/2020 | 1.2 | Linkagem dos léxicos | Micaella Gouveia |
 
 ## Descrição
-O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve [Cadastrar produtos](Modeling/verbo?id=Cadastrar-Produto) no [estoque](Modeling/objeto?id=Estoque).
+O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve [cadastrar produtos](Modeling/verbo?id=Cadastrar-Produto) no [estoque](Modeling/objeto?id=Estoque).
 
 ## Atores
 * Usuário [Owner](Modeling/objeto?id=Owner)
@@ -32,7 +32,7 @@ O [produto](Modeling/objeto?id=Produto) não deve estar cadastrado no [estoque](
 *Não existem fluxos alternativos*
 
 ### Fluxos de Exceção
-* **FE01**: Produto já cadastrado
+* **FE01**: [Produto](Modeling/objeto?id=Produto) já cadastrado
     1. O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve entrar no Stock com suas credenciais.
     2. O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve entrar na tela de [Estoque](Modeling/objeto?  id=Estoque).
     3. O usuário [Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve selecionar o botão "Novo [Produto](Modeling/objeto?id=Produto)".

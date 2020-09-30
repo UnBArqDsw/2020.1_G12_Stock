@@ -7,6 +7,7 @@ Os diagramas de caso de uso tem como principal objetivo auxiliar a comunicação
 |:----:|:------:|:---------:|:---------:|
 | 30/09/2020 | 1.0 | Criação do documento, adição da introdução, referências e links para os casos de uso | Micaella Gouveia |
 | 30/09/2020 | 1.1 | Adição dos casos UC01 a UC05 | Micaella Gouveia |
+| 30/09/2020 | 1.1 | Adição dos casos UC06 a UC12 | Micaella Gouveia |
 
 ## Casos de Uso
 O caso de uso é uma especificação do comportamento de uma funcionalidade do sistema.
@@ -21,12 +22,9 @@ Para a diagramação, é necessário elencar os casos de uso, especificando seus
 ### [UC07 - Baixa em Produto](Modeling/CasosUso/casos/caso7.md)
 ### [UC08 - Histórico de Vendas](Modeling/CasosUso/casos/caso8.md)
 ### [UC09 - Busca de Produto](Modeling/CasosUso/casos/caso9.md)
-### [UC010 - Filtro por categoria](Modeling/CasosUso/casos/caso10.md)
-### [UC011 - Cadastrar Categoria](Modeling/CasosUso/casos/caso11.md)
-### [UC012 - Filtro por colaborador](Modeling/CasosUso/casos/caso12.md)
-### [UC013 - Feedback](Modeling/CasosUso/casos/caso13.md)
-### [UC014 - Alerta de Validade](Modeling/CasosUso/casos/caso14.md)
-### [UC015 - Alerta de Quantidade Mínima](Modeling/CasosUso/casos/caso15.md)
+### [UC010 - Cadastrar Categoria](Modeling/CasosUso/casos/caso10.md)
+### [UC011 - Feedback](Modeling/CasosUso/casos/caso11.md)
+### [UC012 - Alerta ao Usuário](Modeling/CasosUso/casos/caso12.md)
 
 ## Diagramas
 
