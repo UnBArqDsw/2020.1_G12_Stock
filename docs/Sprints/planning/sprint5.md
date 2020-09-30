@@ -1,4 +1,4 @@
-# Planejamento Sprint 4
+# Planejamento Sprint 5
 
 **Período: 29/09/2020 a 03/10/2020**<br>
 **Data da Reunião: 29/09/2020**
