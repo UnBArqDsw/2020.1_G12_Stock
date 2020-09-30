@@ -50,7 +50,7 @@ Nesta Sprint, para não haver sobrecarga de tarefas, foi definido data de entreg
 
 *Organização feita pelo Google Calendar*
 
-* Para essa Sprint, vamos começar a ambientação dos nossos repositórios de Backend e Frontend, assim como documentar as tecnlogias que iremos utilizar.
+* Para essa Sprint, vamos começar a ambientação dos nossos repositórios de Backend e Frontend, assim como documentar as tecnologias que iremos utilizar.
 * Notamos que esse Módulo 3 será novidade para todos os membros, então decidimos dedicar essa Sprint para estudo dos padrões de projeto. Cada membro ficou responsável em estudar um módulo de padrão de projeto, sendo este estudo essencial para a próxima reunião, em que decidiremos quais os padrões podemos utilizar no nosso projeto e estudar mais estes padrões definidos.
 
 #### **3 Desenho de Software (Padrões de Projeto)**
