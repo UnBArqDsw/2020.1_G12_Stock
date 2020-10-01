@@ -52,3 +52,6 @@ O [produto](Modeling/objeto?id=Produto) não deve estar disponponível para visu
 
 ## Pós-condição
 O [usuário](Modeling/objeto?id=usuário) poderá visulizar informações sobre o [produto](Modeling/objeto?id=Produto) encontrado.
+
+## Referências
+* UML — Diagrama de Casos de Uso: <https://medium.com/operacionalti/uml-diagrama-de-casos-de-uso-29f4358ce4d5>. Último acesso em 01/10/2020.

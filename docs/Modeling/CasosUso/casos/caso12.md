@@ -33,3 +33,6 @@ O produto não deve estar ter seu lote cadastrado no [estoque](Modeling/objeto?i
 
 ## Pós-condição
  A [usuário](Modeling/objeto?id=usuário) saberá se algum [produto](Modeling/objeto?id=Produto) passou do prazo de validade ou atingiu sua quantidade mínima.
+
+## Referências
+* UML — Diagrama de Casos de Uso: <https://medium.com/operacionalti/uml-diagrama-de-casos-de-uso-29f4358ce4d5>. Último acesso em 01/10/2020.

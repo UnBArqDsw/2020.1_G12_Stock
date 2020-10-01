@@ -7,6 +7,16 @@
 | 30/09/2020 | 1.0 | Criação do documento e template | Micaella Gouveia |
 | 30/09/2020 | 1.1 | Adição da descrição, atores, pré-requisitos, fluxos e pós condição | Micaella Gouveia |
 | 30/09/2020 | 1.2 | Linkagem dos léxicos | Micaella Gouveia |
+| 01/10/2020 | 1.3 | Adição do diagrama | Micaella Gouveia |
+
+## Diagrama - UC03
+Diagrama produzido com a ferramenta a ferramenta [Draw.io](https://app.diagrams.net/). Ele é composto por:
+* Atores
+* Casos de uso
+* Relacionamentos
+
+
+![caso 2](../../../assets/diagramas/casosUso/caso3.png)
 
 ## Descrição
 1. O [usuário Owner](Modeling/objeto?id=Owner) deve cadastrar seus colaboradores, podendo ser [usuários Admins](Modeling/objeto?id=Admin) ou [usuários Sellers](Modeling/objeto?id=Seller).
@@ -15,7 +25,6 @@
 ## Atores
 * [Usuário Owner](Modeling/objeto?id=Owner)
 * [Usuário Admin](Modeling/objeto?id=Admin)
-* [Usuários Seller](Modeling/objeto?id=Seller)
 * Sistema
 
 ## Pré-requisitos
@@ -76,3 +85,6 @@ O colaborador não deve estar cadastrado na aplicação.
 
 ## Pós-condição
 O colaborador receberá suas credenciais por email e agora terá seu cadastro na aplicação e poderá acessar a sua conta no Stock.
+
+## Referências
+* UML — Diagrama de Casos de Uso: <https://medium.com/operacionalti/uml-diagrama-de-casos-de-uso-29f4358ce4d5>. Último acesso em 01/10/2020.

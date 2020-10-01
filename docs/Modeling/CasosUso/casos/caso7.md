@@ -52,3 +52,6 @@ O [produto](Modeling/objeto?id=Produto) não deve estar disponível no [estoque]
 
 ## Pós-condição
 O [produto](Modeling/objeto?id=Produto) será vendido e retirado do [estoque](Modeling/objeto?id=Estoque).
+
+## Referências
+* UML — Diagrama de Casos de Uso: <https://medium.com/operacionalti/uml-diagrama-de-casos-de-uso-29f4358ce4d5>. Último acesso em 01/10/2020.

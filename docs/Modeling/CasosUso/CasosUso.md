@@ -7,7 +7,8 @@ Os diagramas de caso de uso tem como principal objetivo auxiliar a comunicação
 |:----:|:------:|:---------:|:---------:|
 | 30/09/2020 | 1.0 | Criação do documento, adição da introdução, referências e links para os casos de uso | Micaella Gouveia |
 | 30/09/2020 | 1.1 | Adição dos casos UC01 a UC05 | Micaella Gouveia |
-| 30/09/2020 | 1.1 | Adição dos casos UC06 a UC12 | Micaella Gouveia |
+| 30/09/2020 | 1.2 | Adição dos casos UC06 a UC12 | Micaella Gouveia |
+| 01/10/2020 | 1.3 | Adição dos diagramas dos casos UC01 a UC6 | Micaella Gouveia |
 
 ## Casos de Uso
 O caso de uso é uma especificação do comportamento de uma funcionalidade do sistema.
@@ -25,8 +26,6 @@ Para a diagramação, é necessário elencar os casos de uso, especificando seus
 ### [UC010 - Cadastrar Categoria](Modeling/CasosUso/casos/caso10.md)
 ### [UC011 - Feedback](Modeling/CasosUso/casos/caso11.md)
 ### [UC012 - Alerta ao Usuário](Modeling/CasosUso/casos/caso12.md)
-
-## Diagramas
 
 ## Referências
 * Diagrama de Casos de Uso: <https://medium.com/operacionalti/uml-diagrama-de-casos-de-uso-29f4358ce4d5>. Último acesso  em 30/09/2020.

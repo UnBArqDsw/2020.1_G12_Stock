@@ -7,6 +7,15 @@
 | 30/09/2020 | 1.0 | Criação do documento e template | Micaella Gouveia |
 | 30/09/2020 | 1.1 | Adição da descrição, atores, pré-requisitos, fluxos e pós condição | Micaella Gouveia |
 | 30/09/2020 | 1.2 | Linkagem dos léxicos | Micaella Gouveia |
+| 01/10/2020 | 1.3 | Adição do diagrama | Micaella Gouveia |
+
+## Diagrama - UC02
+Diagrama produzido com a ferramenta a ferramenta [Draw.io](https://app.diagrams.net/). Ele é composto por:
+* Atores
+* Casos de uso
+* Relacionamentos
+
+![caso 2](../../../assets/diagramas/casosUso/caso2.png)
 
 ## Descrição
 O [usuário](Modeling/objeto?id=usuário) cadastrado deve fazer o Login na aplicação.
@@ -57,3 +66,6 @@ O [usuário](Modeling/objeto?id=usuário) cadastrado deve fazer o Login na aplic
     
 ## Pós-condição
 O [usuário](Modeling/objeto?id=usuário) pode entrar na sua conta do Stock.
+
+## Referências
+* UML — Diagrama de Casos de Uso: <https://medium.com/operacionalti/uml-diagrama-de-casos-de-uso-29f4358ce4d5>. Último acesso em 01/10/2020.

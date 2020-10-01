@@ -44,3 +44,6 @@ O  [usuário](Modeling/objeto?id=usuário) não deve estar na tela de [Feedback]
 ## Pós-condição
 
 O [feedback](Modeling/verbo?id=feedback) será enviado para o Suporte Técnico, e caso precise, entrará em contato com o [Owner](Modeling/objeto?id=Owner) da empresa.
+
+## Referências
+* UML — Diagrama de Casos de Uso: <https://medium.com/operacionalti/uml-diagrama-de-casos-de-uso-29f4358ce4d5>. Último acesso em 01/10/2020.

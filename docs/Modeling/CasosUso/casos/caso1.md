@@ -7,13 +7,21 @@
 | 30/09/2020 | 1.0 | Criação do documento e template | Micaella Gouveia |
 | 30/09/2020 | 1.1 | Adição da descrição, atores, pré-requisitos, fluxos e pós condição | Micaella Gouveia |
 | 30/09/2020 | 1.2 | Linkagem dos léxicos | Micaella Gouveia |
+| 01/10/2020 | 1.3 | Adição do diagrama | Micaella Gouveia |
+
+## Diagrama - UC01
+Diagrama produzido com a ferramenta a ferramenta [Draw.io](https://app.diagrams.net/). Ele é composto por:
+* Atores
+* Casos de uso
+* Relacionamentos
+
+![caso 1](../../../assets/diagramas/casosUso/caso1.png)
 
 ## Descrição
 O [usuário Owner](Modeling/objeto?id=Owner) deve cadastrar sua empresa na aplicação.
 
 ## Atores
 * [Usuário Owner](Modeling/objeto?id=Owner)
-* Sistema
 * Suporte Técnico
 
 ## Pré-requisitos
@@ -45,3 +53,6 @@ O [usuário Owner](Modeling/objeto?id=Owner) deve cadastrar sua empresa na aplic
 
 ## Pós-condição
 O [usuário Owner](Modeling/objeto?id=Owner) agora pode acessar seu [estoque](Modeling/objeto?id=Estoque) por meio do Stock, tendo direito a todas as funcionalidades da aplicação.
+
+## Referências
+* UML — Diagrama de Casos de Uso: <https://medium.com/operacionalti/uml-diagrama-de-casos-de-uso-29f4358ce4d5>. Último acesso em 01/10/2020.
