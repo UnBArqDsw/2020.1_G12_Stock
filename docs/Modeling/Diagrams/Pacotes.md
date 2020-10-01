@@ -20,5 +20,9 @@ O diagrama foi produzido pelo [Draw.io](https://draw.io). Nele há todas os subs
 
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/pacotes/Diagrama_de_Pacotes.pdf">Arquivo em PDF</a>
 
+<audio controls>
+  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/pacotes/Diagrama_de_Pacotes.wav" type="audio/mpeg">
+</audio>
+
 ## Referências
 Micreiros - Diagramas Estruturais da UML: Diagrama de Pacotes. <https://micreiros.com/diagrama-de-pacotes/>. Último Acesso em 25/09/2020.

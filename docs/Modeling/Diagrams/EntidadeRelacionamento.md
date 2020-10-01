@@ -90,5 +90,10 @@ Um COLLABORATOR pode enviar nenhum ou vários [FEEDBACKS](/Modeling/verbo?id=fee
 
 ![Diagrama Entidade Relacionamento](../../assets/img/bancoDados/Diagrama_Logico.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/bancoDados/Diagrama_Logico.pdf">Arquivo em PDF</a>
+
+<audio controls>
+  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/der/Diagrama_Logico.wav" type="audio/mpeg">
+</audio>
+
 ## Referências 
 - Software para Diagramação do Modelo Entidade Relacionamento - brModelo <http://www.sis4.com/brModelo/>. Último acesso em 25/09/2020 
