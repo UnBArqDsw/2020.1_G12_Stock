@@ -8,7 +8,7 @@ Os diagramas de caso de uso tem como principal objetivo auxiliar a comunicação
 | 30/09/2020 | 1.0 | Criação do documento, adição da introdução, referências e links para os casos de uso | Micaella Gouveia |
 | 30/09/2020 | 1.1 | Adição dos casos UC01 a UC05 | Micaella Gouveia |
 | 30/09/2020 | 1.2 | Adição dos casos UC06 a UC12 | Micaella Gouveia |
-| 01/10/2020 | 1.3 | Adição dos diagramas dos casos UC01 a UC6 | Micaella Gouveia |
+| 01/10/2020 | 1.3 | Adição dos diagramas dos casos UC01 a UC9 | Micaella Gouveia |
 
 ## Casos de Uso
 O caso de uso é uma especificação do comportamento de uma funcionalidade do sistema.

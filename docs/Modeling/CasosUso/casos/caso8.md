@@ -7,6 +7,15 @@
 | 30/09/2020 | 1.0 | Criação do documento e template | Micaella Gouveia |
 | 30/09/2020 | 1.1 | Adição da descrição, atores, pré-requisitos, fluxos e pós condição | Micaella Gouveia |
 | 30/09/2020 | 1.2 | Linkagem dos léxicos | Micaella Gouveia |
+| 01/10/2020 | 1.3 | Adição do diagrama | Micaella Gouveia |
+
+## Diagrama - UC08
+Diagrama produzido com a ferramenta a ferramenta [Draw.io](https://app.diagrams.net/). Ele é composto por:
+* Atores
+* Casos de uso
+* Relacionamentos
+
+![caso 8](../../../assets/diagramas/casosUso/caso8.png)
 
 ## Descrição
 O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve poder visualizar o histórico de vendas.

@@ -7,6 +7,15 @@
 | 30/09/2020 | 1.0 | Criação do documento e template | Micaella Gouveia |
 | 30/09/2020 | 1.1 | Adição da descrição, atores, pré-requisitos, fluxos e pós condição | Micaella Gouveia |
 | 30/09/2020 | 1.2 | Linkagem dos léxicos | Micaella Gouveia |
+| 01/10/2020 | 1.3 | Adição do diagrama | Micaella Gouveia |
+
+## Diagrama - UC09
+Diagrama produzido com a ferramenta a ferramenta [Draw.io](https://app.diagrams.net/). Ele é composto por:
+* Atores
+* Casos de uso
+* Relacionamentos
+
+![caso 9](../../../assets/diagramas/casosUso/caso9.png)
 
 ## Descrição
 O [usuário](Modeling/objeto?id=usuário) deve encontrar um [produto](Modeling/objeto?id=Produto) específico.
