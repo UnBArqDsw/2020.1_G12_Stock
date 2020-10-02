@@ -47,6 +47,31 @@ Na prática, uma interface, ou até mesmo uma classe abstrata, é implementada p
 
 Como é possível visualizar no diagrama, a classe "Arquivo" pode ser implementada por diversas outras classes de tipos diferentes de arquivos. Todas as classes que implementam a classe principal estão, nesta abstração, em um mesmo nível. No entanto, a classe "ArquivoComposite" tem a capacidade de adicionar e remover classes que estão neste mesmo nível de abstração e também implementam a classe principal. Não há distinções entre as classes resultantes da classe Composite.
 
+### Pontos positivos
+- Permite uma manipulação(criação e remoção) de classes "personalizáveis".
+
+- Permite abstração até determinado ponto, porém consegue conciliar detalhamento em cada classe.
+
+### Ponto negativos
+- Entendimento do padrão parece muito complexo para aplicação adequada.
+
+- Em uma aplicação minimamente equivocada pode aumentar ainda mais dificuldade de implementação.
+
+- Alteração completa na modelagem de bancos de dados que fizemos.
+
+### É possível adaptar a nossa forma de organização de projeto com este padrão?
+Sim, é possível mas parece ser muito difícil. Classes como "Produto" seriam decompostas em classes como "Smartphone", "Tv", "Geladeira" além de uma classe "ProdutoComposite" que teria a capacidade de adicionar e remover classes "folhas".
+
+### Quais documentos necessitam de refatoração para implementação deste padrão?
+Como ainda não iniciamos a parte prática do projeto não é necessário alterações em código. Mas como a implementação de diagramas referentes ao código já foram implementados em sprints anteriores, é necessária revisão dos diagramas:
+
+- Diagrama de Classes: Generalização de algumas classes para que sejam implementadas por classes "folhas" adicionadas por uma classe Composite. A refatoração nesse diagrama não parece ser muito complicada.
+
+- Diagrama de Sequência: Inserção das classes "folhas" ao diagrama deixando claro que implementam as classes generalizadas.
+
+- Diagrama de Comunicação: Inserção das classes "folhas" ao diagrama deixando claro que implementam as classes generalizadas. Não parece ter modificações estruturais graves, especificação de que a classe que realizará determinadas ações, será uma classe que implementa uma principal.
+
+- Diagrama Entidade Relacionamento: Teríamos que pensar em uma nova estratégia de modelagem já que a classe "Produto", por exemplo, seria simplificada comparada ao estado atual. Porém, como representar implementações de classes folhas em uma base de dados?
 
 ## Referências
 - Livro: Use a Cabeça! Padrões de Projetos - **Elisabeth Freeman, Eric Freeman**, Editora Alta Books, Ano 2007 2ª Edição
