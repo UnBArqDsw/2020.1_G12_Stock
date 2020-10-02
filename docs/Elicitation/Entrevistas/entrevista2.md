@@ -84,7 +84,7 @@ Esta pergunta não foi respondida nesta entrevista.
 | :-------------------------------------------------------------------------: | :---------------------------------: |
 |    [#RF03](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     [Adição de itens](Modeling/verbo?id=Cadastrar-Produto) ao [estoque](Modeling/objeto?id=Estoque)      |
 |    [#RF04](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         [Consulta de estoque](Modeling/verbo?id=Consultar-Produto)         |
-|    [#RF05](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        [Filtro](Modeling/verbo?id=Filtrar-Produtos) por categoria         |
+|    [#RF05](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        [Filtro](Modeling/verbo?id=Filtrar-Produtos) por [categoria](Modeling/objeto?id=Tag)         |
 |    [#RF07](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     [Remoção de itens](Modeling/verbo?id=Baixa-em-Produto) do [estoque](Modeling/objeto?id=Estoque)     |
 |    [#RF08](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |           [Cadastrar produtos](Modeling/verbo?id=Cadastrar-Produto) por planilhas            |
 |    [#RF09](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |           Gerar planilha            |

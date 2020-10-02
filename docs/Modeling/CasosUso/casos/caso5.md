@@ -45,7 +45,7 @@ O [produto](Modeling/objeto?id=Produto) não deve estar cadastrado no [estoque](
 ### Fluxos de Exceção
 * **FE01**: [Produto](Modeling/objeto?id=Produto) já cadastrado
     1. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve entrar no Stock com suas credenciais.
-    2. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve entrar na tela de [Estoque](Modeling/objeto?  id=Estoque).
+    2. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve entrar na tela de [Estoque](Modeling/objeto?id=Estoque).
     3. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve selecionar o botão "Novo [Produto](Modeling/objeto?id=Produto)".
     4. O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve preencher as informações do novo [produto](Modeling/objeto?id=Produto).
     5. O [produto](Modeling/objeto?id=Produto) já está cadastrado.

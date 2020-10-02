@@ -64,7 +64,7 @@ O storyboard é uma sequência de desenhos quadro a quadro com o esboço das div
 | :------------------------------------------------------------------------: | :---------------------------------: |
 |   [#RF03](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |     [Adição de itens](Modeling/verbo?id=Cadastrar-Produto) ao estoque      |
 |   [#RF04](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |         [Consulta de estoque](Modeling/verbo?id=Consultar-Produto)         |
-|   [#RF05](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        [Filtro](Modeling/verbo?id=Filtrar-Produtos) por categoria         |
+|   [#RF05](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |        [Filtro](Modeling/verbo?id=Filtrar-Produtos) por [categoria](Modeling/objeto?id=Tag)         |
 |   [#RF09](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)    |           Gerar planilha            |
 |   [#RF012](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   |       [Filtro](Modeling/verbo?id=Filtrar-Produtos) por nome e preço       |
 |   [#RF013](Elicitation/RequisitosElicitados.md?id=requisitos-funcionais)   |        [Filtro](Modeling/verbo?id=Filtrar-Produtos) por data         |

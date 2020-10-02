@@ -41,8 +41,8 @@ O [produto](Modeling/objeto?id=Produto) não deve estar disponponível para visu
 * **FA01**:
     1. O [usuário](Modeling/objeto?id=usuário) deve entrar no Stock com suas credenciais.
     2. O [usuário](Modeling/objeto?id=usuário) deve entrar na tela de [Estoque](Modeling/objeto?id=Estoque).
-    3. O [usuário](Modeling/objeto?id=usuário) deve filtrar sua busca pela categoria desejada.
-    4. Os [produtos](Modeling/objeto?id=Produto) da categoria selecionada serão disponibilizados.
+    3. O [usuário](Modeling/objeto?id=usuário) deve filtrar sua busca pela [categoria](Modeling/objeto?id=Tag) desejada.
+    4. Os [produtos](Modeling/objeto?id=Produto) da [categoria](Modeling/objeto?id=Tag) selecionada serão disponibilizados.
     5. O [usuário](Modeling/objeto?id=usuário) poderá selecionar o [produto](Modeling/objeto?id=Produto) específico.
     6. O [usuário](Modeling/objeto?id=usuário) poderá ver as informações sobre este [produto](Modeling/objeto?id=Produto) específico.
 
