@@ -43,7 +43,7 @@
   - [Backlog do Produto](Modeling/Backlog.md)
   - [Especificação Suplementar](Modeling/EspecificacaoSuplementar.md)   
   - [NFR](Modeling/NFR.md)
-  - [Especificação Suplementar](Modeling/EspecificacaoSuplementar.md) 
+  
   - **Diagramas UML**
     - [Diagrama de Classes](Modeling/Diagrams/Classes.md)
     - [Diagrama de Componentes](Modeling/Diagrams/Componentes.md)
