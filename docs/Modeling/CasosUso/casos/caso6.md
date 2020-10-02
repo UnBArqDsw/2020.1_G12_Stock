@@ -17,6 +17,8 @@ Diagrama produzido com a ferramenta a ferramenta [Draw.io](https://app.diagrams.
 
 ![caso 6](../../../assets/diagramas/casosUso/caso6.png)
 
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/casosUso/caso6.pdf">Arquivo em PDF</a>
+
 ## Descrição
 O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve cadastrar lotes dos [produtos](Modeling/objeto?id=Produto) no [estoque](Modeling/objeto?id=Estoque).
 

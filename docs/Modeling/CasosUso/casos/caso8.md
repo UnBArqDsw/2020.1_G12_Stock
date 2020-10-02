@@ -17,6 +17,8 @@ Diagrama produzido com a ferramenta a ferramenta [Draw.io](https://app.diagrams.
 
 ![caso 8](../../../assets/diagramas/casosUso/caso8.png)
 
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/casosUso/caso8.pdf">Arquivo em PDF</a>
+
 ## Descrição
 O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve poder visualizar o histórico de vendas.
 

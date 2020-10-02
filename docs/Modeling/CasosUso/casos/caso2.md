@@ -17,6 +17,8 @@ Diagrama produzido com a ferramenta a ferramenta [Draw.io](https://app.diagrams.
 
 ![caso 2](../../../assets/diagramas/casosUso/caso2.png)
 
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/casosUso/caso2.pdf">Arquivo em PDF</a>
+
 ## Descrição
 O [usuário](Modeling/objeto?id=usuário) cadastrado deve fazer o Login na aplicação.
 

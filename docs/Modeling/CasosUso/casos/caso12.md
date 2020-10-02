@@ -1,4 +1,4 @@
-# UC012 - Alerta ao Usuário
+# UC12 - Alerta ao Usuário
 
 ## Histórico de Revisões
 
@@ -7,6 +7,17 @@
 | 30/09/2020 | 1.0 | Criação do documento e template | Micaella Gouveia |
 | 30/09/2020 | 1.1 | Adição da descrição, atores, pré-requisitos, fluxos e pós condição | Micaella Gouveia |
 | 30/09/2020 | 1.2 | Linkagem dos léxicos | Micaella Gouveia |
+| 02/10/2020 | 1.3 | Adição do diagrama | Micaella Gouveia |
+
+## Diagrama - UC12
+Diagrama produzido com a ferramenta a ferramenta [Draw.io](https://app.diagrams.net/). Ele é composto por:
+* Atores
+* Casos de uso
+* Relacionamentos
+
+![caso 12](../../../assets/diagramas/casosUso/caso12.png)
+
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/casosUso/caso12.pdf">Arquivo em PDF</a>
 
 ## Descrição
 O [usuário](Modeling/objeto?id=usuário) deve receber alertas caso algum [produtos](Modeling/objeto?id=Produto) ultrapasse seu prazo de validade.

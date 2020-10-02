@@ -18,6 +18,8 @@ Diagrama produzido com a ferramenta a ferramenta [Draw.io](https://app.diagrams.
 
 ![caso 2](../../../assets/diagramas/casosUso/caso3.png)
 
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/casosUso/caso3.pdf">Arquivo em PDF</a>
+
 ## Descrição
 1. O [usuário Owner](Modeling/objeto?id=Owner) deve cadastrar seus colaboradores, podendo ser [usuários Admins](Modeling/objeto?id=Admin) ou [usuários Sellers](Modeling/objeto?id=Seller).
 2. O [usuário Admin](Modeling/objeto?id=Admin) deve cadastrar os colaboradores, sendo estes colaboradores [usuários Sellers](Modeling/objeto?id=Seller).

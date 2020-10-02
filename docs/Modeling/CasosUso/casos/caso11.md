@@ -1,4 +1,4 @@
-# UC011 - [Feedback](Modeling/verbo?id=feedback)
+# UC11 - [Feedback](Modeling/verbo?id=feedback)
 
 ## Histórico de Revisões
 
@@ -7,13 +7,23 @@
 | 30/09/2020 | 1.0 | Criação do documento e template | Micaella Gouveia |
 | 30/09/2020 | 1.1 | Adição da descrição, atores, pré-requisitos, fluxos e pós condição | Micaella Gouveia |
 | 30/09/2020 | 1.2 | Linkagem dos léxicos | Micaella Gouveia |
+| 02/10/2020 | 1.3 | Adição do diagrama | Micaella Gouveia |
+
+## Diagrama - UC11
+Diagrama produzido com a ferramenta a ferramenta [Draw.io](https://app.diagrams.net/). Ele é composto por:
+* Atores
+* Casos de uso
+* Relacionamentos
+
+![caso 11](../../../assets/diagramas/casosUso/caso11.png)
+
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/casosUso/caso11.pdf">Arquivo em PDF</a>
 
 ## Descrição
 O  [usuário](Modeling/objeto?id=usuário) deve poder enviar [feedbacks](Modeling/verbo?id=feedback) para o Suporte Técnico.
 
 ## Atores
 * [Usuário](Modeling/objeto?id=usuário)
-* Sistema
 * Suporte Técnico
 
 ## Pré-requisitos

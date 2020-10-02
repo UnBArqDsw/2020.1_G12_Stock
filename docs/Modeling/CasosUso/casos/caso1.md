@@ -17,6 +17,9 @@ Diagrama produzido com a ferramenta a ferramenta [Draw.io](https://app.diagrams.
 
 ![caso 1](../../../assets/diagramas/casosUso/caso1.png)
 
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/casosUso/caso1.pdf">Arquivo em PDF</a>
+
+
 ## Descrição
 O [usuário Owner](Modeling/objeto?id=Owner) deve cadastrar sua empresa na aplicação.
 

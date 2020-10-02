@@ -17,6 +17,8 @@ Diagrama produzido com a ferramenta a ferramenta [Draw.io](https://app.diagrams.
 
 ![caso 9](../../../assets/diagramas/casosUso/caso9.png)
 
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/casosUso/caso9.pdf">Arquivo em PDF</a>
+
 ## Descrição
 O [usuário](Modeling/objeto?id=usuário) deve encontrar um [produto](Modeling/objeto?id=Produto) específico.
 

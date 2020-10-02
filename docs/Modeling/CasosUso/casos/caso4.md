@@ -17,6 +17,8 @@ Diagrama produzido com a ferramenta a ferramenta [Draw.io](https://app.diagrams.
 
 ![caso 4](../../../assets/diagramas/casosUso/caso4.png)
 
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/casosUso/caso4.pdf">Arquivo em PDF</a>
+
 ## Descrição
 1. O [usuário Owner](Modeling/objeto?id=Owner) deve desativar o acesso de um colaborador, podendo ser [usuário Admin](Modeling/objeto?id=Admin) ou [usuário Seller](Modeling/objeto?id=Seller).
 2. O [usuário Admin](Modeling/objeto?id=Admin) deve desativar o acesso de um colaborador, podendo ser [usuário Seller](Modeling/objeto?id=Seller)
@@ -24,7 +26,6 @@ Diagrama produzido com a ferramenta a ferramenta [Draw.io](https://app.diagrams.
 ## Atores
 * [Usuário Owner](Modeling/objeto?id=Owner)
 * [Usuário Admin](Modeling/objeto?id=Admin)
-* [Usuários Seller](Modeling/objeto?id=Seller)
 * Sistema
 
 ## Pré-requisitos

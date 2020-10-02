@@ -17,6 +17,8 @@ Diagrama produzido com a ferramenta a ferramenta [Draw.io](https://app.diagrams.
 
 ![caso 5](../../../assets/diagramas/casosUso/caso5.png)
 
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/casosUso/caso5.pdf">Arquivo em PDF</a>
+
 ## Descrição
 O [usuário Owner](Modeling/objeto?id=Owner)/[Admin](Modeling/objeto?id=Admin) deve [cadastrar produtos](Modeling/verbo?id=Cadastrar-Produto) no [estoque](Modeling/objeto?id=Estoque).
 

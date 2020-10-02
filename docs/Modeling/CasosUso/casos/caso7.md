@@ -17,6 +17,8 @@ Diagrama produzido com a ferramenta a ferramenta [Draw.io](https://app.diagrams.
 
 ![caso 7](../../../assets/diagramas/casosUso/caso7.png)
 
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/casosUso/caso7.pdf">Arquivo em PDF</a>
+
 ## Descrição
 O [usuário](Modeling/objeto?id=usuário) deve dar baixa em produto.
 
