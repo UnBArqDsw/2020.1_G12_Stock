@@ -1,6 +1,12 @@
 # Estudo Dirigido - GoF Estrutural 1
 
 Um dos fatores que afetam o custo de manutenção/evolução de um sistema é a dependência gerada na interação entre os objetos desse sistema. Os padrões de projeto estruturais tem o objetivo de diminiuir essa dependência entre os objetos. Padrões desse tipo acabam alterando a estrutura do projeto no nível de classes. Serão apresentados dois padrões de projeto GOF(Gang of Four) Estruturais, o Adapter e o Composite.
+## Histórico de Revisões
+| Data | Versão | Descrição | Autor(es) |
+|:----:|:------:|:---------:|:---------:|
+| 02/10/2020 | 1.0 | Criação do documento e inserção dos estudos. | Pedro Igor |
+| 02/10/2020 | 1.1 | Adição das respostas as perguntas do estudo dirigido. | Pedro Igor |
+| 02/10/2020 | 1.0 | Inserção das referências. | Pedro Igor |
 
 ## Adapter
 Um objeto adapter é capaz de ser substituído por outro que desempenha as mesmas tarefas, porém com interfaces diferentes, isto é, como o próprio nome sugere, é adaptativo. Este padrão é bastante utilizado há algum tempo para pequenas adaptações de um modelo até mesmo em andamento. Esta característica possibilita maior flexibilidade e menor dependência.<br>
