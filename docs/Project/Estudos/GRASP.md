@@ -30,3 +30,28 @@ Criador é um especialista em criação de instâncias. Já o Especialista é um
 - Quem é a melhor entidade para ordenar algo?
 - Quem é a melhor entidade para cadastrar algo?
 
+## Baixo Acoplamento ou Acoplamento Fraco
+
+O baixo acoplamento é um padrão de avaliação que determina como atribuir responsabilidades de suporte:
+
+- Menor dependência entre as classes
+- Mudança em uma classe com menor impacto em outras
+- Maior potencial de reutilização
+- Facilidade na manutenção
+
+## Alta Coesão
+
+Atribuir de forma coerente as responsabilidades das classes, mantendo os objetos adequadamente focados, gerenciáveis e compreensíveis.
+
+- Mais	clareza	e	facilidade	de	compreensão	no	
+projeto	
+- Simplificação	de	manutenção	e	acréscimo de	funcionalidade/melhorias	
+- Favorecimento	do	acoplamento	fraco	
+- Aumento	no	potencial	de	reutilização
+
+## Controlador ou Controller 
+
+Objeto responsável por receber e lidar com um evento do sistema.
+
+## Referências
+- Apresentação: GRASP: Designing Objetos com Responsabilidades  - MC 426 IC Unicamp – M. Cecilia C. Baranauskas - <https://www.ic.unicamp.br/~ariadne/mc436/1s2017/Lar16GRASP.pdf>. Último acesso em 02/10/2020
