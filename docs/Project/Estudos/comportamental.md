@@ -21,7 +21,7 @@ Esse padrão é facilmente implementado utilizando as classes abstratas e/ou int
 
 Segue um exemplo de um diagrama de classes, aplicado esse padrão. No contexto de uma compra em site de e-commerce.
 
-![DiagramaComportamental](../../assets/img/estudo/gof-criacional/strategy.png)
+![Strategy](../../assets/img/estudo/gof-comportamental/strategy.png)
 
 ### Pontos Positivos
 - O software passa a ser extremamente escalável, pois a inserção de uma nova funcionalidade ligada a uma **strategy** passa a ser simples, além de não interferir nas outras soluções concretas já implementadas.
@@ -35,3 +35,25 @@ Sim, porém tem que avaliar quais serão as **strategys** e quantas camadas de a
 
 ### Quais documentos necessitam de refatoração para implementação deste padrão?
 Principalmente Diagrama de Classes e o Projeto de Banco de Dados.
+
+
+## Template Method
+O **Template Method** foi pensado sobre uma ótica de processos, onde as etapas desse processo definem o coração desse padrão. Com isso, é definido os passos de maneira imutável, pois idependentes de como eles serão implementados sempre ocorrerão na mesma ordem.<br>
+Para cada tipo de situação a formas diferentes de se resolver, porém cada uma delas obedece a mesma ordem das etapas.<br>
+Os participantes do **Template Method** são as classes abstratas, onde simbolizam os processos e defiem qual será a ordem de cada etapa. E as classes concretas, onde irão implementar como farão cada etapa.
+
+Para exemplificar, imagine uma fábrica de carros, onde as etapas do processo de fabricação é o mesmo, porém como é feito cada etapa varia para cada modelo de carro. Dessa forma o diagrama de classe ficaria da seguinte forma:
+
+![Template_Method](../../assets/img/estudo/gof-comportamental/templateMethod.png)
+
+### Pontos Positivos
+- Com o **template method** existe a garantia de que as classes filhas irão respeitas a ordem de cada uma das etapas do processo.
+
+### Pontos Negativos
+- Limitado a problemas liagados a processos, pouco abrangente.
+
+### É possível adaptar a nossa forma de organização de projeto com esse padrão?
+Não vejo processos no projeto em que haja necessidade de respeitar uma ordem específica de execução das etapas.
+
+### Quais documentos necessitam de refatoração para implementação deste padrão?
+Diagrama de classes.
