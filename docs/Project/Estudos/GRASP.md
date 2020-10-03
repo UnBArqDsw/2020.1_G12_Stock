@@ -78,8 +78,8 @@ Objeto responsável por receber e lidar com um evento do sistema. Os controlador
 
 ### Pontos Positivos e Negativos
 - Positivos
-    - Aumento	das	possibilidades	de	reutilização	de	classes	
-    - Aumento	das	possibilidades	de	interfaces	“plugáveis”		
+    - Aumento das possibilidades de	reutilização de	classes	
+    - Aumento das possibilidades de	interfaces “plugáveis”		
     - Conhecimento do estado do	caso de	uso	– controlador	
 pode armazenar estado do caso de uso, garantindo a sequência	correta	de execução de	operações		
 
@@ -87,9 +87,23 @@ pode armazenar estado do caso de uso, garantindo a sequência	correta	de execuç
 
 As responsabilidades são atribuídas a abstrações. Lida com o comportamento com base no tipo (classe), mas que não usa uma instrução *if ou *switch, com o uso dele, as seções de código se tornam menos acopladas e mais coesas.
 
+### Pontos Positivos e Negativos
+- Positivos
+    – Facilidade de manutenção
+    – Facilidade de inserção de um novo tipo de autorização
+
 ## Invenção Pura ou Fabricação Própria
 
 Atribuição de um conjunto coeso de responsabilidades à classes artificiais que mantenham alta coesão e baixo acoplamento e o reuso.
+
+### Pontos Positivos e Negativos
+- Positivos
+    – Remove as características não coesas das classes do domínio de negócio
+    – Cria classes muito coesas com essas características
+- Negativos
+    – Cria classes altamente funcionais, que não fazem parte da realidade
+    – Se utilizado em excesso, poderá transformar um sistema OO em um sistema orientado a eventos
+
 
 ## Indireção
 
@@ -104,6 +118,12 @@ Alguns exemplos de problemas resolvidos com outro nível de indireções:
 - Uma matriz multidimensional onde as linhas / colunas têm tamanhos diferentes,tratando um ponteiro de cabeça da mesma forma que um ponteiro em um registro.
 - Herança em linguagens de protótipo, como Javascript.
 
+### Pontos Positivos e Negativos
+- Positivos
+    - Uma classe fracamente acoplada não é afetada (ou pouco afetada por mudanças em outras classes
+    - Simples de entender isoladamente
+    - Reuso mais fácil
+
 ## Varições Protegidas
 
 Diminuir que variações ou instabilidades em elementos tenham impacto indesejado em outros elementos. Soluções:
@@ -112,6 +132,12 @@ Diminuir que variações ou instabilidades em elementos tenham impacto indesejad
 - Encapsulamento, interfaces, polimorfismo, indireção e padrões:
 máquinas virtuais e brokers são motivados por este princípio.
 - Evite enviar mensagens a objetos muito distantes.
+
+### Pontos Positivos e Negativos
+- Positivos
+    - Uma classe fracamente acoplada não é afetada (ou pouco afetada por mudanças em outras classes
+    - Simples de entender isoladamente
+    - Reuso mais fácil
 
 
 ## Referências
