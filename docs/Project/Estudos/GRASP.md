@@ -1,11 +1,14 @@
 # Estudo Dirigido - GRASP
+
 GRASP significa Padrões de Software para Atribuição de Responsabilidade Geral e consiste em diretrizes para atribuir responsabilidade a classes e objetos em projeto orientado a objetos.
 
 ## Histórico de Revisões
+
 | Data | Versão | Descrição | Autor(es) |
 |:----:|:------:|:---------:|:---------:|
 | 30/09/2020 | 1.0 | Estudos GRASP - Criador e Especialista | Sofia Patrocínio |
 | 02/10/2020 | 1.1 | Criação do documento | Sofia Patrocínio |
+| 03/10/2020 | 1.2 | Adição dos padrões | Sofia Patrocínio |
 
 ## Criador ou Creator
 
@@ -21,8 +24,13 @@ Atribua à classe B a responsabilidade de criar uma nova instância da classe A 
 *Se a relação for de agregação é melhor, pois o código está menos acoplado. Se for de composição, a parte só existe se o todo existir.*
 
 ### Pontos Positivos e Negativos
+
 - Positivos
     - Favorece o acoplamento fraco
+
+### É possível adaptar a nossa forma de organização de projeto com esse padrão? Quais documentos necessitam de refatoração para implementação deste padrão?
+
+Sim, principalmente diagramas de classe, de sequência e comunicação.
 
 ## Especialista
 
@@ -33,11 +41,16 @@ Criador é um especialista em criação de instâncias. Já o Especialista é um
 - Quem é a melhor entidade para cadastrar algo?
 
 ### Pontos Positivos e Negativos
+
 - Positivos
     - Mantém encapsulamento, favorece o acoplamento fraco.
     - Comportamento fia distribuído entre as classes que têm a informação necessária, favorece a alta coesão.
 - Negativos
     - Não é indicado quando aumenta o acoplamento e reduz coesão.
+
+### É possível adaptar a nossa forma de organização de projeto com esse padrão? Quais documentos necessitam de refatoração para implementação deste padrão?
+
+Sim, diagramas de classe, de sequência e comunicação e de entidades de banco de dados.
 
 ## Baixo Acoplamento ou Acoplamento Fraco
 
@@ -49,10 +62,15 @@ Determina que as classes não devem depender de objetos concretos, mas sim de ab
 - Facilidade na manutenção
 
 ### Pontos Positivos e Negativos
+
 - Positivos
     - Uma classe fracamente acoplada não é afetada (ou pouco afetada por mudanças em outras classes
     - Simples de entender isoladamente
     - Reuso mais fácil
+
+### É possível adaptar a nossa forma de organização de projeto com esse padrão? Quais documentos necessitam de refatoração para implementação deste padrão?
+
+Sim, o uso de padrões de projeto GRASP influenciam diretamente no baixo acoplamento.
 
 ## Alta Coesão
 
@@ -65,11 +83,16 @@ projeto
 - Aumento	no	potencial	de	reutilização
 
 ### Pontos Positivos e Negativos
+
 - Positivos
     - Melhor claridade e facilidade de compreensão do projeto
     - Simplificação da manutenção
     - Frequentemente vai mão na mão com acoplamento fraco
     - Com granularidade baixa e funcionalidade bem focada, aumenta o reuso
+
+### É possível adaptar a nossa forma de organização de projeto com esse padrão? Quais documentos necessitam de refatoração para implementação deste padrão?
+
+Sim, o uso de padrões de projeto GRASP influenciam diretamente na alta coesão.
 
 ## Controlador ou Controller 
 
@@ -77,20 +100,30 @@ Objeto responsável por receber e lidar com um evento do sistema. Os controlador
 - O uso de controladores *Facade* é válido somente quando existem poucos eventos do sistema.
 
 ### Pontos Positivos e Negativos
+
 - Positivos
     - Aumento das possibilidades de	reutilização de	classes	
     - Aumento das possibilidades de	interfaces “plugáveis”		
     - Conhecimento do estado do	caso de	uso	– controlador	
-pode armazenar estado do caso de uso, garantindo a sequência	correta	de execução de	operações		
+pode armazenar estado do caso de uso, garantindo a sequência	correta	de execução de	operações	
+
+### É possível adaptar a nossa forma de organização de projeto com esse padrão? Quais documentos necessitam de refatoração para implementação deste padrão?
+
+O padrão Controller já está sendo utilizado em nosso projeto, revisar diagrama de componentes.
 
 ## Polimorfismo
 
 As responsabilidades são atribuídas a abstrações. Lida com o comportamento com base no tipo (classe), mas que não usa uma instrução *if ou *switch, com o uso dele, as seções de código se tornam menos acopladas e mais coesas.
 
 ### Pontos Positivos e Negativos
+
 - Positivos
     – Facilidade de manutenção
     – Facilidade de inserção de um novo tipo de autorização
+
+### É possível adaptar a nossa forma de organização de projeto com esse padrão? Quais documentos necessitam de refatoração para implementação deste padrão?
+
+O padrão Polimorfismo já está sendo utilizado em nosso projeto, revisar diagrama de classes.
 
 ## Invenção Pura ou Fabricação Própria
 
@@ -103,6 +136,10 @@ Atribuição de um conjunto coeso de responsabilidades à classes artificiais qu
 - Negativos
     – Cria classes altamente funcionais, que não fazem parte da realidade
     – Se utilizado em excesso, poderá transformar um sistema OO em um sistema orientado a eventos
+
+### É possível adaptar a nossa forma de organização de projeto com esse padrão? Quais documentos necessitam de refatoração para implementação deste padrão?
+
+É possível adaptar, esse padrão é relacionado fortemente aos GOF's criacionais e se aplicaria melhor em um projeto com maior escopo.
 
 
 ## Indireção
@@ -119,10 +156,15 @@ Alguns exemplos de problemas resolvidos com outro nível de indireções:
 - Herança em linguagens de protótipo, como Javascript.
 
 ### Pontos Positivos e Negativos
+
 - Positivos
     - Uma classe fracamente acoplada não é afetada (ou pouco afetada por mudanças em outras classes
     - Simples de entender isoladamente
     - Reuso mais fácil
+
+### É possível adaptar a nossa forma de organização de projeto com esse padrão? Quais documentos necessitam de refatoração para implementação deste padrão?
+
+Sim, diagramas de classe, de sequência e comunicação e de entidades de banco de dados.
 
 ## Varições Protegidas
 
@@ -138,6 +180,10 @@ máquinas virtuais e brokers são motivados por este princípio.
     - Uma classe fracamente acoplada não é afetada (ou pouco afetada por mudanças em outras classes
     - Simples de entender isoladamente
     - Reuso mais fácil
+
+### É possível adaptar a nossa forma de organização de projeto com esse padrão? Quais documentos necessitam de refatoração para implementação deste padrão?
+
+Sim, diagramas de classe, de sequência e comunicação e de entidades de banco de dados.
 
 
 ## Referências
