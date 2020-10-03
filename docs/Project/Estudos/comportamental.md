@@ -74,3 +74,10 @@ Sim, perfeitamente aplicável ao nosso projeto.
 
 ### Quais documentos necessitam de refatoração para implementação deste padrão?
 Diagrama de classes.
+
+## Referências
+- GOFS COMPORTAMENTAIS - **Milene Serrano** - Disponível em: https://aprender3.unb.br/pluginfile.php/26810/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20GoFs%20Estruturais%20-%20Profa.%20Milene.pdf. Último acesso em 02/10/2020.
+
+- BRIZENO, Marcos - Classificação dos Padrões de Projeto GoF. Disponível em: https://brizeno.wordpress.com/2011/12/12/classificacao-dos-padroes-de-projeto-gof/#:~:text=Ent%C3%A3o%20vamos%20falar%20um%20pouco,que%20motivam%20a%20categoriza%C3%A7%C3%A3o%20deles. Último acesso em 02/10/2020.
+
+- BRAGA, Rosana - Análise e Projeto Orientados a Objetos. Disponível em: https://edisciplinas.usp.br/pluginfile.php/2284032/mod_resource/content/1/Aula15_SingletonIteratorStateObserverComposite.pdf. Último acesso em: 03/10/2020
