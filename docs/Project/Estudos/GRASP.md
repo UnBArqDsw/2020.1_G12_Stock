@@ -8,7 +8,8 @@ GRASP significa Padrões de Software para Atribuição de Responsabilidade Geral
 |:----:|:------:|:---------:|:---------:|
 | 30/09/2020 | 1.0 | Estudos GRASP - Criador e Especialista | Sofia Patrocínio |
 | 02/10/2020 | 1.1 | Criação do documento | Sofia Patrocínio |
-| 03/10/2020 | 1.2 | Adição dos padrões | Sofia Patrocínio |
+| 02/10/2020 | 1.2 | Adição das explicações dos padrões | Sofia Patrocínio |
+| 03/10/2020 | 1.3 | Adição dos pontos positivos e negativos e documentos pra refatoração | Sofia Patrocínio |
 
 ## Criador ou Creator
 
@@ -43,8 +44,10 @@ Criador é um especialista em criação de instâncias. Já o Especialista é um
 ### Pontos Positivos e Negativos
 
 - Positivos
+  
     - Mantém encapsulamento, favorece o acoplamento fraco.
     - Comportamento fia distribuído entre as classes que têm a informação necessária, favorece a alta coesão.
+
 - Negativos
     - Não é indicado quando aumenta o acoplamento e reduz coesão.
 
@@ -64,6 +67,7 @@ Determina que as classes não devem depender de objetos concretos, mas sim de ab
 ### Pontos Positivos e Negativos
 
 - Positivos
+    
     - Uma classe fracamente acoplada não é afetada (ou pouco afetada por mudanças em outras classes
     - Simples de entender isoladamente
     - Reuso mais fácil
@@ -85,6 +89,7 @@ projeto
 ### Pontos Positivos e Negativos
 
 - Positivos
+
     - Melhor claridade e facilidade de compreensão do projeto
     - Simplificação da manutenção
     - Frequentemente vai mão na mão com acoplamento fraco
@@ -102,6 +107,7 @@ Objeto responsável por receber e lidar com um evento do sistema. Os controlador
 ### Pontos Positivos e Negativos
 
 - Positivos
+
     - Aumento das possibilidades de	reutilização de	classes	
     - Aumento das possibilidades de	interfaces “plugáveis”		
     - Conhecimento do estado do	caso de	uso	– controlador	
@@ -118,8 +124,10 @@ As responsabilidades são atribuídas a abstrações. Lida com o comportamento c
 ### Pontos Positivos e Negativos
 
 - Positivos
-    – Facilidade de manutenção
-    – Facilidade de inserção de um novo tipo de autorização
+
+    - Acoplamento de código
+    - Facilidade de manutenção
+    - Facilidade de inserção de um novo tipo de autorização
 
 ### É possível adaptar a nossa forma de organização de projeto com esse padrão? Quais documentos necessitam de refatoração para implementação deste padrão?
 
@@ -127,15 +135,19 @@ O padrão Polimorfismo já está sendo utilizado em nosso projeto, revisar diagr
 
 ## Invenção Pura ou Fabricação Própria
 
-Atribuição de um conjunto coeso de responsabilidades à classes artificiais que mantenham alta coesão e baixo acoplamento e o reuso.
+Atribuição de um conjunto coeso de responsabilidades à classes artificiais que não representa um conceito no domínio da aplicação, uma classe fictícia que mantenham alta coesão e baixo acoplamento e o reuso.
 
 ### Pontos Positivos e Negativos
+
 - Positivos
-    – Remove as características não coesas das classes do domínio de negócio
-    – Cria classes muito coesas com essas características
+
+    - Remove as características não coesas das classes do domínio de negócio
+    - Cria classes muito coesas com essas características
+
 - Negativos
-    – Cria classes altamente funcionais, que não fazem parte da realidade
-    – Se utilizado em excesso, poderá transformar um sistema OO em um sistema orientado a eventos
+
+    - Cria classes altamente funcionais, que não fazem parte da realidade
+    - Se utilizado em excesso, poderá transformar um sistema OO em um sistema orientado a eventos
 
 ### É possível adaptar a nossa forma de organização de projeto com esse padrão? Quais documentos necessitam de refatoração para implementação deste padrão?
 
@@ -148,8 +160,10 @@ Atribuição de um objeto intermediário que faça a mediação entre componente
 
 *A maior parte dos problemas em Ciência da Computação pode ser resolvida por um nível adicional de indireção* - citação em Larman, p 427.
 
-Alguns exemplos de problemas resolvidos com outro nível de indireções:
-- Implementação de polimorfismo - um ponteiro para uma matriz de pontos de método.
+Alguns exemplos de problemas resolvidos com outro nível de indireção:
+
+- Implementação de polimorfismo 
+- Um ponteiro para uma matriz de pontos de método.
 - Passar por referência.
 - Listas vinculadas.
 - Uma matriz multidimensional onde as linhas / colunas têm tamanhos diferentes,tratando um ponteiro de cabeça da mesma forma que um ponteiro em um registro.
@@ -158,6 +172,7 @@ Alguns exemplos de problemas resolvidos com outro nível de indireções:
 ### Pontos Positivos e Negativos
 
 - Positivos
+
     - Uma classe fracamente acoplada não é afetada (ou pouco afetada por mudanças em outras classes
     - Simples de entender isoladamente
     - Reuso mais fácil
@@ -169,6 +184,7 @@ Sim, diagramas de classe, de sequência e comunicação e de entidades de banco 
 ## Varições Protegidas
 
 Diminuir que variações ou instabilidades em elementos tenham impacto indesejado em outros elementos. Soluções:
+
 - Identificar pontos de variação ou instabilidades potenciais.
 - Atribuir responsabilidades para criar uma interface estável em volta desses pontos.
 - Encapsulamento, interfaces, polimorfismo, indireção e padrões:
@@ -176,7 +192,9 @@ máquinas virtuais e brokers são motivados por este princípio.
 - Evite enviar mensagens a objetos muito distantes.
 
 ### Pontos Positivos e Negativos
+
 - Positivos
+
     - Uma classe fracamente acoplada não é afetada (ou pouco afetada por mudanças em outras classes
     - Simples de entender isoladamente
     - Reuso mais fácil
