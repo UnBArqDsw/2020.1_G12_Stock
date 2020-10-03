@@ -48,7 +48,7 @@ Como ainda não iniciamos a parte prática do projeto não é necessário altera
 Cada objeto de um conjunto de objetos composite que fazem parte de uma relação todo-parte são tratados sem distinção. O objetivo é que por mais que haja complexidade e diferença entre cada um dos objetos, em determinado nível, estejam todos sem distinção.<br>
 Na prática, uma interface, ou até mesmo uma classe abstrata, é implementada por diversas outras classes que são tratadas sem distinção. No entanto, uma dessas classes tem a capacidade de inserir ou remover outras classes nesse nível de implementação. Esta classe, com estes métodos, é determinada Composite pois tem a capacidade de compor as classes que implementam a classe inicial.
 <div style="text-align: center;">
-    <img src="../../assets/img/estudo/gof-estrutural1/diagrama_de_classes_composite.png"/>
+    <img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/img/estudo/gof-estrutural1/diagrama_de_classes_composite.png"/>
 </div><br>
 
 Como é possível visualizar no diagrama, a classe "Arquivo" pode ser implementada por diversas outras classes de tipos diferentes de arquivos. Todas as classes que implementam a classe principal estão, nesta abstração, em um mesmo nível. No entanto, a classe "ArquivoComposite" tem a capacidade de adicionar e remover classes que estão neste mesmo nível de abstração e também implementam a classe principal. Não há distinções, neste nível, entre as classes resultantes da classe Composite.
