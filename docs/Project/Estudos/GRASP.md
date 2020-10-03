@@ -9,11 +9,11 @@ GRASP significa Padrões de Software para Atribuição de Responsabilidade Geral
 | 30/09/2020 | 1.0 | Estudos GRASP - Criador e Especialista | Sofia Patrocínio |
 | 02/10/2020 | 1.1 | Criação do documento | Sofia Patrocínio |
 | 02/10/2020 | 1.2 | Adição das explicações dos padrões | Sofia Patrocínio |
-| 03/10/2020 | 1.3 | Adição dos pontos positivos e negativos e documentos pra refatoração | Sofia Patrocínio |
+| 03/10/2020 | 1.3 | Adição dos pontos positivos e negativos e documentos para refatoração | Sofia Patrocínio |
 
 ## Criador ou Creator
 
-Ao avaliar o modelo, primeiro questionamento é quais classes possuem as responsabilidades de criar instâncias. Seu objetivo é definir como criador o objeto que precise ser conectado ao objeto criado em algum evento.
+Ao avaliar o modelo, primeiro questionamento é quais classes possuem as responsabilidades de criar instâncias. Seu objetivo é definir, como criador, o objeto que precise ser conectado ao objeto criado em algum evento.
 
 Atribua à classe B a responsabilidade de criar uma nova instância da classe A se uma das seguintes condições for verdadeira:
 
@@ -166,7 +166,7 @@ Alguns exemplos de problemas resolvidos com outro nível de indireção:
 - Um ponteiro para uma matriz de pontos de método.
 - Passar por referência.
 - Listas vinculadas.
-- Uma matriz multidimensional onde as linhas / colunas têm tamanhos diferentes,tratando um ponteiro de cabeça da mesma forma que um ponteiro em um registro.
+- Uma matriz multidimensional onde as linhas/colunas têm tamanhos diferentes, tratando um ponteiro de cabeça da mesma forma que um ponteiro em um registro.
 - Herança em linguagens de protótipo, como Javascript.
 
 ### Pontos Positivos e Negativos
