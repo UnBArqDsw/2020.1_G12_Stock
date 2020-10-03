@@ -32,7 +32,7 @@ Criador é um especialista em criação de instâncias. Já o Especialista é um
 
 ## Baixo Acoplamento ou Acoplamento Fraco
 
-O baixo acoplamento é um padrão de avaliação que determina como atribuir responsabilidades de suporte:
+Determina que as classes não devem depender de objetos concretos, mas sim de abstrações. O baixo acoplamento é um padrão de avaliação que determina como atribuir responsabilidades de suporte:
 
 - Menor dependência entre as classes
 - Mudança em uma classe com menor impacto em outras
@@ -51,7 +51,16 @@ projeto
 
 ## Controlador ou Controller 
 
-Objeto responsável por receber e lidar com um evento do sistema.
+Objeto responsável por receber e lidar com um evento do sistema. Os controladores devem somente coordenar a tarefa, delegando sua execução para os outros objetos do sistema.
+- O uso de controladores *Facade* é válido somente quando existem poucos eventos do sistema.
+
+## Polimorfismo
+
+As responsabilidades são atribuídas a abstrações. Lida com o comportamento com base no tipo (classe), mas que não usa uma instrução *if ou *switch, com o uso dele, as seções de código se tornam menos acopladas e mais coesas.
+
+## Invenção Pura ou Fabricação Própria
+Atribuição de um conjunto coeso de responsabilidades à classes artificiais que mantenham alta coesão e baixo acomplamento e o reuso.
+
 
 ## Referências
 - Apresentação: GRASP: Designing Objetos com Responsabilidades  - MC 426 IC Unicamp – M. Cecilia C. Baranauskas - <https://www.ic.unicamp.br/~ariadne/mc436/1s2017/Lar16GRASP.pdf>. Último acesso em 02/10/2020
