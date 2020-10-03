@@ -15,8 +15,8 @@ O padrão Factory Method define uma interface para criar um objeto, mas permite 
 As classes nesse diagrama são:
 
 1. **Product**: Define a interface para objetos que o método de fábrica cria. *(Exemplo: Documento)*
-    - Define atributos e métodos. Esses últimos abstratos ou programados de forma mais genérica, para um conjunto de objetos, o squais serão criados pelo factoryMethod().
-2. **ConcreteProdutc**: implementa a interface Product. *(Exemplo:Relatório, Currículo)*
+    - Define atributos e métodos. Esses últimos abstratos ou programados de forma mais genérica, para um conjunto de objetos, os quais serão criados pelo factoryMethod().
+2. **ConcreteProduct**: implementa a interface Product. *(Exemplo:Relatório, Currículo)*
     - Estende Product, especializamdo o que foi definido na superclasse.
 3. **Creator**(também chamada de Factory pois cria os objetos de Product): declara o método factoryMethod() que retorna um objeto de Product. Pode chamar o método gerador para criar objetos do Product. *(Exemplo: Página)*
     - Declara o factoryMethod(), o qual retorna um objeto do tipo Product. Pode definir também um implementação default do factoryMethod() que retorna um objeto ConcreteProduct default. Pode ainda chamar um factoryMethod() para criar um objeto de Product.
@@ -29,9 +29,9 @@ Esse método funciona como uma fébrica, oferecendo um modo de encapsular as ins
 
 ### Pontos Positivos
 
-- Seu principal ponto positivo é o delisgamento da implementação do produto de seu uso. Se você alterar a implementação de um produto, não irá afetar sua Creator, pois a Creator não está fortemente ligada a nenhuma ConcreteProduct.
+- Seu principal ponto positivo é o desligamento da implementação do produto de seu uso. Se você alterar a implementação de um produto, não irá afetar sua Creator, pois a Creator não está fortemente ligada a nenhuma ConcreteProduct.
 - Elimina a necessidade de montar um código em função a uma classe específica. No nosso exemplo de aplicação, o código só lida com uma interface chamada Product.
-- Esse padrão de projeto dá maior flexibilidade para as classes, pois criar um objeto em uma classe que utiliza o Factory Method é melhor que fazê-lo em separado, funcionando, assim, como uma conexão para que uma das subclasses forneção uma versão estendida de um objeto.
+- Esse padrão de projeto dá maior flexibilidade para as classes, pois criar um objeto em uma classe que utiliza o Factory Method é melhor que fazê-lo em separado, funcionando, assim, como uma conexão para que uma das subclasses forneça uma versão estendida de um objeto.
 
 ### Pontos Negativos
 
@@ -39,7 +39,7 @@ Esse método funciona como uma fébrica, oferecendo um modo de encapsular as ins
 
 ### É possível adaptar a nossa forma de organização de projeto com esse padrão?
 
-É possível, porém não acredito que seja a melhor escolha. Se transformarmos nossa classe colaborator em uma fábrica, e dela partir a criação de Seller, Admin e Owner, teríamos uma fábrica de colaboradores com tipos específicos. Porém no nosso caso, Owner possui os atributos e métodos de Admin, que possui os atributos e métodos de Seller, e separá-los no mesmo nível de hierarquia não seria eficiente, pois estaríamos duplicando código. Além de que as classes Admin e Owner possui métodos específicos que demandam associações com outras classes, como Analisys, e essa associação não pode ser trazida para o nível de Seller ou Collaborator.
+É possível, porém não acredito que seja a melhor escolha. Se transformarmos nossa classe colaborator em uma fábrica, e dela partir a criação de Collaborator, Admin e Owner, teríamos uma fábrica de colaboradores com tipos específicos. Porém no nosso caso, Owner possui os atributos e métodos de Admin, que possui os atributos e métodos de Collaborator, e separá-los no mesmo nível de hierarquia não seria eficiente, pois estaríamos duplicando código. Além de que as classes Admin e Owner possui métodos específicos que demandam associações com outras classes, como Analisys, e essa associação não pode ser trazida para o nível de Collaborator.
 
 ### Quais documentos necessitam de refatoração para implementação deste padrão?
 
@@ -51,7 +51,7 @@ Fornece uma interface para criar famílias de objetos relacionados ou dependente
 
 Os participantes nesse diagrama são:
 
-- **AbstractFactory**: Declara uma inteface para operações de criação de produtos quaisquer. *(Ex: FábricaContinente)*
+- **AbstractFactory**: Declara uma interface para operações de criação de produtos quaisquer. *(Ex: FábricaContinente)*
 - **ConcreteFactory**: Implementa as operações que criam objetos de produtos concretos (específicos). *(Ex: FábricaAfrica, FabricaAmerica)*
 - **AbstractProduct**: Declara uma interface para um tipo de objeto produto. *(Ex: Hérbivoro, Carnívoro)*
 - **Product**: Define um objeto produto a ser criado pela fábrica concreta correspondente, a qual implementa a interface declarada em AbstractProduct. *(Ex: Leão, Lobo)*
@@ -82,4 +82,4 @@ Principalmente o Diagrama de Classes, pois as relações e interfaces teriam a l
 ## Referências
 - Livro: Use a Cabeça! Padrões de Projetos - **Elisabeth Freeman, Eric Freeman**, Editora Alta Books, Ano 2007 2ª Edição
 * Introdução aos padrões criacionais:<https://www.devmedia.com.br/introducao-aos-padroes-criacionais-abstract-factory-factory-method-prototype-e-singleton/21249>. Último acesso em 02/10/2020.
-* Video aulas da professora Milene (acesso restrito para os alunos da disciplina). Último acesso em 02/10/2020.
+* Vídeo aulas da professora Milene (acesso restrito para os alunos da disciplina). Último acesso em 02/10/2020.
