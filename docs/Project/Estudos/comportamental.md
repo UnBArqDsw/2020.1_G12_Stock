@@ -57,3 +57,20 @@ Não vejo processos no projeto em que haja necessidade de respeitar uma ordem es
 
 ### Quais documentos necessitam de refatoração para implementação deste padrão?
 Diagrama de classes.
+
+## Demais (State)
+De maneira similar com o **strategy** o **state** faz uma alteração de acordo com um contexto, porém ao invés de alterar um comportamento ele altera um estado.<br>
+Pegando o exemplo do próprio Stock, o contexto seria a entrada e saída dos produtos do estoque e os estados seriam alterados conforme a quantidade de produtos fosse variando. Dessa forma, uma possível representação no diagrama de classes ficaria assim: 
+
+![State](../../assets/img/estudo/gof-comportamental/state.png)
+
+### Pontos Positivos
+- Os estados podem ser melhor codificados sem a necessidade de ficar duplicando código em cada item do estoque.
+### Pontos Negativos
+-
+
+### É possível adaptar a nossa forma de organização de projeto com esse padrão?
+Sim, perfeitamente aplicável ao nosso projeto.
+
+### Quais documentos necessitam de refatoração para implementação deste padrão?
+Diagrama de classes.
