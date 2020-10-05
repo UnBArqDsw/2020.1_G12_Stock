@@ -59,6 +59,14 @@ Nesta Sprint, alguns documentos são pré-requisitos de outros, sendo necessári
 
 * Fizemos uma rotação nos estudos, para que todos os membros consigam ter contato com todos os tipos de Padrões de Projeto. Para este caso, todos os membros têm liberdade para evoluir o documento de [Estudo Dirigido](Project/EstudoDirigido.md).
 
+| Padrão de Projeto | Detalhes | Responsável |
+|--------|----------|-------------|
+| GRASP | Criador, Especialista e demais | Micaella Gouveia |
+| GoF Criacional | Factory Method, Abstract Factory e demais | Pedro Igor |
+| GoF Estrutural | Adapter e Composite | Gabriel Davi|
+| GoF Estrutural | Flyweight e demais | Gabriel Alves|
+| GoF Comportamental | Stategy, Template Method e demais | Sofia Patrocínio |
+
 
 ## Gravações Disponíveis
 

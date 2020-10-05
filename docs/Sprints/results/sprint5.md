@@ -35,7 +35,6 @@
 
 ## Observações
 * O time sentiu grande dificuldade durante a Sprnt pois haviam entregas de outras matérias, cansaço da Entrega 2, além da Sprint ser menor que o usual.
-* A [issue](Modeling/objeto?id=Issue) [**#116**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/116) ficou como dívida técnica e o mesmo membro designado irá trabalhar nela durante a próxima Sprint.
 * O time, durante a reunião, debateu sobre os Padrões de Projeto estudades, tentando alinhar todos os membros com cada padrão, melhorando o quadro de conhecimento sobre Padrões de Projeto.
 
 
