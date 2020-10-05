@@ -13,16 +13,16 @@
 | [**#115**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/115) | [Estudo - GoF Estrutural 1](Project/Estudos/estrutural1.md) | 3 | Pedro Igor |
 | [**#117**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/117) | [Estudo - GoF Comportamental](Project/Estudos/comportamental.md) | 5 | Gabriel Alves | 
 | [**#118**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/118) | Dockerização do Backend e Frontend | 8 | Pedro Igor e Gabriel Davi |
-| [**#119**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/119) | Documento de escolha das tecnologias | 3 | Gabriel Alves | 
 
 
 
-## Pontuação: 37
+## Pontuação: 34
 
 ## Dívida Técnica
 | Número | [Issue](Modeling/objeto?id=Issue) | Pontuação | Participantes |
 |--------|-----------------------------------|-----------|---------------|
-| [**#116**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/116) | [Estudo - GoF Estrutural 2](Project/Estudos/estrutural2.md) | 3 | Gabriel Davi | 
+| [**#116**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/116) | [Estudo - GoF Estrutural 2](Project/Estudos/estrutural2.md) | 3 | Gabriel Davi |
+| [**#119**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/119) | Documento de escolha das tecnologias | 3 | Gabriel Alves | 
 
 ## Quadro de Conhecimento
 ![quadro 5](../../assets/img/Sprints/metricas/quadroS5.png)
