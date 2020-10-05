@@ -34,7 +34,7 @@
 ![velocity 5](../../assets/img/Sprints/metricas/velocityS5.png)
 
 ## Observações
-* O time sentiu grande dificuldade durante a Sprnt pois haviam entregas de outras matérias, cansaço da Entrega 2, além da Sprint ser menor que o usual.
-* O time, durante a reunião, debateu sobre os Padrões de Projeto estudades, tentando alinhar todos os membros com cada padrão, melhorando o quadro de conhecimento sobre Padrões de Projeto.
+* O time sentiu grande dificuldade durante a Sprint pois haviam entregas de outras matérias, cansaço da Entrega 2, além da Sprint ser menor que o usual.
+* O time, durante a reunião, debateu sobre os Padrões de Projeto estudados, tentando alinhar todos os membros com cada padrão, melhorando o quadro de conhecimento sobre Padrões de Projeto.
 
 

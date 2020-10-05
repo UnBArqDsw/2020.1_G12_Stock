@@ -25,7 +25,7 @@
 
 Este quadro divide a pontuação das [issues](Modeling/objeto?id=Issue) com a quantidade de participantes, para ter a noção da distribuição de pontos por pessoa, evitando a sobrecarga de tarefas para algum membro.
 
-| Participante | Distribuiçao por Pontuação de [Issue](Modeling/objeto?id=Issue) e Partipantes | Pontuação Média |
+| Participante | Distribuição por Pontuação de [Issue](Modeling/objeto?id=Issue) e Partipantes | Pontuação Média |
 |--------------|-------------------------------------------------------------------------------|-----------------|
 | Gabriel Alves | 8 + 1 + 3 | 12 |
 | Gabriel Davi | 3 + 4 + 1 | 8 |
@@ -65,7 +65,7 @@ Nesta Sprint, alguns documentos são pré-requisitos de outros, sendo necessári
 | GoF Criacional | Factory Method, Abstract Factory e demais | Pedro Igor |
 | GoF Estrutural | Adapter e Composite | Gabriel Davi|
 | GoF Estrutural | Flyweight e demais | Gabriel Alves|
-| GoF Comportamental | Stategy, Template Method e demais | Sofia Patrocínio |
+| GoF Comportamental | Strategy, Template Method e demais | Sofia Patrocínio |
 
 
 ## Gravações Disponíveis
