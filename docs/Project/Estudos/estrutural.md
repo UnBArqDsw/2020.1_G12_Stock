@@ -150,7 +150,7 @@ Aqui, podemos ver que antes de passar por um serviço, o client passa por um pro
 
 ### É possível adaptar a nossa forma de organização de projeto com este padrão?
 
-Sim, o proxy possui diversos usos e por isso poderia ser aplicado em nosso projeto. Por exemplo, para limitar o numero de chamadas da criação de produtos em estoque, proteger algumas rotas do sistema, criar cache em listagem de produtos e assim por diante. Há também a possibildade de limitar a chamada para a adição de produtos, caso pessoas mal intencionadas descubram a rota e façam chamadas excessivas que irão causar uma sobrecarga em nossos bancos de dados.
+Sim, o proxy possui diversos usos e por isso poderia ser aplicado em nosso projeto. Por exemplo, para limitar o número de chamadas da criação de produtos em estoque, proteger algumas rotas do sistema, criar cache em listagem de produtos e assim por diante. Há também a possibildade de limitar a chamada para a adição de produtos, caso pessoas mal intencionadas descubram a rota e façam chamadas excessivas que irão causar uma sobrecarga em nossos bancos de dados.
 
 ### Quais documentos necessitam de refatoração para implementação deste padrão?
 
