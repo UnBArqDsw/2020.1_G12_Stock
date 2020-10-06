@@ -7,12 +7,12 @@
 
 | Número | [Issue](Modeling/objeto?id=Issue) | Pontuação | Participantes |
 |--------|-----------------------------------|-----------|---------------|
-| [**#93**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/93) | Casos de Uso e Diagrama de Casos de Uso | 5 | Gabriel Davi, Micaella Gouveia e Pedro Igor | 
-| [**#113**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/113) | Estudo - GRASP | 8 | Sofia | - |
-| [**#114**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/114) | Estudo - GoF Criacional | 5 | Micaella Gouveia |
-| [**#115**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/115) | Estudo - GoF Estrutural 1 | 3 | Pedro Igor |
-| [**#116**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/116) | Estudo - GoF Estrutural 2 | 3 | Gabriel Davi | 
-| [**#117**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/117) | Estudo - GoF Comportamental | 5 | Gabriel Alves | 
+| [**#93**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/93) | [Casos de Uso e Diagrama de Casos de Uso](Modeling/CasosUso/CasosUso.md) | 5 | Gabriel Davi, Micaella Gouveia e Pedro Igor | 
+| [**#113**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/113) | [Estudo - GRASP](Project/Estudos/GRASP.md) | 8 | Sofia | - |
+| [**#114**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/114) | [Estudo - GoF Criacional](Project/Estudos/criacional.md) | 5 | Micaella Gouveia |
+| [**#115**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/115) | [Estudo - GoF Estrutural 1](Project/Estudos/estrutural1.md) | 3 | Pedro Igor |
+| [**#116**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/116) | [Estudo - GoF Estrutural 2](Project/Estudos/estrutural2.md) | 3 | Gabriel Davi | 
+| [**#117**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/117) | [Estudo - GoF Comportamental](Project/Estudos/comportamental.md) | 5 | Gabriel Alves | 
 | [**#118**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/118) | Dockerização do Backend e Frontend | 8 | Pedro Igor e Gabriel Davi |
 | [**#119**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/119) | Documento de escolha das tecnologias | 3 | Gabriel Alves | 
 
@@ -40,7 +40,7 @@ Nesta Sprint, para não haver sobrecarga de tarefas, foi definido data de entreg
 |--------|-----------------------------------|-----------------|
 | [**#119**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/119) | Documento de escolha das tecnologias | Quinta-feira<br>(01/10/2020)|
 | [**#118**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/118) | Dockerização do Backend e Frontend | Quinta-feira<br>(01/10/2020) |
-| [**#93**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/93) | Casos de Uso e Diagrama de Casos de Uso | Quinta-feira<br>(01/10/2020) |
+| [**#93**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/93) | [Casos de Uso e Diagrama de Casos de Uso](Modeling/CasosUso/CasosUso.md) | Quinta-feira<br>(01/10/2020) |
 
 
 ## Relato
