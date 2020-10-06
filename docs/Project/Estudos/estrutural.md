@@ -1,6 +1,6 @@
 # Estudo Dirigido - GoF Estrutural
 
-Um dos fatores que afetam o custo de manutenção/evolução de um sistema é a dependência gerada na interação entre os objetos desse sistema. Os padrões de projeto estruturais tem o objetivo de diminiuir essa dependência entre os objetos. Padrões desse tipo acabam alterando a estrutura do projeto no nível de classes. Serão apresentados dois padrões de projeto GOF(Gang of Four) Estruturais, o Adapter e o Composite.
+Um dos fatores que afetam o custo de manutenção/evolução de um sistema é a dependência gerada na interação entre os objetos desse sistema. Os padrões de projeto estruturais tem o objetivo de diminuir essa dependência entre os objetos. Padrões desse tipo acabam alterando a estrutura do projeto no nível de classes. Serão apresentados dois padrões de projeto GOF(Gang of Four) Estruturais, o Adapter e o Composite.
 
 ## Histórico de Revisões
 
@@ -146,11 +146,11 @@ Aqui, podemos ver que antes de passar por um serviço, o client passa por um pro
 
 - Código mais complicado pois há necessidade da criação de várias classes.
 
-- Resposta final para o setvidor pode demorar mais tempo.
+- Resposta final para o servidor pode demorar mais tempo.
 
 ### É possível adaptar a nossa forma de organização de projeto com este padrão?
 
-Sim, o proxy possui diversos usos e por isso poderia ser aplicado em nosso projeto. Por exemplo, para limitar o número de chamadas da criação de produtos em estoque, proteger algumas rotas do sistema, criar cache em listagem de produtos e assim por diante. Há também a possibildade de limitar a chamada para a adição de produtos, caso pessoas mal intencionadas descubram a rota e façam chamadas excessivas que irão causar uma sobrecarga em nossos bancos de dados.
+Sim, o proxy possui diversos usos e por isso poderia ser aplicado em nosso projeto. Por exemplo, para limitar o número de chamadas da criação de produtos em estoque, proteger algumas rotas do sistema, criar cache em listagem de produtos e assim por diante. Há também a possibilidade de limitar a chamada para a adição de produtos, caso pessoas mal intencionadas descubram a rota e façam chamadas excessivas que irão causar uma sobrecarga em nossos bancos de dados.
 
 ### Quais documentos necessitam de refatoração para implementação deste padrão?
 
@@ -198,13 +198,13 @@ Sim, um lugar em que seria uma ótima oportunidade de para adição de decorator
 
 ## Bridge
 
-Esse padrão permite a divisão de uma classe em implementações menores que podem ser desenvolvidas indenpendentes umas das outras.
+Esse padrão permite a divisão de uma classe em implementações menores que podem ser desenvolvidas independentes umas das outras.
 
 <div style="text-align: center;">
     <img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/img/estudo/gof-estrutural1/decorator.png"/>
 </div><br>
 
-Aqui, podemos ver que há uma separação em uma interface de algum parametro ou atributo. O bridge é bem simples porém muito eficaz pois possibilita a adição e modificação de quantas classes forem necessárias.
+Aqui, podemos ver que há uma separação em uma interface de algum parâmetro ou atributo. O bridge é bem simples porém muito eficaz pois possibilita a adição e modificação de quantas classes forem necessárias.
 
 ### Pontos positivos
 
