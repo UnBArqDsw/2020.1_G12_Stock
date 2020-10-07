@@ -27,6 +27,12 @@ Esse método funciona como uma fébrica, oferecendo um modo de encapsular as ins
 
 ![factoryMethod](../../assets/img/estudo/gof-criacional/factoryMethod.png)
 
+A grande vantagem deste padrão é a possibilidade de especialização posterior a criação do objeto e muito além disso, permissão para que essa especialização possa ser alterada como é possível visualizar no diagrama a seguir.
+
+![Diagrama de Esquemas: Factory Method](../../assets/img/estudo/gof-criacional/diagrama_de_esquemas_factory_method.png)
+
+Ao instanciar um objeto da classe JogadorFutebol, ainda que de forma inocente, estaríamos criando uma dependência concreta e de difícil remoção. Utilizando uma classe FactoryMethod é possível modificar um objeto da classe JogadorFutebol para que seja objeto da classe JogadorTenis, por exemplo. Essa arquitetura determina a responsabilidade por criar determinados objetos o que reduz o acoplamento e nos direciona a utilização do princípiio da responsabilidade única. No exemplo, é criado um esportista e este pode praticar qualquer tipo de esporte sem dependência específica de sua classe.
+
 ### Pontos Positivos
 
 - Seu principal ponto positivo é o desligamento da implementação do produto de seu uso. Se você alterar a implementação de um produto, não irá afetar sua Creator, pois a Creator não está fortemente ligada a nenhuma ConcreteProduct.
