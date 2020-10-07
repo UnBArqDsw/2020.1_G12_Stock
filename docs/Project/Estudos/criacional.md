@@ -72,8 +72,12 @@ Os participantes nesse diagrama são:
 
 * Geralmente os métodos de uma Abstract Factory são implementados como métodos factory. O trabalho de uma Abstract Factory é **definir uma interface para criar um conjunto de produtos**. Cada método nessa interface é responsável pela criação de um produto concreto, e é implementado uma subclasse responsável da Abstract Factory para fornecer essas implementações.
 
+Pode-ser considerar o Abstract Method uma camada extra de abstração do Factory Method. Utilizando o mesmo exemplo da classe JogadorFutebol, imagine que é também de nosso interesse saber o time em que esse jogador joga por meio de classes Flamengo ou Juventus, por exemplo. Jogadores mudam de time constantemente e este fato não os diferencia ao serem selecionados para preencher a seleção de um país. Sendo assim, um seleção de todos os jogadores instanciados deve ser formada por jogadores de todos os times cadastrados. No entanto, no momento que o nosso interesse é por jogadores de determinado time, essa formação também deve ser possível.
+
+De forma geral este padrão abstrai determinadas classes específicas sem desconsiderá-las. Essas classes existem e estão disponíveis para uso caso necessário.
+
 ### Pontos Positivos
-* Além dos pontos positivos da Factory Method, sua principal vantagem é a criação de famílias, de conjunto de produtos por meio de uma hierarquia.
+- Além dos pontos positivos da Factory Method, sua principal vantagem é a criação de famílias, de conjunto de produtos por meio de uma hierarquia.
 
 ### Pontos Negativos
 
