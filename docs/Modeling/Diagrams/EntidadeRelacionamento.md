@@ -90,7 +90,7 @@ Um COLLABORATOR por ter um e somente um ACESS_LEVEL e um ACESS_LEVEL pode ter ne
 ## Diagrama Entidade Relacionamento (DER)
 
 ![Diagrama Entidade Relacionamento](../../assets/img/bancoDados/Diagrama_Entidade_Relacionamento.png)<br>
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/bancoDados/Diagrama_Entidade_Relacionamento.pdf">Arquivo em PDF</a><br>
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/bancoDados/Diagrama_Entidade_Relacionamento.pdf" target="_black">Arquivo em PDF</a><br>
 
 
 <audio controls>
@@ -100,7 +100,7 @@ Um COLLABORATOR por ter um e somente um ACESS_LEVEL e um ACESS_LEVEL pode ter ne
 ## Diagrama Lógico
 
 ![Diagrama Entidade Relacionamento](../../assets/img/bancoDados/Diagrama_Logico.png)
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/bancoDados/Diagrama_Logico.pdf">Arquivo em PDF</a>
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/bancoDados/Diagrama_Logico.pdf" target="_black">Arquivo em PDF</a>
 
 <audio controls>
   <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/der/Diagrama_Logico.wav" type="audio/mpeg">
@@ -143,7 +143,7 @@ Um COLLABORATOR por ter um e somente um ACESS_LEVEL e um ACESS_LEVEL pode ter ne
 
 
 
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/bancoDados/Dicionario_de_Dados.pdf">Arquivo em PDF</a>
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/bancoDados/Dicionario_de_Dados.pdf" target="_black">Arquivo em PDF</a>
 
 
 ## Referências 
