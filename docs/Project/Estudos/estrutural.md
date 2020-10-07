@@ -122,7 +122,7 @@ O primeiro passo seria analisar qual classe seria apropriada para esse método. 
 
 - Diagrama de classes: Se fosse o caso, daria para extrair algum estado do feedback, como seu tipo como já é feito, porém haveria uma factory entre o feedback e seu tipo. O mesmo se aplica para a relação entre produto e descrição.
 
-- Diagrama de sequência: Nesse caso, o feedback não chamaria o typeFeedback e sim o método da factory que guarda todas as instâncias de typeFeedck, passando somente suas especificações de qual type deseja receber.
+- Diagrama de sequência: Nesse caso, o feedback não chamaria o typeFeedback e sim o método da factory que guarda todas as instâncias de typeFeedback, passando somente suas especificações de qual type deseja receber.
 
 - Diagrama de comunicação: Semelhante a alteração necessária no diagrama de sequência.
 
@@ -172,7 +172,7 @@ Aqui, podemos ver que há um decorator base, que irá servir como uma ponte entr
 
 ### Pontos positivos
 
-- Podemos extender comportamento de objetos sem precisar criar novas subclasses.
+- Podemos estender comportamento de objetos sem precisar criar novas subclasses.
 
 - Possibilidade de adicionar ou remover comportamentos em tempo de execução.
 
@@ -188,7 +188,7 @@ Aqui, podemos ver que há um decorator base, que irá servir como uma ponte entr
 
 ### É possível adaptar a nossa forma de organização de projeto com este padrão?
 
-Sim, um lugar em que seria uma ótima oportunidade de para adição de decorators seria na classe de análise que retorna dos dados para a geração de gráficos em nossa aplicação. Com isso, se for necessário a criação de novos comportamentos, somente seria necessário a criação de decorators que iria extender a classe de Análise e então implementar o novo comportamento. Atualmente, essa classe possui três métodos, cada um poderia se tornar um decorator que iria implementar sua própria tratativa de dados.
+Sim, um lugar em que seria uma ótima oportunidade de para adição de decorators seria na classe de análise que retorna dos dados para a geração de gráficos em nossa aplicação. Com isso, se for necessário a criação de novos comportamentos, somente seria necessário a criação de decorators que iria estender a classe de Análise e então implementar o novo comportamento. Atualmente, essa classe possui três métodos, cada um poderia se tornar um decorator que iria implementar sua própria tratativa de dados.
 
 ### Quais documentos necessitam de refatoração para implementação deste padrão?
 
