@@ -11,27 +11,34 @@ O Modelo Entidade Relacionamento tem por finalidade modelar todo o banco de dado
 | 25/09/2020 | 1.2 | Correção de alguns erros de digitação e linkagem do documento a navbar | Pedro Igor |
 | 25/09/2020 | 1.3 | Atualização dos diagramas | Pedro Igor |
 | 26/09/2020 | 1.4 | Linkagem de léxicos | Pedro Igor |
+| 06/10/2020 | 1.5 | Atualização e correção dos diagramas | Gabriel Alves |
 ## Modelo Entidade Relacionamento (MER)
 
 ### Entidades
 
-**[COMPANY](/Modeling/objeto?id=micro-empresa)** (<ins>document</ins>, name, telephone, email, photo, maxQtdCollaborator, registerDate)
-
 **BRANCH** (<ins>idBranch</ins>, name)
 
-**[PRODUCT](Modeling/objeto?id=produto)** (<ins>idProduct</ins>, name, unitQt, unitMeasure, salePrice)
+**[COMPANY](/Modeling/objeto?id=micro-empresa)** (<ins>idCompany</ins>, idBranch, document, name, telephone, email, photo, maxQtdCollaborator, registerDate)
 
-**LOT** (<ins>idLot</ins>, entryDate, dueDate, productsQt, description, purchasePrice)
+**[PRODUCT](Modeling/objeto?id=produto)** (<ins>idProduct</ins>, idCompany, idCollaborator, name, unitQt, unitMeasure, salePrice)
+
+**LOT** (<ins>idLot</ins>, idProduct, idCollaborator, entryDate, dueDate, qtdProdutos, description, purchasePrice)
+
+**COLLABORATOR** (<ins>idCollaborator</ins>, idAcessLevel, idCompany, name, document, photo, password)
 
 **[CATEGORY](/Modeling/objeto?id=tag)** (<ins>idCategory</ins>, name, description)
 
-**COLLABORATOR** (<ins>idCollaborator</ins>, name, document, acessLevel, photo, password)
+**[FEEDBACK](/Modeling/verbo?id=feedback)** (<ins>idFeedback</ins>, idTypeFeedback, idCollaborator, description, annex)
 
-**[FEEDBACK](/Modeling/verbo?id=feedback)** (<ins>idFeedback</ins>, type, description, document, annex)
+**TYPE_FEEDBACK** (<ins>idTypeFeedback</ins>, name, description)
 
-**TYPE_FEEDBACK** (<ins>idTypeFeedback</ins>, name)
+**ACESS_LEVEL** (<ins>idAcessLevel</ins>, name, description)
 
-**[decreases](/Modeling/verbo?id=baixa-em-produto)** (<ins>date</ins>, <ins>time</ins>, <ins>idCollaborator</ins>, <ins>idLot</ins>, quantity)
+### Tabelas
+
+**[decreases](/Modeling/verbo?id=baixa-em-produto)** (idCollaborator, idLot, quantity, date, time)
+
+**belongs** (idCategory, idProduct)
 
 ### Relacionamentos
 
@@ -75,6 +82,10 @@ Um [FEEDBACK](/Modeling/verbo?id=feedback) pode possuir um e no máximo um tipo 
 Um COLLABORATOR pode enviar nenhum ou vários [FEEDBACKS](/Modeling/verbo?id=feedback) e um [FEEDBACK](/Modeling/verbo?id=feedback) pode ser enviado por um e apenas um COLLABORATOR.<br>
 **Cardinalidade -> 1:n**
 
+**COLLABORATOR** - has - **ACESS_LEVEL**<br>
+Um COLLABORATOR por ter um e somente um ACESS_LEVEL e um ACESS_LEVEL pode ter nenhum ou vários COLLABORATORS.<br>
+**Cardinalidade -> n:1**
+
 
 ## Diagrama Entidade Relacionamento (DER)
 
@@ -94,6 +105,46 @@ Um COLLABORATOR pode enviar nenhum ou vários [FEEDBACKS](/Modeling/verbo?id=fee
 <audio controls>
   <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/der/Diagrama_Logico.wav" type="audio/mpeg">
 </audio>
+
+## Dicionário de Dados
+
+**Acess Level**<br>
+![Acess Level](../../assets/img/bancoDados/dicionario/acess_level.png)
+
+**Belongs**<br>
+![Belongs](../../assets/img/bancoDados/dicionario/belongs.png)
+
+**Branch**<br>
+![Branch](../../assets/img/bancoDados/dicionario/branch.png)
+
+**Category**<br>
+![Category](../../assets/img/bancoDados/dicionario/category.png)
+
+**Collaborator**<br>
+![Collaborator](../../assets/img/bancoDados/dicionario/collaborator.png)
+
+**Company**<br>
+![Company](../../assets/img/bancoDados/dicionario/company.png)
+
+**Decreases**<br>
+![Decreases](../../assets/img/bancoDados/dicionario/decreases.png)
+
+**Feedback**<br>
+![Feedback](../../assets/img/bancoDados/dicionario/feedback.png)
+
+**Lot**<br>
+![Lot](../../assets/img/bancoDados/dicionario/lot.png)
+
+**Product**<br>
+![Product](../../assets/img/bancoDados/dicionario/product.png)
+
+**Type Feedback**<br>
+![Type Feedback](../../assets/img/bancoDados/dicionario/type_feedback.png)
+
+
+
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/bancoDados/Dicionario_de_Dados.pdf">Arquivo em PDF</a>
+
 
 ## Referências 
 - Software para Diagramação do Modelo Entidade Relacionamento - brModelo <http://www.sis4.com/brModelo/>. Último acesso em 25/09/2020 
