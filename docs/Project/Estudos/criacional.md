@@ -37,11 +37,13 @@ Ao instanciar um objeto da classe JogadorFutebol, ainda que de forma inocente, e
 
 - Seu principal ponto positivo é o desligamento da implementação do produto de seu uso. Se você alterar a implementação de um produto, não irá afetar sua Creator, pois a Creator não está fortemente ligada a nenhuma ConcreteProduct.
 - Elimina a necessidade de montar um código em função a uma classe específica. No nosso exemplo de aplicação, o código só lida com uma interface chamada Product.
-- Esse padrão de projeto dá maior flexibilidade para as classes, pois criar um objeto em uma classe que utiliza o Factory Method é melhor que fazê-lo em separado, funcionando, assim, como uma conexão para que uma das subclasses forneça uma versão estendida de um objeto.
+- Esse padrão de projeto dá maior flexibilidade para as classes, pois cria um objeto em uma classe que utiliza o Factory Method é melhor que fazê-lo em separado, funcionando, assim, como uma conexão para que uma das subclasses forneça uma versão estendida de um objeto.
+- Possibilidade de alteração da classe que implementa um objeto para um outro que faz parte da mesma generalização. No nosso contexto, seria possível alterar a classe que implementa um usuário. Um hora ele poderia ser Owner, em outro momento Admin e ainda Seller. 
+
 
 ### Pontos Negativos
 
-- Especializar uma classe apenas para instanciar um objeto de uma subclasse de outra superclasse pode se revelar bastante improdutiva.
+- Especializar uma classe apenas para instanciar um objeto de uma subclasse de outra superclasse pode se revelar bastante improdutivo.
 
 ### É possível adaptar a nossa forma de organização de projeto com esse padrão?
 
