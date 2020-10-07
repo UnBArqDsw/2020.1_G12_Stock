@@ -95,3 +95,5 @@ Principalmente o Diagrama de Classes, pois as relações e interfaces teriam a l
 - Livro: Use a Cabeça! Padrões de Projetos - **Elisabeth Freeman, Eric Freeman**, Editora Alta Books, Ano 2007 2ª Edição
 * Introdução aos padrões criacionais:<https://www.devmedia.com.br/introducao-aos-padroes-criacionais-abstract-factory-factory-method-prototype-e-singleton/21249>. Último acesso em 02/10/2020.
 * Vídeo aulas da professora Milene (acesso restrito para os alunos da disciplina). Último acesso em 02/10/2020.
+* DevMedia: Patterns - Factory Method <https://www.devmedia.com.br/patterns-factory-method/18954>. Último acesso em 06/10/2020.
+* Geeks For Geeks: Abstract Factory Pattern <https://www.geeksforgeeks.org/abstract-factory-pattern/>. Último acesso em 06/10/2020.
