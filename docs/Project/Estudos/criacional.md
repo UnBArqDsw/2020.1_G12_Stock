@@ -27,15 +27,23 @@ Esse método funciona como uma fébrica, oferecendo um modo de encapsular as ins
 
 ![factoryMethod](../../assets/img/estudo/gof-criacional/factoryMethod.png)
 
+A grande vantagem deste padrão é a possibilidade de especialização posterior a criação do objeto e muito além disso, permissão para que essa especialização possa ser alterada como é possível visualizar no diagrama a seguir.
+
+![Diagrama de Esquemas: Factory Method](../../assets/img/estudo/gof-criacional/diagrama_de_esquemas_factory_method.png)
+
+Ao instanciar um objeto da classe JogadorFutebol, ainda que de forma inocente, estaríamos criando uma dependência concreta e de difícil remoção. Utilizando uma classe FactoryMethod é possível modificar um objeto da classe JogadorFutebol para que seja objeto da classe JogadorTenis, por exemplo. Essa arquitetura determina a responsabilidade por criar determinados objetos o que reduz o acoplamento e nos direciona a utilização do princípio da responsabilidade única. No exemplo, é criado um esportista e este pode praticar qualquer tipo de esporte sem dependência específica de sua classe.
+
 ### Pontos Positivos
 
 - Seu principal ponto positivo é o desligamento da implementação do produto de seu uso. Se você alterar a implementação de um produto, não irá afetar sua Creator, pois a Creator não está fortemente ligada a nenhuma ConcreteProduct.
 - Elimina a necessidade de montar um código em função a uma classe específica. No nosso exemplo de aplicação, o código só lida com uma interface chamada Product.
-- Esse padrão de projeto dá maior flexibilidade para as classes, pois criar um objeto em uma classe que utiliza o Factory Method é melhor que fazê-lo em separado, funcionando, assim, como uma conexão para que uma das subclasses forneça uma versão estendida de um objeto.
+- Esse padrão de projeto dá maior flexibilidade para as classes, pois cria um objeto em uma classe que utiliza o Factory Method é melhor que fazê-lo em separado, funcionando, assim, como uma conexão para que uma das subclasses forneça uma versão estendida de um objeto.
+- Possibilidade de alteração da classe que implementa um objeto para um outro que faz parte da mesma generalização. No nosso contexto, seria possível alterar a classe que implementa um usuário. Um hora ele poderia ser Owner, em outro momento Admin e ainda Seller. 
+
 
 ### Pontos Negativos
 
-- Especializar uma classe apenas para instanciar um objeto de uma subclasse de outra superclasse pode se revelar bastante improdutiva.
+- Especializar uma classe apenas para instanciar um objeto de uma subclasse de outra superclasse pode se revelar bastante improdutivo.
 
 ### É possível adaptar a nossa forma de organização de projeto com esse padrão?
 
@@ -64,8 +72,12 @@ Os participantes nesse diagrama são:
 
 * Geralmente os métodos de uma Abstract Factory são implementados como métodos factory. O trabalho de uma Abstract Factory é **definir uma interface para criar um conjunto de produtos**. Cada método nessa interface é responsável pela criação de um produto concreto, e é implementado uma subclasse responsável da Abstract Factory para fornecer essas implementações.
 
+Pode-ser considerar o Abstract Method uma camada extra de abstração do Factory Method. Utilizando o mesmo exemplo da classe JogadorFutebol, imagine que é também de nosso interesse saber o time em que esse jogador joga por meio de classes Flamengo ou Juventus, por exemplo. Jogadores mudam de time constantemente e este fato não os diferencia ao serem selecionados para preencher a seleção de um país. Sendo assim, um seleção de todos os jogadores instanciados deve ser formada por jogadores de todos os times cadastrados. No entanto, no momento que o nosso interesse é por jogadores de determinado time, essa formação também deve ser possível.
+
+De forma geral este padrão abstrai determinadas classes específicas sem desconsiderá-las. Essas classes existem e estão disponíveis para uso caso necessário.
+
 ### Pontos Positivos
-* Além dos pontos positivos da Factory Method, sua principal vantagem é a criação de famílias, de conjunto de produtos por meio de uma hierarquia.
+- Além dos pontos positivos da Factory Method, sua principal vantagem é a criação de famílias, de conjunto de produtos por meio de uma hierarquia.
 
 ### Pontos Negativos
 
@@ -83,3 +95,5 @@ Principalmente o Diagrama de Classes, pois as relações e interfaces teriam a l
 - Livro: Use a Cabeça! Padrões de Projetos - **Elisabeth Freeman, Eric Freeman**, Editora Alta Books, Ano 2007 2ª Edição
 * Introdução aos padrões criacionais:<https://www.devmedia.com.br/introducao-aos-padroes-criacionais-abstract-factory-factory-method-prototype-e-singleton/21249>. Último acesso em 02/10/2020.
 * Vídeo aulas da professora Milene (acesso restrito para os alunos da disciplina). Último acesso em 02/10/2020.
+* DevMedia: Patterns - Factory Method <https://www.devmedia.com.br/patterns-factory-method/18954>. Último acesso em 06/10/2020.
+* Geeks For Geeks: Abstract Factory Pattern <https://www.geeksforgeeks.org/abstract-factory-pattern/>. Último acesso em 06/10/2020.
