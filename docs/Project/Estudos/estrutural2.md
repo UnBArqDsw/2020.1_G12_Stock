@@ -1,1 +1,0 @@
-# Estudo Dirigido - GoF Estrutural 2
