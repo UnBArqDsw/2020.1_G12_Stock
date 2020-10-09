@@ -1,6 +1,6 @@
 # Estudo Dirigido - GRASP
 
-Um pattern nada mais é do que um conjunto de recomendações voltadas à resolução de uma necessidade específica e, por vezes, recorrente na área de desenvolvimento. Isso significa que um padrão não está ligado a uma determinada tecnologia, mas sim que procura fornecer um modelo já testado anteriormente  para um cenário bem definido.
+Um pattern nada mais é do que um conjunto de recomendações voltadas à resolução de uma necessidade específica e, por vezes, recorrente na área de desenvolvimento.
 
 GRASP significa Padrões de Software para Atribuição de Responsabilidade Geral e consiste em diretrizes para atribuir responsabilidade a classes e objetos em projeto orientado a objetos.
 
