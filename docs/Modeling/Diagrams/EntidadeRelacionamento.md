@@ -12,6 +12,8 @@ O Modelo Entidade Relacionamento tem por finalidade modelar todo o banco de dado
 | 25/09/2020 | 1.3 | Atualização dos diagramas | Pedro Igor |
 | 26/09/2020 | 1.4 | Linkagem de léxicos | Pedro Igor |
 | 06/10/2020 | 1.5 | Atualização e correção dos diagramas | Gabriel Alves |
+| 09/10/2020 | 1.6 | Adicionando observação da implementação do script físico com sequelize | Pedro Igor |
+
 ## Modelo Entidade Relacionamento (MER)
 
 ### Entidades
@@ -145,6 +147,8 @@ Um COLLABORATOR por ter um e somente um ACESS_LEVEL e um ACESS_LEVEL pode ter ne
 
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/bancoDados/Dicionario_de_Dados.pdf" target="_black">Arquivo em PDF</a>
 
+
+Obs: Vale lembrar que na modelagem da base de dados não é permitida a utilização de plural nas relações. Já na definição de tabelas do sequelize é obrigatória a utilização de plural. Então, por mais que esta documentação mencione o nome de entidades e relacionamentos no singular, no script físico gerado pelas migrations apenas o nome da tabela é colocado no plural mantendo os atributos da forma como foram modelados.
 
 ## Referências 
 - Software para Diagramação do Modelo Entidade Relacionamento - brModelo <http://www.sis4.com/brModelo/>. Último acesso em 25/09/2020 
