@@ -1,5 +1,7 @@
 # Estudo Dirigido - GRASP
 
+Um pattern nada mais é do que um conjunto de recomendações voltadas à resolução de uma necessidade específica e, por vezes, recorrente na área de desenvolvimento. Isso significa que um padrão não está ligado a uma determinada tecnologia, mas sim que procura fornecer um modelo já testado anteriormente  para um cenário bem definido.
+
 GRASP significa Padrões de Software para Atribuição de Responsabilidade Geral e consiste em diretrizes para atribuir responsabilidade a classes e objetos em projeto orientado a objetos.
 
 ## Histórico de Revisões
@@ -10,6 +12,22 @@ GRASP significa Padrões de Software para Atribuição de Responsabilidade Geral
 | 02/10/2020 | 1.1 | Criação do documento | Sofia Patrocínio |
 | 02/10/2020 | 1.2 | Adição das explicações dos padrões | Sofia Patrocínio |
 | 03/10/2020 | 1.3 | Adição dos pontos positivos e negativos e documentos para refatoração | Sofia Patrocínio |
+| 10/10/2020 | 1.4 | Adição do tópico de GRASP e responsabilidade | Micaella Gouveia |
+
+## GRASP e o conceito de Responsabilidade
+Os padrões GRASP são formados por princípios/padrões que servem de base para a atribuição de responsabilidades em um projeto orientado a objetos. O conceito de responsabilidade deve ser compreendido, basicamente, como as obrigações que um objeto possui quando se leva em conta o seu papel dentro de um determinado contexto. Além disso, é preciso considerar ainda as prováveis colaborações (interações) entre diferentes objetos. A implementação de soluções OO considerando os conceitos de responsabilidade, papéis e colaborações fazem parte de uma abordagem conhecida como Responsibility-Driven Design (RDD).
+
+Para se definirem as responsabilidades de um objeto, leva-se em conta o que ele irá fazer:
+* Execução de ações que condizem com o papel desempenhado pelo tal objeto.
+* Criação de outros objetos dos quais o tal objeto inicial depende.
+* Coordenação de atividades envolvendo outros objetos.
+
+Para se definirem as responsabilidades de um objeto, leva-se em conta o que ele irá saber:
+* Conhecimento a respeito de objetos relacionados.
+* Conhecimento dos dados privados que o tal objeto encapsula.
+* COnhecimento sobre o que será calculado a partir de um elemento principal.
+
+
 
 ## Criador ou Creator
 
@@ -208,3 +226,5 @@ Sim, diagramas de classe, de sequência e comunicação e de entidades de banco 
 - Apresentação: GRASP: Designing Objetos com Responsabilidades  - MC 426 IC Unicamp – M. Cecilia C. Baranauskas - <https://www.ic.unicamp.br/~ariadne/mc436/1s2017/Lar16GRASP.pdf>. Último acesso em 02/10/2020.
 
 - Apresentação: Padrões GRASP - <http://www.facom.ufu.br/~bacala/ESOF/05a-Padr%C3%B5es%20GRASP.pdf>. Último acesso em 03/10/2020.
+
+- Desenvolvimento comq qualidade com GRASP: <https://www.devmedia.com.br/desenvolvimento-com-qualidade-com-grasp/28704>. Último acesso em 10/10/2020.
