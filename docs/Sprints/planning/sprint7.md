@@ -1,37 +1,33 @@
-# Planejamento Sprint 6
+# Planejamento Sprint 7
 
-**Período: 04/10/2020 a 10/10/2020**<br>
-**Data da Reunião: 03/10/2020**
+**Período: 11/10/2020 a 17/10/2020**<br>
+**Data da Reunião: 10/10/2020**
 
 ## Issues
 
 | Número | [Issue](Modeling/objeto?id=Issue) | Pontuação | Participantes |
 |--------|-----------------------------------|-----------|---------------|
-| [**#116**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/116) | [Estudo - GoF Estrutural 2](Project/Estudos/estrutural2.md) | 3 | Gabriel Davi |
-| [**#119**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/119) | Documento de escolha das tecnologias | 3 | Gabriel Alves | 
-| [**#129**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/129) | Refatoração dos Diagramas | - | Micaella Gouveia e Sofia Patrocínio |
-| [**#130**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/130) | Configuração do Sequelize | 8 | Gabriel Davi e Pedro Igor |
-| [**#131**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/131) | Adição do Dicionário de Dados | 8 | Gabriel Alves |
-| [**#132**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/132) | [Estudo - GRASP (Evolução)](Project/Estudos/GRASP.md) | 3 | Micaella Gouveia |
-| [**#133**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/133) | [Estudo - GoF Criacional  (Evolução)](Project/Estudos/criacional.md) | 3 | Pedro Igor |
-| [**#134**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/134) | [Estudo - GoF Estrutural 1 (Evolução)](Project/Estudos/estrutural1.md) | 3 | Gabriel Alves |
-| [**#135**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/135) | [Estudo - GoF Comportamental (Evolução)](Project/Estudos/comportamental.md) | 3 | Sofia Patrocínio |
-| [**#136**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/136) | Exemplificação do Padrão de Projeto | 5 | Todos |
+| [**#129**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/129) | Refatoração dos Diagramas com base nos Padrões de Projeto | 8 | Micaella Gouveia e Sofia Patrocínio |
+| - | Refatorar Diagramas com base no Feedback da professora | 5 | Todos |
+| - | Refatorar Diagrama Entidade e Relacionamento | 3 | Gabriel Alves e Pedro Igor |
+| - | Implementar Hierarquia de Usuários com base no Factory Method | 8 | Micaella Gouveia e Sofia Patrocínio |
+| - | Implementar Classificação de Produtos (perecível e não perecível) com base no Factory Method | 8 | Gabriel Alves e Pedro Igor |
+| - | Implementar Classe Base para implementação do Decorator (com métodos cadastrar, listar e remover) | 8 | Gabriel Davi |
 
 
 
-## Pontuação: 39 + ?
+## Pontuação: 
 ## Quadro de Distribuição de Pontos
 
 Este quadro divide a pontuação das [issues](Modeling/objeto?id=Issue) com a quantidade de participantes, para ter a noção da distribuição de pontos por pessoa, evitando a sobrecarga de tarefas para algum membro.
 
 | Participante | Distribuição por Pontuação de [Issue](Modeling/objeto?id=Issue) e Partipantes | Pontuação Média |
 |--------------|-------------------------------------------------------------------------------|-----------------|
-| Gabriel Alves | 8 + 1 + 3 | 12 |
-| Gabriel Davi | 3 + 4 + 1 | 8 |
-| Micaella Gouveia | 1 + 3 + ? | 4 + ? |
-| Pedro Igor | 4 + 1 + 3 | 8 |
-| Sofia Patrocínio | 1 + 3 + ? | 4 + ? |
+| Gabriel Alves | 1.5 + 4 + 1 | 7 |
+| Gabriel Davi | 8 + 1 | 9 |
+| Micaella Gouveia | 4 + 4 + 1 | 9 |
+| Pedro Igor | 1.5 + 4 + 1 | 7 |
+| Sofia Patrocínio | 4 + 4 + 1 | 9 |
 
 ## Data de Entrega para Issues
 
@@ -40,24 +36,23 @@ Nesta Sprint, alguns documentos são pré-requisitos de outros, sendo necessári
 
 | Número | [Issue](Modeling/objeto?id=Issue) | Data de Entrega |
 |--------|-----------------------------------|-----------------|
-| [**#135**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/117) | Exemplificação do Padrão de Projeto | Segunda-feira<br>(05/10/2020 |
-| [**#130**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/130) | Adição do Dicionário de Dados | Terça-feira<br>(06/10/2020) |
+| - | | 17/10/2020 |
 
 
 ## Relato
-* Nesta reunião, o cada membro do grupo falou um pouco sobre os padrões que projeto que estudou, mostrando quais padrões poderiam ser encaixar ao projeto. Decidimos então conversar com a professora Milene na segunda sobre esses padrões e como eles podem servir no projeto, e para isso, cada membro deve elaborar um exemplo de como o padrão escolhido se encaixa na situação escolhida. Essa divisão ficou da seguinta forma:
+* Nesta reunião, cada membro do grupo falou um pouco sobre os padrões que projeto que estudou, fizemos uma rotação nos estudos e evoluimos o documento de [Estudo Dirigido](Project/EstudoDirigido.md).
 
-| Padrão de Projeto | Descrição | Onde se aplica | Responsável |
-|-------------------|-----------|----------------|-------------|
-| GRASP | Criador, Especialista, Controller | Hierarquia de Usuários | Sofia Patrocínio |
-| GRASP | Polimorfismo, Indireção | Hierarquia de Usuários | Gabriel Davi |
-| GoF Criacional | Factory Method | Tipos de Produtos | Micaella Gouveia |
-| GoF Estrutural | Adapter | Gráficos | Pedro Igor |
-| GoF Comportamental | State | Estoque | Gabriel Alves |
+* Tivemos atraso para validarmos nossas ideias e essa issue virou dívida técnica.
+
+| Padrão de Projeto | Descrição | Onde se aplica | 
+|-------------------|-----------|----------------|
+| GRASP | Controller | Toda aplicação | 
+| GoF Criacional | Factory Method | Hierarquia de Usuários, Validade |
+| GoF Estrutural | Adapter | Gráficos, Planilha | 
+| GoF Comportamental | State | Estoque | 
+| GoF Estrutural | Decorator | Análise |
 
 * Assim que validarmos nossas ideias com a professora, partiremos para a fase de refatoração dos diagramas, por isso ela ainda não possui pontuação, pois não sabemos ao certo o quanto essa refatoração vai ser trabalhosa. Sua pontuação será definida na segunda após reunião com a professora Milene.
-
-* Fizemos uma rotação nos estudos, para que todos os membros consigam ter contato com todos os tipos de Padrões de Projeto. Para este caso, todos os membros têm liberdade para evoluir o documento de [Estudo Dirigido](Project/EstudoDirigido.md).
 
 | Padrão de Projeto | Detalhes | Responsável |
 |--------|----------|-------------|
