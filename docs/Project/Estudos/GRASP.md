@@ -25,7 +25,7 @@ Para se definirem as responsabilidades de um objeto, leva-se em conta o que ele 
 Para se definirem as responsabilidades de um objeto, leva-se em conta o que ele irá saber:
 * Conhecimento a respeito de objetos relacionados.
 * Conhecimento dos dados privados que o tal objeto encapsula.
-* COnhecimento sobre o que será calculado a partir de um elemento principal.
+* Conhecimento sobre o que será calculado a partir de um elemento principal.
 
 
 
@@ -227,4 +227,4 @@ Sim, diagramas de classe, de sequência e comunicação e de entidades de banco 
 
 - Apresentação: Padrões GRASP - <http://www.facom.ufu.br/~bacala/ESOF/05a-Padr%C3%B5es%20GRASP.pdf>. Último acesso em 03/10/2020.
 
-- Desenvolvimento comq qualidade com GRASP: <https://www.devmedia.com.br/desenvolvimento-com-qualidade-com-grasp/28704>. Último acesso em 10/10/2020.
+- Desenvolvimento com qualidade com GRASP: <https://www.devmedia.com.br/desenvolvimento-com-qualidade-com-grasp/28704>. Último acesso em 10/10/2020.
