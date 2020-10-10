@@ -15,9 +15,12 @@ O padrão GoF Comportamental resumidamente atua sobre qual o comportamento das e
 | 02/10/2020 | 1.0 | Criação do documento | Gabriel Alves |
 
 ## Strategy
-Em situações rotineiras no desenvolvimento de software, ocorre ocasiões onde se vê necessário uma gama de soluções/algoritmos para um problema específico, como por exemplo, uma ordenação. Existem diversos algoritmos de ordenação e cada um atua de forma otimizada para um contexto específico no software. Com isso, é necessário permitir de maneira simples a variação dos algoritmos utilizados na resolução de um problema específico.
+
+Permite que você defina uma família de algoritmos, coloque-os em classes separadas, e faça os objetos deles intercambiáveis. Em situações rotineiras no desenvolvimento de software, ocorre ocasiões onde se vê necessário uma gama de soluções/algoritmos para um problema específico, como por exemplo, uma ordenação. Existem diversos algoritmos de ordenação e cada um atua de forma otimizada para um contexto específico no software. Com isso, é necessário permitir de maneira simples a variação dos algoritmos utilizados na resolução de um problema específico.
 
 Esse padrão é facilmente implementado utilizando as classes abstratas e/ou interfaces da programação orientada a objetos. O contexto relaciona-se com a parte mais abstrata, onde ainda não se sabe o como deve ser feito, apenas com quem. Dessa forma, cabe a camada mais concreta a implementação do método em sí, fornecendo uma escalabilidade maior ao software, onde novas soluções para aquele contexto são facilmente acopladas ao sistema.
+
+O Strategy geralmente descreve diferentes maneiras de fazer a mesma coisa, permitindo que você troque esses algoritmos dentro de uma única classe contexto. Ele trabalha a nível de objeto, permitindo que você troque os comportamentos durante a execução.
 
 Segue um exemplo de um diagrama de classes, aplicado esse padrão. No contexto de uma compra em site de e-commerce.
 
@@ -31,14 +34,15 @@ Segue um exemplo de um diagrama de classes, aplicado esse padrão. No contexto d
 - Vários níveis de abstração, pode se fazer necessário em determinado contexto, porém isso poderá impactar significativamente na performance da aplicação.
 
 ### É possível adaptar a nossa forma de organização de projeto com esse padrão?
-Sim, porém tem que avaliar quais serão as **strategys** e quantas camadas de abstração cada uma terá, pois impactará no desempenho do sistema.
+Sim, porém tem que avaliar quais serão as **strategies** e quantas camadas de abstração cada uma terá, pois impactará no desempenho do sistema.
 
 ### Quais documentos necessitam de refatoração para implementação deste padrão?
 Principalmente Diagrama de Classes e o Projeto de Banco de Dados.
 
 
 ## Template Method
-O **Template Method** foi pensado sobre uma ótica de processos, onde as etapas desse processo definem o coração desse padrão. Com isso, é definido os passos de maneira imutável, pois independentes de como eles serão implementados sempre ocorrerão na mesma ordem.<br>
+
+Define o esqueleto de um algoritmo na superclasse mas deixa as subclasses sobrescreverem etapas específicas do algoritmo sem modificar sua estrutura. O **Template Method** foi pensado sobre uma ótica de processos, onde as etapas desse processo definem o coração desse padrão. Com isso, é definido os passos de maneira imutável, pois independentes de como eles serão implementados sempre ocorrerão na mesma ordem.<br>
 Para cada tipo de situação a formas diferentes de se resolver, porém cada uma delas obedece a mesma ordem das etapas.<br>
 Os participantes do **Template Method** são as classes abstratas, onde simbolizam os processos e definem qual será a ordem de cada etapa. E as classes concretas, onde irão implementar como farão cada etapa.
 
@@ -71,6 +75,47 @@ Pegando o exemplo do próprio Stock, o contexto seria a entrada e saída dos pro
 
 ### É possível adaptar a nossa forma de organização de projeto com esse padrão?
 Sim, perfeitamente aplicável ao nosso projeto.
+
+### Quais documentos necessitam de refatoração para implementação deste padrão?
+Diagrama de classes.
+
+## Demais (Visitor)
+O Visitor é um padrão de projeto comportamental que permite que você separe algoritmos dos objetos nos quais eles operam. O padrão Visitor sugere que você coloque o novo comportamento em uma classe separada chamada visitante, ao invés de tentar integrá-lo em classes já existentes. O objeto original que teve que fazer o comportamento é agora passado para um dos métodos da visitante como um argumento, desde que o método acesse todos os dados necessários contidos dentro do objeto.
+
+![Visitor](../../assets/img/estudo/gof-comportamental/visitor.png)
+
+- Visitor (AbstractVisitor)
+    - Declara uma operação de visita para cada classe de ElementoConcreto na estrutura de objetos
+        - O nome da operação identifica a classe que está chamando o Visitor (ex. visitBreaker())
+        - Desta forma, o Visitor sabe a classe concreta do elemento sendo visitado e pode acessar este objeto por sua interface
+
+- ConcreteVisitor (AuditVisitor)
+    - Implementa cada operação declarada pelo Visitor. Cada operação implementa uma fragmento do algoritmo definido para a classe correspondente de objetos na estrutura
+    - O ConcreteVisitor pode acumular estado durante a varredura da estrutura de objetos
+
+- Element (Element)
+    - Define uma operação accept() que recebe um Visitor 
+
+- ConcreteElement (Breaker)
+    - Implementa uma operação accept() que recebe um Visitor e chama a operação de visita apropriada deste Visitor
+        - Exemplo: visitBreaker()
+
+- Object Structure
+    - Pode enumerar seus elementos
+    - Pode prover uma interface de mais alto nível para que o Visitor visite os elementos
+    - É frequentemente um Composite mas pode ser uma coleção simples 
+
+### Pontos Positivos
+- Visitor permite adicionar novas operações com facilidade
+- Princípio de responsabilidade única. Você pode mover múltiplas versões do mesmo comportamento para dentro da mesma classe.
+- Princípio aberto/fechado. Você pode introduzir um novo comportamento que pode funcionar com objetos de diferentes classes sem mudar essas classes.
+
+### Pontos Negativos
+- Você precisa atualizar todos os visitantes a cada vez que a classe é adicionada ou removida da hierarquia de elementos.
+- Visitantes podem não ter seu acesso permitido para campos e métodos privados dos elementos que eles deveriam estar trabalhando.
+
+### É possível adaptar a nossa forma de organização de projeto com esse padrão?
+Sim, caso precisemos fazer uma operação em todos os elementos de uma estrutura de objetos complexo.
 
 ### Quais documentos necessitam de refatoração para implementação deste padrão?
 Diagrama de classes.
