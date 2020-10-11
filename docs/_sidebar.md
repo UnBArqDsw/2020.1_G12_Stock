@@ -14,6 +14,7 @@
   - [Sprints](Index/sprintsIndex.md)
   - [OmniStock](Project/Omnistock.md)
   - [Estudo Dirigido](Project/EstudoDirigido.md)
+  - [Exemplificação dos Padrões de Projeto](Project/ExemplificacaoPadroesDeProjeto.md)
 - **Base**
   - **Design Sprint**
     - [Metodologia](DesignSprint/DesignSprint.md)
