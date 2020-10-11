@@ -26,6 +26,12 @@
 ## Quadro de Conhecimento
 ![quadro 6](../../assets/img/Sprints/metricas/quadroS6.png)
 
+## Burndown
+![burndown 6](../../assets/img/Sprints/metricas/burndownS6.png)
+
+## Velocity
+![velocity 6](../../assets/img/Sprints/metricas/velocityS6.png)
+
 ## Observações
 * O time sentiu grande dificuldade durante a Sprint devido a semana apertada e as mudanças climáticas.
 * O time, durante a reunião, debateu sobre os Padrões de Projeto estudados, tentando alinhar todos os membros com cada padrão, melhorando o quadro de conhecimento sobre Padrões de Projeto.
