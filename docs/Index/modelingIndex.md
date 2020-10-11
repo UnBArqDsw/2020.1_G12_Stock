@@ -28,4 +28,4 @@
   - [Dia 4 - Diagrama de Sequência e Diagrama de Comunicação](Modeling/Diagrams/dias/dia4.md) 
 
  - **Descrição Arquitetural**
-  - [Descrição Arquitetural](../Modeling/DescricaoArquitetural.md)
+  - [Descrição Arquitetural](Modeling/DescricaoArquitetural.md)

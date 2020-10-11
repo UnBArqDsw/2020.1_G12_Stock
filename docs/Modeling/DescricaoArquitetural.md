@@ -21,6 +21,8 @@ As tecnologias escolhidas foram NodeJS e React, pois atendiam as necessidades me
 ## Tecnologias
 
 ### Back End
+**Sequelize** é um ORM (Object Relational Mapper), que é uma técnica de mapeamento relacional que permite fazer uma relação dos objetos com os dados que os mesmos representam. O Sequelize é um ORM para Node e no nosso projeto será utilizado manipulando o banco de dados PostgreSQL.
+
 **NodeJS** "Ambiente de execução Javascript server-side" (LENON, 2018)
 Um grande motivo de sucesso do Node é o seu grande potencial de escalabilidade. Além do fato de usar uma das linguagens mais utilizadas no mundo, o JavaScript.
 
@@ -37,3 +39,7 @@ Um grande motivo de sucesso do Node é o seu grande potencial de escalabilidade.
 - Descrição Arquitetural: <https://unbarqdsw.github.io/2020.1_G11_SYA/#/modelagem/descricao_arquitetural> Último acesso em: 09/10/2020.
 
 - Escreva documentos de decisão de arquitetura em projetos de software: <https://gustavohenrique.net/2018/02/escreva-documentos-de-decisao-de-arquitetura-em-projetos-de-software/> Último acesso em: 09/10/2020.
+
+- Configurando o ORM Sequelize no NodeJS com ExpressJS: <https://blog.rocketseat.com.br/nodejs-express-sequelize/#:~:text=O%20Sequelize%20%C3%A9%20um%20ORM,e%20linhas)%20para%20objetos%20Javascript.> Último acesso em: 09/10/2020.
+
+- ORM : Object Relational Mapper: <https://www.devmedia.com.br/orm-object-relational-mapper/19056> Último acesso em: 09/10/2020.
