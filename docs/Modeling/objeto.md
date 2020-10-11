@@ -12,6 +12,7 @@
 | 15/09/2020 | 1.5 | Adição de novos léxicos. | Gabriel Davi |
 | 15/09/2020 | 1.6 | Adição e linkagem de mais um léxico. | Pedro Igor |
 | 19/09/2020 | 1.7 | Léxicos de requisitos não funcionais e funcionais | Gabriel Davi |
+| 19/09/2020 | 1.8 | Adição dos léxicos de sequelize e orm | Gabriel Davi |
 
 
 ### PWA
@@ -161,3 +162,15 @@
 | Noção | Impacto | Sinônimos |
 |:-----:|:-------:|:---------:|
 | Tempo que os [produtos](Modeling/objeto?id=Produto) podem ser armazenados mantendo sua qualidade aceitável. | A validade do [produto](Modeling/objeto?id=Produto) está acabando. | Serventia do [produto](Modeling/objeto?id=Produto), vida útil do [produto](Modeling/objeto?id=Produto), validade do [produto](Modeling/objeto?id=Produto), prazo de vencimento. |
+
+### Orm 
+
+| Noção | Impacto | Sinônimos |
+|:-----:|:-------:|:---------:|
+| Orm significa Object-relational mapping. Isso nada mais é que alguma biblioteca que reduz necessidade da manipulação direta da linguagem de banco de dados em uma [aplicação](Modeling/objeto?id=Web-App). | Os [desenvolvedores](Modeling/objeto?id=Desenvolvedor) utilizam orm para fazer as consultas em banco de dados. | - |
+
+
+### Sequelize
+| Noção | Impacto | Sinônimos |
+|:-----:|:-------:|:---------:|
+| Sequelize é uma [ORM](Modeling/objeto?id=Orm) com base na linguagem javascript. | Os [desenvolvedores](Modeling/objeto?id=Desenvolvedor) podem utilizar o sequelize para fazer as consultas em banco de dados. | - |
