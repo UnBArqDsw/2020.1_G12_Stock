@@ -24,3 +24,7 @@ O Controller se trata de atribuir a responsabilidade de receber ou tratar uma me
 
 ## Utilizar o state para definição do estado do estoque
 O objetivo principal é o [controle de estoque](Modeling/verbo?id=controle-de-estoque) e esse controle tem todo um contexto de [entrada e saída](Modeling/verbo?id=fluxo) de [produtos](Modeling/objeto.md?id=Produto), com regras diferentes de [saída](Modeling/verbo?id=baixa-em-produto). É de suma importância para o usuário saber o estado de desse [estoque](Modeling/objeto.md?id=estoque) como por exemplo, cheio, metade, estado crítico e vazio. Acreditamos que o GoF State consegue atender essa necessidade.
+
+## Utilizar o decorator para as ações principais de Crud. 
+
+Aqui, o objetivo é criar uma nova camada para os métodos principais que o [Sequelize](Modeling/objeto?id=Sequelize) oferece como findAll, findOne, create e assim por diante para utilização pelas controllers, porém cada uma irá alterar o comportamento de acordo com sua necessidade. Para isso, utilizaremos o método decorator, onde o decorator base irá implementar os métods do [Sequelize](Modeling/objeto?id=Sequelize) e assim cada controller poderá herdar desse decorator base. 
