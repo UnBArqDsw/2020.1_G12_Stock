@@ -8,10 +8,10 @@
 | Número | [Issue](Modeling/objeto?id=Issue) | Pontuação | Participantes |
 |--------|-----------------------------------|-----------|---------------|
 | [**#116**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/116) | [Estudo - GoF Estrutural 2](Project/Estudos/estrutural2.md) | 3 | Gabriel Davi |
-| [**#119**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/119) | Documento de escolha das tecnologias | 3 | Gabriel Alves | 
+| [**#119**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/119) | [Documento de escolha das tecnologias](Modeling/DescricaoArquitetural) | 3 | Gabriel Alves | 
 | [**#129**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/129) | Refatoração dos Diagramas | - | Micaella Gouveia e Sofia Patrocínio |
 | [**#130**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/130) | Configuração do Sequelize | 8 | Gabriel Davi e Pedro Igor |
-| [**#131**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/131) | Adição do Dicionário de Dados | 8 | Gabriel Alves |
+| [**#131**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/131) | [Adição do Dicionário de Dados](Modeling/Diagrams/EntidadeRelacionamento?id=dicionário-de-dados) | 8 | Gabriel Alves |
 | [**#132**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/132) | [Estudo - GRASP (Evolução)](Project/Estudos/GRASP.md) | 3 | Micaella Gouveia |
 | [**#133**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/133) | [Estudo - GoF Criacional  (Evolução)](Project/Estudos/criacional.md) | 3 | Pedro Igor |
 | [**#134**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/134) | [Estudo - GoF Estrutural 1 (Evolução)](Project/Estudos/estrutural1.md) | 3 | Gabriel Alves |
