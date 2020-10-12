@@ -13,7 +13,6 @@
 <<<<<<< HEAD
 | [**#130**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/130) | Configuração do Sequelize | 8 | Gabriel Davi e Pedro Igor |
 | [**#131**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/131) | [Adição do Dicionário de Dados](Modeling/Diagrams/EntidadeRelacionamento?id=dicionário-de-dados) | 8 | Gabriel Alves |
-=======
 | [**#130**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/130) | Configuração do [Sequelize](Modeling/objeto?id=Sequelize) | 8 | Gabriel Davi e Pedro Igor |
 | [**#131**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/131) | Adição do Dicionário de Dados | 8 | Gabriel Alves |
 | [**#132**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/132) | [Estudo - GRASP (Evolução)](Project/Estudos/GRASP.md) | 3 | Micaella Gouveia |
