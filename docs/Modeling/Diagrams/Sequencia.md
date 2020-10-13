@@ -32,14 +32,15 @@ Representar ação:
 | 25/09/2020 | 1.1 | Criação das relações entre classes | Gabriel Davi, Micaella Gouveia, Pedro Igor e Sofia Patrocínio |
 | 28/09/2020 | 1.2 | Criação dos diagramas | Sofia Patrocínio |
 | 28/09/2020 | 1.3 | Adição dos áudios e linkagem dos léxicos | Sofia Patrocínio |
+| 12/10/2020 | 1.4 | Melhorias diagramas de acordo com feedback da professora | Sofia Patrocínio |
 
 ## Realização
 O diagrama foi produzido pelo [LucidChart](https://www.lucidchart.com/). Nele há quadro, objetos, linhas de vida e setas na direção da comunicação, bem como mensagens trocadas.
 
-## Diagramas
+## Diagramas V1
 
 * **Criação de Colaborador**
-![createCollaborator](../../assets/diagramas/sequencia/CreateCollaborator.png)
+![createCollaborator](../../assets/diagramas/sequencia/CreateCollaboratorV1.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequencia/CreateCollaborator.pdf">Arquivo em PDF</a>
 
 <audio controls>
@@ -47,7 +48,7 @@ O diagrama foi produzido pelo [LucidChart](https://www.lucidchart.com/). Nele h�
 </audio>
 
 * **Criação de [Administradores](Modeling/objeto?id=Admin)**
-![createAdmin](../../assets/diagramas/sequencia/CreateAdmin.png)
+![createAdmin](../../assets/diagramas/sequencia/CreateAdminV1.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequencia/CreateAdmin.pdf">Arquivo em PDF</a>
 
 <audio controls>
@@ -55,7 +56,7 @@ O diagrama foi produzido pelo [LucidChart](https://www.lucidchart.com/). Nele h�
 </audio>
 
 * **[Adição](Modeling/verbo?id=Cadastrar-Produto) de [Produto](Modeling/objeto?id=Produto) ao Estoque**
-![increaseProduct](../../assets/diagramas/sequencia/IncreaseProduct.png)
+![increaseProduct](../../assets/diagramas/sequencia/IncreaseProductV1.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequencia/IncreaseProduct.pdf">Arquivo em PDF</a>
 
 <audio controls>
@@ -63,7 +64,7 @@ O diagrama foi produzido pelo [LucidChart](https://www.lucidchart.com/). Nele h�
 </audio>
 
 * **[Baixa](Modeling/verbo?id=Baixa-em-Produto) de [Produto](Modeling/objeto?id=Produto)**
-![productSale](../../assets/diagramas/sequencia/ProductSale.png)
+![productSale](../../assets/diagramas/sequencia/ProductSaleV1.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequencia/ProductSale.pdf">Arquivo em PDF</a>
 
 <audio controls>
@@ -71,12 +72,29 @@ O diagrama foi produzido pelo [LucidChart](https://www.lucidchart.com/). Nele h�
 </audio>
 
 * **Envio de [Feedback](/Modeling/verbo?id=feedback)**
-![sendFeedback](../../assets/diagramas/sequencia/SendFeedback.png)
+![sendFeedback](../../assets/diagramas/sequencia/SendFeedbackV1.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequencia/SendFeedback.pdf">Arquivo em PDF</a>
 
 <audio controls>
   <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/sequencia/SendFeedback.m4a" type="audio/mpeg">
 </audio>
+
+## Diagramas V0
+
+* **Criação de Colaborador**
+![createCollaborator](../../assets/diagramas/sequencia/CreateCollaborator.png)
+
+* **Criação de [Administradores](Modeling/objeto?id=Admin)**
+![createAdmin](../../assets/diagramas/sequencia/CreateAdmin.png)
+
+* **[Adição](Modeling/verbo?id=Cadastrar-Produto) de [Produto](Modeling/objeto?id=Produto) ao Estoque**
+![increaseProduct](../../assets/diagramas/sequencia/IncreaseProduct.png)
+
+* **[Baixa](Modeling/verbo?id=Baixa-em-Produto) de [Produto](Modeling/objeto?id=Produto)**
+![productSale](../../assets/diagramas/sequencia/ProductSale.png)
+
+* **Envio de [Feedback](/Modeling/verbo?id=feedback)**
+![sendFeedback](../../assets/diagramas/sequencia/SendFeedback.png)
 
 
 
