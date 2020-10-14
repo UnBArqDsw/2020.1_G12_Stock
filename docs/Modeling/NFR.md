@@ -3,6 +3,7 @@
 O framework NFR foi proposto em 1992 e desenvolvido pelo Dr.Lawrence Chung, em 1999. Em suas palavras o NFR é "uma abordagem orientada a
 processos, onde os requisitos não-funcionais são explicitamente representados como metas a serem obtidas" [CHUNG, 1995].
 É utilizado o modelo SIG (Softgoal Interdependency Graph), que descrevem as dependências entre os softgoals e como eles são decompostos.
+Para o projeto, o diagrama foi útil para especificações de requisitos não funcionais já elicitados assim como requisitos semelhantes. Ao descer até o nível de operacionalização é possível observar atividades práticas que serão/estão sendo realizadas para que os requisitos especificados sejam cumpridos devidamente.
 
 ## Histórico de Revisões
 
@@ -11,6 +12,7 @@ processos, onde os requisitos não-funcionais são explicitamente representados 
 | 22/09/2020 | 1.0 | Criação do documento | Gabriel Alves |
 | 28/09/2020 | 1.0 | Adição das referências e metodologia| Micaella Gouveia e Sofia Patrocínio |
 | 28/09/2020 | 1.1 | Adição do NFR de usabilidade | Pedro Igor |
+| 13/10/2020 | 1.2 | Adição de como a técnica afetou o projeto. | Pedro Igor |
 
 ## Metodologia
 Para a produção do NFR foi utilizado a ferramenta [Draw.io](https://app.diagrams.net/). Ele é composto por:
