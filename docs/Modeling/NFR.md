@@ -13,6 +13,7 @@ Para o projeto, o diagrama foi útil para especificações de requisitos não fu
 | 28/09/2020 | 1.0 | Adição das referências e metodologia| Micaella Gouveia e Sofia Patrocínio |
 | 28/09/2020 | 1.1 | Adição do NFR de usabilidade | Pedro Igor |
 | 13/10/2020 | 1.2 | Adição de como a técnica afetou o projeto. | Pedro Igor |
+| 13/10/2020 | 1.3 | Adição de segunda versão do diagrama com mais um SIG sobre eficiência. | Pedro Igor |
 
 ## Metodologia
 Para a produção do NFR foi utilizado a ferramenta [Draw.io](https://app.diagrams.net/). Ele é composto por:
@@ -23,8 +24,13 @@ Para a produção do NFR foi utilizado a ferramenta [Draw.io](https://app.diagra
 
 
 ## Usabilidade
+### Versão 1
 ![Usabilidade](../assets/img/nfr/NFR_Usabilidade.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/nfr/NFR_Usabilidade.pdf">Arquivo em PDF</a>
+
+### Versão 2
+![NFR](../assets/img/nfr/NFR.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/nfr/NFR.pdf">Arquivo em PDF</a>
 
 
 ## Referências
