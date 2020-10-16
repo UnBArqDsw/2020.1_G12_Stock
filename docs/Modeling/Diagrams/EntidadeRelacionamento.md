@@ -110,40 +110,612 @@ Um COLLABORATOR por ter um e somente um ACESS_LEVEL e um ACESS_LEVEL pode ter ne
 
 ## Dicionário de Dados
 
-**Acess Level**<br>
-![Acess Level](../../assets/img/bancoDados/dicionario/acess_level.png)
-
-**Belongs**<br>
-![Belongs](../../assets/img/bancoDados/dicionario/belongs.png)
-
-**Branch**<br>
-![Branch](../../assets/img/bancoDados/dicionario/branch.png)
-
-**Category**<br>
-![Category](../../assets/img/bancoDados/dicionario/category.png)
-
-**Collaborator**<br>
-![Collaborator](../../assets/img/bancoDados/dicionario/collaborator.png)
-
-**Company**<br>
-![Company](../../assets/img/bancoDados/dicionario/company.png)
-
-**Decreases**<br>
-![Decreases](../../assets/img/bancoDados/dicionario/decreases.png)
-
-**Feedback**<br>
-![Feedback](../../assets/img/bancoDados/dicionario/feedback.png)
-
-**Lot**<br>
-![Lot](../../assets/img/bancoDados/dicionario/lot.png)
-
-**Product**<br>
-![Product](../../assets/img/bancoDados/dicionario/product.png)
-
-**Type Feedback**<br>
-![Type Feedback](../../assets/img/bancoDados/dicionario/type_feedback.png)
-
-
+<table class="waffle" cellspacing="0" cellpadding="0">
+  <tbody>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr" colspan="5" style="text-align: center; font-weight: bold;">Entidade: BRANCH</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr" colspan="5" style="text-align: center; font-weight: bold;">Descrição: Define os dados da branch (ramo) que será cadastrada no
+              Stock.</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr">Atributo</td>
+          <td class="s0" dir="ltr">Propriedades do atributo</td>
+          <td class="s0" dir="ltr">Tipo de dado</td>
+          <td class="s0" dir="ltr">Tamanho</td>
+          <td class="s0" dir="ltr">Descrição</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">idBranch</td>
+          <td class="s1" dir="ltr">chave primária<br>obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Número Identificador da branch</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">name</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">varchar</td>
+          <td class="s1" dir="ltr">255</td>
+          <td class="s1" dir="ltr">Nome da branch</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s2" dir="ltr"></td>
+          <td class="s2" dir="ltr"></td>
+          <td class="s2" dir="ltr"></td>
+          <td class="s2" dir="ltr"></td>
+          <td class="s2" dir="ltr"></td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr" colspan="5" style="text-align: center; font-weight: bold;">Entidade: COMPANY</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr" colspan="5" style="text-align: center; font-weight: bold;">Descrição: Define os dados da company (empresa) que será cadastrada no
+              Stock.</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr">Atributo</td>
+          <td class="s0" dir="ltr">Propriedades do atributo</td>
+          <td class="s0" dir="ltr">Tipo de dado</td>
+          <td class="s0" dir="ltr">Tamanho</td>
+          <td class="s0" dir="ltr">Descrição</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">idCompany</td>
+          <td class="s1" dir="ltr">chave primária</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">número de identificação da empresa</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">document</td>
+          <td class="s1" dir="ltr">chave candidata<br><br>unique</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Número do documento de CNPJ da empresa</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">name</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">varchar</td>
+          <td class="s1" dir="ltr">255</td>
+          <td class="s1" dir="ltr">Nome da empresa</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">telephone</td>
+          <td class="s1" dir="ltr">optativo</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Número de telefone da empresa</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">email</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">varchar</td>
+          <td class="s1" dir="ltr">255</td>
+          <td class="s1" dir="ltr">Email da empresa</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">photo</td>
+          <td class="s1" dir="ltr">optativo</td>
+          <td class="s1" dir="ltr">varchar</td>
+          <td class="s1" dir="ltr">8000</td>
+          <td class="s1" dir="ltr">Logo da empresa</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">maxQtdCollaborator</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Quantidade máxima de colaboradores</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">registerDate</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">date</td>
+          <td class="s1" dir="ltr">-</td>
+          <td class="s1" dir="ltr">Data de registro da empresa</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">idBranch</td>
+          <td class="s1" dir="ltr">chave estrangeira<br><br>obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">número identificador do ramo da empresa</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s2" dir="ltr"></td>
+          <td class="s2" dir="ltr"></td>
+          <td class="s2" dir="ltr"></td>
+          <td class="s2" dir="ltr"></td>
+          <td class="s2" dir="ltr"></td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr" colspan="5" style="text-align: center; font-weight: bold;">Entidade: PRODUCT</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr" colspan="5" style="text-align: center; font-weight: bold;">Descrição: Define os dados do product (produto) que será cadastrado no
+              Stock.</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr">Atributo</td>
+          <td class="s0" dir="ltr">Propriedades do atributo</td>
+          <td class="s0" dir="ltr">Tipo de dado</td>
+          <td class="s0" dir="ltr">Tamanho</td>
+          <td class="s0" dir="ltr">Descrição</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">idProduct</td>
+          <td class="s1" dir="ltr">chave primária<br><br>obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Número identificador do produto</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">idComapany</td>
+          <td class="s1" dir="ltr">chave estrangeira<br><br>obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Número identificador da empresa, que está registrado o produto</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">idCollaborator</td>
+          <td class="s1" dir="ltr">chave estrangeira<br><br>obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Número identificador do colaborador, que registra o produto</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">name</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">varchar</td>
+          <td class="s1" dir="ltr">255</td>
+          <td class="s1" dir="ltr">nome do produto</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">unitQtd</td>
+          <td class="s1" dir="ltr">opcional</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">quantidade unitária do produto (ex: 100ml, 1l, 2kg)</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">unitMeasure</td>
+          <td class="s1" dir="ltr">opcional</td>
+          <td class="s1" dir="ltr">varchar</td>
+          <td class="s1" dir="ltr">255</td>
+          <td class="s1" dir="ltr">unidade de medida (ex: litro, metros, kg)</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">salePrice</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Preço final de venda do produto</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s2" dir="ltr"></td>
+          <td class="s2" dir="ltr"></td>
+          <td class="s2" dir="ltr"></td>
+          <td class="s2" dir="ltr"></td>
+          <td class="s2" dir="ltr"></td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr" colspan="5" style="text-align: center; font-weight: bold;">Entidade: COLLABORATOR</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr" colspan="5" style="text-align: center; font-weight: bold;">Descrição: Define os dados do collaborator (colaborador) que será
+              cadastrado no Stock.</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr">Atributo</td>
+          <td class="s0" dir="ltr">Propriedades do atributo</td>
+          <td class="s0" dir="ltr">Tipo de dado</td>
+          <td class="s0" dir="ltr">Tamanho</td>
+          <td class="s0" dir="ltr">Descrição</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">idCollaborator</td>
+          <td class="s1" dir="ltr">chave primária<br><br>obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Número identificador do colaborador</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">idAcessLevel</td>
+          <td class="s1" dir="ltr">chave estrangeira<br><br>obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Número identificador do nível de acesso do colaborador</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">idCompany</td>
+          <td class="s1" dir="ltr">chave estrangeira<br><br>obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Número identificador da empresa, que está registrado o colaborador</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">name</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">varchar</td>
+          <td class="s1" dir="ltr">255</td>
+          <td class="s1" dir="ltr">nome do colaborador</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">document</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Número do documento de identificação do colaborador</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">photo</td>
+          <td class="s1" dir="ltr">opcional</td>
+          <td class="s1" dir="ltr">varchar</td>
+          <td class="s1" dir="ltr">8000</td>
+          <td class="s1" dir="ltr">Foto do colaborador</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">password</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">varchar</td>
+          <td class="s1" dir="ltr">255</td>
+          <td class="s1" dir="ltr">Senha de acesso do colaborador</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s2" dir="ltr"></td>
+          <td class="s2" dir="ltr"></td>
+          <td class="s2" dir="ltr"></td>
+          <td class="s2" dir="ltr"></td>
+          <td class="s2" dir="ltr"></td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr" colspan="5" style="text-align: center; font-weight: bold;">Entidade: ACESS_LEVEL</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr" colspan="5" style="text-align: center; font-weight: bold;">Descrição: Define os dados do access level (nível de acesso) que será
+              cadastrada no Stock.</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr">Atributo</td>
+          <td class="s0" dir="ltr">Propriedades do atributo</td>
+          <td class="s0" dir="ltr">Tipo de dado</td>
+          <td class="s0" dir="ltr">Tamanho</td>
+          <td class="s0" dir="ltr">Descrição</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">idAcessLevel</td>
+          <td class="s1" dir="ltr">chave primária<br>obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Número Identificador do nível de acesso</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">name</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">varchar</td>
+          <td class="s1" dir="ltr">255</td>
+          <td class="s1" dir="ltr">Nome do nível de acesso</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">description</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">varchar</td>
+          <td class="s1" dir="ltr">1000</td>
+          <td class="s1" dir="ltr">descrição do nível de acesso</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s3"></td>
+          <td class="s4"></td>
+          <td class="s4"></td>
+          <td class="s4"></td>
+          <td class="s4"></td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr" colspan="5" style="text-align: center; font-weight: bold;">Entidade: LOT</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr" colspan="5" style="text-align: center; font-weight: bold;">Descrição: Define os dados do lot (lote) que será cadastrado no Stock.
+          </td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr">Atributo</td>
+          <td class="s0" dir="ltr">Propriedades do atributo</td>
+          <td class="s0" dir="ltr">Tipo de dado</td>
+          <td class="s0" dir="ltr">Tamanho</td>
+          <td class="s0" dir="ltr">Descrição</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">idLot</td>
+          <td class="s1" dir="ltr">chave primária<br>obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Número Identificador do lote</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">idProduct</td>
+          <td class="s1" dir="ltr">chave estrangeira<br><br>obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Número identificador do produto</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">idCollaborator</td>
+          <td class="s1" dir="ltr">chave estrangeira<br><br>obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Número identificador do colaborador que estocou o produto</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">entryDate</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">date</td>
+          <td class="s1" dir="ltr">-</td>
+          <td class="s1" dir="ltr">Data de entrada do produto</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">dueDate</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">date</td>
+          <td class="s1" dir="ltr">-</td>
+          <td class="s1" dir="ltr">Data de validade do produto</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">qtdProdutos</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Quantidade de produtos no estoque</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">description</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">varchar</td>
+          <td class="s1" dir="ltr">255</td>
+          <td class="s1" dir="ltr">Descrição do lote</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">purchasePrice</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Preço de compra do produto</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s5"></td>
+          <td class="s4"></td>
+          <td class="s4"></td>
+          <td class="s4"></td>
+          <td class="s4"></td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr" colspan="5" style="text-align: center; font-weight: bold;">Tabela: decreases</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr" colspan="5" style="text-align: center; font-weight: bold;">Descrição: Tabela resultando do relacionamento n:m de Collaborator com
+              Lot</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr">Atributo</td>
+          <td class="s0" dir="ltr">Propriedades do atributo</td>
+          <td class="s0" dir="ltr">Tipo de dado</td>
+          <td class="s0" dir="ltr">Tamanho</td>
+          <td class="s0" dir="ltr">Descrição</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">idCollaborator</td>
+          <td class="s1" dir="ltr">chave estrangeira<br><br>obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Número Identificador colaborador que efetuou a saída do produto do estoque</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">idLot</td>
+          <td class="s1" dir="ltr">chave estrangeira<br><br>obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Número Identificador do lote que foi decrementado do estoque</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">quantity</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Quantidade de produtos que foram subtraídos</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">date</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">date</td>
+          <td class="s1" dir="ltr">-</td>
+          <td class="s1" dir="ltr">data em que ocorreu a subtração do produto</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">time</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">time</td>
+          <td class="s1" dir="ltr">-</td>
+          <td class="s1" dir="ltr">hora em que ocorreu a subtração do produto</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s5"></td>
+          <td class="s4"></td>
+          <td class="s4"></td>
+          <td class="s4"></td>
+          <td class="s4"></td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr" colspan="5" style="text-align: center; font-weight: bold;">Entidade: FEEDBACK</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr" colspan="5" style="text-align: center; font-weight: bold;">Descrição: Define os dados do feedback que será cadastrado no Stock.
+          </td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr">Atributo</td>
+          <td class="s0" dir="ltr">Propriedades do atributo</td>
+          <td class="s0" dir="ltr">Tipo de dado</td>
+          <td class="s0" dir="ltr">Tamanho</td>
+          <td class="s0" dir="ltr">Descrição</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">idFeedback</td>
+          <td class="s1" dir="ltr">chave primária</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">número de identificação do feedback</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">idTypeFeedback</td>
+          <td class="s1" dir="ltr">chave estrangeira<br><br>obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">número identificador do tipo de feedback</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">idCollaborator</td>
+          <td class="s1" dir="ltr">chave estrangeira<br><br>obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">número identificador do colaborador que efetuou o feedback</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">description</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">varchar</td>
+          <td class="s1" dir="ltr">1000</td>
+          <td class="s1" dir="ltr">Descrição do lote</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">annex</td>
+          <td class="s1" dir="ltr">opcional</td>
+          <td class="s1" dir="ltr">varchar</td>
+          <td class="s1" dir="ltr">8000</td>
+          <td class="s1" dir="ltr">Documentos anexados para auxiliar no feedback</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s5"></td>
+          <td class="s4"></td>
+          <td class="s4"></td>
+          <td class="s4"></td>
+          <td class="s4"></td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr" colspan="5" style="text-align: center; font-weight: bold;">Entidade: TYPE_FEEDBACK</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr" colspan="5" style="text-align: center; font-weight: bold;">Descrição: Define os dados do type feedback (tipo de feedback) que será
+              cadastrado no Stock.</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr">Atributo</td>
+          <td class="s0" dir="ltr">Propriedades do atributo</td>
+          <td class="s0" dir="ltr">Tipo de dado</td>
+          <td class="s0" dir="ltr">Tamanho</td>
+          <td class="s0" dir="ltr">Descrição</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">idTypeFeedback</td>
+          <td class="s1" dir="ltr">chave primária<br>obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Número Identificador do tipo de feedback</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">name</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">varchar</td>
+          <td class="s1" dir="ltr">255</td>
+          <td class="s1" dir="ltr">Nome do tipo de feedback</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">description</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">varchar</td>
+          <td class="s1" dir="ltr">1000</td>
+          <td class="s1" dir="ltr">descrição do tipo de feedback</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s5"></td>
+          <td class="s4"></td>
+          <td class="s4"></td>
+          <td class="s4"></td>
+          <td class="s4"></td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr" colspan="5" style="text-align: center; font-weight: bold;">Tabela: belongs</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr" colspan="5" style="text-align: center; font-weight: bold;">Descrição: Tabela resultante do relacionamento n:m de Product e
+              Category</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr">Atributo</td>
+          <td class="s0" dir="ltr">Propriedades do atributo</td>
+          <td class="s0" dir="ltr">Tipo de dado</td>
+          <td class="s0" dir="ltr">Tamanho</td>
+          <td class="s0" dir="ltr">Descrição</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">idCategory</td>
+          <td class="s1" dir="ltr">chave estrangeira<br><br>obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Número Identificador da categoria do produto</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">idProduct</td>
+          <td class="s1" dir="ltr">chave estrangeira<br><br>obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Número Identificador do produto</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s5"></td>
+          <td class="s4"></td>
+          <td class="s4"></td>
+          <td class="s4"></td>
+          <td class="s4"></td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr" colspan="5" style="text-align: center; font-weight: bold;">Entidade: CATEGORY</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr" colspan="5" style="text-align: center; font-weight: bold;">Descrição: Define os dados de category (categoria) dos produtos que
+              serão cadastrados no Stock.</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr">Atributo</td>
+          <td class="s0" dir="ltr">Propriedades do atributo</td>
+          <td class="s0" dir="ltr">Tipo de dado</td>
+          <td class="s0" dir="ltr">Tamanho</td>
+          <td class="s0" dir="ltr">Descrição</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">idCategory</td>
+          <td class="s1" dir="ltr">chave primária<br>obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Número Identificador da categoria</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">name</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">varchar</td>
+          <td class="s1" dir="ltr">255</td>
+          <td class="s1" dir="ltr">Nome do tipo da categoria</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">description</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">varchar</td>
+          <td class="s1" dir="ltr">1000</td>
+          <td class="s1" dir="ltr">descrição da categoria</td>
+      </tr>
+  </tbody>
+</table>
 
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/bancoDados/Dicionario_de_Dados.pdf" target="_black">Arquivo em PDF</a>
 
