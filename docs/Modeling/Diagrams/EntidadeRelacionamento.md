@@ -13,6 +13,7 @@ O Modelo Entidade Relacionamento tem por finalidade modelar todo o banco de dado
 | 26/09/2020 | 1.4 | Linkagem de léxicos | Pedro Igor |
 | 06/10/2020 | 1.5 | Atualização e correção dos diagramas | Gabriel Alves |
 | 09/10/2020 | 1.6 | Adicionando observação da implementação do script físico com sequelize | Pedro Igor |
+| 16/10/2020 | 1.7 | Atualização do Modelo | Gabriel Alves |
 
 ## Modelo Entidade Relacionamento (MER)
 
@@ -32,13 +33,15 @@ O Modelo Entidade Relacionamento tem por finalidade modelar todo o banco de dado
 
 **[FEEDBACK](/Modeling/verbo?id=feedback)** (<ins>idFeedback</ins>, idTypeFeedback, idCollaborator, description, annex)
 
-**TYPE_FEEDBACK** (<ins>idTypeFeedback</ins>, name, description)
+**FEEDBACK_TYPE** (<ins>idTypeFeedback</ins>, name, description)
 
 **ACESS_LEVEL** (<ins>idAcessLevel</ins>, name, description)
 
-### Tabelas
+**[DECREASES](/Modeling/verbo?id=baixa-em-produto)** (idCollaborator, idLot, idDecreasesType, quantity, date, time)
 
-**[decreases](/Modeling/verbo?id=baixa-em-produto)** (idCollaborator, idLot, quantity, date, time)
+**TYPE_DECREASES** (<ins>idTypeDecreases</ins>, name, description)
+
+### Tabelas
 
 **belongs** (idCategory, idProduct)
 
@@ -86,6 +89,10 @@ Um COLLABORATOR pode enviar nenhum ou vários [FEEDBACKS](/Modeling/verbo?id=fee
 
 **COLLABORATOR** - has - **ACESS_LEVEL**<br>
 Um COLLABORATOR por ter um e somente um ACESS_LEVEL e um ACESS_LEVEL pode ter nenhum ou vários COLLABORATORS.<br>
+**Cardinalidade -> n:1**
+
+**DECREASES** - has - **DECREASES_TYPE**<br>
+Um DECREASES por ter um e somente um DECREASES_TYPE e um DECREASES_TYPE pode ter nenhum ou vários DECREASES.<br>
 **Cardinalidade -> n:1**
 
 
@@ -363,6 +370,13 @@ Um COLLABORATOR por ter um e somente um ACESS_LEVEL e um ACESS_LEVEL pode ter ne
           <td class="s1" dir="ltr">varchar</td>
           <td class="s1" dir="ltr">255</td>
           <td class="s1" dir="ltr">Senha de acesso do colaborador</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">registerDate</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">date</td>
+          <td class="s1" dir="ltr">-</td>
+          <td class="s1" dir="ltr">Data de registro do colaborador</td>
       </tr>
       <tr style="height:20px;">
           <td class="s2" dir="ltr"></td>
@@ -714,13 +728,47 @@ Um COLLABORATOR por ter um e somente um ACESS_LEVEL e um ACESS_LEVEL pode ter ne
           <td class="s1" dir="ltr">1000</td>
           <td class="s1" dir="ltr">descrição da categoria</td>
       </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr" colspan="5" style="text-align: center; font-weight: bold;">Entidade: DECREASES_TYPE</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr" colspan="5" style="text-align: center; font-weight: bold;">Descrição: Define os dados de tipos de decremento na qual um colaborador poderá fazer em um lote.</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s0" dir="ltr">Atributo</td>
+          <td class="s0" dir="ltr">Propriedades do atributo</td>
+          <td class="s0" dir="ltr">Tipo de dado</td>
+          <td class="s0" dir="ltr">Tamanho</td>
+          <td class="s0" dir="ltr">Descrição</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">idDecreasesType</td>
+          <td class="s1" dir="ltr">chave primária<br>obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Número Identificador do tipo de decremento</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">name</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">varchar</td>
+          <td class="s1" dir="ltr">255</td>
+          <td class="s1" dir="ltr">Nome do tipo de decremento</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">description</td>
+          <td class="s1" dir="ltr">obrigatório</td>
+          <td class="s1" dir="ltr">varchar</td>
+          <td class="s1" dir="ltr">1000</td>
+          <td class="s1" dir="ltr">descrição do tipo de decremento</td>
+      </tr>
   </tbody>
 </table>
 
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/bancoDados/Dicionario_de_Dados.pdf" target="_black">Arquivo em PDF</a>
 
 
-Obs: Vale lembrar que na modelagem da base de dados não é permitida a utilização de plural nas relações. Já na definição de tabelas do sequelize é obrigatória a utilização de plural. Então, por mais que esta documentação mencione o nome de entidades e relacionamentos no singular, no script físico gerado pelas migrations apenas o nome da tabela é colocado no plural mantendo os atributos da forma como foram modelados.
+Obs: Vale lembrar que na modelagem da base de dados não é permitida a utilização de plural nas relações. Já na definição de tabelas do sequelize é obrigatória a utilização de plural. Então, por mais que estaja documentação mencione o nome de entidades e relacionamentos no singular, no script físico gerado pelas migrations apenas o nome da tabela é colocado no plural mantendo os atributos da forma como foram modelados.
 
 ## Referências 
 - Software para Diagramação do Modelo Entidade Relacionamento - brModelo <http://www.sis4.com/brModelo/>. Último acesso em 25/09/2020 
