@@ -10,14 +10,15 @@ Também conhecido como diagrama de colaboração, o diagrama de comunicação mo
 | 25/09/2020 | 1.1 | Criação das relações entre classes | Gabriel Davi, Micaella Gouveia, Pedro Igor e Sofia Patrocínio |
 | 26/09/2020 | 1.2 | Criação dos diagramas | Sofia Patrocínio |
 | 28/09/2020 | 1.3 | Adição dos áudios e linkagem dos léxicos | Sofia Patrocínio |
+| 12/10/2020 | 1.4 | Adição dos métodos aos diagramas | Sofia Patrocínio |
 
 ## Realização
 O diagrama foi produzido pelo [LucidChart](https://www.lucidchart.com/). Nele há quadro, objetos, linhas de vida e setas na direção da comunicação, bem como mensagens trocadas.
 
-## Diagramas
+## Diagramas Versão 1
 
 * **Criação de Colaborador**
-![createCollaborator](../../assets/diagramas/comunicacao/CreateCollaborator.png)
+![createCollaborator](../../assets/diagramas/comunicacao/CreateCollaboratorV1.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/comunicacao/CreateCollaborator.pdf">Arquivo em PDF</a>
 
 <audio controls>
@@ -25,7 +26,7 @@ O diagrama foi produzido pelo [LucidChart](https://www.lucidchart.com/). Nele h�
 </audio>
 
 * **[Adição](Modeling/verbo?id=Cadastrar-Produto) de [Produto](Modeling/objeto?id=Produto) ao Estoque**
-![increaseProduct](../../assets/diagramas/comunicacao/IncreaseProduct.png)
+![increaseProduct](../../assets/diagramas/comunicacao/IncreaseProductV1.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/comunicacao/IncreaseProduct.pdf">Arquivo em PDF</a>
 
 <audio controls>
@@ -33,7 +34,7 @@ O diagrama foi produzido pelo [LucidChart](https://www.lucidchart.com/). Nele h�
 </audio>
 
 * **[Baixa](Modeling/verbo?id=Baixa-em-Produto) de [Produto](Modeling/objeto?id=Produto)**
-![productSale](../../assets/diagramas/comunicacao/ProductSale.png)
+![productSale](../../assets/diagramas/comunicacao/ProductSaleV1.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/comunicacao/ProductSale.pdf">Arquivo em PDF</a>
 
 <audio controls>
@@ -49,12 +50,29 @@ O diagrama foi produzido pelo [LucidChart](https://www.lucidchart.com/). Nele h�
 </audio>
 
 * **Envio de [Feedback](/Modeling/verbo?id=feedback)**
-![sendFeedback](../../assets/diagramas/comunicacao/SendFeedback.png)
+![sendFeedback](../../assets/diagramas/comunicacao/SendFeedbackV1.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/comunicacao/SendFeedback.pdf">Arquivo em PDF</a>
 
 <audio controls>
   <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/comunicacao/SendFeedback.m4a" type="audio/mpeg">
 </audio>
+
+## Diagramas Versão 0
+
+* **Criação de Colaborador**
+![createCollaborator](../../assets/diagramas/comunicacao/CreateCollaborator.png)
+
+* **[Adição](Modeling/verbo?id=Cadastrar-Produto) de [Produto](Modeling/objeto?id=Produto) ao Estoque**
+![increaseProduct](../../assets/diagramas/comunicacao/IncreaseProduct.png)
+
+* **[Baixa](Modeling/verbo?id=Baixa-em-Produto) de [Produto](Modeling/objeto?id=Produto)**
+![productSale](../../assets/diagramas/comunicacao/ProductSale.png)
+
+* **Visualização de Gráficos**
+![checkAnalisys](../../assets/diagramas/comunicacao/CheckAnalisys.png)
+
+* **Envio de [Feedback](/Modeling/verbo?id=feedback)**
+![sendFeedback](../../assets/diagramas/comunicacao/SendFeedback.png)
 
 
 ## Referências

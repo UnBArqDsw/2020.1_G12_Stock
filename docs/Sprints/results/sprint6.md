@@ -30,7 +30,7 @@
 ![burndown 6](../../assets/img/Sprints/metricas/burndownS6.png)
 
 ## Velocity
-![velocity 6](../../assets/img/Sprints/metricas/velocityS6.png)
+![velocity 6](../../assets/img/Sprints/metricas/velocityS6.png )
 
 ## Observações
 * O time sentiu grande dificuldade durante a Sprint devido a semana apertada e as mudanças climáticas.

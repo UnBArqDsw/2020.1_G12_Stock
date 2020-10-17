@@ -11,20 +11,27 @@ O Diagrama de Componentes tem como principal objetivo mostrar o relacionamento e
 | 24/09/2020 | 1.2 | Adição da introdução, realização, arquivo PDF e referências | Micaella Gouveia |
 | 25/09/2020 | 1.3 | Atualização do diagrama de componentes conforme [feedback](Modeling/verbo?id=feedback) da professora Milene (Diagrama V.1)| Micaella Gouveia |
 | 27/09/2020 | 1.4 | Adição do áudio explicativo | Micaella Gouveia |
+| 15/10/2020 | 1.5 | Especificação das relações de depedências entre os componentes de diferentes subsistemas (Diagrama V.2) - Correção feita pela professora Milene na Entrega 2 | Micaella Gouveia |
 
 ## Realização
 O diagrama foi produzido pelo [Draw.io](https://app.diagrams.net/). Nele há todas os subsistemas contendo seus componentes, fazendo a relação entre os componentes com suas devidas interfaces.
 
 ## Diagrama
 
+* **Diagrama de Componentes(V.2)**
+
+![diagramaComponentes](../../assets/diagramas/DiagramaComponentesV2.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/DiagramaComponentesV2.pdf">Arquivo em PDF</a>
+
+<audio controls>
+  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/DiagramaComponentes.m4a" type="audio/mpeg">
+</audio>
+
 * **Diagrama de Componentes(V.1)**
 
 ![diagramaComponentes](../../assets/diagramas/DiagramaComponentesV1.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/DiagramaComponentesV1.pdf">Arquivo em PDF</a>
 
-<audio controls>
-  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/DiagramaComponentes.m4a" type="audio/mpeg">
-</audio>
 
 * **Diagrama de Componentes(V.0)**
 

@@ -8,21 +8,29 @@ O Diagrama de Pacotes tem por finalidade demonstrar a estrutura de diretórios e
 |:----:|:------:|:---------:|:---------:|
 | 23/09/2020 | 1.0 | Criação do esboço do diagrama. | Gabriel Alves, Gabriel Davi, Micaella Gouveia, Pedro Igor e Sofia Patrocínio |
 | 25/09/2020 | 1.1 | Criação do documento. | Pedro Igor |
-| 25/09/2020 | 1.2 | Finalização e adição do Diagrama. | Pedro Igor | 
+| 25/09/2020 | 1.2 | Finalização e adição do Diagrama. | Pedro Igor |
+| 14/10/2020 | 1.3 | Adição de uma segunda versão mostrando os níveis da aplicação. | Pedro Igor |
 
 ## Realização
 
-O diagrama foi produzido pelo [Draw.io](https://draw.io). Nele há todas os subsistemas contendo seus pacotes, fazendo a relação entre os pacotes por meio de setas.
+O diagrama foi produzido pelo [Draw.io](https://draw.io). Nele há todas os subsistemas contendo seus pacotes, fazendo a relação, além da representação dos níveis entre os pacotes por meio de setas.
 
 ## Diagrama
 
-![Diagrama de Pacotes](../../assets/diagramas/Diagrama_de_Pacotes.png)
+### Versão 1
+![Diagrama de Pacotes](../../assets/diagramas/Diagrama_de_Pacotes_V2.png)
 
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/pacotes/Diagrama_de_Pacotes.pdf">Arquivo em PDF</a>
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/pacotes/Diagrama_de_Pacotes_V2.pdf">Arquivo em PDF</a><br><br>
 
 <audio controls>
   <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/pacotes/Diagrama_de_Pacotes.wav" type="audio/mpeg">
 </audio>
+
+### Versão 0
+![Diagrama de Pacotes](../../assets/diagramas/Diagrama_de_Pacotes.png)
+
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/pacotes/Diagrama_de_Pacotes.pdf">Arquivo em PDF</a>
+
 
 ## Referências
 Micreiros - Diagramas Estruturais da UML: Diagrama de Pacotes. <https://micreiros.com/diagrama-de-pacotes/>. Último Acesso em 25/09/2020.
