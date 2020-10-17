@@ -135,7 +135,7 @@ Ele é utilizado quando:
 3. Você quer que os objetos responsáveis pelo tratamento de requisição possam variar em tempo de execução.
 
 ### Pontos Positivos
-* Aplica o princípio da resposabilidade única.
+* Aplica o princípio da responsabilidade única.
 * Aplica o princípio do aberto e fechado.
 * Permite que você altere a cadeia de objetos e a ordem das chamadas facilmente.
 
