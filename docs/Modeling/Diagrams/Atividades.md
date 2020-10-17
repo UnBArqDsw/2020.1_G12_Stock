@@ -21,29 +21,29 @@ Os diagramas foram produzidos pelo [Lucichart](https://www.lucidchart.com/). Ele
 
 ## Diagramas
 
-### Prazo de validade (V.0)
-
-![diagramaAtividade](../../assets/diagramas/atividade/Diagrama_atividade_PrazoValidade.png)
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/atividade/Diagrama_atividade_prazoValidade.pdf">Arquivo em PDF</a>
-
 ### Prazo de validade (V.1)
 
 ![diagramaAtividade](../../assets/diagramas/atividade/Diagrama_atividade_PrazoValidade2.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/atividade/Diagrama_atividade_prazoValidade2.pdf">Arquivo em PDF</a>
 
+### Prazo de validade (V.0)
+
+![diagramaAtividade](../../assets/diagramas/atividade/Diagrama_atividade_PrazoValidade.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/atividade/Diagrama_atividade_prazoValidade.pdf">Arquivo em PDF</a>
+
 <audio controls>
   <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/atividades/atividades_prazoValidade.m4a" type="audio/mpeg">
 </audio>
-
-### Feedback(V.0)
-
-![diagramaAtividade](../../assets/diagramas/atividade/Diagrama_atividade_feedback.png)
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/atividade/Diagrama_atividade_feedback.pdf">Arquivo em PDF</a>
 
 ### Feedback(V.1)
 
 ![diagramaAtividade](../../assets/diagramas/atividade/Diagrama_atividade_feedback2.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/atividade/Diagrama_atividade_feedback2.pdf">Arquivo em PDF</a>
+
+### Feedback(V.0)
+
+![diagramaAtividade](../../assets/diagramas/atividade/Diagrama_atividade_feedback.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/atividade/Diagrama_atividade_feedback.pdf">Arquivo em PDF</a>
 
 <audio controls>
   <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/atividades/atividades_feedback.m4a" type="audio/mpeg">
@@ -58,29 +58,29 @@ Os diagramas foram produzidos pelo [Lucichart](https://www.lucidchart.com/). Ele
   <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/atividades/atividades_buscarProdutos.m4a" type="audio/mpeg">
 </audio>
 
-### Autenticar no sistema(V.0)
-
-![diagramaAtividade](../../assets/diagramas/atividade/Diagrama_atividade_autenticacao.png)
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/atividade/Diagrama_atividade_autenticacao.pdf">Arquivo em PDF</a>
-
 ### Autenticar no sistema(V.1)
 
 ![diagramaAtividade](../../assets/diagramas/atividade/Diagrama_atividade_autenticacao2.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/atividade/Diagrama_atividade_autenticacao2.pdf">Arquivo em PDF</a>
 
+### Autenticar no sistema(V.0)
+
+![diagramaAtividade](../../assets/diagramas/atividade/Diagrama_atividade_autenticacao.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/atividade/Diagrama_atividade_autenticacao.pdf">Arquivo em PDF</a>
+
 <audio controls>
   <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/atividades/atividades_autenticacao.m4a" type="audio/mpeg">
 </audio>
-
-### Adicionar produto(V.0)
-
-![diagramaAtividade](../../assets/diagramas/atividade/Diagrama_atividade_addProduto.png)
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/atividade/Diagrama_atividade_addProduto.pdf">Arquivo em PDF</a>
 
 ### Adicionar produto(V.1)
 
 ![diagramaAtividade](../../assets/diagramas/atividade/Diagrama_atividade_addProduto2.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/atividade/Diagrama_atividade_addProduto2.pdf">Arquivo em PDF</a>
+
+### Adicionar produto(V.0)
+
+![diagramaAtividade](../../assets/diagramas/atividade/Diagrama_atividade_addProduto.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/atividade/Diagrama_atividade_addProduto.pdf">Arquivo em PDF</a>
 
 <audio controls>
   <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/atividades/atividades_addProduto.m4a" type="audio/mpeg">
