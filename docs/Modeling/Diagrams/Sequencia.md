@@ -32,12 +32,12 @@ Representar ação:
 | 25/09/2020 | 1.1 | Criação das relações entre classes | Gabriel Davi, Micaella Gouveia, Pedro Igor e Sofia Patrocínio |
 | 28/09/2020 | 1.2 | Criação dos diagramas | Sofia Patrocínio |
 | 28/09/2020 | 1.3 | Adição dos áudios e linkagem dos léxicos | Sofia Patrocínio |
-| 12/10/2020 | 1.4 | Melhorias diagramas de acordo com feedback da professora | Sofia Patrocínio |
+| 12/10/2020 | 1.4 | Adição dos métodos aos diagramas | Sofia Patrocínio |
 
 ## Realização
 O diagrama foi produzido pelo [LucidChart](https://www.lucidchart.com/). Nele há quadro, objetos, linhas de vida e setas na direção da comunicação, bem como mensagens trocadas.
 
-## Diagramas V1
+## Diagramas Versão 1
 
 * **Criação de Colaborador**
 ![createCollaborator](../../assets/diagramas/sequencia/CreateCollaboratorV1.png)
@@ -79,7 +79,7 @@ O diagrama foi produzido pelo [LucidChart](https://www.lucidchart.com/). Nele h�
   <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/sequencia/SendFeedback.m4a" type="audio/mpeg">
 </audio>
 
-## Diagramas V0
+## Diagramas Versão 0
 
 * **Criação de Colaborador**
 ![createCollaborator](../../assets/diagramas/sequencia/CreateCollaborator.png)
