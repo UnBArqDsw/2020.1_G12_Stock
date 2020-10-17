@@ -26,7 +26,7 @@ O grupo utilizará a ferramenta [Notion](https://www.notion.so/) para rascunho d
 3. **É possível adaptar a nossa forma de organização de projeto com este padrão?** (Justificar)
 4. **Independentemente da resposta a pergunta anterior, quais documentos necessitam de refatoração para implementação deste padrão?** (Detalhar o que deveria ser refatorado em cada documento com esta adaptação)
 
-## [Sprint 5](Sprints/planning/sprint5.md) - Divisão para o grupo
+## Sprint 5 - Divisão para o grupo 
 
 Cada membro ficou responsável por um padrão de projeto, tendo cada um sua issue de desenvolvimento. Essa divisão ficou da seguinta forma:
 
@@ -38,7 +38,7 @@ Cada membro ficou responsável por um padrão de projeto, tendo cada um sua issu
 | GoF Estrutural     | Flyweight e demais                        | Gabriel Davi     |
 | GoF Comportamental | Stategy, Template Method e demais         | Gabriel Alves    |
 
-## [Sprint 6](Sprints/planning/sprint6.md) - Divisão para o grupo
+## Sprint 6 - Divisão para o grupo 
 
 Cada membro ficou responsável por um padrão de projeto, tendo cada um sua issue de desenvolvimento, se o membro achar necessário adicionar novas informações sobre o padrão estudado, ele pode criar sua branch e adicionar. Essa divisão ficou da seguinta forma:
 
