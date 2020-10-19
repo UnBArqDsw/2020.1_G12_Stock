@@ -1,5 +1,5 @@
 # Aplicação do Factory Method
-**Para saber mais sobre o padrão acesse: [*GoF Criacional*](Project/Estudos/criacional.md)**
+**Para saber mais sobre o padrão acesse: [*Factory Method*](Project/Estudos/criacional?id=Factory-Method.md)**
 
 Para nossa aplicação, decidimos utilizar o padrão criacional Factory Method para duas ocasiões: Hierarquia dos [Usuários](Modeling/objeto?id=usuário) e [Produtos](Modeling/objeto?id=Produto) Perecíveis/Não Perecíveis.
 
@@ -15,26 +15,26 @@ Nossa ideia inicial era fazer uma fábrica de colaboradores, podendo ele ser [Se
 
 *Classe Abstrata Collaborator*
 
-![collaborator](../assets/padroes/hierarquiaUsuarios/collaborator.png)
+![collaborator](../assets/padroes/factoryMethod/collaborator.png)
 
 *Trecho da classe Seller*
 
-![seller](../assets/padroes/hierarquiaUsuarios/seller.png)
+![seller](../assets/padroes/factoryMethod/seller.png)
 
 *Trecho da classe Admin*
 
-![seller](../assets/padroes/hierarquiaUsuarios/admin.png)
+![seller](../assets/padroes/factoryMethod/admin.png)
 
 *Trecho da classe Owner*
 
-![seller](../assets/padroes/hierarquiaUsuarios/owner.png)
+![seller](../assets/padroes/factoryMethod/owner.png)
 
 *Este código está disponível no repositório do Backend da aplicação na branch [*147-user-factory-method*](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/commit/83b291205906be740c160b63d0b75e28257d0a3a)*
 
 
 Nas imagens já conseguimos ver um dos problema ao utilizar esse padrão. A codificação dos atributos de cada classe se repete, triplicando código. 
 
-Outro problema que encontramos foi que o banco Sequelize não permite salvar classes abstratas, forçando salvar cada classe concreta no banco, prejudicando uma das funcionalidades da aplicação que é a troca de nível de acesso. Ao salvar cada classe no banco, para fazer essa troca, teríamos que duplicar o [usuário](Modeling/objeto?id=usuário) em outra tabela e apagar na tabela atual, fugindo do que foi planejado. 
+Outro problema que encontramos foi que o banco [Sequelize](Modeling/objeto?id=Sequelize) não permite salvar classes abstratas, forçando salvar cada classe concreta no banco, prejudicando uma das funcionalidades da aplicação que é a troca de nível de acesso. Ao salvar cada classe no banco, para fazer essa troca, teríamos que duplicar o [usuário](Modeling/objeto?id=usuário) em outra tabela e apagar na tabela atual, fugindo do que foi planejado. 
 
 
 
@@ -46,7 +46,7 @@ Ele será detalhado em: [**Chain of Responsibility**](DesignPatterns/ChainRespon
 ## Produtos Perecíveis/Não Perecíveis
 Nossa ideia inical era utilizar o padrão criacional Factory Method para a separação dos [produtos](Modeling/objeto?id=Produto) perecíveis e não perecíveis. Teríamos uma fábrica de produtos, podendo ser ele divido em perecível ou não perecível. A classe abstrata [produtos](Modeling/objeto?id=Produto) compartilharia seus atributos e métodos comuns e cada classe concreta possuiria seus próprios métodos.
 
-Assim como não foi possível implementar esse padrão para a Hierarquia de [Usuários](Modeling/objeto?id=usuário), não foi possível neste caso também pela mesma razão anterior, no Sequelize não é possível salvar classes abstratas, sendo inviável salvar as classes concretas no banco. 
+Assim como não foi possível implementar esse padrão para a Hierarquia de [Usuários](Modeling/objeto?id=usuário), não foi possível neste caso também pela mesma razão anterior, no [Sequelize](Modeling/objeto?id=Sequelize) não é possível salvar classes abstratas, sendo inviável salvar as classes concretas no banco. 
 
 Este caso não chegou a ser implementado pois quando o problema foi detectado no caso da Hierarquia de [Usuários](Modeling/objeto?id=usuário), já conseguimos analisar sua inviabilidade para este caso também.
 

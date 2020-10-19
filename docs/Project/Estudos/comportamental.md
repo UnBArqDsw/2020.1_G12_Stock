@@ -122,7 +122,7 @@ Sim, caso precisemos fazer uma operação em todos os elementos de uma estrutura
 Diagrama de classes.
 
 
-## Cadeia de Responsabilidades
+## Chain of Responsibility
 Padrão que permite passar solicitações ao longo de uma cadeia de manipuladores. Ao receber uma solicitação, cada manipulador decide processar a solicitação ou passá-la para o próximo manipulador na cadeia. Ele evita o acoplamento do remetente de uma solicitação ao seu destinatários, dando a mais de um objeto a chance de tratar a solicitação. Encadeia os objetos receptores e passa a solicitação ao longo da cadeia até que um objeto a trate.
 
 ![Cadeia de Responsabilidade](../../assets/img/estudo/gof-comportamental/cadeiaResponsabilidade.png)

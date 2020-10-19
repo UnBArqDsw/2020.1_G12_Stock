@@ -27,4 +27,4 @@ O objetivo principal é o [controle de estoque](Modeling/verbo?id=controle-de-es
 
 ## Utilizar o decorator para as ações principais de Crud. 
 
-Aqui, o objetivo é criar uma nova camada para os métodos principais que o [Sequelize](Modeling/objeto?id=Sequelize) oferece como findAll, findOne, create e assim por diante para utilização pelas controllers, porém cada uma irá alterar o comportamento de acordo com sua necessidade. Para isso, utilizaremos o método decorator, onde o decorator base irá implementar os métods do [Sequelize](Modeling/objeto?id=Sequelize) e assim cada controller poderá herdar desse decorator base. 
+Aqui, o objetivo é criar uma nova camada para os métodos principais que o [Sequelize](Modeling/objeto?id=Sequelize) oferece como findAll, findOne, create e assim por diante para utilização pelas controllers, porém cada uma irá alterar o comportamento de acordo com sua necessidade. Para isso, utilizaremos o método decorator, onde o decorator base irá implementar os métodos do [Sequelize](Modeling/objeto?id=Sequelize) e assim cada controller poderá herdar desse decorator base. 
