@@ -14,3 +14,6 @@
   - [Chain of Responsibility](DesignPatterns/ChainResponsibility.md)
   - [Decorator](DesignPatterns/Decorator.md)
   - [State](DesignPatterns/State.md)
+  - [Iterator](DesignPatterns/Iterator.md)
+  - [Facade](DesignPatterns/Facade.md)
+  - [Singleton](DesignPatterns/Singleton.md)

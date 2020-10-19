@@ -18,7 +18,7 @@ Para assegurar que o [usuário](Modeling/objeto?id=usuário) que tenta entrar na
 ![auth](../assets/padroes/chainResponsibility/auth.png)
 
 *Rota usando o middleware*
-![routes](../assets/padroes/chainResponsibilitys/routes.png)
+![routes](../assets/padroes/chainResponsibility/routes.png)
 
 
 ## Hierarquia de Usuários
