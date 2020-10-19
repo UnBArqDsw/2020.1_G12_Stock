@@ -14,19 +14,41 @@ Para a implementação das rotas da aplicação, estamos utilizando controllers,
 
 *Exemplo do uso da Controller (**[Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/app/controllers/CollaboratorController.js)**)*
 
-![collaboratorController](../assets/padroes/grasp/collaboratorController.png)
+<p align="center">
+<img src="/assets/padroes/grasp/collaboratorController.png" class="codes-prints" />
+</p>
 
 *Routes importando Controller (**[Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/routes/Collaborator.routes.js)**)*
 
-![collaboratorRoutes](../assets/padroes/grasp/collaboratorRoutes.png)
+<p align="center">
+<img src="/assets/padroes/grasp/collaboratorRoutes.png" class="codes-prints" />
+</p>
+
 
 ## Polimorfismo
 Em algumas classes, criamos classes que lidam com abstrações de métodos. Temos o exemplo da classe Base que possui os métodos relacionados ao [Sequelize](Modeling/objeto?id=Sequelize). Esse tipo de abstração torna o código menos acoplado e mais coeso. No caso do JavaScript, não é possível criar classes abstratas, então utilizamos o nome de classe, porém com conceitos e utilizações de classes abstratas.
 
 *Exemplo de Prolimorfismo na Classe Base **([Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/app/StockBase/Base.js))***
 
-![decoratorBase](../assets/padroes/decorator/decoratorBase.png)
+<p align="center">
+<img src="/assets/padroes/decorator/decoratorBase.png" class="codes-prints" />
+</p>
 
 *Collaborator herdando da Classe Base **([Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/app/StockBase/CollaboratorBase.js))***
 
-![collaboratorBase](../assets/padroes/decorator/collaboratorBase.png)
+<p align="center">
+<img src="/assets/padroes/decorator/collaboratorBase.png" class="codes-prints" />
+</p>
+
+## Especialista
+Podemos evidenciar o uso do Especialista nos métodos de autenticação do usuário. Funções utilizadas para autenticação do usuário foram criadas e destinadas ao Collaborator. Ele será o especialista em gerar o token e verificar credenciais.
+
+*Collaborator especilista da autenticação **([Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/app/models/Collaborator.js))***
+<p align="center">
+<img src="/assets/padroes/grasp/collaboratorEspecialista.png" class="codes-prints" />
+</p>
+
+*Uso dos métodos especialistas de Collaborator **([Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/app/StockBase/CollaboratorBase.js))***
+<p align="center">
+<img src="/assets/padroes/grasp/collaboratorEspecialistaBase.png" class="codes-prints" />
+</p>

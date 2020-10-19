@@ -16,9 +16,14 @@ Aqui o objetivo é criar uma nova camada para os métodos principais que o [Sequ
 
 *Classe Base **([Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/app/StockBase/Base.js))***
 
-![decoratorBase](../assets/padroes/decorator/decoratorBase.png)
+<p align="center">
+<img src="/assets/padroes/decorator/decoratorBase.png" class="codes-prints" />
+</p>
 
 *Collaborator herdando da Classe Base **([Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/app/StockBase/CollaboratorBase.js))***
 
-![collaboratorBase](../assets/padroes/decorator/collaboratorBase.png)
+<p align="center">
+<img src="/assets/padroes/decorator/collaboratorBase.png" class="codes-prints" />
+</p>
+
 

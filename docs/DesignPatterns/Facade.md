@@ -15,8 +15,13 @@ Facade pode ser reconhecida em uma classe que possui uma interface simples, mas 
 
 *Index de rotas recebe fachada CollaboratorRoutes (**[Link para Github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/routes/index.routes.js)**)*
 
-![routeFacade](../assets/padroes/facade/routeFacade.png)
+<p align="center">
+<img src="/assets/padroes/facade/routeFacade.png" class="codes-prints" />
+</p>
+
 
 *Fachada de Rotas do Collaborator (**[Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/routes/Collaborator.routes.js)**)*
 
-![collaboratorRoutes](../assets/padroes/grasp/collaboratorRoutes.png)
+<p align="center">
+<img src="/assets/padroes/grasp/collaboratorRoutes.png" class="codes-prints" />
+</p>

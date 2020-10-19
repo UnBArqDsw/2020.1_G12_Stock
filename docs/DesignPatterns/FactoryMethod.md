@@ -15,19 +15,28 @@ Nossa ideia inicial era fazer uma fábrica de colaboradores, podendo ele ser [Se
 
 *Classe Abstrata Collaborator*
 
-![collaborator](../assets/padroes/factoryMethod/collaborator.png)
+<p align="center">
+<img src="/assets/padroes/factoryMethod/collaborator.png" class="codes-prints" />
+</p>
 
 *Trecho da classe Seller*
 
-![seller](../assets/padroes/factoryMethod/seller.png)
+<p align="center">
+<img src="/assets/padroes/factoryMethod/seller.png" class="codes-prints" />
+</p>
 
 *Trecho da classe Admin*
 
-![seller](../assets/padroes/factoryMethod/admin.png)
+<p align="center">
+<img src="/assets/padroes/factoryMethod/admin.png" class="codes-prints" />
+</p>
 
 *Trecho da classe Owner*
 
-![seller](../assets/padroes/factoryMethod/owner.png)
+<p align="center">
+<img src="/assets/padroes/factoryMethod/owner.png" class="codes-prints" />
+</p>
+
 
 *Este código está disponível no repositório do Backend da aplicação na branch [*147-user-factory-method*](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/commit/83b291205906be740c160b63d0b75e28257d0a3a)*
 

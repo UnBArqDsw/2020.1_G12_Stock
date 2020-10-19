@@ -15,10 +15,14 @@ Este padrão está sendo utilizado para fazer a autenticação do [usuário](Mod
 Para assegurar que o [usuário](Modeling/objeto?id=usuário) que tenta entrar na aplicação seja um [usuário](Modeling/objeto?id=usuário) credenciado, fazemos uma autenticação deste [usuário](Modeling/objeto?id=usuário). Utilizamos os middlewares como forma de verificação, eles são acionados antes da solicitação ganhar acesso à rota, e se o [usuário](Modeling/objeto?id=usuário) não possuir esta credencial, ele não ganha o acesso.
 
 *Middleware de autenticação*
-![auth](../assets/padroes/chainResponsibility/auth.png)
+<p align="center">
+<img src="/assets/padroes/chainResponsibility/auth.png" class="codes-prints" />
+</p>
 
 *Rota usando o middleware*
-![routes](../assets/padroes/chainResponsibility/routes.png)
+<p align="center">
+<img src="/assets/padroes/chainResponsibility/routes.png" class="codes-prints" />
+</p>
 
 
 ## Hierarquia de Usuários
@@ -28,4 +32,6 @@ Utilizamos os middlewares para fazer essa verificação. Assim como é feita a a
 
 
 *Exemplo do uso*
-![chain](../assets/padroes/chainResponsibility/chain.png)
+<p align="center">
+<img src="/assets/padroes/chainResponsibility/chain.png" class="codes-prints" />
+</p>
