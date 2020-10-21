@@ -37,7 +37,7 @@ Nesta Sprint, alguns documentos são pré-requisitos de outros, sendo necessári
 
 | Número | [Issue](Modeling/objeto?id=Issue) | Data de Entrega |
 |--------|-----------------------------------|-----------------|
-| [**#159**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/159)  | Autenticação do Usuário  | 19/10/2020 |
+| [**#159**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/159)  | Parte de autenticação do Usuário  | 19/10/2020 |
 
 
 ## Relato
