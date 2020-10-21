@@ -42,7 +42,7 @@ Nesta Sprint, alguns documentos são pré-requisitos de outros, sendo necessári
 
 ## Relato
 
-O time usou a semana para testar aplicação de padrões de projeto e com base nisso, fizemos mudanças no projeto:
+* O time usou a semana para testar aplicação de padrões de projeto e com base nisso, fizemos mudanças no projeto:
     - Mudança da linguagem pra JavaScript
     - Remoção do Factory Method do projeto
 
@@ -50,3 +50,8 @@ O time usou a semana para testar aplicação de padrões de projeto e com base n
 
 ## Gravações Disponíveis
 
+- Reunião Semanal (Planning Poker):
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/16xEwXWFTGQ?ecver=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="UJO0LwJx" href="https://www.vouchersort.co.uk/ao.com">Best ao vouchers here</a></div><div><a  id="UJO0LwJx" href="https://www.vouchersort.co.uk/boden.co.uk">25% off dresses at Boden from Vouchersort</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
+
+- Reunião Semanal (Sprint Planning):
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/tGtr_-xV8Ws?ecver=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="UJO0LwJx" href="https://www.vouchersort.co.uk/ao.com">Best ao vouchers here</a></div><div><a  id="UJO0LwJx" href="https://www.vouchersort.co.uk/boden.co.uk">25% off dresses at Boden from Vouchersort</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>

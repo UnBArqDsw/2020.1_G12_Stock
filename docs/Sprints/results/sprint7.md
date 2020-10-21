@@ -24,10 +24,10 @@
 ![quadro 7](../../assets/img/Sprints/metricas/quadroS7.png)
 
 ## Burndown
-![burndown 6](../../assets/img/Sprints/metricas/burndownS6.png)
+![burndown 7](../../assets/img/Sprints/metricas/burndownS7.png)
 
 ## Velocity
-![velocity 6](../../assets/img/Sprints/metricas/velocityS6.png)
+![velocity 7](../../assets/img/Sprints/metricas/velocityS7.png)
 
 ## Observações
 * O time usou a semana para testar aplicação de padrões de projeto e com base nisso, fizemos mudanças no projeto:
