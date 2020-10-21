@@ -9,7 +9,7 @@
 |--------|-----------------------------------|-----------|---------------|
 | [**#129**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/129) | Refatoração dos Diagramas com base nos Padrões de Projeto | 8 | Micaella Gouveia e Sofia Patrocínio |
 | [**149**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/149) | Implementar Classe Base para implementação do Decorator (com métodos cadastrar, listar e remover) | 8 | Gabriel Davi |
-| [**#159**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/159)  | Autenticação do Usuário  | 3 | Gabriel Davi |
+| [**#159**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/159)  | US02 - Login de Usuário  | 3 | Gabriel Davi |
 | [**#160**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/160)  | Verificação do Nível de Acesso  | 3 | Sofia Patrocínio |
 | [**#161**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/161)  | Documentação dos Padrões Utilizados  | 3 | Micaella Gouveia |
 | [**#162**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/161)  | Implementação de GRASP's para Produtos  | 8 | Pedro Igor e Gabriel Alves |
