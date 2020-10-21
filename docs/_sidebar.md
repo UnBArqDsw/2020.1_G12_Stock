@@ -9,6 +9,7 @@
     - [Protótipo de Alta Fidelidade](Product/PrototipoAlta.md)
 - **Projeto**
   - [Metodologias](Project/Metodologias.md)
+  - [Descrição Arquitetural](Modeling/DescricaoArquitetural.md)
   - [Estimativas](Project/Evaluation.md)
   - [Modelagem BPMN](Project/ModelagemBPMN.md)
   - [Sprints](Index/sprintsIndex.md)

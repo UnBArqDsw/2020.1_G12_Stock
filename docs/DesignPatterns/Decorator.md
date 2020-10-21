@@ -12,15 +12,15 @@ Para nossa aplicação, decidimos utilizar o padrão estrutural Decorate para a 
 
 
 ## Sequelize
-Aqui o objetivo é criar uma nova camada para os métodos principais que o [Sequelize](Modeling/objeto?id=Sequelize) oferece como findAll, findOne, create e assim por diante para utilização pelas controllers, porém cada uma irá alterar o comportamento de acordo com sua necessidade. Para isso, utilizaremos o método Decorator, onde o Decorator Base irá implementar os métodos do [Sequelize](Modeling/objeto?id=Sequelize) e assim cada controller poderá herdar desse Decorator Base.
+Aqui o objetivo é criar uma nova camada para os métodos principais que o [Sequelize](Modeling/objeto?id=Sequelize) oferece como findAll, findOne, create e assim por diante para utilização pelas classes, porém cada uma irá alterar o comportamento de acordo com sua necessidade. Para isso, utilizaremos o método Decorator, onde o Decorator Base irá implementar os métodos do [Sequelize](Modeling/objeto?id=Sequelize) e assim cada classe poderá herdar desse Decorator Base.
 
-*Classe Base **([Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/app/StockBase/Base.js))***
+*Classe Decorator Base **([Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/app/StockBase/Base.js))***
 
 <p align="center">
 <img src="/assets/padroes/decorator/decoratorBase.png" class="codes-prints" />
 </p>
 
-*Collaborator herdando da Classe Base **([Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/app/StockBase/CollaboratorBase.js))***
+*Collaborator herdando da Classe Decorator Base **([Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/app/StockBase/CollaboratorBase.js))***
 
 <p align="center">
 <img src="/assets/padroes/decorator/collaboratorBase.png" class="codes-prints" />
