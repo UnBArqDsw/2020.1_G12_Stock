@@ -7,8 +7,9 @@ Utilizaremos alguns dos métodos GRASPs em nosso projeto, dentre eles está o Co
 | Data | Versão | Descrição | Autor(es) |
 |:----:|:------:|:---------:|:---------:|
 | 19/10/2020 | 1.0 | Criação do documento e adição do tópico Controller | Micaella Gouveia |
-| 19/10/2020 | 1.1 | Adição do tópico Polimorfismo | Micaella Gouveia |
-| 19/10/2020 | 1.2 | Adição do tópico Especialista | Micaella Gouveia |
+| 19/10/2020 | 1.1 | Adição do tópico Polimorfismo e Especialista | Micaella Gouveia |
+| 22/10/2020 | 1.2 | Implementação dos padrões grasps | Gabriel Davi e Pedro Igor |
+| 23/10/2020 | 1.3 | Adição dos exemplos de uso | Micaella Gouveia |  
 
 ## Controllers
 Para a implementação das rotas da aplicação, estamos utilizando controllers, que são responsáveis em receber e tratar os dados das requisições. Todas as nossas requisições serão tratadas por suas controllers específicas.

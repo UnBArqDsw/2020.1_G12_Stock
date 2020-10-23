@@ -6,8 +6,9 @@ Estamos utilizando o padrão criacional Singleton para a instância única da ap
 ## Histórico de Revisões
 | Data | Versão | Descrição | Autor(es) |
 |:----:|:------:|:---------:|:---------:|
-| 19/10/2020 | 1.0 | Criação do documento e adição do tópico singleton | Micaella Gouveia |
-| 19/10/2020 | 1.1 | Linkagem para github | Micaella Gouveia |
+| 18/10/2020 | 1.0 | Implementação do padrão Singleton | Gabriel Davi e Pedro Igor |
+| 19/10/2020 | 1.1 | Criação do documento e adição do tópico Singleton | Micaella Gouveia |
+| 19/10/2020 | 1.2 | Linkagem para github | Micaella Gouveia |
 
 ## Banco de Dados
 

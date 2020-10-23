@@ -8,8 +8,9 @@ Este padrão está sendo utilizado para fazer a autenticação do [usuário](Mod
 | Data | Versão | Descrição | Autor(es) |
 |:----:|:------:|:---------:|:---------:|
 | 17/10/2020 | 1.0 | Criação do documento e adição da Hierarquia de [Usuários](Modeling/objeto?id=usuário) | Micaella Gouveia |
-| 17/10/2020 | 1.1 | Adição da autenticação e léxicos | Micaella Gouveia |
-| 20/10/2020 | 1.2 | Adição dos links para github e atualização das imagens de autenticação | Micaella Gouveia |
+| 16/10/2020 | 1.1 | Implementação da Autenticação de [Usuários](Modeling/objeto?id=usuário)| Gabriel Davi |
+| 17/10/2020 | 1.2 | Adição da Autenticação e léxicos | Micaella Gouveia |
+| 20/10/2020 | 1.3 | Adição dos links para github e atualização das imagens de autenticação | Micaella Gouveia |
 
 
 ## Autenticação de Usuários

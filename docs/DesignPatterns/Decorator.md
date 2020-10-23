@@ -6,9 +6,10 @@ Para nossa aplicação, decidimos utilizar o padrão estrutural Decorate para a 
 ## Histórico de Revisões
 | Data | Versão | Descrição | Autor(es) |
 |:----:|:------:|:---------:|:---------:|
-| 19/10/2020 | 1.0 | Criação do documento e adição da Base do [Sequelize](Modeling/objeto?id=Sequelize) | Micaella Gouveia |
-| 19/10/2020 | 1.1 | Linkagem dos Léxicos | Micaella Gouveia |
-| 19/10/2020 | 1.2 | Adição dos links para github | Micaella Gouveia |
+| 17/10/2020 | 1.0 | Implementação do padrão Decorator | Gabriel Davi |  
+| 19/10/2020 | 1.1 | Criação do documento e adição da Base do [Sequelize](Modeling/objeto?id=Sequelize) | Micaella Gouveia |
+| 19/10/2020 | 1.2 | Linkagem dos Léxicos | Micaella Gouveia |
+| 19/10/2020 | 1.3 | Adição dos links para github | Micaella Gouveia |
 
 
 ## Sequelize
