@@ -95,6 +95,9 @@ Um COLLABORATOR por ter um e somente um ACESS_LEVEL e um ACESS_LEVEL pode ter ne
 Um DECREASES por ter um e somente um DECREASES_TYPE e um DECREASES_TYPE pode ter nenhum ou vários DECREASES.<br>
 **Cardinalidade -> n:1**
 
+**COMPANY** - creates - **CATEGORY**<br>
+Uma COMPANY pode criar zero ou mais CATEGORY e um CATEGORY pode ser gerada por uma única COMPANY.<br>
+**Cardinalidade -> 1:n**
 
 ## Diagrama Entidade Relacionamento (DER)
 
@@ -713,6 +716,13 @@ Um DECREASES por ter um e somente um DECREASES_TYPE e um DECREASES_TYPE pode ter
           <td class="s1" dir="ltr">integer</td>
           <td class="s1" dir="ltr">variável</td>
           <td class="s1" dir="ltr">Número Identificador da categoria</td>
+      </tr>
+      <tr style="height:20px;">
+          <td class="s1" dir="ltr">idCompany</td>
+          <td class="s1" dir="ltr">chave estrangeira<br>obrigatório</td>
+          <td class="s1" dir="ltr">integer</td>
+          <td class="s1" dir="ltr">variável</td>
+          <td class="s1" dir="ltr">Número Identificador da empresa</td>
       </tr>
       <tr style="height:20px;">
           <td class="s1" dir="ltr">name</td>
