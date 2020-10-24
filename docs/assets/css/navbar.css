@@ -1,5 +1,5 @@
 .app-nav {
-    color: #BDBDBD;
+    color: #E62C38;
 }
 
 .github-corner {
@@ -13,8 +13,8 @@
     flex-direction: column;
     justify-content: flex-start;
     transition: all .25s;
-    /* background-color: #ac1c1c; */
-    border: 1.2px solid #BDBDBD;
+     background-color: #FFFFFF; 
+    border: 1.2px solid #E0E0E0;
     border-radius: .2rem;
     font-family: Montserrat;
     font-weight: 600;
