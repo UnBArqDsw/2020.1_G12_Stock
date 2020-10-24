@@ -15,6 +15,7 @@ Diagrama produzido com a ferramenta a ferramenta [Draw.io](https://app.diagrams.
 * Casos de uso
 * Relacionamentos
 
+### Diagrama (V.0)
 ![caso 7](../../../assets/diagramas/casosUso/caso7.png)
 
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/casosUso/caso7.pdf">Arquivo em PDF</a>
