@@ -14,6 +14,7 @@ O padrão GoF Comportamental resumidamente atua sobre qual o comportamento das e
 |:----:|:------:|:---------:|:---------:|
 | 02/10/2020 | 1.0 | Criação do documento | Gabriel Alves |
 | 16/10/2020 | 1.1 | Adição do Padrão Cadeia de Resposabilidades | Micaella Gouveia |
+| 19/10/2020 | 1.2 | Adição do Padrão Iterator | Micaella Gouveia |
 
 ## Strategy
 
@@ -122,7 +123,7 @@ Sim, caso precisemos fazer uma operação em todos os elementos de uma estrutura
 Diagrama de classes.
 
 
-## Cadeia de Responsabilidades
+## Chain of Responsibility
 Padrão que permite passar solicitações ao longo de uma cadeia de manipuladores. Ao receber uma solicitação, cada manipulador decide processar a solicitação ou passá-la para o próximo manipulador na cadeia. Ele evita o acoplamento do remetente de uma solicitação ao seu destinatários, dando a mais de um objeto a chance de tratar a solicitação. Encadeia os objetos receptores e passa a solicitação ao longo da cadeia até que um objeto a trate.
 
 ![Cadeia de Responsabilidade](../../assets/img/estudo/gof-comportamental/cadeiaResponsabilidade.png)
@@ -150,6 +151,30 @@ Essas rotas podem se aplicar tanto para acesso à páginas, como a página de co
 ### Quais documentos necessitam de refatoração para implementação deste padrão?
 Principalmente o Diagrama de classes, Diagramas de Casos de Uso. Os diagramas de comunicação e atividades possuem as especificações dos usuários, mas acho que não seria necessário modificar, pois essas especificações continuarão existindo, o que mudará será apenas a dependência entre as classes, que não exisitirá mais.
 
+## Iterator
+
+Permite percorrer os elementos de uma coleção sem expor sua representação subjacente (lista, pilha, árvore etc.). A ideia principal do padrão é extrair o comportamento de passagem de uma coleção para um objeto separado denominado iterador .
+
+![Iterator](../../assets/img/estudo/gof-comportamental/iterator.png)
+
+Além de implementar o algoritmo em si, um objeto iterador encapsula todos os detalhes do percurso, como a posição atual e quantos elementos faltam para o final. Por causa disso, vários iteradores podem passar pela mesma coleção ao mesmo tempo, independentemente uns dos outros. Todos os iteradores devem implementar a mesma interface. Isso torna o código do cliente compatível com qualquer tipo de coleção ou qualquer algoritmo de passagem, desde que haja um iterador adequado. Se você precisa de uma maneira especial de percorrer uma coleção, basta criar uma nova classe iteradora, sem ter que alterar a coleção ou o cliente.
+
+### Pontos Positivos
+* Aplica o princípio da responsabilidade única.
+* Aplica o princípio de aberto/fechado.
+* Possibilidade de iterar na mesma coleção em paralelo pois cada objeto possui seu próprio estado de iteração.
+
+### Pontos Negativos
+* Aplicar o padrão pode ser um exagero se o aplicativo funcionar com coleções simples.
+* Usá-lo pode ser menos eficiente do que passar por elementos de algumas coleções especializadas diretamente.
+
+### É possível adaptar a nossa forma de organização de projeto com esse padrão?
+Sim, é possível utilizá-lo para a listagem de produtos e seus filtros de categoria, preço, enter outros.
+
+
+### Quais documentos necessitam de refatoração para implementação deste padrão?
+Por possuir uma interface e relação com uma classe, é necessário modificar o diagrama de Classes.
+
 ## Referências
 - GOFS COMPORTAMENTAIS - **Milene Serrano** - Disponível em: <https://aprender3.unb.br/pluginfile.php/26810/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20GoFs%20Estruturais%20-%20Profa.%20Milene.pdf>. Último acesso em 02/10/2020.
 
@@ -160,3 +185,5 @@ Principalmente o Diagrama de classes, Diagramas de Casos de Uso. Os diagramas de
 - Chain of Responsibility. Disponível em: <https://refactoring.guru/design-patterns/chain-of-responsibility>. Último acesso em: 16/10/2020.
 
 - Chain Of Responsibility Teoria. Disponível em: <https://www.youtube.com/watch?v=AdzLq9FVTXs&ab_channel=Ot%C3%A1vioMiranda>. Último acesso em 16/10/2020.
+
+- Iterator. Disponível em: <https://refactoring.guru/design-patterns/iterator>. Último acesso em 19/10/2020.

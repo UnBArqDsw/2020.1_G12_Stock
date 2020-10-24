@@ -11,7 +11,7 @@
 | [**#119**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/119) | [Documento de escolha das tecnologias](Modeling/DescricaoArquitetural) | 3 | Gabriel Alves | 
 | [**#129**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/129) | Refatoração dos Diagramas | - | Micaella Gouveia e Sofia Patrocínio |
 <<<<<<< HEAD
-| [**#130**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/130) | Configuração do Sequelize | 8 | Gabriel Davi e Pedro Igor |
+| [**#130**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/130) | Configuração do [Sequelize](Modeling/objeto?id=Sequelize) | 8 | Gabriel Davi e Pedro Igor |
 | [**#131**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/131) | [Adição do Dicionário de Dados](Modeling/Diagrams/EntidadeRelacionamento?id=dicionário-de-dados) | 8 | Gabriel Alves |
 | [**#130**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/130) | Configuração do [Sequelize](Modeling/objeto?id=Sequelize) | 8 | Gabriel Davi e Pedro Igor |
 | [**#131**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/131) | Adição do Dicionário de Dados | 8 | Gabriel Alves |

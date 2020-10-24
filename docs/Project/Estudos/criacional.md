@@ -7,6 +7,8 @@ Um dos fatores que afetam o custo de manutenção/evolução de um sistema é a 
 |:----:|:------:|:---------:|:---------:|
 | 02/10/2020 | 1.0 | Criação do documento e inserção dos estudos de Factory Method. | Micaella Gouveia |
 | 02/10/2020 | 1.1 | Inserção dos estudos de Abstract Factory. | Micaella Gouveia |
+| 06/10/2020 | 1.2 | Inserção de melhorias nos estudos de factory method e abstract factory | Pedro Igor |
+| 19/10/2020 | 1.3 | Inserção dos estudos de Singleton | Micaella Gouveia |
 
 ## Factory Method
 
@@ -91,9 +93,32 @@ De forma geral este padrão abstrai determinadas classes específicas sem descon
 
 Principalmente o Diagrama de Classes, pois as relações e interfaces teriam a lógica de fábrica abstrata.
 
+
+## Singleton
+Singleton é um padrão de design criativo que permite garantir que uma classe tenha apenas uma instância, ao mesmo tempo que fornece um ponto de acesso global para essa instância. Esse padrão certifica que uma classe tenha apenas uma única instância e fornece um ponto de acesso global para essa instância.
+
+![singleton](../../assets/img/estudo/gof-criacional/singleton1.png)
+
+### Pontos Positivos
+* Certeza de que uma classe possui apenas uma única instância.
+* Ganho de um ponto de acesso global para essa instância.
+* O objeto singleton é inicializado apenas quando é solicitado pela primeira vez.
+
+### Pontos Negativos
+* Viola o princípio da responsabilidade única . O padrão resolve dois problemas no momento.
+* O padrão Singleton pode mascarar um projeto ruim, por exemplo, quando os componentes do programa sabem muito sobre os outros.
+* O padrão requer tratamento especial em um ambiente multithread para que vários threads não criem um objeto singleton várias vezes.
+
+### É possível adaptar a nossa forma de organização de projeto com esse padrão?
+Sim, seria possível utilizá-lo para a instanciação do banco de dados com o backend da aplicação.
+
+### Quais documentos necessitam de refatoração para implementação deste padrão?
+Ele envolve a criação de uma classe responsável pela inicialização do banco, então modificaria o diagrama de Classes.
+
 ## Referências
 - Livro: Use a Cabeça! Padrões de Projetos - **Elisabeth Freeman, Eric Freeman**, Editora Alta Books, Ano 2007 2ª Edição
-* Introdução aos padrões criacionais:<https://www.devmedia.com.br/introducao-aos-padroes-criacionais-abstract-factory-factory-method-prototype-e-singleton/21249>. Último acesso em 02/10/2020.
+* Introdução aos padrões criacionais. Disponível em: <https://www.devmedia.com.br/introducao-aos-padroes-criacionais-abstract-factory-factory-method-prototype-e-singleton/21249>. Último acesso em 02/10/2020.
 * Vídeo aulas da professora Milene (acesso restrito para os alunos da disciplina). Último acesso em 02/10/2020.
-* DevMedia: Patterns - Factory Method <https://www.devmedia.com.br/patterns-factory-method/18954>. Último acesso em 06/10/2020.
-* Geeks For Geeks: Abstract Factory Pattern <https://www.geeksforgeeks.org/abstract-factory-pattern/>. Último acesso em 06/10/2020.
+* DevMedia: Patterns - Factory Method. Disponível em:  <https://www.devmedia.com.br/patterns-factory-method/18954>. Último acesso em 06/10/2020.
+* Geeks For Geeks: Abstract Factory Pattern. Disponível em:  <https://www.geeksforgeeks.org/abstract-factory-pattern/>. Último acesso em 06/10/2020.
+* Singleton. Disponível em:  <https://refactoring.guru/design-patterns/singleton>. Último acesso em 19/10/2020.

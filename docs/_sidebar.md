@@ -9,6 +9,7 @@
     - [Protótipo de Alta Fidelidade](Product/PrototipoAlta.md)
 - **Projeto**
   - [Metodologias](Project/Metodologias.md)
+  - [Descrição Arquitetural](Modeling/DescricaoArquitetural.md)
   - [Estimativas](Project/Evaluation.md)
   - [Modelagem BPMN](Project/ModelagemBPMN.md)
   - [Sprints](Index/sprintsIndex.md)
@@ -61,4 +62,23 @@
     - [Dia 1 - Diagrama de Classes e Diagrama de Componentes](Modeling/Diagrams/dias/dia1.md)
     - [Dia 2 - Diagrama de Entidade de Relacionamento e Diagrama de Pacotes](Modeling/Diagrams/dias/dia2.md)
     - [Dia 3 - Diagrama de Atividades e Diagrama de Estados](Modeling/Diagrams/dias/dia3.md)
-    - [Dia 4 - Diagrama de Sequência e Diagrama de Comunicação](Modeling/Diagrams/dias/dia4.md) 
+    - [Dia 4 - Diagrama de Sequência e Diagrama de Comunicação](Modeling/Diagrams/dias/dia4.md)
+- **Padrões de Projeto** 
+  - **Estudos**
+    - [Estudo Dirigido](Project/EstudoDirigido.md)
+    - [GRASP](Project/Estudos/GRASP.md)
+    - [GoF Criacional](Project/Estudos/criacional.md)
+    - [GoF Estrutural](Project/Estudos/estrutural.md)
+    - [GoF Comportamental](Project/Estudos/comportamental.md)
+    - [Exemplificação dos Padrões de Projeto](Project/ExemplificacaoPadroesDeProjeto.md)
+
+  - **Aplicação**
+    - [GRASP](DesignPatterns/GRASP.md)
+    - [Factory Method](DesignPatterns/FactoryMethod.md)
+    - [Chain of Responsibility](DesignPatterns/ChainResponsibility.md)
+    - [Decorator](DesignPatterns/Decorator.md)
+    - [State](DesignPatterns/State.md)
+    - [Iterator](DesignPatterns/Iterator.md)
+    - [Facade](DesignPatterns/Facade.md)
+    - [Singleton](DesignPatterns/Singleton.md)
+    
