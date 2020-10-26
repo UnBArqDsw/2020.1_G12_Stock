@@ -11,7 +11,7 @@ Também conhecido como diagrama de colaboração, o diagrama de comunicação mo
 | 26/09/2020 | 1.2 | Criação dos diagramas | Sofia Patrocínio |
 | 28/09/2020 | 1.3 | Adição dos áudios e linkagem dos léxicos | Sofia Patrocínio |
 | 12/10/2020 | 1.4 | Adição dos métodos aos diagramas | Sofia Patrocínio |
-| 26/10/2020 | 1.5 | Atualização do diagrama conforme padrões implementados (Diagrama V.3)| Micaella Gouveia e Sofia Patrocínio |
+| 26/10/2020 | 1.5 | Atualização do diagrama conforme padrões implementados (Diagrama Versão 2)| Micaella Gouveia e Sofia Patrocínio |
 
 ## Realização
 O diagrama foi produzido pelo [LucidChart](https://www.lucidchart.com/). Nele há quadro, objetos, linhas de vida e setas na direção da comunicação, bem como mensagens trocadas.
