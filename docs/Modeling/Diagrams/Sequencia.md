@@ -33,30 +33,23 @@ Representar ação:
 | 28/09/2020 | 1.2 | Criação dos diagramas | Sofia Patrocínio |
 | 28/09/2020 | 1.3 | Adição dos áudios e linkagem dos léxicos | Sofia Patrocínio |
 | 12/10/2020 | 1.4 | Adição dos métodos aos diagramas | Sofia Patrocínio |
+| 26/10/2020 | 1.5 | Atualização do diagrama conforme padrões implementados (Diagrama V.3)| Micaella Gouveia e Sofia Patrocínio |
 
 ## Realização
 O diagrama foi produzido pelo [LucidChart](https://www.lucidchart.com/). Nele há quadro, objetos, linhas de vida e setas na direção da comunicação, bem como mensagens trocadas.
 
-## Diagramas Versão 1
+## Diagramas Versão 2
 
 * **Criação de Colaborador**
-![createCollaborator](../../assets/diagramas/sequencia/CreateCollaboratorV1.png)
+![createCollaborator](../../assets/diagramas/sequencia/CreateCollaboratorV2.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequencia/CreateCollaborator.pdf">Arquivo em PDF</a>
 
 <audio controls>
   <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/sequencia/CreateCollaborator.m4a" type="audio/mpeg">
 </audio>
 
-* **Criação de [Administradores](Modeling/objeto?id=Admin)**
-![createAdmin](../../assets/diagramas/sequencia/CreateAdminV1.png)
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequencia/CreateAdmin.pdf">Arquivo em PDF</a>
-
-<audio controls>
-  <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/sequencia/CreateAdmin.m4a" type="audio/mpeg">
-</audio>
-
 * **[Adição](Modeling/verbo?id=Cadastrar-Produto) de [Produto](Modeling/objeto?id=Produto) ao Estoque**
-![increaseProduct](../../assets/diagramas/sequencia/IncreaseProductV1.png)
+![increaseProduct](../../assets/diagramas/sequencia/IncreaseProductV2.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/sequencia/IncreaseProduct.pdf">Arquivo em PDF</a>
 
 <audio controls>
@@ -78,6 +71,25 @@ O diagrama foi produzido pelo [LucidChart](https://www.lucidchart.com/). Nele h�
 <audio controls>
   <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/sequencia/SendFeedback.m4a" type="audio/mpeg">
 </audio>
+
+## Diagramas Versão 1
+
+* **Criação de Colaborador**
+![createCollaborator](../../assets/diagramas/sequencia/CreateCollaboratorV1.png)
+
+
+* **Criação de [Administradores](Modeling/objeto?id=Admin)**
+![createAdmin](../../assets/diagramas/sequencia/CreateAdminV1.png)
+
+* **[Adição](Modeling/verbo?id=Cadastrar-Produto) de [Produto](Modeling/objeto?id=Produto) ao Estoque**
+![increaseProduct](../../assets/diagramas/sequencia/IncreaseProductV1.png)
+
+* **[Baixa](Modeling/verbo?id=Baixa-em-Produto) de [Produto](Modeling/objeto?id=Produto)**
+![productSale](../../assets/diagramas/sequencia/ProductSaleV1.png)
+
+* **Envio de [Feedback](/Modeling/verbo?id=feedback)**
+![sendFeedback](../../assets/diagramas/sequencia/SendFeedbackV1.png)
+
 
 ## Diagramas Versão 0
 

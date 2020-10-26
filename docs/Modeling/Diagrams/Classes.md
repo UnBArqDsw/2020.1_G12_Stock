@@ -12,7 +12,7 @@ Diagramas de classes tem como principal objetivo mapear de forma clara a estrutu
 | 25/09/2020 | 1.3 | Atualização do diagrama de classes conforme [feedback](Modeling/verbo?id=feedback) da professora Milene (Diagrama V.1) | Micaella Gouveia |
 | 27/09/2020 | 1.4 | Adição do áudio explicativo | Micaella Gouveia |
 | 15/10/2020 | 1.5 | Correção da relação entre Collaborator e Feedback (Diagrama V.2) - Correção feita pela professora Milene na Entrega 2 | Micaella Gouveia |
-| 24/10/2020 | 1.6 | Atualização do diagrama conforme padrões implementados (Diagrama V.3)| Micaella Gouveia e Sofia Patrocínio|
+| 24/10/2020 | 1.6 | Atualização do diagrama conforme padrões implementados (Diagrama V.3)| Micaella Gouveia e Sofia Patrocínio |
 
 ## Realização
 O diagrama foi produzido pelo [Draw.io](https://app.diagrams.net/). Nele há todas as classes do nosso sistema, contendo seus atributos e métodos, sendo ocultados métodos de Setter e Getter, além dos seus relacionamentos e cardinalidade.
