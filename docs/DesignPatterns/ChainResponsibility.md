@@ -20,12 +20,12 @@ Para assegurar que o [usuário](Modeling/objeto?id=usuário) que tenta entrar na
 
 *Middleware de autenticação **([Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/app/middlewares/Authorization.js))***
 <p align="center">
-<img src="/assets/padroes/chainResponsibility/auth.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/chainResponsibility/auth.png" class="codes-prints" />
 </p>
 
 *Rota usando o middleware de Autenticação **([Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/routes/Collaborator.routes.js))***
 <p align="center">
-<img src="/assets/padroes/chainResponsibility/routes.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/chainResponsibility/routes.png" class="codes-prints" />
 </p>
 
 ## Hierarquia de Usuários
