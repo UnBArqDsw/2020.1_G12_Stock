@@ -8,12 +8,21 @@
 | 30/09/2020 | 1.1 | Adição da descrição, atores, pré-requisitos, fluxos e pós condição | Micaella Gouveia |
 | 30/09/2020 | 1.2 | Linkagem dos léxicos | Micaella Gouveia |
 | 01/10/2020 | 1.3 | Adição do diagrama | Micaella Gouveia |
+| 24/10/2020 | 1.4 | Atualização do diagrama conforme padrões implementados (Diagrama V.1)| Micaella Gouveia e Sofia Patrocínio|
 
 ## Diagrama - UC01
 Diagrama produzido com a ferramenta a ferramenta [Draw.io](https://app.diagrams.net/). Ele é composto por:
 * Atores
 * Casos de uso
 * Relacionamentos
+
+### Diagrama (V.1)
+
+![caso 1](../../../assets/diagramas/casosUso/v1/caso1V1.png)
+
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/casosUso/v1/caso1V1.pdf">Arquivo em PDF</a>
+
+### Diagrama (V.0)
 
 ![caso 1](../../../assets/diagramas/casosUso/caso1.png)
 

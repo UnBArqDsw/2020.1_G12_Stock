@@ -8,6 +8,7 @@
 | 30/09/2020 | 1.1 | Adição da descrição, atores, pré-requisitos, fluxos e pós condição | Micaella Gouveia |
 | 30/09/2020 | 1.2 | Linkagem dos léxicos | Micaella Gouveia |
 | 02/10/2020 | 1.3 | Adição do diagrama | Micaella Gouveia |
+| 24/10/2020 | 1.4 | Atualização do diagrama conforme padrões implementados (Diagrama V.1)| Micaella Gouveia e Sofia Patrocínio|
 
 ## Diagrama - UC10
 Diagrama produzido com a ferramenta a ferramenta [Draw.io](https://app.diagrams.net/). Ele é composto por:
@@ -15,6 +16,12 @@ Diagrama produzido com a ferramenta a ferramenta [Draw.io](https://app.diagrams.
 * Casos de uso
 * Relacionamentos
 
+### Diagrama (V.1)
+![caso 10](../../../assets/diagramas/casosUso/v1/caso10V1.png)
+
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/casosUso/v1/caso10V1.pdf">Arquivo em PDF</a>
+
+### Diagrama (V.0)
 ![caso 10](../../../assets/diagramas/casosUso/caso10.png)
 
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/casosUso/caso10.pdf">Arquivo em PDF</a>

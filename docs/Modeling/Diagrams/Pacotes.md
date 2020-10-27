@@ -10,6 +10,7 @@ O Diagrama de Pacotes tem por finalidade demonstrar a estrutura de diretórios e
 | 25/09/2020 | 1.1 | Criação do documento. | Pedro Igor |
 | 25/09/2020 | 1.2 | Finalização e adição do Diagrama. | Pedro Igor |
 | 14/10/2020 | 1.3 | Adição de uma segunda versão mostrando os níveis da aplicação. | Pedro Igor |
+| 24/10/2020 | 1.4 | Atualização do diagrama conforme padrões implementados (Diagrama V.2)| Micaella Gouveia e Sofia Patrocínio|
 
 ## Realização
 
@@ -17,19 +18,24 @@ O diagrama foi produzido pelo [Draw.io](https://draw.io). Nele há todas os subs
 
 ## Diagrama
 
-### Versão 1
-![Diagrama de Pacotes](../../assets/diagramas/Diagrama_de_Pacotes_V2.png)
+### Diagrama de Pacotes(V.2)
+![Diagrama de Pacotes](../../assets/diagramas/pacotes/DiagramaPacotesV2.png)
 
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/pacotes/Diagrama_de_Pacotes_V2.pdf">Arquivo em PDF</a><br><br>
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/pacotes/DiagramaPacotesV2.pdf">Arquivo em PDF</a><br><br>
+
+### Diagrama de Pacotes(V.1)
+![Diagrama de Pacotes](../../assets/diagramas/pacotes/DiagramaPacotesV1.png)
+
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/pacotes/DiagramaPacotesV1.pdf">Arquivo em PDF</a><br><br>
 
 <audio controls>
   <source src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/audios/diagramas/pacotes/Diagrama_de_Pacotes.wav" type="audio/mpeg">
 </audio>
 
-### Versão 0
-![Diagrama de Pacotes](../../assets/diagramas/Diagrama_de_Pacotes.png)
+### Diagrama de Pacotes(V.0)
+![Diagrama de Pacotes](../../assets/diagramas/pacotes/DiagramaPacotesV0.png)
 
-<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/pacotes/Diagrama_de_Pacotes.pdf">Arquivo em PDF</a>
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/pacotes/DiagramaPacotesV0.pdf">Arquivo em PDF</a>
 
 
 ## Referências
