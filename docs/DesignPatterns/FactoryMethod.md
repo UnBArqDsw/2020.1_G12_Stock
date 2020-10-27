@@ -9,7 +9,7 @@ Para nossa aplicação, decidimos utilizar o padrão criacional Factory Method p
 | 14/10/2020 | 1.0 | Implementação do Factory Method | Micaella Gouveia e Sofia Patrocínio |
 | 17/10/2020 | 1.1 | Criação do documento e adição da Hierarquia de [Usuários](Modeling/objeto?id=usuário) | Micaella Gouveia |
 | 17/10/2020 | 1.2 | Adição dos [produtos](Modeling/objeto?id=Produto) perecíveis/não perecíveis e adição dos léxicos| Micaella Gouveia |
-| 26/10/2020 | 1.4 |        Revisão texto             | Sofia Patrocínio |
+| 26/10/2020 | 1.3 |        Revisão texto             | Sofia Patrocínio |
 
 ## Hierarquia de Usuários
 Nossa ideia inicial era fazer uma fábrica de colaboradores, podendo ele ser [Seller](Modeling/objeto?id=Seller), [Admin](Modeling/objeto?id=Admin) ou [Owner](Modeling/objeto?id=Owner). Criamos então uma classe abstrata Collaborator que possuiria todos os atributos compartilhados entre as classes, e cada classe concreta, [Seller](Modeling/objeto?id=Seller), [Admin](Modeling/objeto?id=Admin) e [Owner](Modeling/objeto?id=Owner), possuiria seus métodos específicos. 

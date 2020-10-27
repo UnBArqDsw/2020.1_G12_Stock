@@ -50,7 +50,7 @@ Ao instanciar um objeto da classe JogadorFutebol, ainda que de forma inocente, e
 
 ### É possível adaptar a nossa forma de organização de projeto com esse padrão?
 
-É possível, porém não acredito que seja a melhor escolha. Se transformarmos nossa classe Colaborator em uma fábrica, e dela partir a criação de Collaborator, Admin e Owner, teríamos uma fábrica de colaboradores com tipos específicos. Porém no nosso caso, Owner possui os atributos e métodos de Admin, que possui os atributos e métodos de Collaborator, e separá-los no mesmo nível de hierarquia não seria eficiente, pois estaríamos duplicando código. Além de que as classes Admin e Owner possui métodos específicos que demandam associações com outras classes, como Analisys, e essa associação não pode ser trazida para o nível de Collaborator.
+É possível, porém não acredito que seja a melhor escolha. Se transformarmos nossa classe Collaborator em uma fábrica, e dela partir a criação de Collaborator, Admin e Owner, teríamos uma fábrica de colaboradores com tipos específicos. Porém no nosso caso, Owner possui os atributos e métodos de Admin, que possui os atributos e métodos de Collaborator, e separá-los no mesmo nível de hierarquia não seria eficiente, pois estaríamos duplicando código. Além de que as classes Admin e Owner possui métodos específicos que demandam associações com outras classes, como Analisys, e essa associação não pode ser trazida para o nível de Collaborator.
 
 ### Quais documentos necessitam de refatoração para implementação deste padrão?
 
