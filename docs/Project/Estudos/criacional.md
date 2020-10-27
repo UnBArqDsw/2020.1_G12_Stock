@@ -7,6 +7,9 @@ Um dos fatores que afetam o custo de manutenção/evolução de um sistema é a 
 |:----:|:------:|:---------:|:---------:|
 | 02/10/2020 | 1.0 | Criação do documento e inserção dos estudos de Factory Method. | Micaella Gouveia |
 | 02/10/2020 | 1.1 | Inserção dos estudos de Abstract Factory. | Micaella Gouveia |
+| 06/10/2020 | 1.2 | Inserção de melhorias nos estudos de Factory Method e Abstract Factory | Pedro Igor |
+| 19/10/2020 | 1.3 | Inserção dos estudos de Singleton | Micaella Gouveia |
+| 26/10/2020 | 1.6 |        Revisão texto              | Sofia Patrocínio |
 
 ## Factory Method
 
@@ -17,9 +20,9 @@ As classes nesse diagrama são:
 1. **Product**: Define a interface para objetos que o método de fábrica cria. *(Exemplo: Documento)*
     - Define atributos e métodos. Esses últimos abstratos ou programados de forma mais genérica, para um conjunto de objetos, os quais serão criados pelo factoryMethod().
 2. **ConcreteProduct**: implementa a interface Product. *(Exemplo:Relatório, Currículo)*
-    - Estende Product, especializamdo o que foi definido na superclasse.
+    - Estende Product, especializando o que foi definido na superclasse.
 3. **Creator**(também chamada de Factory pois cria os objetos de Product): declara o método factoryMethod() que retorna um objeto de Product. Pode chamar o método gerador para criar objetos do Product. *(Exemplo: Página)*
-    - Declara o factoryMethod(), o qual retorna um objeto do tipo Product. Pode definir também um implementação default do factoryMethod() que retorna um objeto ConcreteProduct default. Pode ainda chamar um factoryMethod() para criar um objeto de Product.
+    - Declara o factoryMethod(), o qual retorna um objeto do tipo Product. Pode definir também uma implementação default do factoryMethod() que retorna um objeto ConcreteProduct default. Pode ainda chamar um factoryMethod() para criar um objeto de Product.
 4. **ConcreteCreator**: sobrescreve o método gerador para criar objetos ConcreteProduct. *(Exemplo: PáginaDeHabilidades, PaginaProfissional, ...)*
     - Sobrescreve o factory method para retornar uma instância de ConcreteProduct.
 
@@ -47,7 +50,7 @@ Ao instanciar um objeto da classe JogadorFutebol, ainda que de forma inocente, e
 
 ### É possível adaptar a nossa forma de organização de projeto com esse padrão?
 
-É possível, porém não acredito que seja a melhor escolha. Se transformarmos nossa classe colaborator em uma fábrica, e dela partir a criação de Collaborator, Admin e Owner, teríamos uma fábrica de colaboradores com tipos específicos. Porém no nosso caso, Owner possui os atributos e métodos de Admin, que possui os atributos e métodos de Collaborator, e separá-los no mesmo nível de hierarquia não seria eficiente, pois estaríamos duplicando código. Além de que as classes Admin e Owner possui métodos específicos que demandam associações com outras classes, como Analisys, e essa associação não pode ser trazida para o nível de Collaborator.
+É possível, porém não acredito que seja a melhor escolha. Se transformarmos nossa classe Collaborator em uma fábrica, e dela partir a criação de Collaborator, Admin e Owner, teríamos uma fábrica de colaboradores com tipos específicos. Porém no nosso caso, Owner possui os atributos e métodos de Admin, que possui os atributos e métodos de Collaborator, e separá-los no mesmo nível de hierarquia não seria eficiente, pois estaríamos duplicando código. Além de que as classes Admin e Owner possui métodos específicos que demandam associações com outras classes, como Analisys, e essa associação não pode ser trazida para o nível de Collaborator.
 
 ### Quais documentos necessitam de refatoração para implementação deste padrão?
 
@@ -57,7 +60,7 @@ Principalmente o Diagrama de Classes, pois as relações e interfaces teriam a l
 
 Fornece uma interface para criar famílias de objetos relacionados ou dependentes sem especificar suas classes concretas. (Famílias de produtos seriam as hierarquias).
 
-Os participantes nesse diagrama são:
+Os participantes neste diagrama são:
 
 - **AbstractFactory**: Declara uma interface para operações de criação de produtos quaisquer. *(Ex: FábricaContinente)*
 - **ConcreteFactory**: Implementa as operações que criam objetos de produtos concretos (específicos). *(Ex: FábricaAfrica, FabricaAmerica)*
@@ -91,9 +94,32 @@ De forma geral este padrão abstrai determinadas classes específicas sem descon
 
 Principalmente o Diagrama de Classes, pois as relações e interfaces teriam a lógica de fábrica abstrata.
 
+
+## Singleton
+Singleton é um padrão de design criativo que permite garantir que uma classe tenha apenas uma instância, ao mesmo tempo que fornece um ponto de acesso global para essa instância. Esse padrão certifica que uma classe tenha apenas uma única instância e fornece um ponto de acesso global para essa instância.
+
+![singleton](../../assets/img/estudo/gof-criacional/singleton1.png)
+
+### Pontos Positivos
+* Certeza de que uma classe possui apenas uma única instância.
+* Ganho de um ponto de acesso global para essa instância.
+* O objeto singleton é inicializado apenas quando é solicitado pela primeira vez.
+
+### Pontos Negativos
+* Viola o princípio da responsabilidade única . O padrão resolve dois problemas no momento.
+* O padrão Singleton pode mascarar um projeto ruim, por exemplo, quando os componentes do programa sabem muito sobre os outros.
+* O padrão requer tratamento especial em um ambiente multithread para que vários threads não criem um objeto singleton várias vezes.
+
+### É possível adaptar a nossa forma de organização de projeto com esse padrão?
+Sim, seria possível utilizá-lo para a instanciação do banco de dados com o backend da aplicação.
+
+### Quais documentos necessitam de refatoração para implementação deste padrão?
+Ele envolve a criação de uma classe responsável pela inicialização do banco, então modificaria o diagrama de Classes.
+
 ## Referências
 - Livro: Use a Cabeça! Padrões de Projetos - **Elisabeth Freeman, Eric Freeman**, Editora Alta Books, Ano 2007 2ª Edição
-* Introdução aos padrões criacionais:<https://www.devmedia.com.br/introducao-aos-padroes-criacionais-abstract-factory-factory-method-prototype-e-singleton/21249>. Último acesso em 02/10/2020.
+* Introdução aos padrões criacionais. Disponível em: <https://www.devmedia.com.br/introducao-aos-padroes-criacionais-abstract-factory-factory-method-prototype-e-singleton/21249>. Último acesso em 02/10/2020.
 * Vídeo aulas da professora Milene (acesso restrito para os alunos da disciplina). Último acesso em 02/10/2020.
-* DevMedia: Patterns - Factory Method <https://www.devmedia.com.br/patterns-factory-method/18954>. Último acesso em 06/10/2020.
-* Geeks For Geeks: Abstract Factory Pattern <https://www.geeksforgeeks.org/abstract-factory-pattern/>. Último acesso em 06/10/2020.
+* DevMedia: Patterns - Factory Method. Disponível em:  <https://www.devmedia.com.br/patterns-factory-method/18954>. Último acesso em 06/10/2020.
+* Geeks For Geeks: Abstract Factory Pattern. Disponível em:  <https://www.geeksforgeeks.org/abstract-factory-pattern/>. Último acesso em 06/10/2020.
+* Singleton. Disponível em:  <https://refactoring.guru/design-patterns/singleton>. Último acesso em 19/10/2020.

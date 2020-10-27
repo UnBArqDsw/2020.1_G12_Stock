@@ -1,4 +1,4 @@
-# Estudo Dirigo para Padrões de Projeto
+# Estudo Dirigido para Padrões de Projeto
 
 Para o início do Módulo 3, o time decidiu dedicar a [Sprint 5](Sprints/planning/sprint5.md) para um estudo dirigido dos padrões de projeto elencados. A cada Sprint, rotacionamos os estudos para cada membro, a fim que todos tenham contato com todos os Padrões de Projeto.
 
@@ -12,6 +12,7 @@ Para o início do Módulo 3, o time decidiu dedicar a [Sprint 5](Sprints/plannin
 | 29/09/2020 |  1.3   |          Adição dos links para os estudos          | Micaella Gouveia |
 | 04/09/2020 |  1.4   |     Unificação do documento de Gof estrutural      |   Gabriel Davi   |
 | 05/10/2020 |  1.5   |      Adição da divisão de estudo da Sprint 6       | Micaella Gouveia |
+| 26/10/2020 |  1.6   |                 Revisão texto                      | Sofia Patrocínio |
 
 ## Metodologia
 
@@ -28,7 +29,7 @@ O grupo utilizará a ferramenta [Notion](https://www.notion.so/) para rascunho d
 
 ## Sprint 5 - Divisão para o grupo 
 
-Cada membro ficou responsável por um padrão de projeto, tendo cada um sua issue de desenvolvimento. Essa divisão ficou da seguinta forma:
+Cada membro ficou responsável por um padrão de projeto, tendo cada um sua issue de desenvolvimento. Essa divisão ficou da seguinte forma:
 
 | Padrão             | Detalhes                                  | Responsável      |
 | ------------------ | ----------------------------------------- | ---------------- |
@@ -36,7 +37,7 @@ Cada membro ficou responsável por um padrão de projeto, tendo cada um sua issu
 | GoF Criacional     | Factory Method, Abstract Factory e demais | Micaella Gouveia |
 | GoF Estrutural     | Adapter e Composite                       | Pedro Igor       |
 | GoF Estrutural     | Flyweight e demais                        | Gabriel Davi     |
-| GoF Comportamental | Stategy, Template Method e demais         | Gabriel Alves    |
+| GoF Comportamental | Strategy, Template Method e demais         | Gabriel Alves    |
 
 ## Sprint 6 - Divisão para o grupo 
 
