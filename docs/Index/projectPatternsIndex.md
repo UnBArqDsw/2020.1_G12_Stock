@@ -17,3 +17,4 @@
   - [Iterator](DesignPatterns/Iterator.md)
   - [Facade](DesignPatterns/Facade.md)
   - [Singleton](DesignPatterns/Singleton.md)
+  - [Adapter](DesignPatterns/Adapter.md)
