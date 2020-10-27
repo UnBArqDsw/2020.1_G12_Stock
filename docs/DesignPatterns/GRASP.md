@@ -18,13 +18,13 @@ Para a implementação das rotas da aplicação, estamos utilizando controllers,
 *Exemplo do uso da Controller (**[Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/app/controllers/CollaboratorController.js)**)*
 
 <p align="center">
-<img src="/assets/padroes/grasp/collaboratorController.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/grasp/collaboratorController.png" class="codes-prints" />
 </p>
 
 *Routes importando Controller (**[Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/routes/Collaborator.routes.js)**)*
 
 <p align="center">
-<img src="/assets/padroes/grasp/collaboratorRoutes.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/grasp/collaboratorRoutes.png" class="codes-prints" />
 </p>
 
 
@@ -34,13 +34,13 @@ Em algumas classes, criamos classes que lidam com abstrações de métodos. Temo
 *Exemplo de Polimorfismo na Classe Base **([Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/app/StockBase/Base.js))***
 
 <p align="center">
-<img src="/assets/padroes/decorator/decoratorBase.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/decorator/decoratorBase.png" class="codes-prints" />
 </p>
 
 *Collaborator herdando da Classe Base **([Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/app/StockBase/CollaboratorBase.js))***
 
 <p align="center">
-<img src="/assets/padroes/decorator/collaboratorBase.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/decorator/collaboratorBase.png" class="codes-prints" />
 </p>
 
 ## Especialista
@@ -48,10 +48,10 @@ Podemos evidenciar o uso do Especialista nos métodos de autenticação do usuá
 
 *Collaborator especialista da autenticação **([Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/app/models/Collaborator.js))***
 <p align="center">
-<img src="/assets/padroes/grasp/collaboratorEspecialista.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/grasp/collaboratorEspecialista.png" class="codes-prints" />
 </p>
 
 *Uso dos métodos especialistas de Collaborator **([Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/app/StockBase/CollaboratorBase.js))***
 <p align="center">
-<img src="/assets/padroes/grasp/collaboratorEspecialistaBase.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/grasp/collaboratorEspecialistaBase.png" class="codes-prints" />
 </p>

@@ -17,40 +17,40 @@ Facade pode ser reconhecida em uma classe que possui uma interface simples, mas 
 *Index de rotas recebe fachadas (**[Link para Github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/routes/index.routes.js)**)*
 
 <p align="center">
-<img src="/assets/padroes/facade/routeFacade.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/facade/routeFacade.png" class="codes-prints" />
 </p>
 
 
 *Rotas do Collaborator (**[Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/routes/Collaborator.routes.js)**)*
 
 <p align="center">
-<img src="/assets/padroes/facade/collaboratorRouteFacade.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/facade/collaboratorRouteFacade.png" class="codes-prints" />
 </p>
 
 *Rotas do Belongs (**[Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/routes/Belongs.routes.js)**)*
 
 <p align="center">
-<img src="/assets/padroes/facade/belongsRouteFacade.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/facade/belongsRouteFacade.png" class="codes-prints" />
 </p>
 
 
 *Rotas do Category (**[Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/routes/Category.routes.js)**)*
 
 <p align="center">
-<img src="/assets/padroes/facade/categoryRouteFacade.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/facade/categoryRouteFacade.png" class="codes-prints" />
 </p>
 
 
 *Rotas do Lot (**[Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/routes/Lot.routes.js)**)*
 
 <p align="center">
-<img src="/assets/padroes/facade/lotRouteFacade.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/facade/lotRouteFacade.png" class="codes-prints" />
 </p>
 
 
 *Rotas do Produto (**[Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/routes/Product.routes.js)**)*
 
 <p align="center">
-<img src="/assets/padroes/facade/productRouteFacade.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/facade/productRouteFacade.png" class="codes-prints" />
 </p>
 

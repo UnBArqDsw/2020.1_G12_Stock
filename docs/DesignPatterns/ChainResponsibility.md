@@ -36,10 +36,10 @@ Utilizamos os middlewares para fazer essa verificação. Assim como é feita a a
 
 *Middleware de Verificação de Nível de Acesso **([Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/app/middlewares/AccessLevel.js))***
 <p align="center">
-<img src="/assets/padroes/chainResponsibility/acessLevelMiddleware.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/chainResponsibility/acessLevelMiddleware.png" class="codes-prints" />
 </p>
 
 *Rota usando middleware de Nível de Acesso **([Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/routes/Category.routes.js))***
 <p align="center">
-<img src="/assets/padroes/chainResponsibility/categoryRouteMiddleware.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/chainResponsibility/categoryRouteMiddleware.png" class="codes-prints" />
 </p>

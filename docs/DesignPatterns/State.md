@@ -19,17 +19,17 @@ Um dos exemplos na aplicação é auxiliado com o uso do useContext, que possibi
 *Provider dos contexts em que possui a declaração das variáveis globais (**[Link para Github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Frontend/tree/devel/src/Contexts/AuthContext.js)**)*
 
 <p align="center">
-<img src="/assets/padroes/state/authContextState.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/state/authContextState.png" class="codes-prints" />
 </p>
 
 *Rota Index determinando espaço de atuação dos contexts(**[Link para Github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Frontend/tree/devel/src/Routes/index.js)**)*
 
 <p align="center">
-<img src="/assets/padroes/state/indexProviderState.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/state/indexProviderState.png" class="codes-prints" />
 </p>
 
 *Utilização do useState dos contexts para alterar document e password(**[Link para Github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Frontend/tree/devel/src/Pages/AuthPages/Login/index.js)**)*
 
 <p align="center">
-<img src="/assets/padroes/state/setState.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/state/setState.png" class="codes-prints" />
 </p>
