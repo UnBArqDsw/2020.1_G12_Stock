@@ -7,8 +7,9 @@ Um dos fatores que afetam o custo de manutenção/evolução de um sistema é a 
 |:----:|:------:|:---------:|:---------:|
 | 02/10/2020 | 1.0 | Criação do documento e inserção dos estudos de Factory Method. | Micaella Gouveia |
 | 02/10/2020 | 1.1 | Inserção dos estudos de Abstract Factory. | Micaella Gouveia |
-| 06/10/2020 | 1.2 | Inserção de melhorias nos estudos de factory method e abstract factory | Pedro Igor |
+| 06/10/2020 | 1.2 | Inserção de melhorias nos estudos de Factory Method e Abstract Factory | Pedro Igor |
 | 19/10/2020 | 1.3 | Inserção dos estudos de Singleton | Micaella Gouveia |
+| 26/10/2020 | 1.6 |        Revisão texto              | Sofia Patrocínio |
 
 ## Factory Method
 
@@ -19,9 +20,9 @@ As classes nesse diagrama são:
 1. **Product**: Define a interface para objetos que o método de fábrica cria. *(Exemplo: Documento)*
     - Define atributos e métodos. Esses últimos abstratos ou programados de forma mais genérica, para um conjunto de objetos, os quais serão criados pelo factoryMethod().
 2. **ConcreteProduct**: implementa a interface Product. *(Exemplo:Relatório, Currículo)*
-    - Estende Product, especializamdo o que foi definido na superclasse.
+    - Estende Product, especializando o que foi definido na superclasse.
 3. **Creator**(também chamada de Factory pois cria os objetos de Product): declara o método factoryMethod() que retorna um objeto de Product. Pode chamar o método gerador para criar objetos do Product. *(Exemplo: Página)*
-    - Declara o factoryMethod(), o qual retorna um objeto do tipo Product. Pode definir também um implementação default do factoryMethod() que retorna um objeto ConcreteProduct default. Pode ainda chamar um factoryMethod() para criar um objeto de Product.
+    - Declara o factoryMethod(), o qual retorna um objeto do tipo Product. Pode definir também uma implementação default do factoryMethod() que retorna um objeto ConcreteProduct default. Pode ainda chamar um factoryMethod() para criar um objeto de Product.
 4. **ConcreteCreator**: sobrescreve o método gerador para criar objetos ConcreteProduct. *(Exemplo: PáginaDeHabilidades, PaginaProfissional, ...)*
     - Sobrescreve o factory method para retornar uma instância de ConcreteProduct.
 
@@ -49,7 +50,7 @@ Ao instanciar um objeto da classe JogadorFutebol, ainda que de forma inocente, e
 
 ### É possível adaptar a nossa forma de organização de projeto com esse padrão?
 
-É possível, porém não acredito que seja a melhor escolha. Se transformarmos nossa classe colaborator em uma fábrica, e dela partir a criação de Collaborator, Admin e Owner, teríamos uma fábrica de colaboradores com tipos específicos. Porém no nosso caso, Owner possui os atributos e métodos de Admin, que possui os atributos e métodos de Collaborator, e separá-los no mesmo nível de hierarquia não seria eficiente, pois estaríamos duplicando código. Além de que as classes Admin e Owner possui métodos específicos que demandam associações com outras classes, como Analisys, e essa associação não pode ser trazida para o nível de Collaborator.
+É possível, porém não acredito que seja a melhor escolha. Se transformarmos nossa classe Colaborator em uma fábrica, e dela partir a criação de Collaborator, Admin e Owner, teríamos uma fábrica de colaboradores com tipos específicos. Porém no nosso caso, Owner possui os atributos e métodos de Admin, que possui os atributos e métodos de Collaborator, e separá-los no mesmo nível de hierarquia não seria eficiente, pois estaríamos duplicando código. Além de que as classes Admin e Owner possui métodos específicos que demandam associações com outras classes, como Analisys, e essa associação não pode ser trazida para o nível de Collaborator.
 
 ### Quais documentos necessitam de refatoração para implementação deste padrão?
 
@@ -59,7 +60,7 @@ Principalmente o Diagrama de Classes, pois as relações e interfaces teriam a l
 
 Fornece uma interface para criar famílias de objetos relacionados ou dependentes sem especificar suas classes concretas. (Famílias de produtos seriam as hierarquias).
 
-Os participantes nesse diagrama são:
+Os participantes neste diagrama são:
 
 - **AbstractFactory**: Declara uma interface para operações de criação de produtos quaisquer. *(Ex: FábricaContinente)*
 - **ConcreteFactory**: Implementa as operações que criam objetos de produtos concretos (específicos). *(Ex: FábricaAfrica, FabricaAmerica)*

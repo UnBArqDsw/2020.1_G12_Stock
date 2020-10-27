@@ -9,11 +9,12 @@ Para a mudança de estados de variáveis utilizamos o padrão comportamental Sta
 | 25/10/2020 | 1.0 | Implementação do padrão State | Gabriel Davi |
 | 26/10/2020 | 1.1 | Criação do documento e adição do tópico State | Micaella Gouveia |
 | 26/10/2020 | 1.1 | Adição dos prints e links para github | Micaella Gouveia |
+| 26/10/2020 | 1.2 |             Revisão texto             | Sofia Patrocínio |
 
 ## useState
-O framework React possui o useState, que é um hook específico do React que altera o estado interno de uma varíavel sem precisar implementar lógicas complexas. 
+O framework React possui o useState, que é um hook específico do React que altera o estado interno de uma variável sem precisar implementar lógicas complexas. 
 
-Um dos exemplos na aplicação é auxiliado com o uso do useContext, que possiblita a criação de variáveis globais que podem ser alteradas dento de todo o escopo que for determinado, tirando a necessidade de passar as informações por meio das props. O useContext é responsável em criar essas variáveis globais e utiliza o useState para que essas variáveis possam ser alteradas.
+Um dos exemplos na aplicação é auxiliado com o uso do useContext, que possibilita a criação de variáveis globais que podem ser alteradas dentro de todo o escopo que for determinado, tirando a necessidade de passar as informações por meio das props. O useContext é responsável em criar essas variáveis globais e utiliza o useState para que essas variáveis possam ser alteradas.
 
 *Provider dos contexts em que possui a declaração das variáveis globais (**[Link para Github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Frontend/tree/devel/src/Contexts/AuthContext.js)**)*
 

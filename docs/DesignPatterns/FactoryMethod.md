@@ -8,7 +8,8 @@ Para nossa aplicação, decidimos utilizar o padrão criacional Factory Method p
 |:----:|:------:|:---------:|:---------:|
 | 14/10/2020 | 1.0 | Implementação do Factory Method | Micaella Gouveia e Sofia Patrocínio |
 | 17/10/2020 | 1.1 | Criação do documento e adição da Hierarquia de [Usuários](Modeling/objeto?id=usuário) | Micaella Gouveia |
-| 17/10/2020 | 1.2 | Adição do [produtos](Modeling/objeto?id=Produto) perecíveis/não perecíveis e adição dos léxicos| Micaella Gouveia |
+| 17/10/2020 | 1.2 | Adição dos [produtos](Modeling/objeto?id=Produto) perecíveis/não perecíveis e adição dos léxicos| Micaella Gouveia |
+| 26/10/2020 | 1.4 |        Revisão texto             | Sofia Patrocínio |
 
 ## Hierarquia de Usuários
 Nossa ideia inicial era fazer uma fábrica de colaboradores, podendo ele ser [Seller](Modeling/objeto?id=Seller), [Admin](Modeling/objeto?id=Admin) ou [Owner](Modeling/objeto?id=Owner). Criamos então uma classe abstrata Collaborator que possuiria todos os atributos compartilhados entre as classes, e cada classe concreta, [Seller](Modeling/objeto?id=Seller), [Admin](Modeling/objeto?id=Admin) e [Owner](Modeling/objeto?id=Owner), possuiria seus métodos específicos. 
@@ -54,7 +55,7 @@ Ao analisar a invialibilidade do uso do Factory Method para a Hierarquia de [Usu
 Ele será detalhado em: [**Chain of Responsibility**](DesignPatterns/ChainResponsibility.md)
 
 ## Produtos Perecíveis/Não Perecíveis
-Nossa ideia inical era utilizar o padrão criacional Factory Method para a separação dos [produtos](Modeling/objeto?id=Produto) perecíveis e não perecíveis. Teríamos uma fábrica de produtos, podendo ser ele divido em perecível ou não perecível. A classe abstrata [produtos](Modeling/objeto?id=Produto) compartilharia seus atributos e métodos comuns e cada classe concreta possuiria seus próprios métodos.
+Nossa ideia inicial era utilizar o padrão criacional Factory Method para a separação dos [produtos](Modeling/objeto?id=Produto) perecíveis e não perecíveis. Teríamos uma fábrica de produtos, podendo ser ele divido em perecível ou não perecível. A classe abstrata [produtos](Modeling/objeto?id=Produto) compartilharia seus atributos e métodos comuns e cada classe concreta possuiria seus próprios métodos.
 
 Assim como não foi possível implementar esse padrão para a Hierarquia de [Usuários](Modeling/objeto?id=usuário), não foi possível neste caso também pela mesma razão anterior, no [Sequelize](Modeling/objeto?id=Sequelize) não é possível salvar classes abstratas, sendo inviável salvar as classes concretas no banco. 
 

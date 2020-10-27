@@ -4,23 +4,24 @@
 No desenvolvimento de Software é usual que os desenvolvedores acumulem soluções para os problemas que resolvem com frequência, e essas soluções são difíceis de serem desenvolvidas e podem aumentar a produtividade, qualidade e uniformidade do software. Dessa forma surgiram os padrões de projeto.
 
 Esse padrão foi descrito por Christopher Alexander, como: "Cada padrão descreve um problema que ocorre repetidas vezes em nosso ambiente, e então descreve o núcleo da solução para esse problema, de forma que você possa utilizar essa solução milhões de vezes sem usá-la do mesmo modo duas vezes" (CHRISTOPHER ALEXANDER, 1977).<br>
-Além de Christopher, Gamma definiu Padrões de Software da sequinte forma: "descrevem soluções para produtos frequentes no desenvolvimento de software." (Gamma 95)
+Além de Christopher, Gamma definiu Padrões de Software da seguinte forma: "descrevem soluções para produtos frequentes no desenvolvimento de software." (Gamma 95)
 
 ## GoF Comportamental
-O padrão GoF Comportamental resumidamente atua sobre qual o comportamento das entidades, ou seja, quais são as responsabilidades que são atribuidas a cada uma das entidades.
+O padrão GoF Comportamental resumidamente atua sobre qual o comportamento das entidades, ou seja, quais são as responsabilidades que são atribuídas a cada uma das entidades.
 
 ## Histórico de Revisões
 | Data | Versão | Descrição | Autor(es) |
 |:----:|:------:|:---------:|:---------:|
 | 02/10/2020 | 1.0 | Criação do documento | Gabriel Alves |
-| 16/10/2020 | 1.1 | Adição do Padrão Cadeia de Resposabilidades | Micaella Gouveia |
+| 16/10/2020 | 1.1 | Adição do Padrão Cadeia de Responsabilidades | Micaella Gouveia |
 | 19/10/2020 | 1.2 | Adição do Padrão Iterator | Micaella Gouveia |
+| 26/10/2020 | 1.4 |               Revisão texto                  | Sofia Patrocínio |
 
 ## Strategy
 
 Permite que você defina uma família de algoritmos, coloque-os em classes separadas, e faça os objetos deles intercambiáveis. Em situações rotineiras no desenvolvimento de software, ocorre ocasiões onde se vê necessário uma gama de soluções/algoritmos para um problema específico, como por exemplo, uma ordenação. Existem diversos algoritmos de ordenação e cada um atua de forma otimizada para um contexto específico no software. Com isso, é necessário permitir de maneira simples a variação dos algoritmos utilizados na resolução de um problema específico.
 
-Esse padrão é facilmente implementado utilizando as classes abstratas e/ou interfaces da programação orientada a objetos. O contexto relaciona-se com a parte mais abstrata, onde ainda não se sabe o como deve ser feito, apenas com quem. Dessa forma, cabe a camada mais concreta a implementação do método em sí, fornecendo uma escalabilidade maior ao software, onde novas soluções para aquele contexto são facilmente acopladas ao sistema.
+Esse padrão é facilmente implementado utilizando as classes abstratas e/ou interfaces da programação orientada a objetos. O contexto relaciona-se com a parte mais abstrata, onde ainda não se sabe o como deve ser feito, apenas com quem. Dessa forma, cabe a camada mais concreta a implementação do método em si, fornecendo uma escalabilidade maior ao software, onde novas soluções para aquele contexto são facilmente acopladas ao sistema.
 
 O Strategy geralmente descreve diferentes maneiras de fazer a mesma coisa, permitindo que você troque esses algoritmos dentro de uma única classe contexto. Ele trabalha a nível de objeto, permitindo que você troque os comportamentos durante a execução.
 
@@ -131,7 +132,7 @@ Padrão que permite passar solicitações ao longo de uma cadeia de manipuladore
 Essa cadeia de objetos ficam responsáveis em fazer o tratamento dos dados da requisição. O Express utiliza um padrão de projeto chamado Middleware, que é uma versão da Cadeia de Responsabilidade.
 
 Ele é utilizado quando:
-1. Seu sistema precisa processar um requisição em várias etapas diferentes e você não quer criar uma ordem rígida para o processamento. O padrão permite que você altere a ordem dos objetos na cadeia facilmente, mesmo assim mantendo uma ordem específica.
+1. Seu sistema precisa processar uma requisição em várias etapas diferentes e você não quer criar uma ordem rígida para o processamento. O padrão permite que você altere a ordem dos objetos na cadeia facilmente, mesmo assim mantendo uma ordem específica.
 2. É essencial ter o princípio da responsabilidade única para o tratamento de dados. Cada objeto fica responsável por tratar apenas a parte que lhe couber.
 3. Você quer que os objetos responsáveis pelo tratamento de requisição possam variar em tempo de execução.
 
@@ -149,7 +150,7 @@ Sim, e acho que seria a melhor opção para o caso da hierarquia dos usuários. 
 Essas rotas podem se aplicar tanto para acesso à páginas, como a página de colaboradores, quanto para funcionalidades específicas, como adicionar um novo usuário (que só é permitida para Admin e Owner), gerar gráficos de análise, entre outros.
 
 ### Quais documentos necessitam de refatoração para implementação deste padrão?
-Principalmente o Diagrama de classes, Diagramas de Casos de Uso. Os diagramas de comunicação e atividades possuem as especificações dos usuários, mas acho que não seria necessário modificar, pois essas especificações continuarão existindo, o que mudará será apenas a dependência entre as classes, que não exisitirá mais.
+Principalmente o Diagrama de classes, Diagramas de Casos de Uso. Os diagramas de comunicação e atividades possuem as especificações dos usuários, mas acho que não seria necessário modificar, pois essas especificações continuarão existindo, o que mudará será apenas a dependência entre as classes, que não existirá mais.
 
 ## Iterator
 
@@ -169,7 +170,7 @@ Além de implementar o algoritmo em si, um objeto iterador encapsula todos os de
 * Usá-lo pode ser menos eficiente do que passar por elementos de algumas coleções especializadas diretamente.
 
 ### É possível adaptar a nossa forma de organização de projeto com esse padrão?
-Sim, é possível utilizá-lo para a listagem de produtos e seus filtros de categoria, preço, enter outros.
+Sim, é possível utilizá-lo para a listagem de produtos e seus filtros de categoria, preço, entre outros.
 
 
 ### Quais documentos necessitam de refatoração para implementação deste padrão?
