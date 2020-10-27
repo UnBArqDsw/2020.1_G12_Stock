@@ -17,5 +17,5 @@ Singleton é um padrão de design criativo que permite garantir que uma classe t
 *Instância única do banco de dados (**[Link para Github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/database/index.js)**)*
 
 <p align="center">
-<img src="/assets/padroes/singleton/singleton.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/singleton/singleton.png" class="codes-prints" />
 </p>

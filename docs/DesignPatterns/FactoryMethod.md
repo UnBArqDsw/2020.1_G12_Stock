@@ -18,25 +18,25 @@ Nossa ideia inicial era fazer uma fábrica de colaboradores, podendo ele ser [Se
 *Classe Abstrata Collaborator*
 
 <p align="center">
-<img src="/assets/padroes/factoryMethod/collaborator.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/factoryMethod/collaborator.png" class="codes-prints" />
 </p>
 
 *Trecho da classe Seller*
 
 <p align="center">
-<img src="/assets/padroes/factoryMethod/seller.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/factoryMethod/seller.png" class="codes-prints" />
 </p>
 
 *Trecho da classe Admin*
 
 <p align="center">
-<img src="/assets/padroes/factoryMethod/admin.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/factoryMethod/admin.png" class="codes-prints" />
 </p>
 
 *Trecho da classe Owner*
 
 <p align="center">
-<img src="/assets/padroes/factoryMethod/owner.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/factoryMethod/owner.png" class="codes-prints" />
 </p>
 
 

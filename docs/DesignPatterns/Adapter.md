@@ -16,11 +16,11 @@ Aqui o objetivo é criar uma nova camada entre a controller e as models que são
 *Classe Product Base **([Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/app/StockBase/ProductBase.js))***
 
 <p align="center">
-<img src="/assets/padroes/decorator/productBase.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/decorator/productBase.png" class="codes-prints" />
 </p>
 
 *Classe Lot Base **([Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/app/StockBase/LotBase.js))***
 
 <p align="center">
-<img src="/assets/padroes/decorator/lotBase.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/decorator/lotBase.png" class="codes-prints" />
 </p>

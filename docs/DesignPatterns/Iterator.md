@@ -14,15 +14,15 @@ Sua implementação não está seguindo totalmente o padrão estabelecido, poré
 
 *Loop para relacionar produto com suas várias categorias **([Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/app/StockBase/BelongsBase.js))***
 <p align="center">
-<img src="/assets/padroes/iterator/belongsCreateIterator.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/iterator/belongsCreateIterator.png" class="codes-prints" />
 </p>
 
 *Loop para retornar todos os lots de um produto específico **([Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/app/StockBase/LotBase.js))***
 <p align="center">
-<img src="/assets/padroes/iterator/lotBasefindAllIterator.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/iterator/lotBasefindAllIterator.png" class="codes-prints" />
 </p>
 
 *Loop para retornar a quantidade total de produtos em todos os seus lots **([Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/app/StockBase/ProductBase.js))***
 <p align="center">
-<img src="/assets/padroes/iterator/productBaseUpdateIterator.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/padroes/iterator/productBaseUpdateIterator.png" class="codes-prints" />
 </p>
