@@ -17,12 +17,12 @@
 
 
 
-## Pontuação: 40
+## Pontuação: 36
 ## Quadro de Distribuição de Pontos
 
 Este quadro divide a pontuação das [issues](Modeling/objeto?id=Issue) com a quantidade de participantes, para ter a noção da distribuição de pontos por pessoa, evitando a sobrecarga de tarefas para algum membro.
 
-| Participante | Distribuição por Pontuação de [Issue](Modeling/objeto?id=Issue) e Partipantes | Pontuação Média |
+| Participante | Distribuição por Pontuação de [Issue](Modeling/objeto?id=Issue) e Participantes | Pontuação Média |
 |--------------|-------------------------------------------------------------------------------|-----------------|
 | Gabriel Alves | 3 + 2 | 5 |
 | Gabriel Davi | 8 + 3 | 11 |
