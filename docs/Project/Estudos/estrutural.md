@@ -7,9 +7,10 @@ Um dos fatores que afetam o custo de manutenção/evolução de um sistema é a 
 |    Data    | Versão |                            Descrição                             |  Autor(es)   |
 | :--------: | :----: | :--------------------------------------------------------------: | :----------: |
 | 02/10/2020 |  1.0   |           Criação do documento e inserção dos estudos.           |  Pedro Igor  |
-| 02/10/2020 |  1.1   |      Adição das respostas as perguntas do estudo dirigido.       |  Pedro Igor  |
+| 02/10/2020 |  1.1   |      Adição das respostas às perguntas do estudo dirigido.       |  Pedro Igor  |
 | 02/10/2020 |  1.2   |                    Inserção das referências.                     |  Pedro Igor  |
-| 04/10/2020 |  1.3   | Adição dos padrões proxy, decorator, facade, flyweight e bridge. | Gabriel Davi |
+| 04/10/2020 |  1.3   | Adição dos padrões Proxy, Decorator, Facade, FlyweightFactory e Bridge. | Gabriel Davi |
+| 26/10/2020 |  1.4   |                          Revisão texto                           | Sofia Patrocínio |
 
 ## Adapter
 
@@ -100,7 +101,7 @@ O método de flyweight é uma otimização. Ele vem para solucionar o problema d
     <img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/img/estudo/gof-estrutural1/flyweight.png"/>
 </div><br>
 
-É possível ver no diagrama, temos uma classe flyweight que guarda o objeto que será repetido no sistema. O FlywightFactory será responsável por guardar todas as instâncias de uma classe flyweight e compartilhá-la por todo o Context que deseja utilizá-la.
+É possível ver no diagrama, temos uma classe flyweight que guarda o objeto que será repetido no sistema. O FlyweightFactory será responsável por guardar todas as instâncias de uma classe flyweight e compartilhá-la por todo o Context que deseja utilizá-la.
 
 ### Pontos positivos
 
@@ -134,7 +135,7 @@ Método que possibilita você adicionar um objeto substituto para outro objeto. 
     <img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/img/estudo/gof-estrutural1/proxy.png"/>
 </div><br>
 
-Aqui, podemos ver que antes de passar por um serviço, o client passa por um proxy, que deve ter uma interface idêntica ao serviço original a ser chamado. O proxy possui uma relação de agregação com o serviço original, pois o mesmo existe idenpendente do proxy.
+Aqui, podemos ver que antes de passar por um serviço, o Client passa por um proxy, que deve ter uma interface idêntica ao serviço original a ser chamado. O proxy possui uma relação de agregação com o serviço original, pois o mesmo existe independente do proxy.
 
 ### Pontos positivos
 
@@ -168,7 +169,7 @@ O decorator permite adicionar novos comportamentos a objetos através da adiçã
     <img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/img/estudo/gof-estrutural1/decorator.png"/>
 </div><br>
 
-Aqui, podemos ver que há um decorator base, que irá servir como uma ponte entre o client e os decorators que realmente irão alterar o comportamento do objeto concreto. Todos devem implementar a mesma interface.
+Aqui, podemos ver que há um decorator base, que irá servir como uma ponte entre o Client e os Decorators que realmente irão alterar o comportamento do objeto concreto. Todos devem implementar a mesma interface.
 
 ### Pontos positivos
 
@@ -188,7 +189,7 @@ Aqui, podemos ver que há um decorator base, que irá servir como uma ponte entr
 
 ### É possível adaptar a nossa forma de organização de projeto com este padrão?
 
-Sim, um lugar em que seria uma ótima oportunidade de para adição de decorators seria na classe de análise que retorna dos dados para a geração de gráficos em nossa aplicação. Com isso, se for necessário a criação de novos comportamentos, somente seria necessário a criação de decorators que iria estender a classe de Análise e então implementar o novo comportamento. Atualmente, essa classe possui três métodos, cada um poderia se tornar um decorator que iria implementar sua própria tratativa de dados.
+Sim, um lugar em que seria uma ótima oportunidade de para adição de decorators seria na classe de análise que retorna dos dados para a geração de gráficos em nossa aplicação. Com isso, se for necessário a criação de novos comportamentos, somente seria necessário a criação de decorators que iria estender a classe de Análise e então implementar o novo comportamento. Atualmente, essa classe possui três métodos, cada um poderia se tornar um decorator que iria implementar seu próprio tratamento de dados.
 
 ### Quais documentos necessitam de refatoração para implementação deste padrão?
 
@@ -204,13 +205,13 @@ Esse padrão permite a divisão de uma classe em implementações menores que po
     <img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/img/estudo/gof-estrutural1/decorator.png"/>
 </div><br>
 
-Aqui, podemos ver que há uma separação em uma interface de algum parâmetro ou atributo. O bridge é bem simples porém muito eficaz pois possibilita a adição e modificação de quantas classes forem necessárias.
+Aqui, podemos ver que há uma separação em uma interface de algum parâmetro ou atributo. O Bridge é bem simples porém muito eficaz pois possibilita a adição e modificação de quantas classes forem necessárias.
 
 ### Pontos positivos
 
 - Independencia entre diferentes partes.
 
-- O client não possui acesso direto aos detalhes de implementação das classes mais específicas
+- O Client não possui acesso direto aos detalhes de implementação das classes mais específicas
 
 - Princípio aberto/fechado. Pois podemos implementar diferentes classes em que a classe mais abstrata irá basear seu comportamento.
 
@@ -230,13 +231,13 @@ Como já usamos esse padrão, acredito que não há necessidade de mudanças em 
 
 ## Facade
 
-Facade fornece uma interface simplificada para uma biblioteca, framework ou qualquer conjunto complexo de classes. Esse método é extremamente eficaz quando você deseja usar uma biblioteca externa que possui diversar funcionalidades, porém você precisa somente de uma pequena porção dessas funcionalidades.
+Facade fornece uma interface simplificada para uma biblioteca, framework ou qualquer conjunto complexo de classes. Esse método é extremamente eficaz quando você deseja usar uma biblioteca externa que possui diversas funcionalidades, porém você precisa somente de uma pequena porção dessas funcionalidades.
 
 <div style="text-align: center;">
     <img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/img/estudo/gof-estrutural1/facade.png"/>
 </div><br>
 
-Aqui, a classe facade irá instanciar somente a classe que interessa para o client e implementar o método que irá executar alguma ação em cima disso.
+Aqui, a classe facade irá instanciar somente a classe que interessa para o Client e implementar o método que irá executar alguma ação em cima disso.
 
 ### Pontos positivos
 
