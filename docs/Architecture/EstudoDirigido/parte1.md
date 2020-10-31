@@ -25,7 +25,7 @@ Neste módulo, será melhor explicado o que são Arquiteturas Monolíticas e Dis
 
 
 ## Arquiteturas Distribuídas
-* Serviores de serviços compartilhados com boa capacidade de processamento.
+* Servidores de serviços compartilhados com boa capacidade de processamento.
 * Estações de trabalho com bom poder de processamento, rodando aplicações locais, e sendo acessadas via interfaces gráficas.
 * Redes com boa velocidade
 
@@ -46,7 +46,7 @@ Expressa:
 
 ### Stand-Alone
 Mais simples dos estilos arquiteturais. Basicamente, baseia-se em projetar uma solução autossuficiente, a qual não depende de terceiros. Normalmente, esses terceiros são servidores especializados em fornecer serviços e/ou conteúdos.
-* Estilo indicado para projeto mais simples. Quando complexos, os prjetos podem demandar soluções distribuídas, com comunicações entre clientes e servidores, P2P ou outro.
+* Estilo indicado para projeto mais simples. Quando complexos, os projetos podem demandar soluções distribuídas, com comunicações entre clientes e servidores, P2P ou outro.
 
 | Pontos Positivos | Pontos Negativos|
 | - | - |
