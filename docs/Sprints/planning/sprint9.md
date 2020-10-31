@@ -1,6 +1,6 @@
 # Planejamento Sprint 9
 
-**Período: 27/10/2020 a 31/10/2020**<br>
+**Período: 27/10/2020 a 01/11/2020**<br>
 **Data da Reunião: 27/10/2020**
 
 ## Issues
@@ -40,3 +40,12 @@ Este quadro divide a pontuação das [issues](Modeling/objeto?id=Issue) com a qu
 - Módulo Reutilização de Software (Framework).
 
 ![google calendar](../../assets/img/Sprints/googlecalendarArquitetura.png)
+
+
+## Gravações Disponíveis
+
+- Reunião Semanal (Planning Poker):
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/Sum53JtJipA?ecver=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a rel="" id="40Zrek4A" href="https://www.earth-essentials.co.uk/is-buying-a-mattress-the-worst-thing-possible-for-your-health/">bad for you</a></div><div><a rel="" id="40Zrek4A" href="https://www.abcmoney.co.uk/2020/10/08/how-has-covid-19-affected-used-car-prices-two-experts-give-their-opinion">affected car resale</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
+
+- Reunião Semanal (Sprint Planning):
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/kMcKUFTgfIM?ecver=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a rel="" id="40Zrek4A" href="https://www.earth-essentials.co.uk/is-buying-a-mattress-the-worst-thing-possible-for-your-health/">bad for you</a></div><div><a rel="" id="40Zrek4A" href="https://www.abcmoney.co.uk/2020/10/08/how-has-covid-19-affected-used-car-prices-two-experts-give-their-opinion">affected car resale</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
