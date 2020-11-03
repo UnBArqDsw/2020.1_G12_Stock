@@ -7,6 +7,10 @@
 
 Toda a documentação está exposta de forma organizada em nossa GH Pages: https://unbarqdsw.github.io/2020.1_G12_Stock/#/
 
+Link para Stock-Backend: <https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend>
+<br>
+
+Link para Stock-Frontend: <https://github.com/UnBArqDsw/2020.1_G12_Stock_Frontend>
 
 ## Alunos
 
