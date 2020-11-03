@@ -1,0 +1,1 @@
+# Estilos e Padrões Arquiteturais - Parte 2
