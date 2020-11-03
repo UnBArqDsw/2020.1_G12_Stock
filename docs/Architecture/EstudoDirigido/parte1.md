@@ -79,7 +79,7 @@ Usado para modelar a interface dos subsistema, organiza o sistema em um conjunto
 ## Padrões Arquiteturais
 
 ### MVC (Model View Controller)
-Esse padrão separa a apresentação e ainteração de dados do sistema. Ele é estruturado em três camadas lógicas, as quais interagem entre si.
+Esse padrão separa a apresentação e a interação de dados do sistema. Ele é estruturado em três camadas lógicas, as quais interagem entre si.
 
 * **Model**: Detém a funcionalidade principal bem como os dados associados a cada entidade de domínio.
     * Encapsula estado da aplicação
@@ -113,7 +113,7 @@ Esse padrão separa a apresentação e ainteração de dados do sistema. Ele é 
 | Vantagens | Desvantagens |
 | - | - |
 | Permite que os dados sejam alterados de forma independente de sua representação e vice-versa| Quando um modelo e as interfaces são simples, pode envolver o código adicinoal e maior complexidade de código desnecessária |
-| Apoia a apresentação dos mesmos dados de maneiras diferentes, ou seja, múltiplas viwes de uma mesma model | Controllers e Views tendem a ser bem acopladas|
+| Apoia a apresentação dos mesmos dados de maneiras diferentes, ou seja, múltiplas views de uma mesma model | Controllers e Views tendem a ser bem acopladas|
 | Views sincronizadas| |
 | Organização clara de abstrações ||
 
