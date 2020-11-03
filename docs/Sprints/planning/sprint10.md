@@ -30,3 +30,11 @@ Este quadro divide a pontuação das [issues](Modeling/objeto?id=Issue) com a qu
 ## Relato
 
 * Essa semana a Sprint será destinada à quatro histórias de usuário, além do rotacionamento de estudos acerca do módulo de Padrões Arquiteturais.
+
+## Gravações Disponíveis
+
+- Reunião Semanal (Planning Poker):
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/PkQG-jlDo3c?ecver=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="95KW4wjb" href="https://www.ihertfordshire.co.uk/preparing-for-lockdown-2-0-in-hertfordshire/">Tring</a></div><div><a  id="95KW4wjb" href="https://www.vouchersort.co.uk/">Voucher Sort</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
+
+- Reunião Semanal (Sprint Planning):
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/skqQnIJFgIc?ecver=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="95KW4wjb" href="https://www.ihertfordshire.co.uk/preparing-for-lockdown-2-0-in-hertfordshire/">Tring</a></div><div><a  id="95KW4wjb" href="https://www.vouchersort.co.uk/">Voucher Sort</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
