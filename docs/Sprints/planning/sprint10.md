@@ -5,10 +5,10 @@
 
 | Número                                                             | [Issue](Modeling/objeto?id=Issue)                                                                                                             | Pontuação | Participantes           |
 | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------------------- |
-| [**#186**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/186)  | US03 - Criação de conta de colaboradores  | 8 | Gabriel Davi e Pedro Igor |
-| [**#187**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/187)  | US05 - Adição e remoção de colaboradores  | 5 | Gabriel Davi e Pedro Igor |
-| [**#188**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/188)  | US07 - Cadastro de produtos  | 8 | Micaella Gouveia e Sofia Patrocínio |
-| [**#189**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/189)  | US08 - Adição de categorias aos produtos  | 5 | Micaella Gouveia e Sofia Patrocínio |
+| [**#186**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/186)  | US03 - Criação de conta de colaboradores  | 8 | Micaella Gouveia e Sofia Patrocínio |
+| [**#187**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/187)  | US05 - Adição e remoção de colaboradores  | 5 | Micaella Gouveia e Sofia Patrocínio |
+| [**#188**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/188)  | US07 - Cadastro de produtos  | 8 | Gabriel Davi e Pedro Igor |
+| [**#189**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/189)  | US08 - Adição de categorias aos produtos  | 5 | Gabriel Davi e Pedro Igor |
 | [**#179**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/179)  | Estudo de Módulo Estilos e Padrões Arquiteturais (Parte III)  | 3   | Gabriel Davi  |
 |  [**#180**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/180) | Estudo de Módulo Estilos e Padrões Arquiteturais (Partes I e II)  | 3 |  Micaella Gouveia |
 |  [**#181**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/181) | Estudo de Módulo Estilos e Padrões Arquiteturais (Partes IV)  | 3 | Pedro Igor  |
