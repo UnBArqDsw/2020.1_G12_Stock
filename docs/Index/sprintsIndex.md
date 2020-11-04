@@ -29,4 +29,11 @@
 - Sprint 8
     - [Planejamento Sprint 8](Sprints/planning/sprint8.md)
     - [Resultado Sprint 8](Sprints/results/sprint8.md)
+- Sprint 9
+    - [Planejamento Sprint 9](Sprints/planning/sprint9.md)
+    - [Resultado Sprint 9](Sprints/results/sprint9.md)
+- Sprint 10
+    - [Planejamento Sprint 10](Sprints/planning/sprint10.md)
+    - [Resultado Sprint 10](Sprints/results/sprint10.md)
+
 
