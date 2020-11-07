@@ -12,15 +12,11 @@
       <img src="./assets/img/members/GabrielDavi.jpg" alt="member name">
     </div>
     <div class="member">
-      <p>Gabriel Alves</p>
-      <img src="./assets/img/members/Gabriel.jpg" alt="member name">
-    </div>
-    <div class="member">
       <p>Sofia Patrocínio</p>
       <img src="./assets/img/members/Sofia.jpg" alt="member name">
     </div>
     </div>
-    <div class="member line2">
+    <div class="members">
     <div class="member">
       <p>Micaella Gouveia</p>
       <img src="./assets/img/members/Micaella.jpg" alt="member name">
@@ -28,6 +24,7 @@
     <div class="member">
       <p>Pedro Igor</p>
       <img src="./assets/img/members/Pedro.jpg"alt="member name">
+    </div>
     </div>
    
   </div>
@@ -37,9 +34,8 @@
 
 <style>
   .members {
-    display: grid; 
-    grid-template-columns: auto auto auto;
-    margin-top: 20px;
+    display: flex; 
+    flex-direction: row;
   }
   .member img{
     position: relative;
@@ -62,22 +58,20 @@
   }
   
  .member{
-   margin: 20px;
    display: flex;
-   justify-content: center;
+   flex-direction: row;
+   margin: 20px;
   }
  
  .member p{
     position: absolute;
-    transform: translate(0, 3.8em);
+    transform: translate(0, 4.8em);
     z-index: 2;
     color: #fff;
     font-weight: bold;
     font-family: Montserrat;
   }
-
  
-
   h2, p {
     font-family: Montserrat !important;
     font-weight: 500;
