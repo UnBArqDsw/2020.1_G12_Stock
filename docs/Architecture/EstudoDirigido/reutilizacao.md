@@ -12,7 +12,7 @@ Neste módulo, será melhor explicado o que é a Reutilização de Software.
 
 A reutilização de componentes de software existentes ou convenientemente disponíveis para reduzir tempo e custos de computação e recursos humanos é chamada de capacidade de reutilização de software. 
 
-A reutilização de software não envolve somente fatores técnicos, como a utilização de métodos, ferramentas ou métricas.  Mas também no nível de requisitos, projeto e outros.
+A reutilização de software não envolve somente fatores técnicos, como a utilização de métodos, ferramentas ou métricas, mas também no nível de requisitos, projeto e outros.
 
 Os componentes reutilizáveis ​​podem ser desenvolvidos por meio do código-fonte existente. Uma vez desenvolvidos, eles podem ser usados ​​posteriormente em diferentes classes. Esses componentes reduzem significativamente o custo e o tempo de desenvolvimento de software.
 
@@ -29,13 +29,13 @@ O movimento *open source* cria uma enorme base de código disponível.
 ## Formas comuns de reutilização
 
 ### Framework
-- Os *frameworks* dão suporte ao reúso de projeto, bem como ao reúso de classes específicas de sistema, pois fornecem uma arquitetura de esqueleto para a aplicação. A arquitetura é definida por classes de objetos e suas interações. As classes são reusadas diretamente e podem ser prorrogadas usando-se recursos, como a herança.
+- Os *frameworks* dão suporte ao reúso de projeto, bem como ao reuso de classes específicas de sistema, pois fornecem uma arquitetura de esqueleto para a aplicação. A arquitetura é definida por classes de objetos e suas interações. As classes são reusadas diretamente e podem ser prorrogadas usando-se recursos, como a herança.
 
 - Possuem aspectos variáveis (*hot-spots*) e inváriáveis (*frozen-spots*)
 
 | Hot-Spots | Frozen-Spots |
 |-----------|--------------|
-| Partes espeíficas de sistemas individuas |  Arquitetura geral de um sistema  |
+| Partes específicas de sistemas individuas |  Arquitetura geral de um sistema  |
 | Projetados para serem genéricos | Permanecem fixos em todas as instanciações do *framework* de aplicação |
 | Normalmente representados com classes abstratas | Também conhecido como "core" do *framework* |
 
@@ -48,7 +48,7 @@ O movimento *open source* cria uma enorme base de código disponível.
 
 ### Plugins
 
-O padrão, consiste em dois tipos de componentes de arquitetura: um único sistema-núcleo e os módulos plug-ins. A lógica das aplicações, está dividida entre os módulos de plug-ins independentes e o sistema-núcleo básico, de forma a proporcionar extensibilidade, flexibilidade e isolamento das características-chave do núcleo, e da lógica adicional do processamento plugado
+O padrão consiste em dois tipos de componentes de arquitetura: um único sistema-núcleo e os módulos plug-ins. A lógica das aplicações, está dividida entre os módulos de plug-ins independentes e o sistema-núcleo básico, de forma a proporcionar extensibilidade, flexibilidade e isolamento das características-chave do núcleo, e da lógica adicional do processamento plugado.
 
 ### Serviços
 
