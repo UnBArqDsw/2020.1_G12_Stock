@@ -37,9 +37,9 @@
     display: flex; 
     flex-direction: row;
   }
-  .member img{
+  .member img {
     position: relative;
-    width: 300px;
+    width: 250px;
     opacity: 1;
     border-style: solid;
     border-radius: 200px;
@@ -48,22 +48,22 @@
     z-index: 3;
     transition: opacity 0.5s !important;
   }
-  .member img:hover{
+  .member img:hover {
     opacity: 0.4;
     z-index: 1;
   }
-  .member p:hover  + img{
+  .member p:hover  + img {
     opacity: 0.4;
     z-index: 1;
   }
   
- .member{
+ .member {
    display: flex;
-   flex-direction: row;
    margin: 20px;
+   justify-content: center;
   }
  
- .member p{
+ .member p {
     position: absolute;
     transform: translate(0, 4.8em);
     z-index: 2;
