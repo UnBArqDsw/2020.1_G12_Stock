@@ -39,10 +39,10 @@
   }
   .member img{
     position: relative;
-    width: 200px;
+    width: 300px;
     opacity: 1;
     border-style: solid;
-    border-radius: 100px;
+    border-radius: 200px;
     border-width: 1px; 
     border-color: rgba(0,0,0,0.3);
     z-index: 3;
