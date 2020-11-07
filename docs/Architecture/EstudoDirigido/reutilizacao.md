@@ -68,6 +68,10 @@ Os componentes são abstrações de nível mais alto do que objetos e são defin
 
 Um tipo de aplicação é generalizado em torno de uma arquitetura comum para que esta possa ser adaptada para diferentes clientes. Uma linha de produtos de software é um conjunto de aplicações com uma arquitetura comum e componentes compartilhados, sendo cada aplicação especializada para refletir necessidades diferentes. 
 
+## É possível utilizar?
+
+Sim! O uso de framework e componentes já está sendo aplicado no projeto. Além disso, fazemos o uso de serviços para fazer a conexão do front-end com back-end.
+
 ## Referências
 
 - Neelamdhab Padhy, R.P. Singh, Suresh Chandra Satapathy, Software reusability metrics estimation: Algorithms, models and optimization techniques, Computers & Electrical Engineering, Volume 69, 2018,Pages 653-668, ISSN 0045-7906, [https://doi.org/10.1016/j.compeleceng.2017.11.022](http://www.sciencedirect.com/science/article/pii/S0045790617323327)
