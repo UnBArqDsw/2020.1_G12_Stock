@@ -36,7 +36,7 @@ Oferece uma estrutura para sistemas que processam fluxos de dados, considerando 
 | Vantagens | Desvantagens |
 |-----------|--------------|
 | O resultado é uma composição de filtros| Mudanças frequentes em um filtro impacta outros|
-| Facilita o entendimento de Todo e Parte |Difícil uso em aplicações iterativas, pois coloca em ênfase o mado "batch"|
+| Facilita o entendimento de Todo e Parte |Difícil uso em aplicações iterativas, pois coloca em ênfase o modo "batch"|
 | Manutenabilidade mais flexível | Pode ter deadlock com o uso de buffers finitos|
 | Facilita a reutilização, manutenção e extensão |
 | Desempenho melhorado pelo processamento paralelo de filtros|
@@ -51,7 +51,7 @@ explicitamente para outros subsistemas.
 
 Quando grandes quantidades de dados devem ser compartilhadas, é mais comum o uso do modelo de **repositório compartilhado**, sendo esse um eficiente mecanismo de compartilhamento de dados. Sendo que todos os dados em um sistema serão gerenciados em um único repositório central, acessível a todos os componentes do sistema. Os componentes não interagem entre si, apenas por meio deste repositório.
 
-* Muito utilizado quabdo um sistema demanda grande volume de informação, que precisa ser geradoe armazenado por um longo tempo.
+* Muito utilizado quabdo um sistema demanda grande volume de informação, que precisa ser gerado e armazenado por um longo tempo.
 * Há também aplicabilidade ao estilo quando os sistemas são dirigidos a dados, nos quais a inclusão desses dados no repositório dispara uma ação
 
 | Vantagens | Desvantagens |
