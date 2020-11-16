@@ -51,7 +51,7 @@ explicitamente para outros subsistemas.
 
 Quando grandes quantidades de dados devem ser compartilhadas, é mais comum o uso do modelo de **repositório compartilhado**, sendo esse um eficiente mecanismo de compartilhamento de dados. Sendo que todos os dados em um sistema serão gerenciados em um único repositório central, acessível a todos os componentes do sistema. Os componentes não interagem entre si, apenas por meio deste repositório.
 
-* Muito utilizado quabdo um sistema demanda grande volume de informação, que precisa ser gerado e armazenado por um longo tempo.
+* Muito utilizado quando um sistema demanda grande volume de informação, que precisa ser gerado e armazenado por um longo tempo.
 * Há também aplicabilidade ao estilo quando os sistemas são dirigidos a dados, nos quais a inclusão desses dados no repositório dispara uma ação
 
 | Vantagens | Desvantagens |
