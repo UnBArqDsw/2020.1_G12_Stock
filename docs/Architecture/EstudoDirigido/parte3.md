@@ -37,7 +37,7 @@ Oferece uma estrutura para sistemas que processam fluxos de dados, considerando 
 |-----------|--------------|
 | O resultado é uma composição de filtros| Mudanças frequentes em um filtro impacta outros|
 | Facilita o entendimento de Todo e Parte |Difícil uso em aplicações iterativas, pois coloca em ênfase o modo "batch"|
-| Manutenabilidade mais flexível | Pode ter deadlock com o uso de buffers finitos|
+| Manutenibilidade mais flexível | Pode ter deadlock com o uso de buffers finitos|
 | Facilita a reutilização, manutenção e extensão |
 | Desempenho melhorado pelo processamento paralelo de filtros|
 
