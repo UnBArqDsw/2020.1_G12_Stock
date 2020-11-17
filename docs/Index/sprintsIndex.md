@@ -38,5 +38,8 @@
 - Sprint 11
     - [Planejamento Sprint 11](Sprints/planning/sprint11.md)
     - [Resultado Sprint 11](Sprints/results/sprint11.md)
+- Sprint 12
+    - [Planejamento Sprint 12](Sprints/planning/sprint12.md)
+    - [Resultado Sprint 12](Sprints/results/sprint12.md)
 
 
