@@ -41,7 +41,7 @@ Nesta Sprint, alguns documentos são pré-requisitos de outros, sendo necessári
 
 
 ## Relato
-Alguns popntos foram levantados para serem feitos antes da entrega final como:
+Alguns pontos foram levantados para serem feitos antes da entrega final como:
 * Filtros
 * Refatoração de responsividade
 * Tratamento de erros do usuário
