@@ -4,9 +4,10 @@
 
 ## Histórico de Revisão
 
-| Data       | Versão | Descrição             | Autor                                                        |
-| ---------- | ------ | --------------------- | ------------------------------------------------------------ |
-| 16/11/2020 | 1.0    | Abertura do documento | Micaella Gouveia, Gabriel Davi, Pedro Igor, Sofia Patrocínio |
+| Data | Versão | Descrição | Autor |
+|------|--------|-----------|-------|
+| 16/11/2020 | 1.0 | Abertura do documento | Micaella Gouveia, Gabriel Davi, Pedro Igor, Sofia Patrocínio |
+| 17/11/2020 | 1.1 | Adição do Tópico 4 - Visão de Casos de Uso | Micaella Gouveia |
 
 ## 1 - Introdução
 
@@ -32,7 +33,18 @@
 
 ### 3.2 - Requisitos não funcionais
 
-## 4 - Visão de caso de uso <Mica>
+## 4 - Visão de Casos de Uso
+
+A Visão de Casos de Uso descreve um modelo com alta significância de alto nível em relação às funcionalidades do sistema. Normalmente feito através do Diagrama de Casos de Uso.
+
+O Diagrama de Casos de Uso corresponde a uma visão externa do sistema e representa graficamente os atores, os casos de uso, e os relacionamentos entre estes elementos. Ao longo do projeto, vários casos de uso foram elencados, podendo ser vistos em [**Casos de Uso**](Modeling/CasosUso/CasosUso).
+
+Abaixo se encontra a o diagrama geral, relacionando todos os casos de uso elecados.
+
+
+![caso geral](../../../assets/diagramas/casosUso/DiagramaCasoGeral.png)
+
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/casosUso/DiagramaCasoGeral.pdf">Arquivo em PDF</a>
 
 ## 5 - Visão lógica <Sofia>
 
