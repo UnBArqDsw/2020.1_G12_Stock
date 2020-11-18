@@ -12,6 +12,7 @@
 | 17/11/2020 | 1.3 | Adição do Tópico 7 - Diagrama de Implantação | Pedro Igor |
 | 17/11/2020 | 1.4 | Adição do Tópico 8 - Diagrama de Implementação | Pedro Igor |
 | 17/11/2020 | 1.5 | Adição do Tópico 6 - Visão de processos | Sofia Patrocínio |
+| 17/11/2020 | 1.5 | Adição do Tópico 5 - Visão lógica - Diagrama de Pacotes | Sofia Patrocínio |
 
 ## 1 - Introdução
 
@@ -52,7 +53,15 @@ Abaixo se encontra a o diagrama geral, relacionando todos os casos de uso elenca
 
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/casosUso/DiagramaCasoGeral.pdf">Arquivo em PDF</a>
 
-## 5 - Visão lógica <Sofia>
+## 5 - Visão lógica 
+  A visão lógica descreve as partes significativas do ponto de vista da arquitetura do modelo de design, como sua divisão em camadas, pacotes, classes e interfaces. 
+
+### 5.1 - Diagrama de Contexto
+
+### 5.2 - Diagrama de Pacotes
+  O Diagrama de Pacotes tem demonstra a estrutura de diretórios e arquivos do projeto. A última versão é representada abaixo, as demais versões podem ser vistas em [Diagrama de Pacote](Modeling/Diagrams/Pacotes.md).
+
+  ![Diagrama de Pacotes](../../assets/diagramas/pacotes/DiagramaPacotesV2.png)
 
 ## 6 - Visão de processos
   A visão de processos descreve a decomposição do sistema em grupos de processos que se comunicam e interagem. Esses processos de comunicação, bem como os objetos e mensagens trocadas entre eles podem ser vistos nos diagramas de [Comunicação](Modeling/Diagrams/Comunicacao.md) e de [Sequência](Modeling/Diagrams/Sequencia.md).
