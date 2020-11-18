@@ -11,6 +11,7 @@
 | 17/11/2020 | 1.2 | Adição do Tópico 1 - Introdução (Finalidade e escopo) | Pedro Igor |
 | 17/11/2020 | 1.3 | Adição do Tópico 7 - Diagrama de Implantação | Pedro Igor |
 | 17/11/2020 | 1.4 | Adição do Tópico 8 - Diagrama de Implementação | Pedro Igor |
+| 17/11/2020 | 1.5 | Adição do Tópico 6 - Visão de processos | Sofia Patrocínio |
 
 ## 1 - Introdução
 
@@ -44,7 +45,7 @@ A Visão de Casos de Uso descreve um modelo com alta significância de alto nív
 
 O Diagrama de Casos de Uso corresponde a uma visão externa do sistema e representa graficamente os atores, os casos de uso, e os relacionamentos entre estes elementos. Ao longo do projeto, vários casos de uso foram elencados, podendo ser vistos em [**Casos de Uso**](Modeling/CasosUso/CasosUso).
 
-Abaixo se encontra a o diagrama geral, relacionando todos os casos de uso elecados.
+Abaixo se encontra a o diagrama geral, relacionando todos os casos de uso elencados.
 
 
 ![caso geral](../../../assets/diagramas/casosUso/DiagramaCasoGeral.png)
@@ -53,13 +54,14 @@ Abaixo se encontra a o diagrama geral, relacionando todos os casos de uso elecad
 
 ## 5 - Visão lógica <Sofia>
 
-## 6 - Visão de processos <Sofia>
+## 6 - Visão de processos
+  A visão de processos descreve a decomposição do sistema em grupos de processos que se comunicam e interagem. Esses processos de comunicação, bem como os objetos e mensagens trocadas entre eles podem ser vistos nos diagramas de [Comunicação](Modeling/Diagrams/Comunicacao.md) e de [Sequência](Modeling/Diagrams/Sequencia.md).
 
 ## 7 - Visão de implantação
-  A visão de implantação pode ser visualizada no [diagrama de classes](Modeling/Diagrams/Classes.md) do projeto.
+  A visão de implantação pode ser visualizada no [Diagrama de Classes](Modeling/Diagrams/Classes.md) do projeto.
 
 ## 8 - Visão de implementação
-  A visão de implementação pode ser visualizada no [diagrama de implementação](Modeling/Diagrams/Implementacao.md) do projeto.
+  A visão de implementação pode ser visualizada no [Diagrama de Implementação](Modeling/Diagrams/Implementacao.md) do projeto.
 
 ## Referências
 
