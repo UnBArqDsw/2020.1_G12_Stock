@@ -9,7 +9,8 @@
 | 16/11/2020 | 1.0 | Abertura do documento | Micaella Gouveia, Gabriel Davi, Pedro Igor, Sofia Patrocínio |
 | 17/11/2020 | 1.1 | Adição do Tópico 4 - Visão de Casos de Uso | Micaella Gouveia |
 | 17/11/2020 | 1.2 | Adição do Tópico 1 - Introdução (Finalidade e escopo) | Pedro Igor |
-| 17/11/2020 | 1.3 | Adição do Tópico 8 - Diagrama de Implementação | Pedro Igor |
+| 17/11/2020 | 1.3 | Adição do Tópico 7 - Diagrama de Implantação | Pedro Igor |
+| 17/11/2020 | 1.4 | Adição do Tópico 8 - Diagrama de Implementação | Pedro Igor |
 
 ## 1 - Introdução
 
@@ -54,10 +55,11 @@ Abaixo se encontra a o diagrama geral, relacionando todos os casos de uso elecad
 
 ## 6 - Visão de processos <Sofia>
 
-## 7 - Visão de implantação <Igor>
+## 7 - Visão de implantação
+  A visão de implantação pode ser visualizada no [diagrama de classes](Modeling/Diagrams/Classes.md) do projeto.
 
 ## 8 - Visão de implementação
-  A visão de implementação pode ser visualizada no [diagrama de classes](Modeling/Diagrams/Classes.md) do projeto.
+  A visão de implementação pode ser visualizada no [diagrama de implementação](Modeling/Diagrams/Implementacao.md) do projeto.
 
 ## Referências
 
