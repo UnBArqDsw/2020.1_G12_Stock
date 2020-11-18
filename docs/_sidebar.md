@@ -90,4 +90,5 @@
     - [Estilos e Padrões Arquiteturais - Parte 3](Architecture/EstudoDirigido/parte3.md)
     - [Estilos e Padrões Arquiteturais - Parte 4](Architecture/EstudoDirigido/parte4.md)
     - [Reutilização de Software](Architecture/EstudoDirigido/reutilizacao.md)
-    
+  - **Arquitetura**
+    - [Documento de Arquitetura](Architecture/das.md)    
