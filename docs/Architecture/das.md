@@ -12,6 +12,7 @@
 | 17/11/2020 | 1.3    | Adição do Tópico 7 - Diagrama de Implantação          | Pedro Igor                                                   |
 | 17/11/2020 | 1.4    | Adição do Tópico 8 - Diagrama de Implementação        | Pedro Igor                                                   |
 | 18/11/2020 | 1.5    | Adição do Tópico 2.1 - Tecnologias                    | Gabriel Davi                                                 |
+| 19/11/2020 | 1.6    | Adição dos tópicos de restrições tecnológicas         | Gabriel Davi                                                 |
 
 ## 1 - Introdução
 
@@ -52,11 +53,19 @@ Serão documentados os componentes de software, padrões, plataformas de desenvo
 - Ambiente:
   - Docker: O Docker é uma ferramenta de isolamento de ambientes. É uma ótima ferramenta para uso em equipe para isolar ambientes e manter um desenvolvimento livre de inconstâncias de configuração.
 
-## 3 - Metas e restrição de arquitetura <Davi>
+## 3 - Metas e restrição de arquitetura
 
-### 3.1 - Restrições tecnológicas
+### 3.1 - Metas
 
-### 3.2 - Requisitos não funcionais
+- Responsividade: Aplicação deve ser responsiva e ser usável em todas as interfaces sem que haja compromentimento nas funções da aplicação.
+- Segurança: A aplicação deve ser segura para seus usuários. Isso quer dizer que qualquer infomação sensível do usuário deve estar em segurança em nossos servidores e nossos servidores devem ser protegidos contra ataques externos.
+- Escalabilidade: A aplição deve ser capaz de crescer junto com a ascensão de novos usuários e também ser escalável para implementação de novas funcionalidades.
+
+### 3.2 - Restrições
+
+- Conectividade: É necessário estar conectado com a internet para ter acesso a aplicação
+- Idioma: A aplicação tem idioma somente para o português.
+- Sociedade com uma empresa: Usuários devem ter alguma associação com empresa para utilizar o aplicativo.
 
 ## 4 - Visão de Casos de Uso
 
