@@ -9,7 +9,8 @@
   - [Estilos e Padrões Arquiteturais - Parte 4](Architecture/EstudoDirigido/parte4.md)
   - [Reutilização de Software](Architecture/EstudoDirigido/reutilizacao.md)
 
-- **Reutilização**
+- **Reutilização de Software**
   - [Docker](Architecture/Reutilizacao/docker.md)
   - [Frontend](Architecture/Reutilizacao/frontend.md)
   - [Backend](Architecture/Reutilizacao/backend.md)
+  - [Socket](Architecture/Reutilizacao/socket.md)

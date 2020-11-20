@@ -1,4 +1,5 @@
 # Reutilização no Backend
+**Para saber mais sobre Reutilização de Software acesse: [Reutilização de Software](Architecture/EstudoDirigido/reutilizacao.md)**
 
 A reutilização de componentes de software existentes ou convenientemente disponíveis para reduzir tempo e custos de computação e recursos humanos é chamada de capacidade de reutilização de software. 
 
