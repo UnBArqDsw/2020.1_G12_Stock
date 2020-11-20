@@ -11,6 +11,7 @@ A reutilização de software não envolve somente fatores técnicos, como a util
 | ---------- | ------ | ---------------------------------- | ------------ |
 | 20/11/2020 | 1.0    | Criação do documento               | Gabriel Davi |
 | 20/11/2020 | 1.1    | Adição da reutilização do Frontend | Gabriel Davi |
+| 20/11/2020 | 1.2    | Revisão e correção de erros gramaticais | Sofia Patrocínio |
 
 
 ## Web Sockets
@@ -22,7 +23,7 @@ Por isso, foi utilizado no Frontend da aplicação uma função que assiste por 
 
 São considerados aqueles pontos que permanecem fixos em todas as instanciações, representa uma arquitetura geral do sistema. Com o Socket, estamos utilizando alguns frozens spots, como:
 
-- **Configuração**: Para toda configuração de um socket para NodeJS, tanto no Backend quanto no Frontend é preciso seguir o padrão de criação de conexões e ligamento com essas conexões. No backend, criamos uma nova instância do servidor e passamos essa nova instância para bilbioteca de socket. No Frontend, utilizamos a biblioteca de client para conectar com o servidor socket.
+- **Configuração**: Para toda configuração de um socket para NodeJS, tanto no Backend quanto no Frontend é preciso seguir o padrão de criação de conexões e ligamento com essas conexões. No backend, criamos uma nova instância do servidor e passamos essa nova instância para biblioteca de socket. No Frontend, utilizamos a biblioteca de client para conectar com o servidor socket.
 
 _Conexão socket backend_
 
@@ -56,19 +57,19 @@ São considerados aqueles pontos que são projetados para serem genéricos, dand
 
 - **Parâmetros passados para conexão**: No momento em que um Client e um Frontend se conecta a um Backend, podemos passar alguns parâmetros para conexão. Isso é útil quando queremos configurar nossas conexões para terem comportamentos distintos de acordo com os parâmetros que ele receber.
 
-_Frontend enviando parametros de conexão_
+_Frontend enviando parâmetros de conexão_
 
 <p align="center">
   <img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/architecture/frontend/conexão-socket-front.png" class="codes-prints" />
 </p>
 
-_Backend recebendo o parametro de conexão_
+_Backend recebendo o parâmetro de conexão_
 
 <p align="center">
   <img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/architecture/frontend/parametros-socket.png" class="codes-prints" />
 </p>
 
-- **Infomações e "canais"**: Por mais que a forma como compartilhamos as informações via websocket seja padão, podemos definir os canais de informações que podemos utilizar e as informações que enviamos.
+- **Informações e "canais"**: Por mais que a forma como compartilhamos as informações via websocket seja padrão, podemos definir os canais de informações que podemos utilizar e as informações que enviamos.
 
 _Backend enviando informações para o front por meio do canal update-product_
 
@@ -96,7 +97,7 @@ _uso da função send message_
   <img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/architecture/frontend/canal-back.png" class="codes-prints" />
 </p>
 
-**Função auxiliar para receber nova informação frontend**: Foi criado uma função auxiliar para receber novas informações no Frontend. Ela facilita o uso universal, pois utliza do Javascript para receber uma função como parâmetro que é modelada de acordo com o caso de uso.
+**Função auxiliar para receber nova informação frontend**: Foi criado uma função auxiliar para receber novas informações no Frontend. Ela facilita o uso universal, pois utiliza do Javascript para receber uma função como parâmetro que é modelada de acordo com o caso de uso.
 
 _Exemplo da função subscribe_
 
