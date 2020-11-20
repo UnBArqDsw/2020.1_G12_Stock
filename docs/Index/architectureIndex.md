@@ -12,3 +12,4 @@
 - **Reutilização**
   - [Docker](Architecture/Reutilizacao/docker.md)
   - [Frontend](Architecture/Reutilizacao/frontend.md)
+  - [Backend](Architecture/Reutilizacao/backend.md)

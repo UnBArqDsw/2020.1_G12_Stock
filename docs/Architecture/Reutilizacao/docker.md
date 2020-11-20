@@ -17,32 +17,31 @@ O Docker simplifica e acelera o fluxo de trabalho, dando aos desenvolvedores a l
 
 * **Frozen Spots**:
     * Formatação do arquivo;
-    * Nome dos arquivos
+    * Nome dos arquivos.
 
 * **Hot Spots**:
     * Imagem para construir o container;
     * Dependências;
     * Comandos que o container executa ao iniciar;
     * Network;
-    * Variáveis de ambiente
+    * Variáveis de ambiente.
 
 
 *Exemplo do dockerfile*
 
 <p align="center">
-<img src="assets/architecture/docker/dockerfile.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/architecture/docker/dockerfile.png" class="codes-prints" />
 </p>
 
 *Exemplo do docker-compose*
 
 <p align="center">
-<img src="assets/architecture/docker/dockercompose.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/architecture/docker/dockercompose.png" class="codes-prints" />
 </p>
 
 
 ### Docker Frontend
 Para o Frontend, foi configurado um Docker utilizando as tecnologias do React, utilizando a mesma base do NodeJs. Ele também fica responsável em padronizar as versões das bibliotecas utilizadas, impedindo que haja conflitos de desenvolvimento entre os membros do time. 
-
 
 ### Docker Backend
 Para o Backend, foi configurado um Docker utilizando as tecnologias do NodeJs. Ele também fica responsável em padronizar as versões das bibliotecas utilizadas, impedindo que haja conflitos de desenvolvimento entre os membros do time. 
@@ -53,7 +52,7 @@ Para rodar a aplicação, é necessário subir tanto o Docker do Front como o do
 *Docker-compose do Docker Conjunto*
 
 <p align="center">
-<img src="assets/architecture/docker/dockerConjunto.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/architecture/docker/dockerConjunto.png" class="codes-prints" />
 </p>
 
 ## Referências

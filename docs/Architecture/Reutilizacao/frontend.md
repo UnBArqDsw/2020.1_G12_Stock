@@ -12,15 +12,12 @@ A reutilização de software não envolve somente fatores técnicos, como a util
 | 19/11/2020 | 1.1 | Adição da reutilização do Frontend | Gabriel Davi, Micaella Gouveia, Pedro Igor e Sofia Patrocínio|
 
 
-
 A reutilização no Frontend se deu por meio de frameworks e bibliotecas, como ReactJS e Reactstrap.
 
 ## ReactJS
 
 React é um framework de código-aberto para desenvolvimento de aplicações web baseado em Javascript, utilizando-se de uma arquitetura baseada em componentes.
 
-
-https://unbarqdsw.github.io/2020.1_G12_Stock
 
 ### Frozen Spots
 São considerados aqueles pontos que permanecem fixos em todas as instanciações, representa uma arquitetura geral do sistema. No React, estamos utilizando alguns frozens spots, como:
@@ -30,19 +27,19 @@ São considerados aqueles pontos que permanecem fixos em todas as instanciaçõe
 *Exemplo de uso da hook useContext*
 
 <p align="center">
-<img src="assets/architecture/frontend/useContext.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/architecture/frontend/useContext.png" class="codes-prints" />
 </p>
 
 *Exemplo de uso da hook useState*
 
 <p align="center">
-<img src="assets/architecture/frontend/useState.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/architecture/frontend/useState.png" class="codes-prints" />
 </p>
 
 *Exemplo de uso da hook useEffect*
 
 <p align="center">
-<img src="assets/architecture/frontend/useEffect.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/architecture/frontend/useEffect.png" class="codes-prints" />
 </p>
 
 <br><br>
@@ -52,7 +49,7 @@ São considerados aqueles pontos que permanecem fixos em todas as instanciaçõe
 *Exemplo de uso de JSX*
 
 <p align="center">
-<img src="assets/architecture/frontend/JSX.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/architecture/frontend/JSX.png" class="codes-prints" />
 </p>
 
 ### Hot Spots
@@ -63,10 +60,8 @@ São considerados aqueles pontos que são projetados para serem genéricos, dand
 *Exemplo de instância de um componente*
 
 <p align="center">
-<img src="assets/architecture/frontend/component.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/architecture/frontend/component.png" class="codes-prints" />
 </p>
-
-
 
 ## Reactstrap
 É uma biblioteca de UI baseada nos componentes do React, feita baseada no Bootstrap. Os atributos nesta biblioteca são usados   para passar o estado, aplicar classes modificadoras de maneira conveniente, habilitar funcionalidade avançada (como popperjs) ou incluir automaticamente elementos não baseados em conteúdo. 
@@ -74,7 +69,7 @@ São considerados aqueles pontos que são projetados para serem genéricos, dand
 *Exemplo de uso do Reactstrap*
 
 <p align="center">
-<img src="assets/architecture/frontend/reactstrap.png" class="codes-prints" />
+<img src="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/architecture/frontend/reactstrap.png" class="codes-prints" />
 </p>
 
 ## Referências
