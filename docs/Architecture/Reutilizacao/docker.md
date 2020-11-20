@@ -42,7 +42,7 @@ O Docker simplifica e acelera o fluxo de trabalho, dando aos desenvolvedores a l
 
 
 ### Docker Frontend
-Para o Frontend, foi configurado um Docker utilizando as tecnologias do React, utilizando a mesma base do NodeJs. Ele também fica responsável em padronizar as versões das bibliotecas utilizadas, impedindo que haja conflitos de desenvolvimento entre os membros do time. 
+Para o Frontend, foi configurado um Docker utilizando as tecnologias do React, que utiliza a mesma base do NodeJs. Ele também fica responsável em padronizar as versões das bibliotecas utilizadas, impedindo que haja conflitos de desenvolvimento entre os membros do time. 
 
 ### Docker Backend
 Para o Backend, foi configurado um Docker utilizando as tecnologias do NodeJs. Ele também fica responsável em padronizar as versões das bibliotecas utilizadas, impedindo que haja conflitos de desenvolvimento entre os membros do time. 

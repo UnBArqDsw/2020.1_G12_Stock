@@ -34,7 +34,7 @@ NodeJS trata-se de um software open-source, cross-platform, e de um runtime de J
 </p>
 
 ## Decorator
-O Decorator é um padrão de projeto que permite adicionar novos comportamentos a objetos através da adição de uma nova camada de um objeto externo que possui os comportamentos que deseja-se ser acrescentados. Ele traz um nível de reutilização de código pois o que é definido no Decorator por ser aproveitado em outros níveis do sistema.
+O Decorator é um padrão de projeto que permite adicionar novos comportamentos a objetos através da adição de uma nova camada de um objeto externo que possui os comportamentos que deseja-se ser acrescentados. Ele traz um nível de reutilização de código pois o que é definido no Decorator pode ser aproveitado em outros níveis do sistema.
 
 *Classe Decorator Base **([Link para github](https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend/blob/devel/src/app/StockBase/Base.js))***
 

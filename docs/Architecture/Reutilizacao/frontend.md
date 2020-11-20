@@ -65,7 +65,7 @@ São considerados aqueles pontos que são projetados para serem genéricos, dand
 </p>
 
 ## Reactstrap
-É uma biblioteca de UI baseada nos componentes do React, feita baseada no Bootstrap. Os atributos nesta biblioteca são usados   para passar o estado, aplicar classes modificadoras de maneira conveniente, habilitar funcionalidade avançada (como popperjs) ou incluir automaticamente elementos não baseados em conteúdo. 
+É uma biblioteca de UI baseada nos componentes do React, feita baseada no Bootstrap. Os atributos nesta biblioteca são usados para passar o estado, aplicar classes modificadoras de maneira conveniente, habilitar funcionalidade avançada ou incluir automaticamente elementos não baseados em conteúdo. 
 
 *Exemplo de uso do Reactstrap*
 
