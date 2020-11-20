@@ -10,5 +10,5 @@
   - [Reutilização de Software](Architecture/EstudoDirigido/reutilizacao.md)
 
 - **Reutilização**
-  - [Introdução](Architecture/reutilizacao.md)
+  - [Docker](Architecture/Reutilizacao/docker.md)
   - [Frontend](Architecture/Reutilizacao/frontend.md)

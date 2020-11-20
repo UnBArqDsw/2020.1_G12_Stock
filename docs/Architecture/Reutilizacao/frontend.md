@@ -8,7 +8,9 @@ A reutilização de software não envolve somente fatores técnicos, como a util
 
 | Data | Versão | Descrição | Autor |
 |------|--------|-----------|-------|
-| 19/11/2020 | 1.0 | Criação do documento e adição da reutilização do Frontend | Micaella Gouveia e Sofia Patrocínio |
+| 19/11/2020 | 1.0 | Criação do documento | Micaella Gouveia |
+| 19/11/2020 | 1.1 | Adição da reutilização do Frontend | Gabriel Davi, Micaella Gouveia, Pedro Igor e Sofia Patrocínio|
+
 
 
 A reutilização no Frontend se deu por meio de frameworks e bibliotecas, como ReactJS e Reactstrap.
