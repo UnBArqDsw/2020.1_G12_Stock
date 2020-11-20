@@ -4,15 +4,16 @@
 
 ## Histórico de Revisão
 
-| Data       | Versão | Descrição                                             | Autor                                                        |
-| ---------- | ------ | ----------------------------------------------------- | ------------------------------------------------------------ |
-| 16/11/2020 | 1.0    | Abertura do documento                                 | Micaella Gouveia, Gabriel Davi, Pedro Igor, Sofia Patrocínio |
-| 17/11/2020 | 1.1    | Adição do Tópico 4 - Visão de Casos de Uso            | Micaella Gouveia                                             |
-| 17/11/2020 | 1.2    | Adição do Tópico 1 - Introdução (Finalidade e escopo) | Pedro Igor                                                   |
-| 17/11/2020 | 1.3    | Adição do Tópico 7 - Diagrama de Implantação          | Pedro Igor                                                   |
-| 17/11/2020 | 1.4    | Adição do Tópico 8 - Diagrama de Implementação        | Pedro Igor                                                   |
-| 18/11/2020 | 1.5    | Adição do Tópico 2.1 - Tecnologias                    | Gabriel Davi                                                 |
-| 19/11/2020 | 1.6    | Adição dos tópicos de restrições tecnológicas         | Gabriel Davi                                                 |
+| Data | Versão | Descrição | Autor |
+|------|--------|-----------|-------|
+| 16/11/2020 | 1.0 | Abertura do documento | Micaella Gouveia, Gabriel Davi, Pedro Igor, Sofia Patrocínio |
+| 17/11/2020 | 1.1 | Adição do Tópico 4 - Visão de Casos de Uso | Micaella Gouveia |
+| 17/11/2020 | 1.2 | Adição do Tópico 1 - Introdução (Finalidade e escopo) | Pedro Igor |
+| 17/11/2020 | 1.3 | Adição do Tópico 7 - Diagrama de Implantação | Pedro Igor |
+| 17/11/2020 | 1.4 | Adição do Tópico 8 - Diagrama de Implementação | Pedro Igor |
+| 18/11/2020 | 1.5 | Adição do Tópico 2.1 - Tecnologias | Gabriel Davi |
+| 19/11/2020 | 1.6 | Adição dos tópicos de restrições tecnológicas | Gabriel Davi |
+| 19/11/2020 | 1.7 | Adição dos diagramas de implantação de implementação mais atuais| Micaella Gouveia |
 
 ## 1 - Introdução
 
@@ -73,7 +74,7 @@ A Visão de Casos de Uso descreve um modelo com alta significância de alto nív
 
 O Diagrama de Casos de Uso corresponde a uma visão externa do sistema e representa graficamente os atores, os casos de uso, e os relacionamentos entre estes elementos. Ao longo do projeto, vários casos de uso foram elencados, podendo ser vistos em [**Casos de Uso**](Modeling/CasosUso/CasosUso).
 
-Abaixo se encontra a o diagrama geral, relacionando todos os casos de uso elecados.
+Abaixo se encontra o diagrama de casos de uso geral, relacionando todos os casos de uso elencados.
 
 ![caso geral](../../../assets/diagramas/casosUso/DiagramaCasoGeral.png)
 
@@ -85,11 +86,17 @@ Abaixo se encontra a o diagrama geral, relacionando todos os casos de uso elecad
 
 ## 7 - Visão de implantação
 
-A visão de implantação pode ser visualizada no [diagrama de classes](Modeling/Diagrams/Classes.md) do projeto.
+A visão de implantação pode ser visualizada em [**Diagrama de Classes**](Modeling/Diagrams/Classes.md). A versão mais recente está abaixo:
+
+![diagramaClasse](../../assets/diagramas/classe/DiagramaClassesV4.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/classe/DiagramaClassesV4.pdf">Arquivo em PDF</a>
 
 ## 8 - Visão de implementação
 
-A visão de implementação pode ser visualizada no [diagrama de implementação](Modeling/Diagrams/Implementacao.md) do projeto.
+A visão de implementação pode ser visualizada em [**Diagrama de Implementação**](Modeling/Diagrams/Implementacao.md). A versão mais recente está abaixo:
+
+![Diagrama de Implementação](../../assets/diagramas/Diagrama_de_Implementacao.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/implantacao/Diagrama_de_Implementacao.pdf">Arquivo em PDF</a>
 
 ## Referências
 

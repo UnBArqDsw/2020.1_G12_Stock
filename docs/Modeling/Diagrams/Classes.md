@@ -13,11 +13,16 @@ Diagramas de classes tem como principal objetivo mapear de forma clara a estrutu
 | 27/09/2020 | 1.4 | Adição do áudio explicativo | Micaella Gouveia |
 | 15/10/2020 | 1.5 | Correção da relação entre Collaborator e Feedback (Diagrama V.2) - Correção feita pela professora Milene na Entrega 2 | Micaella Gouveia |
 | 24/10/2020 | 1.6 | Atualização do diagrama conforme padrões implementados (Diagrama V.3)| Micaella Gouveia e Sofia Patrocínio |
+| 19/11/2020 | 1.6 | Atualização do diagrama conforme padrões arquiteturais definidos (Diagrama V.4)| Micaella Gouveia |
 
 ## Realização
 O diagrama foi produzido pelo [Draw.io](https://app.diagrams.net/). Nele há todas as classes do nosso sistema, contendo seus atributos e métodos, sendo ocultados métodos de Setter e Getter, além dos seus relacionamentos e cardinalidade.
 
 ## Diagramas
+
+* **Diagrama de Classes (V.4)**
+![diagramaClasse](../../assets/diagramas/classe/DiagramaClassesV4.png)
+<a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/classe/DiagramaClassesV4.pdf">Arquivo em PDF</a>
 
 * **Diagrama de Classes (V.3)**
 ![diagramaClasse](../../assets/diagramas/classe/DiagramaClassesV3.png)
