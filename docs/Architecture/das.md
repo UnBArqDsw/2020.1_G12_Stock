@@ -18,6 +18,7 @@
 | 19/11/2020 | 1.9 | Adição dos diagramas de implantação de implementação mais atuais | Micaella Gouveia |
 | 19/11/2020 | 2.0 | Adição do diagrama de contexto | Sofia Patrocínio |
 | 20/11/2020 | 2.1 | Revisão e correção de erros ortográficos | Micaella Gouveia |
+| 20/11/2020 | 2.2 | Revisão e adição do tópico Heroku | Sofia Patrocínio |
 
 ## 1 - Introdução
 
@@ -35,19 +36,19 @@ Serão documentados os componentes de software, padrões, plataformas de desenvo
 
 - **Frontend**:
 
-  - ReactJs:
-    O React é um conjunto de bibliotecas que fornece diversas facilidades para o desenvolvimento web. Ele tem como base a linguagem de programação Javascript e já é extremamente popular na comunidade e no mercado.
-    A escolha dessa tecnologia se deu pela sua popularidade dentro da comunidade. Há diversos conteúdo e conteúdos em cima do tema, por isso é uma escolha segura de que qualquer dificuldade durante o desenvolvimento seria facilmente resolvida.
+  - ReactJS:
+    O ReactJS é um conjunto de bibliotecas que fornece diversas facilidades para o desenvolvimento web. Ele tem como base a linguagem de programação JavaScript e já é extremamente popular na comunidade e no mercado.
+    A escolha dessa tecnologia se deu pela sua popularidade dentro da comunidade. Há diversos conteúdos em cima do tema, por isso é uma escolha segura de que qualquer dificuldade durante o desenvolvimento seria facilmente resolvida.
 
 - **Backend**:
 
   - NodeJs:
-    O Node também é bastante conhecido dentro da comunidade. Junto com Express, é possível construir serviços bastantes escaláveis e de fácil manutenção. O Node tem sua arquitetura embasada na programação assíncrona baseada em sua thread de execução e fila de espera, o que permite a manipulação do fluxo de execução de código com os comandos corretos.
-    A escolha dessa tecnologia também foi com base em sua populariade no mercado e também por conta de ser construída em cima da linguagem de programação Javascript, o que confere uma sinergia positiva quando desenvolvemos com React, que também é feito com Javascript.
-  - Express:
-    O express é um framework para construção de serviços em NodeJS. Ele fornece com facilidade todas as ferramentas para construção de uma API REST dentro do ambiente NodeJs.
+    O Node também é bastante conhecido dentro da comunidade. Junto com Express, é possível construir serviços bastantes escaláveis e de fácil manutenção. O Node tem sua arquitetura embasada na programação assíncrona baseada em sua *thread* de execução e fila de espera, o que permite a manipulação do fluxo de execução de código com os comandos corretos.
+    A escolha dessa tecnologia também foi com base em sua popularidade no mercado e também por ser construída em cima da linguagem de programação Javascript, o que confere uma sinergia positiva quando desenvolvemos com React, que também é feito com Javascript.
+  - Express: 
+    O Express é um framework para aplicativo da web do NodeJs.
   - Sequelize: 
-    Sequelize é uma ORM. Sendo assim, é possível fazer todas as consultas e interação com banco de dados através da interface em Javascript utilizando essa ferramenta. Ele tem suporte para diferentes bancos de dados incluindo Mysql, SQLite, Postgres entre outros.
+    Sequelize é uma ORM. Sendo assim, é possível fazer todas as consultas e interação com banco de dados através da interface em JavaScript utilizando essa ferramenta. Ele tem suporte para diferentes bancos de dados incluindo Mysql, SQLite, Postgres entre outros.
 
 - **Banco de dados**:
 
@@ -58,15 +59,18 @@ Serão documentados os componentes de software, padrões, plataformas de desenvo
 
 - **Ambiente**:
 
-  - Docker: O Docker é uma ferramenta de isolamento de ambientes. É uma ótima ferramenta para uso em equipe para isolar ambientes e manter um desenvolvimento livre de inconstâncias de configuração.
+  - Docker: 
+  O Docker é uma ferramenta de isolamento de ambientes. É uma ótima ferramenta para uso em equipe para isolar ambientes e manter um desenvolvimento livre de inconstâncias de configuração.
+  - Heroku: 
+  O Heroku é uma plataforma em nuvem que provê um serviço que empacota nossa aplicação e faz seu deploy e gerenciamento.
 
 ## 3 - Metas e restrição de arquitetura
 
 ### 3.1 - Metas
 
 - Responsividade: Aplicação deve ser responsiva e ser usável em todas as interfaces sem que haja comprometimento nas funções da aplicação.
-- Segurança: A aplicação deve ser segura para seus usuários. Isso quer dizer que qualquer infomação sensível do usuário deve estar em segurança em nossos servidores e nossos servidores devem ser protegidos contra ataques externos.
-- Escalabilidade: A aplição deve ser capaz de crescer junto com a ascensão de novos usuários e também ser escalável para implementação de novas funcionalidades.
+- Segurança: A aplicação deve ser segura para seus usuários. Isso quer dizer que qualquer informação sensível do usuário deve estar em segurança em nossos servidores e nossos servidores devem ser protegidos contra ataques externos.
+- Escalabilidade: A aplicação deve ser capaz de crescer junto com a ascensão de novos usuários e também ser escalável para implementação de novas funcionalidades.
 
 ### 3.2 - Restrições
 
