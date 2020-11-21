@@ -55,6 +55,7 @@
     - [Diagrama de Atividade](Modeling/Diagrams/Atividades.md)
     - [Diagrama de Estado](Modeling/Diagrams/Estado.md)
     - [Diagrama de Casos de Uso](Modeling/CasosUso/CasosUso.md)
+    - [Diagrama de Implementação](Modeling/Diagrams/Implementacao.md)
   -  **Diagrama - Modelagem do Banco de Dados**
     - [Modelo Entidade Relacionamento](Modeling/Diagrams/EntidadeRelacionamento.md)
   - **Diagrams Sprint**
@@ -90,4 +91,5 @@
     - [Estilos e Padrões Arquiteturais - Parte 3](Architecture/EstudoDirigido/parte3.md)
     - [Estilos e Padrões Arquiteturais - Parte 4](Architecture/EstudoDirigido/parte4.md)
     - [Reutilização de Software](Architecture/EstudoDirigido/reutilizacao.md)
-    
+  - **Arquitetura**
+    - [Documento de Arquitetura de Software](Architecture/das.md)    
