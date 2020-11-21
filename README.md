@@ -11,6 +11,9 @@ Link para Stock-Backend: <https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend>
 <br>
 
 Link para Stock-Frontend: <https://github.com/UnBArqDsw/2020.1_G12_Stock_Frontend>
+<br>
+
+Link para Stock-Docker: <https://github.com/UnBArqDsw/2020.1_G12_Stock_Docker>
 
 ## Alunos
 
