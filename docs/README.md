@@ -1,3 +1,4 @@
+  <h2><a href="https://frontstockapp.herokuapp.com" target="_blank">Clique aqui para acessar o Stock</a></h2>
   <h2>Arquitetura e desenho de software</h2>
   <h3>Sobre o projeto</h3>
 

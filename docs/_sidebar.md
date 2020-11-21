@@ -55,6 +55,7 @@
     - [Diagrama de Atividade](Modeling/Diagrams/Atividades.md)
     - [Diagrama de Estado](Modeling/Diagrams/Estado.md)
     - [Diagrama de Casos de Uso](Modeling/CasosUso/CasosUso.md)
+    - [Diagrama de Implementação](Modeling/Diagrams/Implementacao.md)
   -  **Diagrama - Modelagem do Banco de Dados**
     - [Modelo Entidade Relacionamento](Modeling/Diagrams/EntidadeRelacionamento.md)
   - **Diagrams Sprint**
@@ -95,5 +96,6 @@
     - [Frontend](Architecture/Reutilizacao/frontend.md)
     - [Backend](Architecture/Reutilizacao/backend.md)
     - [Socket](Architecture/Reutilizacao/socket.md)
+  - **Arquitetura de Software**
+    - [Documento de Arquitetura de Software](Architecture/das.md)    
 
-    
