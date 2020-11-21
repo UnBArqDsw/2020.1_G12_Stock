@@ -66,4 +66,4 @@ Logo depois, acesse o diretório '/docs' na raiz do projeto e execute o seguinte
 
 ### Nossa aplicação está hospedada em: https://frontstockapp.herokuapp.com/
 
-[![Watch the video](https://ibb.co/QFG047T)](https://www.youtube.com/watch?v=-F1us3LORfo)
+[![Watch the video](https://i.ibb.co/BVRk9HQ/Capturar.png)](https://www.youtube.com/watch?v=-F1us3LORfo)
