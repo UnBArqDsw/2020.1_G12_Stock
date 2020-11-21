@@ -1,8 +1,9 @@
-# Resultado Sprint 12
+# Planejamento Sprint 12
 
 **Período: 15/11/2020 a 20/11/2020**<br>
 **Data da Reunião: 14/11/2020**
 
+## Issues
 | Número | [Issue](Modeling/objeto?id=Issue) | Pontuação | Participantes |
 |--------|-----------------------------------|-----------|---------------|
 | [**#200**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/200) | Documentar Reutilização de Software | 8 | Todos |
@@ -10,13 +11,13 @@
 | [**#205**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/205) | US28 - Gráfico de Fluxo de Saída | 5 | Sofia Patrocínio |
 | [**#206**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/206) | US29 - Gráfico de Vendas por Semana | 5 | Gabriel Davi |
 | [**#207**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/207) | US30 - Gráfico Produtos por Categorias | 5 | Micaella Gouveia |
-| [**#208**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/208) | Acesso à funcionalidades privadas | 3 | Pedro |
+| [**#208**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/208) | Acesso à funcionalidades privadas | 3 | Pedro Igor |
 | [**#209**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/209) | Busca por colaborador na página de histórico | 3 | Gabriel Davi |
 | [**#210**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/210) | Refatoração da responsividade | 5 | Gabriel Davi e Sofia Patrocínio |
 | [**#211**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/210) | Tratamento de erros do usuário | 8 | Micaella  Gouveia e Pedro Igor |
 
 
-## Pontuação: 52
+## Pontuação: 63
 
 ## Quadro de Distribuição de Pontos
 
@@ -36,8 +37,8 @@ Nesta Sprint, alguns documentos são pré-requisitos de outros, sendo necessári
 
 | Número | [Issue](Modeling/objeto?id=Issue) | Data de Entrega |
 |--------|-----------------------------------|-----------------|
-| [**#200**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/200) | Documentar Reutilização de Software| Terça-feira<br>(17/11/2020) |
-|[**#201**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/201) | Documentar DAS - Padrões de projeto utilizados, diagramas e tecnologias |Terça-feira<br>(17/11/2020)|
+| [**#200**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/200) | Documentar Reutilização de Software | Terça-feira<br>(17/11/2020) |
+| [**#201**](https://github.com/UnBArqDsw/2020.1_G12_Stock/issues/201) | Documentar DAS - Padrões de projeto utilizados, diagramas e tecnologias | Terça-feira<br>(17/11/2020) |
 
 
 ## Relato
@@ -46,8 +47,3 @@ Alguns pontos foram levantados para serem feitos antes da entrega final como:
 * Refatoração de responsividade
 * Tratamento de erros do usuário
 
-## Gravações Disponíveis
-
-- Reunião Semanal (Planning Poker):
-
-- Reunião Semanal (Sprint Planning):
