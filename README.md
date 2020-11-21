@@ -39,3 +39,25 @@ Instalação: É necessário instalar o [Docsify](https://docsify.js.org/#/). Pa
 Logo depois, acesse o diretório '/docs' na raiz do projeto e execute o seguinte comando:<br>
 
 ```$ docsify serve docs```
+
+## Screenshots
+
+* Página Home
+![home](docs/assets/screenshots/home.png)
+
+* Painel de Controle
+![controle](docs/assets/screenshots/painel.png)
+
+* Estoque
+![Estoque](docs/assets/screenshots/estoque.png)
+
+* Colaboradores
+![colaboradores](docs/assets/screenshots/colaboradores.png)
+
+* Histórico
+![historico](docs/assets/screenshots/historico.png)
+
+## Vídeo
+
+* Funcionamento
+![stockTodo](docs/assets/screenshots/stockTodo.gif)
