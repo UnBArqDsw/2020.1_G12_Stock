@@ -5,8 +5,9 @@
 **Número da Lista**: 12<br>
 **Código da Disciplina**: FGA0208-T01<br>
 
-Nossa aplicação está hospedada em: https://frontstockapp.herokuapp.com/
+### Nossa aplicação está hospedada em: https://frontstockapp.herokuapp.com/
 <br>
+
 Toda a documentação está exposta de forma organizada em nossa GH Pages: https://unbarqdsw.github.io/2020.1_G12_Stock/#/
 
 Link para Stock-Backend: <https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend>
@@ -37,8 +38,7 @@ Instalação: É necessário instalar o [Docsify](https://docsify.js.org/#/). Pa
 ```$ npm i docsify-cli -g```
 
 ## Uso
-Nossa aplicação está hospedada em: https://frontstockapp.herokuapp.com/
-<br>
+
 Logo depois, acesse o diretório '/docs' na raiz do projeto e execute o seguinte comando:<br>
 
 ```$ docsify serve docs```
@@ -60,7 +60,10 @@ Logo depois, acesse o diretório '/docs' na raiz do projeto e execute o seguinte
 * Histórico
 ![historico](docs/assets/screenshots/historico.png)
 
+![stockTodo](docs/assets/screenshots/stockTodo.gif)
+
 ## Vídeo
 
-* Funcionamento
-![stockTodo](docs/assets/screenshots/stockTodo.gif)
+### Nossa aplicação está hospedada em: https://frontstockapp.herokuapp.com/
+
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/-F1us3LORfo?ecver=1&amp;iv_load_policy=1&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="JWrR6S4x" href="https://www.vouchersort.co.uk/">Voucher Sort</a></div><div><a  id="JWrR6S4x" href="https://www.earth-essentials.co.uk/is-buying-a-mattress-the-worst-thing-possible-for-your-health/">VOCs</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
