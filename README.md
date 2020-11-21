@@ -5,6 +5,8 @@
 **Número da Lista**: 12<br>
 **Código da Disciplina**: FGA0208-T01<br>
 
+Nossa aplicação está hospedada em: https://frontstockapp.herokuapp.com/
+<br>
 Toda a documentação está exposta de forma organizada em nossa GH Pages: https://unbarqdsw.github.io/2020.1_G12_Stock/#/
 
 Link para Stock-Backend: <https://github.com/UnBArqDsw/2020.1_G12_Stock_Backend>
@@ -35,7 +37,8 @@ Instalação: É necessário instalar o [Docsify](https://docsify.js.org/#/). Pa
 ```$ npm i docsify-cli -g```
 
 ## Uso
-
+Nossa aplicação está hospedada em: https://frontstockapp.herokuapp.com/
+<br>
 Logo depois, acesse o diretório '/docs' na raiz do projeto e execute o seguinte comando:<br>
 
 ```$ docsify serve docs```
