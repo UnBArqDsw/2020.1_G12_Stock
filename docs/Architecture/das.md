@@ -86,7 +86,7 @@ O Diagrama de Casos de Uso corresponde a uma visão externa do sistema e represe
 
 Abaixo se encontra o diagrama de casos de uso geral, relacionando todos os casos de uso elencados.
 
-![caso geral](../../../assets/diagramas/casosUso/DiagramaCasoGeral.png)
+![caso geral](../assets/diagramas/casosUso/DiagramaCasoGeral.png)
 
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/casosUso/DiagramaCasoGeral.pdf">Arquivo em PDF</a>
 
@@ -105,7 +105,7 @@ Abaixo se encontra o diagrama de casos de uso geral, relacionando todos os casos
 ### 5.2 - Diagrama de Pacotes
   O Diagrama de Pacotes demonstra a estrutura de diretórios e arquivos do projeto. A última versão é representada abaixo, as demais versões podem ser vistas em [**Diagrama de Pacote**](Modeling/Diagrams/Pacotes.md).
 
-  ![Diagrama de Pacotes](../../assets/diagramas/pacotes/DiagramaPacotesV2.png)
+  ![Diagrama de Pacotes](../assets/diagramas/pacotes/DiagramaPacotesV2.png)
 
 ## 6 - Visão de processos
   A visão de processos descreve a decomposição do sistema em grupos de processos que se comunicam e interagem. Esses processos de comunicação, bem como os objetos e mensagens trocadas entre eles podem ser vistos em [**Diagrama de Comunicação**](Modeling/Diagrams/Comunicacao.md) e [**Diagrama de Sequência**](Modeling/Diagrams/Sequencia.md).
@@ -114,14 +114,14 @@ Abaixo se encontra o diagrama de casos de uso geral, relacionando todos os casos
 
 A visão de implantação pode ser visualizada em [**Diagrama de Classes**](Modeling/Diagrams/Classes.md). A versão mais recente está abaixo:
 
-![diagramaClasse](../../assets/diagramas/classe/DiagramaClassesV4.png)
+![diagramaClasse](../assets/diagramas/classe/DiagramaClassesV4.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/classe/DiagramaClassesV4.pdf">Arquivo em PDF</a>
 
 ## 8 - Visão de implementação
 
 A visão de implementação pode ser visualizada em [**Diagrama de Implementação**](Modeling/Diagrams/Implementacao.md). A versão mais recente está abaixo:
 
-![Diagrama de Implementação](../../assets/diagramas/Diagrama_de_Implementacao.png)
+![Diagrama de Implementação](../assets/diagramas/Diagrama_de_Implementacao.png)
 <a href="https://unbarqdsw.github.io/2020.1_G12_Stock/assets/pdf/diagramas/implantacao/Diagrama_de_Implementacao.pdf">Arquivo em PDF</a>
 
 ## Referências
