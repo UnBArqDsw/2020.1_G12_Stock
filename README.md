@@ -45,6 +45,10 @@ Logo depois, acesse o diretório '/docs' na raiz do projeto e execute o seguinte
 
 ## Screenshots
 
+<p align="center">
+<img src=https://imgur.com/75KwjxR.png/>
+</p>
+
 * Página Home
 ![home](docs/assets/screenshots/home.png)
 
